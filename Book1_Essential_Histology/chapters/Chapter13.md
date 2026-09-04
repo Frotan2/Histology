@@ -1,4 +1,7 @@
-# Chapter 13 — The Digestive Tract
+# Chapter 12 — Digestive Tract
+
+Junqueira 17th Edition — Chapter 15
+
 
 ### Opening Question
 How does one tube digest a steak, absorb fat, and protect itself from its own acid?
@@ -18,7 +21,7 @@ GI tract = common layered plan modified regionally for specialized function prot
 ### Core Concept
 **4 layers + regional specialization: epithelium type + glands + villi + lymphoid + muscle thickness = function.**
 
-> **CORE IDEA:** Mucosa epithelium+lamina propria+muscularis mucosae submucosa Meissner muscularis externa circular+longitudinal Auerbach serosa/adventitia. Regional modifications explain function.
+> **CORE IDEA:** The digestive tract shares a common four-layer plan — mucosa, submucosa, muscularis externa, and serosa or adventitia — with regional modifications in epithelium, glands, villi, lymphoid tissue, and muscle that explain specialized functions.
 
 ### Build the Concept
 **Common plan:** Mucosa epithelium type varies + lamina propria loose CT + glands + immune + muscularis mucosae thin smooth muscle moves mucosa. Submucosa dense irregular CT + submucosal plexus Meissner parasympathetic ganglia secretion. Muscularis externa inner circular + outer longitudinal smooth muscle + myenteric plexus Auerbach between motility. Serosa peritoneal cavity mesothelium+CT vs adventitia no mesothelium dense CT.
@@ -93,7 +96,7 @@ GI tract common 4-layer plan mucosa epithelium+lamina propria+muscularis mucosae
 5. What happens if Auerbach plexus absent?
 
 ### Transition
-Tube needs accessory organs to process nutrients liver pancreas salivary. Next organs associated with digestive tract.
+The tube needs accessory organs to process nutrients. Next, organs associated with the digestive tract: liver, pancreas, and salivary glands.
 
 ### Rapid Review
 - 4 layers mucosa epithelium+lamina+muscularis mucosae submucosa Meissner muscularis externa circular+longitudinal Auerbach serosa/adventitia.

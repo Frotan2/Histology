@@ -1,4 +1,7 @@
-# Chapter 12 — The Immune System & Lymphoid Organs
+# Chapter 11 — The Immune System & Lymphoid Organs
+
+Junqueira 17th Edition — Chapter 14
+
 
 ### Opening Question
 Why does losing one gland in a newborn's chest leave them defenseless against viruses for life?
@@ -19,7 +22,7 @@ Immune organized education vs execution and T vs B geography. Every secondary or
 ### Core Concept
 **Primary organs make naive lymphocytes secondary organs where antigen encountered. T vs B geography diagnostic.**
 
-> **CORE IDEA:** Marrow + thymus = make them node + spleen + MALT = use them. PALS = T follicle = B.
+> **CORE IDEA:** Primary lymphoid organs, marrow and thymus, produce naive lymphocytes, while secondary organs, nodes, spleen, and MALT, are where lymphocytes encounter antigen. In secondary organs, the periarteriolar lymphoid sheath is T-cell rich and follicles are B-cell rich.
 
 ### Build the Concept
 **Primary:** Bone marrow B maturation negative selection. Thymus T maturation cortex immature T densely packed dark blood-thymus barrier continuous endothelium basal lamina pericyte epithelial reticular cell prevents antigen entry medulla lighter Hassall corpuscles keratinized epithelial reticular whorls + mature T negative selection no germinal centers no B response involutes with age myoid cells.
@@ -88,7 +91,7 @@ Immune education vs execution marrow B + thymus T cortex immature barrier medull
 5. Why splenectomy causes Howell-Jolly bodies and encapsulated bacteria risk?
 
 ### Transition
-Defense protects gut. Gut largest interface outside world. Next how one tube digests steak absorbs fat protects from acid.
+Defense protects the gut. The gut is the largest interface with the outside world. Next, how one tube digests, absorbs, and protects itself.
 
 ### Rapid Review
 - Primary marrow B thymus T cortex dark barrier medulla Hassall no germinal centers.

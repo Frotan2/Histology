@@ -1,4 +1,7 @@
-# Chapter 9 — The Circulatory System
+# Chapter 8 — The Circulatory System
+
+Junqueira 17th Edition — Chapter 11
+
 
 ### Opening Question
 How does one tube plan build an aorta that stretches and a capillary that leaks on purpose?
@@ -18,7 +21,7 @@ Vessel = intima + media + adventitia. Intima is defined by endothelium plus sube
 ### Core Concept
 **Media composition = function: elastic lamellae for recoil, smooth muscle for resistance, fenestrations for exchange, valves for unidirectional flow.**
 
-> **CORE IDEA:** Elastic artery Windkessel recoil, muscular artery resistance, capillary exchange type determines permeability, vein capacitance + valves.
+> **CORE IDEA:** In the circulatory system, elastic arteries recoil to maintain flow, muscular arteries regulate resistance, capillary type determines permeability, and veins provide capacitance with valves ensuring unidirectional flow.
 
 ### Build the Concept
 **Heart:** endocardium endothelium+subendothelial CT+Purkinje myocardium cardiac muscle epicardium mesothelium+CT+fat. Valves dense irregular CT+endothelium.
@@ -101,7 +104,7 @@ Circulatory 3-layer plan modified intima endothelium always media elastic recoil
 4. Why glomerular capillary fenestrations without diaphragm?
 
 ### Transition
-Circulatory carries specialized connective tissue: blood.
+The circulatory system carries a specialized connective tissue: blood.
 
 ### Rapid Review
 - Layers intima endothelium+subendothelial media muscle+elastic adventitia CT vasa vasorum.

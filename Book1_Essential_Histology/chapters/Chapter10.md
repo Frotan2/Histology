@@ -1,4 +1,7 @@
-# Chapter 10 — Blood
+# Chapter 9 — Blood
+
+Junqueira 17th Edition — Chapter 12
+
 
 ### Opening Question
 How can you tell a bacterial infection from a parasitic one from a single blood smear?
@@ -16,9 +19,9 @@ Neutrophilia bacterial eosinophilia parasite/allergy lymphocytosis viral monocyt
 Blood = plasma + formed elements. Leukocyte morphology predicts defense neutrophil bacterial eosinophil parasite/allergy basophil heparin/histamine lymphocyte adaptive monocyte macrophage precursor.
 
 ### Core Concept
-**Nucleus shape + granule color = function.**
+**Leukocyte morphology reflects function, but requires integration of nucleus shape, granule content, size, and clinical context.**
 
-> **CORE IDEA:** Multilobed short-lived innate round dark long-lived adaptive kidney monocyte macrophage precursor biconcave disc no nucleus RBC gas exchange.
+> **CORE IDEA:** In blood, multilobed neutrophils are short-lived innate defenders, round dark small lymphocytes are long-lived adaptive cells, kidney-shaped monocytes are macrophage precursors, and biconcave discs without nuclei are red cells specialized for gas exchange.
 
 ### Build the Concept
 **RBC:** biconcave disc ~7.5 µm diameter ~2 µm thick no nucleus no organelles eosinophilic hemoglobin flexible increases surface gas exchange lifespan ~120 days removed spleen.
@@ -95,7 +98,7 @@ Blood circulating CT RBC biconcave disc no nucleus gas exchange neutrophil 3-5 l
 4. What is left shift and what does it indicate?
 
 ### Transition
-Blood cells die days to months. Where do they come from? Next marrow factory hemopoiesis.
+Blood cells die in days to months. Where do they come from? Next, the marrow factory: hemopoiesis.
 
 ### Rapid Review
 - RBC ~7.5 µm biconcave no nucleus eosinophilic 120d.

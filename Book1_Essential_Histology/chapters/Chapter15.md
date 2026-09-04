@@ -1,4 +1,7 @@
-# Chapter 15 — The Respiratory System
+# Chapter 14 — The Respiratory System
+
+Junqueira 17th Edition — Chapter 17
+
 
 ### Opening Question
 How does an organ that must stay open also clean itself — and how does a 0.5 µm barrier let oxygen through but keep blood in?
@@ -18,7 +21,7 @@ Conducting portion conditions air cleans via mucociliary escalator pseudostratif
 ### Core Concept
 **Conducting = cartilage + glands + pseudostratified ciliated + goblet + smooth muscle; respiratory = no cartilage no glands simple cuboidal→squamous Clara/club alveoli type I flat + type II surfactant blood-air barrier 3 layers.**
 
-> **CORE IDEA:** Bronchus has cartilage and glands bronchiole has no cartilage no glands but has Clara cells and more smooth muscle. Blood-air barrier thin diffusion but tight protein.
+> **CORE IDEA:** A bronchus has cartilage plates and submucosal glands, while a bronchiole has no cartilage or glands but has club cells and relatively more smooth muscle. The blood-air barrier is thin for diffusion yet tight to prevent protein leak.
 
 ### Build the Concept
 **Nasal cavity:** respiratory region pseudostratified ciliated columnar + goblet + seromucous glands olfactory region pseudostratified columnar olfactory neurons + sustentacular + basal stem + Bowman glands.
@@ -112,7 +115,7 @@ Respiratory conducting conditions cleans nasal pseudostratified ciliated goblet 
 5. Why asthma affects bronchiole smooth muscle goblet?
 
 ### Transition
-Lung exchanges gas thin barrier. Skin protects thick barrier. Next stratified squamous keratinized specialization integument.
+The lung exchanges gas with a thin barrier. Skin protects with a thick barrier. Next, a stratified squamous keratinized specialization: skin.
 
 ### Rapid Review
 - Conducting nasal pseudostratified ciliated goblet trachea C hyaline cartilage pseudostratified ciliated goblet glands bronchus plates cartilage glands pseudostratified goblet smooth muscle bronchiole no cartilage no glands simple ciliated + Clara dome smooth muscle prominent.

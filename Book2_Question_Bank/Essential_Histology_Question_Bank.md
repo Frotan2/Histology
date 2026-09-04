@@ -15,6 +15,7 @@ Structure per chapter: Part A Recall, Part B Understanding, Part C Application, 
 
 # Chapter 1 — Histology & Its Methods of Study
 
+
 ### Part A — Recall
 
 **Q1. In H&E staining, nuclei appear blue because:**
@@ -44,6 +45,8 @@ D) DNA binds eosin
 
 ---
 
+
+
 **Q2. Which stain requires a frozen section?**
 
 A) Oil Red O
@@ -70,6 +73,8 @@ D) PAS
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. TEM exceeds light microscopy in resolution because it uses:**
 
@@ -98,6 +103,8 @@ D) Fluorescent dyes
 
 ---
 
+
+
 **Q4. Freeze-fracture electron microscopy specifically reveals:**
 
 A) Whole-cell 3-D shape
@@ -124,6 +131,8 @@ D) Surface topography
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. The Papanicolaou (Pap) stain is designed to display:**
 
@@ -152,6 +161,8 @@ D) Lipid content
 
 ---
 
+
+
 **Q6. The correct order of tissue processing is:**
 
 A) Fixation → dehydration → clearing → embedding → sectioning → staining
@@ -178,6 +189,8 @@ D) Embedding → fixation → dehydration → staining
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Which structure stains metachromatically with toluidine blue?**
 
@@ -206,6 +219,8 @@ D) Collagen
 
 ---
 
+
+
 **Q8. A frozen section is superior to a paraffin section for:**
 
 A) Long-term storage
@@ -232,6 +247,8 @@ D) Preserving enzyme activity and lipids
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. A researcher must count HER2 gene copies in breast cancer. The best method is:**
 
@@ -260,6 +277,8 @@ D) Phase-contrast
 
 ---
 
+
+
 **Q10. The "clearing" agent is classically:**
 
 A) Ethanol
@@ -287,6 +306,8 @@ D) Formalin
 
 ---
 
+
+
 **Q11. A lymph-node biopsy shows a delicate black branching mesh on a silver-stained section. The structure is:**
 
 A) Type I collagen
@@ -299,7 +320,7 @@ D) Amyloid
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Type I collagen is correct because it matches the defining feature described in Junqueira 17th for a lymph-node biopsy shows a delicate black branching mesh on a silver-stained section. the structure is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -314,6 +335,8 @@ D) Amyloid
 
 ---
 
+
+
 **Q12. The resolution of a light microscope is fundamentally limited by:**
 
 A) The wavelength of visible light
@@ -326,7 +349,7 @@ D) Lens quality only
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** The wavelength of visible light is correct because it matches the defining feature described in Junqueira 17th for the resolution of a light microscope is fundamentally limited by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -343,7 +366,9 @@ D) Lens quality only
 
 ### Part B — Understanding
 
-**Q1. A structure that binds eosin and appears pink is best described as:**
+
+
+**Q13. A structure that binds eosin and appears pink is best described as:**
 
 A) Basophilic
 
@@ -370,7 +395,9 @@ D) Argyrophilic
 
 ---
 
-**Q2. Amyloid is identified by:**
+
+
+**Q14. Amyloid is identified by:**
 
 A) Congo red with apple-green birefringence
 
@@ -397,7 +424,9 @@ D) Prussian blue positivity
 
 ---
 
-**Q3. Which technique images living, unstained cells?**
+
+
+**Q15. Which technique images living, unstained cells?**
 
 A) TEM
 
@@ -424,7 +453,9 @@ D) Phase-contrast microscopy
 
 ---
 
-**Q4. Prussian blue (Perls') detects:**
+
+
+**Q16. Prussian blue (Perls') detects:**
 
 A) Amyloid
 
@@ -451,7 +482,9 @@ D) Iron (hemosiderin)
 
 ---
 
-**Q5. In immunohistochemistry, the primary antibody binds:**
+
+
+**Q17. In immunohistochemistry, the primary antibody binds:**
 
 A) A chromogen
 
@@ -478,7 +511,9 @@ D) The specific antigen of interest
 
 ---
 
-**Q6. Xylene is used in the clearing step because it:**
+
+
+**Q18. Xylene is used in the clearing step because it:**
 
 A) Cross-links proteins
 
@@ -505,7 +540,9 @@ D) Stains nuclei
 
 ---
 
-**Q7. The most common fixative for routine light microscopy is:**
+
+
+**Q19. The most common fixative for routine light microscopy is:**
 
 A) Bouin solution
 
@@ -532,7 +569,9 @@ D) Osmium tetroxide
 
 ---
 
-**Q8. Which modality shows a bright object against a black background using oblique illumination?**
+
+
+**Q20. Which modality shows a bright object against a black background using oblique illumination?**
 
 A) Bright-field
 
@@ -559,7 +598,9 @@ D) Confocal
 
 ---
 
-**Q9. Which is an artifact rather than a real structure?**
+
+
+**Q21. Which is an artifact rather than a real structure?**
 
 A) PAS-positive basement membrane
 
@@ -586,7 +627,9 @@ D) Perinuclear halo from shrinkage
 
 ---
 
-**Q10. Which statement about metachromasia is TRUE?**
+
+
+**Q22. Which statement about metachromasia is TRUE?**
 
 A) It occurs only with eosin
 
@@ -613,7 +656,9 @@ D) It results from dye polymerization on densely charged structures
 
 ---
 
-**Q11. A hepatocyte's cytoplasm is uniformly pink on H&E and contains no visible blue granules. This indicates abundance of:**
+
+
+**Q23. A hepatocyte's cytoplasm is uniformly pink on H&E and contains no visible blue granules. This indicates abundance of:**
 
 A) Glycogen
 
@@ -625,7 +670,7 @@ D) Structural proteins
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Glycogen is correct because it matches the defining feature described in Junqueira 17th for a hepatocyte's cytoplasm is uniformly pink on h&e and contains no visible blue granules. this indicates abundance of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -640,7 +685,9 @@ D) Structural proteins
 
 ---
 
-**Q12. Apple-green birefringence after Congo red indicates:**
+
+
+**Q24. Apple-green birefringence after Congo red indicates:**
 
 A) Amyloid
 
@@ -652,7 +699,7 @@ D) Iron
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Amyloid is correct because it matches the defining feature described in Junqueira 17th for apple-green birefringence after congo red indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -669,7 +716,9 @@ D) Iron
 
 ### Part C — Application
 
-**Q1. The PAS reaction detects:**
+
+
+**Q25. The PAS reaction detects:**
 
 A) Elastic fibers
 
@@ -696,7 +745,9 @@ D) Reticular fibers
 
 ---
 
-**Q2. The EM fixative combination is:**
+
+
+**Q26. The EM fixative combination is:**
 
 A) Xylene and paraffin
 
@@ -723,7 +774,9 @@ D) Hematoxylin and eosin
 
 ---
 
-**Q3. Confocal microscopy produces sharp images of thick specimens chiefly because of:**
+
+
+**Q27. Confocal microscopy produces sharp images of thick specimens chiefly because of:**
 
 A) Electron illumination
 
@@ -750,7 +803,9 @@ D) A pinhole aperture that rejects out-of-focus light
 
 ---
 
-**Q4. Von Kossa stains:**
+
+
+**Q28. Von Kossa stains:**
 
 A) Mucin
 
@@ -777,7 +832,9 @@ D) Lipid
 
 ---
 
-**Q5. Immunofluorescence labels antibodies with:**
+
+
+**Q29. Immunofluorescence labels antibodies with:**
 
 A) A heavy metal
 
@@ -804,7 +861,9 @@ D) A fluorochrome
 
 ---
 
-**Q6. Delayed fixation produces a characteristic artifact of:**
+
+
+**Q30. Delayed fixation produces a characteristic artifact of:**
 
 A) Over-staining
 
@@ -831,7 +890,9 @@ D) Tissue expansion
 
 ---
 
-**Q7. Which fixative preserves fine ultrastructure for electron microscopy?**
+
+
+**Q31. Which fixative preserves fine ultrastructure for electron microscopy?**
 
 A) Ethanol
 
@@ -858,7 +919,9 @@ D) Glutaraldehyde
 
 ---
 
-**Q8. Goodpasture/Alport relevance to histology rests on which structure best shown by PAS?**
+
+
+**Q32. Goodpasture/Alport relevance to histology rests on which structure best shown by PAS?**
 
 A) Reticular fibers
 
@@ -885,7 +948,9 @@ D) Basement membrane
 
 ---
 
-**Q9. Congo red birefringence must be assessed with:**
+
+
+**Q33. Congo red birefringence must be assessed with:**
 
 A) Bright-field
 
@@ -912,7 +977,9 @@ D) Dark-field
 
 ---
 
-**Q10. Which technique demonstrates sites of DNA synthesis directly?**
+
+
+**Q34. Which technique demonstrates sites of DNA synthesis directly?**
 
 A) Autoradiography with ³H-thymidine
 
@@ -939,7 +1006,9 @@ D) Feulgen stain
 
 ---
 
-**Q11. A pathologist must see the 3-D surface of a ciliated cell. The method is:**
+
+
+**Q35. A pathologist must see the 3-D surface of a ciliated cell. The method is:**
 
 A) Freeze-fracture
 
@@ -951,7 +1020,7 @@ D) SEM
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Freeze-fracture is correct because it matches the defining feature described in Junqueira 17th for a pathologist must see the 3-d surface of a ciliated cell. the method is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -966,7 +1035,9 @@ D) SEM
 
 ---
 
-**Q12. Which fixative preserves membranes AND adds electron contrast?**
+
+
+**Q36. Which fixative preserves membranes AND adds electron contrast?**
 
 A) Osmium tetroxide
 
@@ -978,7 +1049,7 @@ D) Glutaraldehyde
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Osmium tetroxide is correct because it matches the defining feature described in Junqueira 17th for which fixative preserves membranes and adds electron contrast. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -995,7 +1066,9 @@ D) Glutaraldehyde
 
 ### Part D — Integration
 
-**Q1. Reticular fibers are best demonstrated by:**
+
+
+**Q37. Reticular fibers are best demonstrated by:**
 
 A) H&E alone
 
@@ -1022,7 +1095,9 @@ D) Masson trichrome
 
 ---
 
-**Q2. Osmium tetroxide is used in EM primarily because it:**
+
+
+**Q38. Osmium tetroxide is used in EM primarily because it:**
 
 A) Fixes membrane lipids and adds electron density
 
@@ -1049,7 +1124,9 @@ D) Stains DNA
 
 ---
 
-**Q3. Collagen birefringence is best visualized with:**
+
+
+**Q39. Collagen birefringence is best visualized with:**
 
 A) Confocal
 
@@ -1076,7 +1153,9 @@ D) Dark-field
 
 ---
 
-**Q4. Alcian blue selectively stains:**
+
+
+**Q40. Alcian blue selectively stains:**
 
 A) DNA
 
@@ -1103,7 +1182,9 @@ D) Collagen
 
 ---
 
-**Q5. FISH detects:**
+
+
+**Q41. FISH detects:**
 
 A) Protein antigens
 
@@ -1130,7 +1211,9 @@ D) Lipid content
 
 ---
 
-**Q6. Empty, clear vacuoles in hepatocytes on a routine H&E section most likely represent:**
+
+
+**Q42. Empty, clear vacuoles in hepatocytes on a routine H&E section most likely represent:**
 
 A) Lipid that was dissolved during processing
 
@@ -1157,7 +1240,9 @@ D) Glycogen always
 
 ---
 
-**Q7. The routine thickness of a paraffin section is approximately:**
+
+
+**Q43. The routine thickness of a paraffin section is approximately:**
 
 A) 50 µm
 
@@ -1184,7 +1269,9 @@ D) 0.5 mm
 
 ---
 
-**Q8. Which statement about resolution is correct?**
+
+
+**Q44. Which statement about resolution is correct?**
 
 A) Resolution is the smallest distance two points can be separated
 
@@ -1211,7 +1298,9 @@ D) Magnification improves resolution
 
 ---
 
-**Q9. Which pair is correctly matched?**
+
+
+**Q45. Which pair is correctly matched regarding stains and their targets?**
 
 A) Collagen — Orcein
 
@@ -1238,7 +1327,9 @@ D) Reticular fibers — silver impregnation
 
 ---
 
-**Q10. A slide shows a "signet-ring" cell with a single large clear space and a flattened peripheral nucleus. On H&E alone, the space is most safely interpreted as:**
+
+
+**Q46. A slide shows a "signet-ring" cell with a single large clear space and a flattened peripheral nucleus. On H&E alone, the space is most safely interpreted as:**
 
 A) Amyloid
 
@@ -1265,7 +1356,9 @@ D) Dissolved lipid (requires frozen/Oil Red O to confirm)
 
 ---
 
-**Q11. A liver biopsy for suspected fatty change must be processed by:**
+
+
+**Q47. A liver biopsy for suspected fatty change must be processed by:**
 
 A) Paraffin + Von Kossa
 
@@ -1292,7 +1385,9 @@ D) Paraffin + Prussian blue
 
 ---
 
-**Q12. ³H-thymidine autoradiography localizes:**
+
+
+**Q48. ³H-thymidine autoradiography localizes:**
 
 A) Antigen expression
 
@@ -1304,7 +1399,7 @@ D) Lipid synthesis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Antigen expression is correct because it matches the defining feature described in Junqueira 17th for ³h-thymidine autoradiography localizes. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -1321,7 +1416,9 @@ D) Lipid synthesis
 
 ### Part E — High-Difficulty
 
-**Q1. Masson trichrome stains:**
+
+
+**Q49. Masson trichrome stains:**
 
 A) Iron blue
 
@@ -1348,7 +1445,9 @@ D) Amyloid green
 
 ---
 
-**Q2. The resolution limit of the light microscope is approximately:**
+
+
+**Q50. The resolution limit of the light microscope is approximately:**
 
 A) 20 µm
 
@@ -1375,7 +1474,9 @@ D) 2 µm
 
 ---
 
-**Q3. TEM differs from SEM in that TEM:**
+
+
+**Q51. TEM differs from SEM in that TEM:**
 
 A) Images surfaces in 3-D
 
@@ -1402,7 +1503,9 @@ D) Uses secondary electrons only
 
 ---
 
-**Q4. The Feulgen reaction specifically demonstrates:**
+
+
+**Q52. The Feulgen reaction specifically demonstrates:**
 
 A) Glycogen
 
@@ -1429,7 +1532,9 @@ D) Reticular fibers
 
 ---
 
-**Q5. ³H-thymidine autoradiography demonstrates:**
+
+
+**Q53. ³H-thymidine autoradiography demonstrates:**
 
 A) Antibody secretion
 
@@ -1456,7 +1561,9 @@ D) Lipid synthesis
 
 ---
 
-**Q6. Metachromasia refers to:**
+
+
+**Q54. Metachromasia refers to:**
 
 A) Staining with two dyes
 
@@ -1483,7 +1590,9 @@ D) A dye staining tissue a different color (dye polymerization)
 
 ---
 
-**Q7. Semi-thin (~1 µm) sections for EM orientation are stained with:**
+
+
+**Q55. Semi-thin (~1 µm) sections for EM orientation are stained with:**
 
 A) Toluidine blue
 
@@ -1510,7 +1619,9 @@ D) H&E
 
 ---
 
-**Q8. Why is TEM required for podocyte foot-process evaluation?**
+
+
+**Q56. Why is TEM required for podocyte foot-process evaluation?**
 
 A) Foot processes are acidophilic
 
@@ -1537,7 +1648,9 @@ D) Light microscopy cannot cut glomeruli
 
 ---
 
-**Q9. A biopsy must show whether fibrosis (collagen) or muscle dominates a scar. The best stain is:**
+
+
+**Q57. A biopsy must show whether fibrosis (collagen) or muscle dominates a scar. The best stain is:**
 
 A) PAS
 
@@ -1564,7 +1677,9 @@ D) Feulgen
 
 ---
 
-**Q10. Which sequence correctly ranks resolution from best to worst?**
+
+
+**Q58. Which sequence correctly ranks resolution from best to worst?**
 
 A) TEM > SEM > light
 
@@ -1591,7 +1706,9 @@ D) Light > TEM > SEM
 
 ---
 
-**Q11. A slide shows purple granules in a cell stained with blue toluidine dye. This is:**
+
+
+**Q59. A slide shows purple granules in a cell stained with blue toluidine dye. This is:**
 
 A) Basophilia
 
@@ -1603,7 +1720,7 @@ D) Birefringence
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Basophilia is correct because it matches the defining feature described in Junqueira 17th for a slide shows purple granules in a cell stained with blue toluidine dye. this is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -1618,7 +1735,9 @@ D) Birefringence
 
 ---
 
-**Q12. An intraoperative margin must be reported in 15 minutes. The processing is:**
+
+
+**Q60. An intraoperative margin must be reported in 15 minutes. The processing is:**
 
 A) Paraffin embedding
 
@@ -1630,7 +1749,7 @@ D) Decalcification
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Paraffin embedding is correct because it matches the defining feature described in Junqueira 17th for an intraoperative margin must be reported in 15 minutes. the processing is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
@@ -1647,7 +1766,9 @@ D) Decalcification
 
 
 
+
 # Chapter 2 — The Cytoplasm
+
 
 ### Part A — Recall
 
@@ -1678,6 +1799,8 @@ D) Microtubules
 
 ---
 
+
+
 **Q2. Neurofilaments are the marker of:**
 
 A) Epithelium
@@ -1704,6 +1827,8 @@ D) Muscle
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Zellweger syndrome results from defective biogenesis of:**
 
@@ -1732,6 +1857,8 @@ D) Peroxisomes
 
 ---
 
+
+
 **Q4. Mitochondrial DNA is inherited:**
 
 A) From both equally
@@ -1758,6 +1885,8 @@ D) From the mother
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Centrioles are composed of:**
 
@@ -1786,6 +1915,8 @@ D) Nine triplets with no central pair
 
 ---
 
+
+
 **Q6. The signal recognition particle (SRP) functions to:**
 
 A) Dock ribosomes translating secretory proteins onto the RER
@@ -1812,6 +1943,8 @@ D) Tag proteins for degradation
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Catalase, which detoxifies hydrogen peroxide, is found in:**
 
@@ -1840,6 +1973,8 @@ D) Golgi
 
 ---
 
+
+
 **Q8. LDL uptake occurs by:**
 
 A) Simple diffusion
@@ -1866,6 +2001,8 @@ D) Pinocytosis only
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. Lipofuscin is best described as:**
 
@@ -1894,6 +2031,8 @@ D) A harmful cause of cell death
 
 ---
 
+
+
 **Q10. Which cell performs phagocytosis of large particles?**
 
 A) Adipocyte
@@ -1921,6 +2060,8 @@ D) Erythrocyte
 
 ---
 
+
+
 **Q11. A malignant tumor stains positively for desmin. The most likely diagnosis is:**
 
 A) Astrocytoma
@@ -1933,7 +2074,7 @@ D) Rhabdomyosarcoma
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Astrocytoma is correct because it matches the defining feature described in Junqueira 17th for a malignant tumor stains positively for desmin. the most likely diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -1948,6 +2089,8 @@ D) Rhabdomyosarcoma
 
 ---
 
+
+
 **Q12. A vesicle moves a protein from the ER to the Golgi. Its coat is:**
 
 A) COPI
@@ -1960,7 +2103,7 @@ D) Caveolin
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** COPI is correct because it matches the defining feature described in Junqueira 17th for a vesicle moves a protein from the er to the golgi. its coat is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -1977,7 +2120,9 @@ D) Caveolin
 
 ### Part B — Understanding
 
-**Q1. Cytokeratin is the marker of:**
+
+
+**Q13. Cytokeratin is the marker of:**
 
 A) Muscle cells
 
@@ -2004,7 +2149,9 @@ D) Astrocytes
 
 ---
 
-**Q2. The core of microvilli contains:**
+
+
+**Q14. The core of microvilli contains:**
 
 A) Microtubules
 
@@ -2031,7 +2178,9 @@ D) Dynein arms
 
 ---
 
-**Q3. I-cell disease results from failure to tag lysosomal enzymes with:**
+
+
+**Q15. I-cell disease results from failure to tag lysosomal enzymes with:**
 
 A) Ubiquitin
 
@@ -2058,7 +2207,9 @@ D) Signal peptide
 
 ---
 
-**Q4. Microtubules are polymers of:**
+
+
+**Q16. Microtubules are polymers of:**
 
 A) Actin
 
@@ -2085,7 +2236,9 @@ D) Vimentin
 
 ---
 
-**Q5. Keratin intermediate filaments mark:**
+
+
+**Q17. Keratin intermediate filaments mark:**
 
 A) Neurons
 
@@ -2112,7 +2265,9 @@ D) Astrocytes
 
 ---
 
-**Q6. COPII-coated vesicles mediate transport from the:**
+
+
+**Q18. COPII-coated vesicles mediate transport from the:**
 
 A) Rough ER to the Golgi
 
@@ -2139,7 +2294,9 @@ D) Golgi to the plasma membrane
 
 ---
 
-**Q7. The Golgi apparatus receives proteins at the ___ face and exits at the ___ face:**
+
+
+**Q19. The Golgi apparatus receives proteins at the ___ face and exits at the ___ face:**
 
 A) Both identical
 
@@ -2166,7 +2323,9 @@ D) Cis; trans
 
 ---
 
-**Q8. Cytosolic proteins such as hemoglobin are synthesized on:**
+
+
+**Q20. Cytosolic proteins such as hemoglobin are synthesized on:**
 
 A) The smooth ER
 
@@ -2193,7 +2352,9 @@ D) The Golgi
 
 ---
 
-**Q9. Which is a NON-membranous organelle?**
+
+
+**Q21. Which is a NON-membranous organelle?**
 
 A) Ribosome
 
@@ -2220,7 +2381,9 @@ D) Peroxisome
 
 ---
 
-**Q10. The glycocalyx functions chiefly in:**
+
+
+**Q22. The glycocalyx functions chiefly in:**
 
 A) Cell recognition, adhesion, and protection
 
@@ -2247,7 +2410,9 @@ D) ATP production
 
 ---
 
-**Q11. A drug causes mitotic arrest by preventing microtubule disassembly. The drug is:**
+
+
+**Q23. A drug causes mitotic arrest by preventing microtubule disassembly. The drug is:**
 
 A) Paclitaxel
 
@@ -2259,7 +2424,7 @@ D) Vincristine
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Paclitaxel is correct because it matches the defining feature described in Junqueira 17th for a drug causes mitotic arrest by preventing microtubule disassembly. the drug is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -2274,7 +2439,9 @@ D) Vincristine
 
 ---
 
-**Q12. Chronic sinusitis, bronchiectasis, and situs inversus point to a defect in:**
+
+
+**Q24. Chronic sinusitis, bronchiectasis, and situs inversus point to a defect in:**
 
 A) Lamin
 
@@ -2286,7 +2453,7 @@ D) Actin
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lamin is correct because it matches the defining feature described in Junqueira 17th for chronic sinusitis, bronchiectasis, and situs inversus point to a defect in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -2303,7 +2470,9 @@ D) Actin
 
 ### Part C — Application
 
-**Q1. Vimentin marks:**
+
+
+**Q25. Vimentin marks:**
 
 A) Muscle
 
@@ -2330,7 +2499,9 @@ D) Mesenchymal / connective-tissue cells
 
 ---
 
-**Q2. Cilia and flagella contain:**
+
+
+**Q26. Cilia and flagella contain:**
 
 A) Keratin filaments
 
@@ -2357,7 +2528,9 @@ D) A 9+2 microtubule axoneme
 
 ---
 
-**Q3. Proteins destined for secretion are synthesized on:**
+
+
+**Q27. Proteins destined for secretion are synthesized on:**
 
 A) The Golgi
 
@@ -2384,7 +2557,9 @@ D) The smooth ER
 
 ---
 
-**Q4. Retrograde axonal transport is mediated by:**
+
+
+**Q28. Retrograde axonal transport is mediated by:**
 
 A) Dynein
 
@@ -2411,7 +2586,9 @@ D) Kinesin
 
 ---
 
-**Q5. Desmin is most characteristic of:**
+
+
+**Q29. Desmin is most characteristic of:**
 
 A) Neurons
 
@@ -2438,7 +2615,9 @@ D) Astrocytes
 
 ---
 
-**Q6. Tay-Sachs disease is caused by dysfunction of the:**
+
+
+**Q30. Tay-Sachs disease is caused by dysfunction of the:**
 
 A) Mitochondrion
 
@@ -2465,7 +2644,9 @@ D) Lysosome
 
 ---
 
-**Q7. Paclitaxel (taxol) acts by:**
+
+
+**Q31. Paclitaxel (taxol) acts by:**
 
 A) Blocking actin
 
@@ -2492,7 +2673,9 @@ D) Stabilizing microtubules
 
 ---
 
-**Q8. Cells active in detoxification (hepatocytes) are rich in smooth ER containing:**
+
+
+**Q32. Cells active in detoxification (hepatocytes) are rich in smooth ER containing:**
 
 A) Catalase
 
@@ -2519,7 +2702,9 @@ D) Dynein
 
 ---
 
-**Q9. Steroid-secreting cells are rich in:**
+
+
+**Q33. Steroid-secreting cells are rich in:**
 
 A) Lysosomes
 
@@ -2546,7 +2731,9 @@ D) Smooth ER
 
 ---
 
-**Q10. A protein lacking a signal peptide will be synthesized on:**
+
+
+**Q34. A protein lacking a signal peptide will be synthesized on:**
 
 A) Free ribosomes
 
@@ -2573,7 +2760,9 @@ D) RER-bound ribosomes
 
 ---
 
-**Q11. A cell shows intensely blue cytoplasm and a pale perinuclear zone. The dominant organelles are:**
+
+
+**Q35. A cell shows intensely blue cytoplasm and a pale perinuclear zone. The dominant organelles are:**
 
 A) SER and mitochondria
 
@@ -2585,7 +2774,7 @@ D) Actin and myosin
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** SER and mitochondria is correct because it matches the defining feature described in Junqueira 17th for a cell shows intensely blue cytoplasm and a pale perinuclear zone. the dominant organelles are. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -2600,7 +2789,9 @@ D) Actin and myosin
 
 ---
 
-**Q12. A disease is transmitted only through females but affects both sexes. The genetic lesion is in:**
+
+
+**Q36. A disease is transmitted only through females but affects both sexes. The genetic lesion is in:**
 
 A) The X chromosome only
 
@@ -2612,7 +2803,7 @@ D) Mitochondrial DNA
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** The X chromosome only is correct because it matches the defining feature described in Junqueira 17th for a disease is transmitted only through females but affects both sexes. the genetic lesion is in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -2629,7 +2820,9 @@ D) Mitochondrial DNA
 
 ### Part D — Integration
 
-**Q1. Desmin is the marker of:**
+
+
+**Q37. Desmin is the marker of:**
 
 A) Fibroblasts
 
@@ -2656,7 +2849,9 @@ D) Epithelium
 
 ---
 
-**Q2. The mitotic spindle is composed of:**
+
+
+**Q38. The mitotic spindle is composed of:**
 
 A) Actin
 
@@ -2683,7 +2878,9 @@ D) Myosin
 
 ---
 
-**Q3. The proteasome degrades proteins tagged with:**
+
+
+**Q39. The proteasome degrades proteins tagged with:**
 
 A) GPI anchor
 
@@ -2710,7 +2907,9 @@ D) Signal peptide
 
 ---
 
-**Q4. Anterograde transport away from the cell body is mediated by:**
+
+
+**Q40. Anterograde transport away from the cell body is mediated by:**
 
 A) Kinesin
 
@@ -2737,7 +2936,9 @@ D) Dynein
 
 ---
 
-**Q5. Lamins form a meshwork supporting the:**
+
+
+**Q41. Lamins form a meshwork supporting the:**
 
 A) Inner nuclear membrane
 
@@ -2764,7 +2965,9 @@ D) Plasma membrane
 
 ---
 
-**Q6. Mitochondria contain their own:**
+
+
+**Q42. Mitochondria contain their own:**
 
 A) Lysosomal enzymes
 
@@ -2791,7 +2994,9 @@ D) Golgi stacks
 
 ---
 
-**Q7. Kartagener syndrome is caused by a defect in:**
+
+
+**Q43. Kartagener syndrome is caused by a defect in:**
 
 A) Dynein arms of the ciliary axoneme
 
@@ -2818,7 +3023,9 @@ D) Actin filaments
 
 ---
 
-**Q8. The diameter of intermediate filaments is approximately:**
+
+
+**Q44. The diameter of intermediate filaments is approximately:**
 
 A) 25 nm
 
@@ -2845,7 +3052,9 @@ D) 10 nm
 
 ---
 
-**Q9. Release of cytochrome c from mitochondria triggers:**
+
+
+**Q45. Release of cytochrome c from mitochondria triggers:**
 
 A) Apoptosis
 
@@ -2872,7 +3081,9 @@ D) Protein synthesis
 
 ---
 
-**Q10. The lysosomal lumen is acidic because of:**
+
+
+**Q46. The lysosomal lumen is acidic because of:**
 
 A) Diffusion of HCl
 
@@ -2899,7 +3110,9 @@ D) A proton pump (V-ATPase) in the lysosomal membrane
 
 ---
 
-**Q11. A neonate has elevated VLCFA, hypotonia, and dysmorphic facies. The defective organelle is:**
+
+
+**Q47. A neonate has elevated VLCFA, hypotonia, and dysmorphic facies. The defective organelle is:**
 
 A) Peroxisome
 
@@ -2911,7 +3124,7 @@ D) Mitochondrion
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Peroxisome is correct because it matches the defining feature described in Junqueira 17th for a neonate has elevated vlcfa, hypotonia, and dysmorphic facies. the defective organelle is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -2926,7 +3139,9 @@ D) Mitochondrion
 
 ---
 
-**Q12. A protein tagged with ubiquitin is destined for the:**
+
+
+**Q48. A protein tagged with ubiquitin is destined for the:**
 
 A) Golgi
 
@@ -2938,7 +3153,7 @@ D) Proteasome
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Golgi is correct because it matches the defining feature described in Junqueira 17th for a protein tagged with ubiquitin is destined for the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -2955,7 +3170,9 @@ D) Proteasome
 
 ### Part E — High-Difficulty
 
-**Q1. GFAP identifies:**
+
+
+**Q49. GFAP identifies:**
 
 A) Astrocytes
 
@@ -2982,7 +3199,9 @@ D) Neurons
 
 ---
 
-**Q2. Colchicine and vincristine act by:**
+
+
+**Q50. Colchicine and vincristine act by:**
 
 A) Depolymerizing microtubules
 
@@ -3009,7 +3228,9 @@ D) Stabilizing actin
 
 ---
 
-**Q3. Autophagy degrades a cell's own organelles by fusion of the autophagosome with a:**
+
+
+**Q51. Autophagy degrades a cell's own organelles by fusion of the autophagosome with a:**
 
 A) Peroxisome
 
@@ -3036,7 +3257,9 @@ D) Golgi cisterna
 
 ---
 
-**Q4. The 9+2 arrangement is found in the axoneme of:**
+
+
+**Q52. The 9+2 arrangement is found in the axoneme of:**
 
 A) Centrioles
 
@@ -3063,7 +3286,9 @@ D) Stereocilia
 
 ---
 
-**Q5. N-linked glycosylation begins in the:**
+
+
+**Q53. N-linked glycosylation begins in the:**
 
 A) Lysosome
 
@@ -3090,7 +3315,9 @@ D) Cytosol
 
 ---
 
-**Q6. The diameter of actin microfilaments is approximately:**
+
+
+**Q54. The diameter of actin microfilaments is approximately:**
 
 A) 100 nm
 
@@ -3117,7 +3344,9 @@ D) 25 nm
 
 ---
 
-**Q7. The sarcoplasmic reticulum of muscle is a specialized:**
+
+
+**Q55. The sarcoplasmic reticulum of muscle is a specialized:**
 
 A) Golgi
 
@@ -3144,7 +3373,9 @@ D) Smooth ER (Ca²⁺ store)
 
 ---
 
-**Q8. A single microtubule contains how many protofilaments?**
+
+
+**Q56. A single microtubule contains how many protofilaments?**
 
 A) 9
 
@@ -3171,7 +3402,9 @@ D) 2
 
 ---
 
-**Q9. Chediak-Higashi syndrome is best understood as a defect of:**
+
+
+**Q57. Chediak-Higashi syndrome is best understood as a defect of:**
 
 A) Peroxisomal β-oxidation
 
@@ -3198,7 +3431,9 @@ D) Mitochondrial DNA
 
 ---
 
-**Q10. Which is correctly paired?**
+
+
+**Q58. Which is correctly paired regarding vesicle coats and trafficking?**
 
 A) Clathrin — ER to Golgi
 
@@ -3225,7 +3460,9 @@ D) COPII — Golgi to ER
 
 ---
 
-**Q11. The structure with a 9+2 arrangement is the:**
+
+
+**Q59. The structure with a 9+2 arrangement is the:**
 
 A) Nuclear pore
 
@@ -3237,7 +3474,7 @@ D) Microvillus
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Nuclear pore is correct because it matches the defining feature described in Junqueira 17th for the structure with a 9+2 arrangement is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -3252,7 +3489,9 @@ D) Microvillus
 
 ---
 
-**Q12. A clear cytoplasmic vacuole on H&E could be glycogen or lipid. The definitive discriminator is:**
+
+
+**Q60. A clear cytoplasmic vacuole on H&E could be glycogen or lipid. The definitive discriminator is:**
 
 A) Prussian blue
 
@@ -3264,7 +3503,7 @@ D) Congo red
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Prussian blue is correct because it matches the defining feature described in Junqueira 17th for a clear cytoplasmic vacuole on h&e could be glycogen or lipid. the definitive discriminator is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
@@ -3281,7 +3520,9 @@ D) Congo red
 
 
 
+
 # Chapter 3 — The Nucleus
+
 
 ### Part A — Recall
 
@@ -3312,6 +3553,8 @@ D) Located only at the periphery
 
 ---
 
+
+
 **Q2. A cell with a large, prominent nucleolus is most likely:**
 
 A) A mature RBC
@@ -3338,6 +3581,8 @@ D) Undergoing apoptosis
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. The nucleolus is the principal site of synthesis and assembly of:**
 
@@ -3366,6 +3611,8 @@ D) mRNA
 
 ---
 
+
+
 **Q4. The outer nuclear membrane is continuous with the:**
 
 A) Rough endoplasmic reticulum
@@ -3392,6 +3639,8 @@ D) Plasma membrane
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. The nuclear envelope breaks down during:**
 
@@ -3420,6 +3669,8 @@ D) It never breaks down
 
 ---
 
+
+
 **Q6. The Barr body, a dense mass at the nuclear periphery, represents:**
 
 A) The nucleolus
@@ -3446,6 +3697,8 @@ D) An inactivated X chromosome
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Ribosomal RNA genes are transcribed within the:**
 
@@ -3474,6 +3727,8 @@ D) Nucleoplasm generally
 
 ---
 
+
+
 **Q8. A patient with Turner syndrome (45,X) has how many Barr bodies?**
 
 A) 1
@@ -3500,6 +3755,8 @@ D) 0
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. DNA replication is best described as:**
 
@@ -3528,6 +3785,8 @@ D) Random
 
 ---
 
+
+
 **Q10. A key difference between necrosis and apoptosis is that necrosis:**
 
 A) Never involves the nucleus
@@ -3555,6 +3814,8 @@ D) Produces apoptotic bodies
 
 ---
 
+
+
 **Q11. A buccal smear from a patient shows two Barr bodies. The most likely karyotype is:**
 
 A) 47,XXX
@@ -3567,7 +3828,7 @@ D) 46,XX
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** 47,XXX is correct because it matches the defining feature described in Junqueira 17th for a buccal smear from a patient shows two barr bodies. the most likely karyotype is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -3582,6 +3843,8 @@ D) 46,XX
 
 ---
 
+
+
 **Q12. The "guardian of the genome" acting at the G1/S checkpoint is:**
 
 A) Telomerase
@@ -3594,7 +3857,7 @@ D) p53
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Telomerase is correct because it matches the defining feature described in Junqueira 17th for the "guardian of the genome" acting at the g1/s checkpoint is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -3611,7 +3874,9 @@ D) p53
 
 ### Part B — Understanding
 
-**Q1. Heterochromatin is:**
+
+
+**Q13. Heterochromatin is:**
 
 A) Active and pale
 
@@ -3638,7 +3903,9 @@ D) The site of rRNA synthesis
 
 ---
 
-**Q2. The nuclear envelope consists of:**
+
+
+**Q14. The nuclear envelope consists of:**
 
 A) No membrane
 
@@ -3665,7 +3932,9 @@ D) Three membranes
 
 ---
 
-**Q3. Which best describes euchromatin?**
+
+
+**Q15. Which best describes euchromatin?**
 
 A) Transcriptionally active, loosely packed
 
@@ -3692,7 +3961,9 @@ D) Transcriptionally inactive, densely packed
 
 ---
 
-**Q4. A nucleosome consists of DNA wrapped around an octamer of:**
+
+
+**Q16. A nucleosome consists of DNA wrapped around an octamer of:**
 
 A) Tubulin
 
@@ -3719,7 +3990,9 @@ D) Actin
 
 ---
 
-**Q5. Pyknosis, karyorrhexis, and karyolysis characterize:**
+
+
+**Q17. Pyknosis, karyorrhexis, and karyolysis characterize:**
 
 A) Cell necrosis
 
@@ -3746,7 +4019,9 @@ D) Normal mitosis
 
 ---
 
-**Q6. Heterochromatin is characteristically located:**
+
+
+**Q18. Heterochromatin is characteristically located:**
 
 A) At the nuclear periphery and around the nucleolus
 
@@ -3773,7 +4048,9 @@ D) In the center of the nucleus only
 
 ---
 
-**Q7. A cell in G0 is best described as:**
+
+
+**Q19. A cell in G0 is best described as:**
 
 A) Actively dividing
 
@@ -3800,7 +4077,9 @@ D) In mitotic arrest
 
 ---
 
-**Q8. A 47,XXX female has how many Barr bodies?**
+
+
+**Q20. A 47,XXX female has how many Barr bodies?**
 
 A) 3
 
@@ -3827,7 +4106,9 @@ D) 2
 
 ---
 
-**Q9. Progression through the cell cycle is driven by:**
+
+
+**Q21. Progression through the cell cycle is driven by:**
 
 A) Ribosomal RNA
 
@@ -3854,7 +4135,9 @@ D) Histones alone
 
 ---
 
-**Q10. Telomeres function to:**
+
+
+**Q22. Telomeres function to:**
 
 A) Are absent in cancer cells
 
@@ -3881,7 +4164,9 @@ D) Protect chromosome ends from degradation and fusion
 
 ---
 
-**Q11. A cell with an intensely dark, shrunken, irregular nucleus amid inflamed tissue is undergoing:**
+
+
+**Q23. A cell with an intensely dark, shrunken, irregular nucleus amid inflamed tissue is undergoing:**
 
 A) Apoptosis
 
@@ -3893,7 +4178,7 @@ D) Transcription
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Apoptosis is correct because it matches the defining feature described in Junqueira 17th for a cell with an intensely dark, shrunken, irregular nucleus amid inflamed tissue is undergoing. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -3908,7 +4193,9 @@ D) Transcription
 
 ---
 
-**Q12. A cell in permanent G0 is characteristic of:**
+
+
+**Q24. A cell in permanent G0 is characteristic of:**
 
 A) Intestinal epithelium
 
@@ -3920,7 +4207,7 @@ D) Epidermis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Intestinal epithelium is correct because it matches the defining feature described in Junqueira 17th for a cell in permanent g0 is characteristic of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -3937,7 +4224,9 @@ D) Epidermis
 
 ### Part C — Application
 
-**Q1. The nucleolus is the site of:**
+
+
+**Q25. The nucleolus is the site of:**
 
 A) DNA replication
 
@@ -3964,7 +4253,9 @@ D) Lipid synthesis
 
 ---
 
-**Q2. Chromatin is composed of:**
+
+
+**Q26. Chromatin is composed of:**
 
 A) Collagen and elastin
 
@@ -3991,7 +4282,9 @@ D) DNA and histones
 
 ---
 
-**Q3. A prominent, enlarged nucleolus on cytology is most suggestive of:**
+
+
+**Q27. A prominent, enlarged nucleolus on cytology is most suggestive of:**
 
 A) A malignant or rapidly proliferating cell
 
@@ -4018,7 +4311,9 @@ D) An apoptotic cell
 
 ---
 
-**Q4. Which phase of the cell cycle is dedicated to DNA replication?**
+
+
+**Q28. Which phase of the cell cycle is dedicated to DNA replication?**
 
 A) M
 
@@ -4045,7 +4340,9 @@ D) G2
 
 ---
 
-**Q5. Apoptosis, in contrast to necrosis, is characterized by:**
+
+
+**Q29. Apoptosis, in contrast to necrosis, is characterized by:**
 
 A) Nuclear swelling
 
@@ -4072,7 +4369,9 @@ D) No nuclear change
 
 ---
 
-**Q6. The G1/S checkpoint, preventing cells with damaged DNA from replicating, is regulated chiefly by:**
+
+
+**Q30. The G1/S checkpoint, preventing cells with damaged DNA from replicating, is regulated chiefly by:**
 
 A) Actin
 
@@ -4099,7 +4398,9 @@ D) p53
 
 ---
 
-**Q7. Down syndrome is most commonly caused by:**
+
+
+**Q31. Down syndrome is most commonly caused by:**
 
 A) A balanced translocation only
 
@@ -4126,7 +4427,9 @@ D) Trisomy of chromosome 21
 
 ---
 
-**Q8. Histones are synthesized primarily during which phase?**
+
+
+**Q32. Histones are synthesized primarily during which phase?**
 
 A) M
 
@@ -4153,7 +4456,9 @@ D) G2
 
 ---
 
-**Q9. Which cells are permanent (post-mitotic)?**
+
+
+**Q33. Which cells are permanent (post-mitotic)?**
 
 A) Intestinal epithelial cells
 
@@ -4180,7 +4485,9 @@ D) Neurons and cardiac muscle cells
 
 ---
 
-**Q10. Nuclear pores permit the exit of:**
+
+
+**Q34. Nuclear pores permit the exit of:**
 
 A) DNA
 
@@ -4207,7 +4514,9 @@ D) Nucleosomes
 
 ---
 
-**Q11. The structure that disassembles when lamins are phosphorylated is the:**
+
+
+**Q35. The structure that disassembles when lamins are phosphorylated is the:**
 
 A) Nucleolus
 
@@ -4219,7 +4528,7 @@ D) Barr body
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Nucleolus is correct because it matches the defining feature described in Junqueira 17th for the structure that disassembles when lamins are phosphorylated is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -4234,7 +4543,9 @@ D) Barr body
 
 ---
 
-**Q12. The pale, open nucleus of an activated cell indicates:**
+
+
+**Q36. The pale, open nucleus of an activated cell indicates:**
 
 A) Euchromatin predominance (active transcription)
 
@@ -4246,7 +4557,7 @@ D) Heterochromatin predominance
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Euchromatin predominance (active transcription) is correct because it matches the defining feature described in Junqueira 17th for the pale, open nucleus of an activated cell indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -4263,7 +4574,9 @@ D) Heterochromatin predominance
 
 ### Part D — Integration
 
-**Q1. A Barr body represents:**
+
+
+**Q37. A Barr body represents:**
 
 A) The Y chromosome
 
@@ -4290,7 +4603,9 @@ D) An inactivated X chromosome
 
 ---
 
-**Q2. In Klinefelter syndrome (47,XXY), the number of Barr bodies is:**
+
+
+**Q38. In Klinefelter syndrome (47,XXY), the number of Barr bodies is:**
 
 A) 2
 
@@ -4317,7 +4632,9 @@ D) 1
 
 ---
 
-**Q3. The nuclear envelope is composed of how many concentric membranes?**
+
+
+**Q39. The nuclear envelope is composed of how many concentric membranes?**
 
 A) Two
 
@@ -4344,7 +4661,9 @@ D) One
 
 ---
 
-**Q4. Chromosomes align at the metaphase plate during:**
+
+
+**Q40. Chromosomes align at the metaphase plate during:**
 
 A) Telophase
 
@@ -4371,7 +4690,9 @@ D) Anaphase
 
 ---
 
-**Q5. A normal human somatic cell contains how many chromosomes?**
+
+
+**Q41. A normal human somatic cell contains how many chromosomes?**
 
 A) 48
 
@@ -4398,7 +4719,9 @@ D) 44
 
 ---
 
-**Q6. Polyploidy is a normal finding in:**
+
+
+**Q42. Polyploidy is a normal finding in:**
 
 A) Neurons
 
@@ -4425,7 +4748,9 @@ D) Hepatocytes and megakaryocytes
 
 ---
 
-**Q7. Nucleolar organizer regions are chromosomal segments that:**
+
+
+**Q43. Nucleolar organizer regions are chromosomal segments that:**
 
 A) Bear rRNA genes and form the nucleolus
 
@@ -4452,7 +4777,9 @@ D) Are visible only in mitosis
 
 ---
 
-**Q8. Meiosis differs from mitosis in that meiosis:**
+
+
+**Q44. Meiosis differs from mitosis in that meiosis:**
 
 A) Has a single division
 
@@ -4479,7 +4806,9 @@ D) Occurs in all somatic cells
 
 ---
 
-**Q9. Sister chromatids are held together at the:**
+
+
+**Q45. Sister chromatids are held together at the:**
 
 A) Telomere
 
@@ -4506,7 +4835,9 @@ D) Nuclear pore
 
 ---
 
-**Q10. During telophase, which structure re-forms around each chromosome set?**
+
+
+**Q46. During telophase, which structure re-forms around each chromosome set?**
 
 A) The nuclear envelope
 
@@ -4533,7 +4864,9 @@ D) The nucleolus only
 
 ---
 
-**Q11. A cytology specimen shows large nuclei with very prominent nucleoli. The primary concern is:**
+
+
+**Q47. A cytology specimen shows large nuclei with very prominent nucleoli. The primary concern is:**
 
 A) Apoptosis
 
@@ -4545,7 +4878,7 @@ D) Quiescence
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Apoptosis is correct because it matches the defining feature described in Junqueira 17th for a cytology specimen shows large nuclei with very prominent nucleoli. the primary concern is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -4560,7 +4893,9 @@ D) Quiescence
 
 ---
 
-**Q12. In 46,XY males, the Barr-body count is:**
+
+
+**Q48. In 46,XY males, the Barr-body count is:**
 
 A) 2
 
@@ -4572,7 +4907,7 @@ D) 1
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** 2 is correct because it matches the defining feature described in Junqueira 17th for in 46,xy males, the barr-body count is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -4589,7 +4924,9 @@ D) 1
 
 ### Part E — High-Difficulty
 
-**Q1. The number of Barr bodies in a normal female (46,XX) is:**
+
+
+**Q49. The number of Barr bodies in a normal female (46,XX) is:**
 
 A) 0
 
@@ -4616,7 +4953,9 @@ D) 3
 
 ---
 
-**Q2. Heterochromatin is typically located:**
+
+
+**Q50. Heterochromatin is typically located:**
 
 A) Evenly dispersed as active genes
 
@@ -4643,7 +4982,9 @@ D) At the nuclear periphery and around the nucleolus
 
 ---
 
-**Q3. Nuclear pores are largely impermeable to passively diffusing molecules larger than approximately:**
+
+
+**Q51. Nuclear pores are largely impermeable to passively diffusing molecules larger than approximately:**
 
 A) 500 kDa
 
@@ -4670,7 +5011,9 @@ D) 40 kDa
 
 ---
 
-**Q4. Sister chromatids separate during:**
+
+
+**Q52. Sister chromatids separate during:**
 
 A) Anaphase
 
@@ -4697,7 +5040,9 @@ D) Metaphase
 
 ---
 
-**Q5. Klinefelter syndrome (47,XXY) shows how many Barr bodies?**
+
+
+**Q53. Klinefelter syndrome (47,XXY) shows how many Barr bodies?**
 
 A) Three
 
@@ -4724,7 +5069,9 @@ D) Two
 
 ---
 
-**Q6. The nuclear lamina is composed of:**
+
+
+**Q54. The nuclear lamina is composed of:**
 
 A) Keratin
 
@@ -4751,7 +5098,9 @@ D) Microtubules
 
 ---
 
-**Q7. Telomerase is characteristically reactivated in:**
+
+
+**Q55. Telomerase is characteristically reactivated in:**
 
 A) Normal somatic cells throughout life
 
@@ -4778,7 +5127,9 @@ D) It is never active in humans
 
 ---
 
-**Q8. The space between the two nuclear membranes is the:**
+
+
+**Q56. The space between the two nuclear membranes is the:**
 
 A) Nucleoplasm
 
@@ -4805,7 +5156,9 @@ D) Nuclear lamina
 
 ---
 
-**Q9. Which is an example of physiological apoptosis?**
+
+
+**Q57. Which is an example of physiological apoptosis?**
 
 A) Removal of interdigital webbing in the embryo
 
@@ -4832,7 +5185,9 @@ D) Ischemic infarction
 
 ---
 
-**Q10. "Beads on a string" represents:**
+
+
+**Q58. "Beads on a string" represents:**
 
 A) Microtubule assembly
 
@@ -4859,7 +5214,9 @@ D) rRNA folding
 
 ---
 
-**Q11. Which phase is defined by separation of sister chromatids?**
+
+
+**Q59. Which phase is defined by separation of sister chromatids?**
 
 A) Telophase
 
@@ -4871,7 +5228,7 @@ D) Anaphase
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Telophase is correct because it matches the defining feature described in Junqueira 17th for which phase is defined by separation of sister chromatids. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -4886,7 +5243,9 @@ D) Anaphase
 
 ---
 
-**Q12. Karyolysis is a feature of:**
+
+
+**Q60. Karyolysis is a feature of:**
 
 A) Necrosis
 
@@ -4898,7 +5257,7 @@ D) Apoptosis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Necrosis is correct because it matches the defining feature described in Junqueira 17th for karyolysis is a feature of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
@@ -4915,7 +5274,9 @@ D) Apoptosis
 
 
 
+
 # Chapter 4 — Epithelial Tissue
+
 
 ### Part A — Recall
 
@@ -4946,6 +5307,8 @@ D) A large extracellular matrix
 
 ---
 
+
+
 **Q2. Hemidesmosomes anchor cells to the basement membrane via:**
 
 A) Claudins
@@ -4972,6 +5335,8 @@ D) Connexins
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Barrett esophagus is an example of:**
 
@@ -5000,6 +5365,8 @@ D) Metaplasia
 
 ---
 
+
+
 **Q4. The primary cilium functions mainly as a:**
 
 A) Locomotor organelle
@@ -5026,6 +5393,8 @@ D) Site of ATP production
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Goblet cells are unicellular exocrine glands that secrete:**
 
@@ -5054,6 +5423,8 @@ D) Intrinsic factor
 
 ---
 
+
+
 **Q6. A gland with a single unbranched duct is:**
 
 A) Acinar
@@ -5080,6 +5451,8 @@ D) Endocrine
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Which stain best demonstrates the basement membrane?**
 
@@ -5108,6 +5481,8 @@ D) Sudan black
 
 ---
 
+
+
 **Q8. Alport syndrome results from a mutation in:**
 
 A) Elastin
@@ -5134,6 +5509,8 @@ D) Type IV collagen (α5 chain)
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The reticular lamina beneath the basal lamina is composed of:**
 
@@ -5162,6 +5539,8 @@ D) Type III collagen
 
 ---
 
+
+
 **Q10. A blister splitting the epidermis at the desmosome level is most characteristic of:**
 
 A) Dermatitis herpetiformis
@@ -5189,6 +5568,8 @@ D) Pemphigus vulgaris
 
 ---
 
+
+
 **Q11. A biopsy of the distal esophagus shows columnar epithelium with goblet cells. The diagnosis is:**
 
 A) Squamous cell carcinoma
@@ -5201,7 +5582,7 @@ D) Eosinophilic esophagitis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Squamous cell carcinoma is correct because it matches the defining feature described in Junqueira 17th for a biopsy of the distal esophagus shows columnar epithelium with goblet cells. the diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -5216,6 +5597,8 @@ D) Eosinophilic esophagitis
 
 ---
 
+
+
 **Q12. Which molecule is the autoantigen in Goodpasture syndrome?**
 
 A) Laminin
@@ -5228,7 +5611,7 @@ D) Integrin α6β4
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Laminin is correct because it matches the defining feature described in Junqueira 17th for which molecule is the autoantigen in goodpasture syndrome. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -5245,7 +5628,9 @@ D) Integrin α6β4
 
 ### Part B — Understanding
 
-**Q1. The epithelium of the urinary bladder is:**
+
+
+**Q13. The epithelium of the urinary bladder is:**
 
 A) Transitional (urothelium)
 
@@ -5272,7 +5657,9 @@ D) Stratified squamous
 
 ---
 
-**Q2. Pemphigus vulgaris involves autoantibodies against:**
+
+
+**Q14. Pemphigus vulgaris involves autoantibodies against:**
 
 A) Tight junctions
 
@@ -5299,7 +5686,9 @@ D) Type IV collagen
 
 ---
 
-**Q3. Stereocilia of the epididymis are:**
+
+
+**Q15. Stereocilia of the epididymis are:**
 
 A) Flagella
 
@@ -5326,7 +5715,9 @@ D) Keratin projections
 
 ---
 
-**Q4. The junctional order from apical to basal is:**
+
+
+**Q16. The junctional order from apical to basal is:**
 
 A) Tight → adherens → desmosome
 
@@ -5353,7 +5744,9 @@ D) Desmosome → tight → adherens
 
 ---
 
-**Q5. Which epithelium lines large gland ducts near the surface?**
+
+
+**Q17. Which epithelium lines large gland ducts near the surface?**
 
 A) Stratified cuboidal/columnar
 
@@ -5380,7 +5773,9 @@ D) Simple squamous throughout
 
 ---
 
-**Q6. Epithelial–mesenchymal transition (EMT) is characterized by:**
+
+
+**Q18. Epithelial–mesenchymal transition (EMT) is characterized by:**
 
 A) Losing basement-membrane attachment only
 
@@ -5407,7 +5802,9 @@ D) Losing junctions/polarity and gaining motility
 
 ---
 
-**Q7. The junction permitting ion/small-molecule passage between cells is the:**
+
+
+**Q19. The junction permitting ion/small-molecule passage between cells is the:**
 
 A) Desmosome
 
@@ -5434,7 +5831,9 @@ D) Gap junction
 
 ---
 
-**Q8. The functional loss in bronchial squamous metaplasia is:**
+
+
+**Q20. The functional loss in bronchial squamous metaplasia is:**
 
 A) Mucociliary clearance
 
@@ -5461,7 +5860,9 @@ D) Acid secretion
 
 ---
 
-**Q9. Which cells produce basal-lamina components?**
+
+
+**Q21. Which cells produce basal-lamina components?**
 
 A) Mast cells
 
@@ -5488,7 +5889,9 @@ D) Adipocytes
 
 ---
 
-**Q10. Which is a unicellular exocrine gland?**
+
+
+**Q22. Which is a unicellular exocrine gland?**
 
 A) Goblet cell
 
@@ -5515,7 +5918,9 @@ D) Sebaceous gland
 
 ---
 
-**Q11. Which apical specialization is built from actin and is non-motile?**
+
+
+**Q23. Which apical specialization is built from actin and is non-motile?**
 
 A) Flagella
 
@@ -5527,7 +5932,7 @@ D) Microvilli
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Flagella is correct because it matches the defining feature described in Junqueira 17th for which apical specialization is built from actin and is non-motile. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -5542,7 +5947,9 @@ D) Microvilli
 
 ---
 
-**Q12. Chronic smoking converts bronchial ciliated columnar epithelium into:**
+
+
+**Q24. Chronic smoking converts bronchial ciliated columnar epithelium into:**
 
 A) Simple squamous epithelium
 
@@ -5554,7 +5961,7 @@ D) Stratified squamous epithelium
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Simple squamous epithelium is correct because it matches the defining feature described in Junqueira 17th for chronic smoking converts bronchial ciliated columnar epithelium into. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -5571,7 +5978,9 @@ D) Stratified squamous epithelium
 
 ### Part C — Application
 
-**Q1. The respiratory tract is lined by:**
+
+
+**Q25. The respiratory tract is lined by:**
 
 A) Transitional
 
@@ -5598,7 +6007,9 @@ D) Stratified squamous keratinized
 
 ---
 
-**Q2. The basement membrane contains predominantly:**
+
+
+**Q26. The basement membrane contains predominantly:**
 
 A) Type III collagen
 
@@ -5625,7 +6036,9 @@ D) Type IV collagen
 
 ---
 
-**Q3. Simple squamous epithelium lining blood vessels is termed:**
+
+
+**Q27. Simple squamous epithelium lining blood vessels is termed:**
 
 A) Mesothelium
 
@@ -5652,7 +6065,9 @@ D) Mesenchyme
 
 ---
 
-**Q4. The basal lamina contains type IV collagen, laminin, and:**
+
+
+**Q28. The basal lamina contains type IV collagen, laminin, and:**
 
 A) Perlecan (heparan sulfate proteoglycan)
 
@@ -5679,7 +6094,9 @@ D) Elastin
 
 ---
 
-**Q5. Cell polarity refers to the difference between:**
+
+
+**Q29. Cell polarity refers to the difference between:**
 
 A) Left and right borders
 
@@ -5706,7 +6123,9 @@ D) Nuclear and cytoplasmic domains
 
 ---
 
-**Q6. Epithelial regeneration depends on:**
+
+
+**Q30. Epithelial regeneration depends on:**
 
 A) Multinucleation
 
@@ -5733,7 +6152,9 @@ D) Absence of a basement membrane
 
 ---
 
-**Q7. Transitional epithelium is characterized by:**
+
+
+**Q31. Transitional epithelium is characterized by:**
 
 A) Flat surface cells with keratin
 
@@ -5760,7 +6181,9 @@ D) A single squamous layer
 
 ---
 
-**Q8. Which epithelium is optimal for gas exchange?**
+
+
+**Q32. Which epithelium is optimal for gas exchange?**
 
 A) Simple columnar
 
@@ -5787,7 +6210,9 @@ D) Simple squamous
 
 ---
 
-**Q9. Stratified squamous keratinized epithelium is found in the:**
+
+
+**Q33. Stratified squamous keratinized epithelium is found in the:**
 
 A) Oral cavity
 
@@ -5814,7 +6239,9 @@ D) Vagina
 
 ---
 
-**Q10. The terminal web of microvilli is composed of:**
+
+
+**Q34. The terminal web of microvilli is composed of:**
 
 A) Microtubules
 
@@ -5841,7 +6268,9 @@ D) Dynein arms
 
 ---
 
-**Q11. Autoantibodies against desmoglein produce:**
+
+
+**Q35. Autoantibodies against desmoglein produce:**
 
 A) Intraepidermal acantholysis
 
@@ -5853,7 +6282,7 @@ D) Subepidermal blisters
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Intraepidermal acantholysis is correct because it matches the defining feature described in Junqueira 17th for autoantibodies against desmoglein produce. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -5868,7 +6297,9 @@ D) Subepidermal blisters
 
 ---
 
-**Q12. Which statement about pseudostratified epithelium is correct?**
+
+
+**Q36. Which statement about pseudostratified epithelium is correct?**
 
 A) All cells touch the basal lamina
 
@@ -5880,7 +6311,7 @@ D) It is a true stratified epithelium
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** All cells touch the basal lamina is correct because it matches the defining feature described in Junqueira 17th for which statement about pseudostratified epithelium is correct. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -5897,7 +6328,9 @@ D) It is a true stratified epithelium
 
 ### Part D — Integration
 
-**Q1. Microvilli contain a core of:**
+
+
+**Q37. Microvilli contain a core of:**
 
 A) Actin filaments
 
@@ -5924,7 +6357,9 @@ D) Microtubules
 
 ---
 
-**Q2. Sebaceous glands secrete by:**
+
+
+**Q38. Sebaceous glands secrete by:**
 
 A) Merocrine
 
@@ -5951,7 +6386,9 @@ D) Endocrine
 
 ---
 
-**Q3. Simple squamous lining the pleura/peritoneum/pericardium is:**
+
+
+**Q39. Simple squamous lining the pleura/peritoneum/pericardium is:**
 
 A) Mesothelium
 
@@ -5978,7 +6415,9 @@ D) Endothelium
 
 ---
 
-**Q4. Squamous metaplasia of the bronchus is an adaptive response to:**
+
+
+**Q40. Squamous metaplasia of the bronchus is an adaptive response to:**
 
 A) Viral infection only
 
@@ -6005,7 +6444,9 @@ D) Chronic cigarette smoke exposure
 
 ---
 
-**Q5. An exocrine gland releasing product without cell loss is:**
+
+
+**Q41. An exocrine gland releasing product without cell loss is:**
 
 A) Endocrine
 
@@ -6032,7 +6473,9 @@ D) Holocrine
 
 ---
 
-**Q6. A compound acinar gland with serous acini is the:**
+
+
+**Q42. A compound acinar gland with serous acini is the:**
 
 A) Thyroid
 
@@ -6059,7 +6502,9 @@ D) Liver
 
 ---
 
-**Q7. Which is TRUE of pseudostratified epithelium?**
+
+
+**Q43. Which is TRUE of pseudostratified epithelium?**
 
 A) Only surface cells touch the basal lamina
 
@@ -6086,7 +6531,9 @@ D) It is always keratinized
 
 ---
 
-**Q8. Myoepithelial cells are absent in:**
+
+
+**Q44. Myoepithelial cells are absent in:**
 
 A) Salivary glands
 
@@ -6113,7 +6560,9 @@ D) Sweat glands
 
 ---
 
-**Q9. The glycoprotein that binds epithelial integrins in the basal lamina is:**
+
+
+**Q45. The glycoprotein that binds epithelial integrins in the basal lamina is:**
 
 A) Keratin
 
@@ -6140,7 +6589,9 @@ D) Elastin
 
 ---
 
-**Q10. Which mechanism underlies bladder urothelial impermeability?**
+
+
+**Q46. Which mechanism underlies bladder urothelial impermeability?**
 
 A) Tight junctions between umbrella cells + apical plaques
 
@@ -6167,7 +6618,9 @@ D) Cilia
 
 ---
 
-**Q11. The epithelium that can stretch without leaking contains:**
+
+
+**Q47. The epithelium that can stretch without leaking contains:**
 
 A) Ciliated cells
 
@@ -6179,7 +6632,7 @@ D) Goblet cells
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Ciliated cells is correct because it matches the defining feature described in Junqueira 17th for the epithelium that can stretch without leaking contains. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -6194,7 +6647,9 @@ D) Goblet cells
 
 ---
 
-**Q12. Hemidesmosomes anchor epithelial cells to the basement membrane by binding:**
+
+
+**Q48. Hemidesmosomes anchor epithelial cells to the basement membrane by binding:**
 
 A) Connexin
 
@@ -6206,7 +6661,7 @@ D) Elastin
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Connexin is correct because it matches the defining feature described in Junqueira 17th for hemidesmosomes anchor epithelial cells to the basement membrane by binding. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -6223,7 +6678,9 @@ D) Elastin
 
 ### Part E — High-Difficulty
 
-**Q1. The junction forming a belt-like seal is the:**
+
+
+**Q49. The junction forming a belt-like seal is the:**
 
 A) Desmosome
 
@@ -6250,7 +6707,9 @@ D) Hemidesmosome
 
 ---
 
-**Q2. The esophagus is lined by:**
+
+
+**Q50. The esophagus is lined by:**
 
 A) Stratified squamous non-keratinized
 
@@ -6277,7 +6736,9 @@ D) Simple columnar
 
 ---
 
-**Q3. Which junction couples the actin cytoskeletons of adjacent cells?**
+
+
+**Q51. Which junction couples the actin cytoskeletons of adjacent cells?**
 
 A) Zonula adherens
 
@@ -6304,7 +6765,9 @@ D) Tight junction
 
 ---
 
-**Q4. Barrett esophagus refers to metaplasia into:**
+
+
+**Q52. Barrett esophagus refers to metaplasia into:**
 
 A) Simple squamous epithelium
 
@@ -6331,7 +6794,9 @@ D) Transitional epithelium
 
 ---
 
-**Q5. Mammary-gland secretion (apical cytoplasm released) is:**
+
+
+**Q53. Mammary-gland secretion (apical cytoplasm released) is:**
 
 A) Holocrine
 
@@ -6358,7 +6823,9 @@ D) Apocrine
 
 ---
 
-**Q6. Cells specialized to contract and expel glandular secretion are:**
+
+
+**Q54. Cells specialized to contract and expel glandular secretion are:**
 
 A) Parietal cells
 
@@ -6385,7 +6852,9 @@ D) Myoepithelial cells
 
 ---
 
-**Q7. Goodpasture syndrome targets which basement-membrane component?**
+
+
+**Q55. Goodpasture syndrome targets which basement-membrane component?**
 
 A) Type IV collagen
 
@@ -6412,7 +6881,9 @@ D) Laminin
 
 ---
 
-**Q8. Which junction is a spot-weld linking intermediate filaments?**
+
+
+**Q56. Which junction is a spot-weld linking intermediate filaments?**
 
 A) Desmosome
 
@@ -6439,7 +6910,9 @@ D) Tight junction
 
 ---
 
-**Q9. Which apical structure is motile and moves mucus?**
+
+
+**Q57. Which apical structure is motile and moves mucus?**
 
 A) Stereocilia
 
@@ -6466,7 +6939,9 @@ D) Cilia
 
 ---
 
-**Q10. Stratified squamous epithelial stem cells reside in the:**
+
+
+**Q58. Stratified squamous epithelial stem cells reside in the:**
 
 A) Superficial layer
 
@@ -6493,7 +6968,9 @@ D) Dermal papillae
 
 ---
 
-**Q11. A gland whose cells disintegrate entirely to release their product is:**
+
+
+**Q59. A gland whose cells disintegrate entirely to release their product is:**
 
 A) Endocrine
 
@@ -6505,7 +6982,7 @@ D) Holocrine
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Endocrine is correct because it matches the defining feature described in Junqueira 17th for a gland whose cells disintegrate entirely to release their product is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -6520,7 +6997,9 @@ D) Holocrine
 
 ---
 
-**Q12. A third-degree burn fails to re-epithelialize without grafting because it destroys:**
+
+
+**Q60. A third-degree burn fails to re-epithelialize without grafting because it destroys:**
 
 A) Only the stratum corneum
 
@@ -6532,7 +7011,7 @@ D) The subcutaneous fat
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Only the stratum corneum is correct because it matches the defining feature described in Junqueira 17th for a third-degree burn fails to re-epithelialize without grafting because it destroys. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
@@ -6549,7 +7028,9 @@ D) The subcutaneous fat
 
 
 
+
 # Chapter 5 — Connective Tissue
+
 
 ### Part A — Recall
 
@@ -6580,6 +7061,8 @@ D) Fibrillin
 
 ---
 
+
+
 **Q2. The principal resident cell of connective tissue is the:**
 
 A) Mast cell
@@ -6606,6 +7089,8 @@ D) Fibroblast
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Osteogenesis imperfecta is due to a defect in:**
 
@@ -6634,6 +7119,8 @@ D) Type I collagen
 
 ---
 
+
+
 **Q4. Mast-cell histamine is stored preformed within:**
 
 A) Cytoplasmic granules
@@ -6660,6 +7147,8 @@ D) Lysosomes
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Hyaluronic acid is unique among GAGs because it:**
 
@@ -6688,6 +7177,8 @@ D) Is not sulfated and not covalently bound to a core protein
 
 ---
 
+
+
 **Q6. Granulation tissue is characterized by fibroblasts and:**
 
 A) New capillary formation (angiogenesis)
@@ -6714,6 +7205,8 @@ D) Mature dense collagen
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Adult CT proper is classified as loose or dense based on:**
 
@@ -6742,6 +7235,8 @@ D) The ratio/density of collagen fibers to ground substance
 
 ---
 
+
+
 **Q8. The resident tissue macrophage of the liver is the:**
 
 A) Langerhans cell
@@ -6768,6 +7263,8 @@ D) Osteoclast
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. Which is a glycoprotein of the ECM?**
 
@@ -6796,6 +7293,8 @@ D) Elastin
 
 ---
 
+
+
 **Q10. Desmosine cross-links are characteristic of:**
 
 A) Fibrillin
@@ -6823,6 +7322,8 @@ D) Keratin
 
 ---
 
+
+
 **Q11. A patient has aortic root dilation, lens dislocation, and tall stature. The defective molecule is:**
 
 A) Fibrillin-1
@@ -6835,7 +7336,7 @@ D) Type I collagen
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Fibrillin-1 is correct because it matches the defining feature described in Junqueira 17th for a patient has aortic root dilation, lens dislocation, and tall stature. the defective molecule is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -6850,6 +7351,8 @@ D) Type I collagen
 
 ---
 
+
+
 **Q12. The cell with an eccentric clock-face nucleus and perinuclear hof is:**
 
 A) Mast cell
@@ -6862,7 +7365,7 @@ D) Macrophage
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Mast cell is correct because it matches the defining feature described in Junqueira 17th for the cell with an eccentric clock-face nucleus and perinuclear hof is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -6879,7 +7382,9 @@ D) Macrophage
 
 ### Part B — Understanding
 
-**Q1. Type II collagen is characteristic of:**
+
+
+**Q13. Type II collagen is characteristic of:**
 
 A) Basement membrane
 
@@ -6906,7 +7411,9 @@ D) Cartilage
 
 ---
 
-**Q2. Mast cells mediate which hypersensitivity?**
+
+
+**Q14. Mast cells mediate which hypersensitivity?**
 
 A) Type II
 
@@ -6933,7 +7440,9 @@ D) Type IV
 
 ---
 
-**Q3. Early granulation tissue contains predominantly:**
+
+
+**Q15. Early granulation tissue contains predominantly:**
 
 A) Type I collagen
 
@@ -6960,7 +7469,9 @@ D) Type IV collagen
 
 ---
 
-**Q4. Tissue macrophages are derived from circulating:**
+
+
+**Q16. Tissue macrophages are derived from circulating:**
 
 A) Monocytes
 
@@ -6987,7 +7498,9 @@ D) Lymphocytes
 
 ---
 
-**Q5. Elastic fibers consist of an elastin core surrounded by:**
+
+
+**Q17. Elastic fibers consist of an elastin core surrounded by:**
 
 A) Reticulin
 
@@ -7014,7 +7527,9 @@ D) Laminin
 
 ---
 
-**Q6. During remodeling, type III collagen is replaced by stronger:**
+
+
+**Q18. During remodeling, type III collagen is replaced by stronger:**
 
 A) Type IV collagen
 
@@ -7041,7 +7556,9 @@ D) Type II collagen
 
 ---
 
-**Q7. Fibronectin functions primarily to:**
+
+
+**Q19. Fibronectin functions primarily to:**
 
 A) Store lipid
 
@@ -7068,7 +7585,9 @@ D) Mediate cell adhesion to the extracellular matrix
 
 ---
 
-**Q8. Which stain best demonstrates elastic fibers?**
+
+
+**Q20. Which stain best demonstrates elastic fibers?**
 
 A) Orcein or Verhoeff–Van Gieson
 
@@ -7095,7 +7614,9 @@ D) H&E
 
 ---
 
-**Q9. The perinuclear hof of a plasma cell corresponds to:**
+
+
+**Q21. The perinuclear hof of a plasma cell corresponds to:**
 
 A) The Golgi apparatus
 
@@ -7122,7 +7643,9 @@ D) The nucleus
 
 ---
 
-**Q10. Which statement about reticular fibers is TRUE?**
+
+
+**Q22. Which statement about reticular fibers is TRUE?**
 
 A) They are type I collagen
 
@@ -7149,7 +7672,9 @@ D) They provide elastic recoil
 
 ---
 
-**Q11. Which collagen type forms the basement membrane sheet?**
+
+
+**Q23. Which collagen type forms the basement membrane sheet?**
 
 A) III
 
@@ -7161,7 +7686,7 @@ D) II
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** III is correct because it matches the defining feature described in Junqueira 17th for which collagen type forms the basement membrane sheet. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -7176,7 +7701,9 @@ D) II
 
 ---
 
-**Q12. A scar that extends beyond the original wound margins is a:**
+
+
+**Q24. A scar that extends beyond the original wound margins is a:**
 
 A) Keloid
 
@@ -7188,7 +7715,7 @@ D) Hypertrophic scar
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Keloid is correct because it matches the defining feature described in Junqueira 17th for a scar that extends beyond the original wound margins is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -7205,7 +7732,9 @@ D) Hypertrophic scar
 
 ### Part C — Application
 
-**Q1. Reticular fibers are composed of:**
+
+
+**Q25. Reticular fibers are composed of:**
 
 A) Type III collagen
 
@@ -7232,7 +7761,9 @@ D) Type I collagen
 
 ---
 
-**Q2. Plasma cells show microscopically:**
+
+
+**Q26. Plasma cells show microscopically:**
 
 A) A multilobed nucleus
 
@@ -7259,7 +7790,9 @@ D) Granular eosinophilic cytoplasm only
 
 ---
 
-**Q3. Type II collagen is the predominant type in:**
+
+
+**Q27. Type II collagen is the predominant type in:**
 
 A) Basement membrane
 
@@ -7286,7 +7819,9 @@ D) Hyaline cartilage
 
 ---
 
-**Q4. Dense regular CT is characteristic of:**
+
+
+**Q28. Dense regular CT is characteristic of:**
 
 A) Bone marrow stroma
 
@@ -7313,7 +7848,9 @@ D) Lamina propria
 
 ---
 
-**Q5. Plasma cells are recognized by an eccentric clock-face nucleus and:**
+
+
+**Q29. Plasma cells are recognized by an eccentric clock-face nucleus and:**
 
 A) Multiple nuclei
 
@@ -7340,7 +7877,9 @@ D) Abundant RER with a perinuclear pale Golgi zone
 
 ---
 
-**Q6. Mucoid (mucous) CT rich in hyaluronic acid is characteristic of:**
+
+
+**Q30. Mucoid (mucous) CT rich in hyaluronic acid is characteristic of:**
 
 A) Cartilage
 
@@ -7367,7 +7906,9 @@ D) Tendon
 
 ---
 
-**Q7. Marfan syndrome results from a mutation in the gene encoding:**
+
+
+**Q31. Marfan syndrome results from a mutation in the gene encoding:**
 
 A) Type I collagen
 
@@ -7394,7 +7935,9 @@ D) Laminin
 
 ---
 
-**Q8. The negative charge of GAGs is responsible for:**
+
+
+**Q32. The negative charge of GAGs is responsible for:**
 
 A) Hydration and compression resistance
 
@@ -7421,7 +7964,9 @@ D) Tensile strength
 
 ---
 
-**Q9. Which collagen type is found in the vitreous body and hyaline cartilage?**
+
+
+**Q33. Which collagen type is found in the vitreous body and hyaline cartilage?**
 
 A) Type IV
 
@@ -7448,7 +7993,9 @@ D) Type III
 
 ---
 
-**Q10. Blue sclerae in osteogenesis imperfecta result from:**
+
+
+**Q34. Blue sclerae in osteogenesis imperfecta result from:**
 
 A) Thin sclera revealing the underlying choroid
 
@@ -7475,7 +8022,9 @@ D) Excess collagen
 
 ---
 
-**Q11. Early granulation tissue is rich in:**
+
+
+**Q35. Early granulation tissue is rich in:**
 
 A) Type III collagen and new capillaries
 
@@ -7487,7 +8036,7 @@ D) Type I collagen
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Type III collagen and new capillaries is correct because it matches the defining feature described in Junqueira 17th for early granulation tissue is rich in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -7502,7 +8051,9 @@ D) Type I collagen
 
 ---
 
-**Q12. Tendon is an example of:**
+
+
+**Q36. Tendon is an example of:**
 
 A) Reticular CT
 
@@ -7514,7 +8065,7 @@ D) Loose CT
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Reticular CT is correct because it matches the defining feature described in Junqueira 17th for tendon is an example of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -7531,7 +8082,9 @@ D) Loose CT
 
 ### Part D — Integration
 
-**Q1. Marfan syndrome is due to a defect in:**
+
+
+**Q37. Marfan syndrome is due to a defect in:**
 
 A) Elastin only
 
@@ -7558,7 +8111,9 @@ D) Fibrillin-1
 
 ---
 
-**Q2. Tendons are composed of:**
+
+
+**Q38. Tendons are composed of:**
 
 A) Loose CT
 
@@ -7585,7 +8140,9 @@ D) Elastic CT
 
 ---
 
-**Q3. Which cell degrades and remodels collagen via matrix metalloproteinases?**
+
+
+**Q39. Which cell degrades and remodels collagen via matrix metalloproteinases?**
 
 A) Adipocyte
 
@@ -7612,7 +8169,9 @@ D) Eosinophil
 
 ---
 
-**Q4. Dense irregular CT is characteristic of:**
+
+
+**Q40. Dense irregular CT is characteristic of:**
 
 A) Dermis of skin
 
@@ -7639,7 +8198,9 @@ D) Tendon
 
 ---
 
-**Q5. The primary source of type I and III collagen in wound healing is the:**
+
+
+**Q41. The primary source of type I and III collagen in wound healing is the:**
 
 A) Macrophage
 
@@ -7666,7 +8227,9 @@ D) Eosinophil
 
 ---
 
-**Q6. Eosinophils in CT are associated with:**
+
+
+**Q42. Eosinophils in CT are associated with:**
 
 A) Fungal infection only
 
@@ -7693,7 +8256,9 @@ D) Viral infection only
 
 ---
 
-**Q7. A keloid represents:**
+
+
+**Q43. A keloid represents:**
 
 A) Excessive collagen extending beyond the wound margins
 
@@ -7720,7 +8285,9 @@ D) Insufficient collagen deposition
 
 ---
 
-**Q8. Which cell is the mast cell's blood counterpart with similar granules?**
+
+
+**Q44. Which cell is the mast cell's blood counterpart with similar granules?**
 
 A) Eosinophil
 
@@ -7747,7 +8314,9 @@ D) Basophil
 
 ---
 
-**Q9. Hemostasis and neutrophil/macrophage influx describe which wound phase?**
+
+
+**Q45. Hemostasis and neutrophil/macrophage influx describe which wound phase?**
 
 A) Remodeling
 
@@ -7774,7 +8343,9 @@ D) Inflammatory
 
 ---
 
-**Q10. Which cell produces the collagen of a mature scar?**
+
+
+**Q46. Which cell produces the collagen of a mature scar?**
 
 A) Plasma cell
 
@@ -7801,7 +8372,9 @@ D) Mast cell
 
 ---
 
-**Q11. A diet deficient in fresh fruit produces bleeding gums. The mechanism is:**
+
+
+**Q47. A diet deficient in fresh fruit produces bleeding gums. The mechanism is:**
 
 A) Failed elastin cross-linking
 
@@ -7813,7 +8386,7 @@ D) Fibrillin loss
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Failed elastin cross-linking is correct because it matches the defining feature described in Junqueira 17th for a diet deficient in fresh fruit produces bleeding gums. the mechanism is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -7828,7 +8401,9 @@ D) Fibrillin loss
 
 ---
 
-**Q12. Hyaluronic acid is unique because it is:**
+
+
+**Q48. Hyaluronic acid is unique because it is:**
 
 A) A glycoprotein
 
@@ -7840,7 +8415,7 @@ D) Non-sulfated and not covalently bound to a core protein
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** A glycoprotein is correct because it matches the defining feature described in Junqueira 17th for hyaluronic acid is unique because it is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -7857,7 +8432,9 @@ D) Non-sulfated and not covalently bound to a core protein
 
 ### Part E — High-Difficulty
 
-**Q1. Scurvy is due to deficiency of:**
+
+
+**Q49. Scurvy is due to deficiency of:**
 
 A) Vitamin K
 
@@ -7884,7 +8461,9 @@ D) Vitamin A
 
 ---
 
-**Q2. The dermis of skin is:**
+
+
+**Q50. The dermis of skin is:**
 
 A) Elastic CT only
 
@@ -7911,7 +8490,9 @@ D) Loose CT
 
 ---
 
-**Q3. Ehlers-Danlos syndrome (classic) most commonly results from a defect in:**
+
+
+**Q51. Ehlers-Danlos syndrome (classic) most commonly results from a defect in:**
 
 A) Fibrillin-1
 
@@ -7938,7 +8519,9 @@ D) Type V collagen
 
 ---
 
-**Q4. Ground substance is composed mainly of water, glycosaminoglycans, and:**
+
+
+**Q52. Ground substance is composed mainly of water, glycosaminoglycans, and:**
 
 A) Keratin
 
@@ -7965,7 +8548,9 @@ D) Elastin only
 
 ---
 
-**Q5. The early phase of wound healing (neutrophils then macrophages) is termed:**
+
+
+**Q53. The early phase of wound healing (neutrophils then macrophages) is termed:**
 
 A) Proliferative
 
@@ -7992,7 +8577,9 @@ D) Maturation
 
 ---
 
-**Q6. Scurvy impairs collagen synthesis by preventing:**
+
+
+**Q54. Scurvy impairs collagen synthesis by preventing:**
 
 A) Hydroxylation of proline and lysine
 
@@ -8019,7 +8606,9 @@ D) Glycosylation of collagen
 
 ---
 
-**Q7. Type IV collagen characteristically forms a:**
+
+
+**Q55. Type IV collagen characteristically forms a:**
 
 A) Cross-banded fiber on H&E
 
@@ -8046,7 +8635,9 @@ D) Sheet-like network in the basement membrane
 
 ---
 
-**Q8. A tendon heals slowly primarily because it is:**
+
+
+**Q56. A tendon heals slowly primarily because it is:**
 
 A) Highly cellular
 
@@ -8073,7 +8664,9 @@ D) Reticular
 
 ---
 
-**Q9. Which tissue resists multidirectional tension?**
+
+
+**Q57. Which tissue resists multidirectional tension?**
 
 A) Tendon
 
@@ -8100,7 +8693,9 @@ D) Reticular tissue
 
 ---
 
-**Q10. A biopsy shows metachromatic granules in cells near dermal vessels. These cells are:**
+
+
+**Q58. A biopsy shows metachromatic granules in cells near dermal vessels. These cells are:**
 
 A) Mast cells
 
@@ -8127,7 +8722,9 @@ D) Plasma cells
 
 ---
 
-**Q11. Which stain demonstrates reticular fibers?**
+
+
+**Q59. Which stain demonstrates reticular fibers?**
 
 A) Oil Red O
 
@@ -8139,7 +8736,7 @@ D) H&E
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Oil Red O is correct because it matches the defining feature described in Junqueira 17th for which stain demonstrates reticular fibers. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -8154,7 +8751,9 @@ D) H&E
 
 ---
 
-**Q12. A child has recurrent fractures and blue sclerae. The defect is in:**
+
+
+**Q60. A child has recurrent fractures and blue sclerae. The defect is in:**
 
 A) Type II collagen
 
@@ -8166,7 +8765,7 @@ D) Type I collagen
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Type II collagen is correct because it matches the defining feature described in Junqueira 17th for a child has recurrent fractures and blue sclerae. the defect is in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
@@ -8183,7 +8782,9 @@ D) Type I collagen
 
 
 
+
 # Chapter 6 — Adipose Tissue
+
 
 ### Part A — Recall
 
@@ -8214,6 +8815,8 @@ D) A single large droplet (unilocular)
 
 ---
 
+
+
 **Q2. The "signet-ring" appearance is characteristic of:**
 
 A) White adipocytes
@@ -8240,6 +8843,8 @@ D) Brown adipocytes
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Brown adipose tissue is characterized histologically by:**
 
@@ -8268,6 +8873,8 @@ D) Absence of lipid
 
 ---
 
+
+
 **Q4. Insulin promotes triglyceride storage chiefly by stimulating:**
 
 A) Lipoprotein lipase
@@ -8294,6 +8901,8 @@ D) Hormone-sensitive lipase
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. "Beige" (brite) adipocytes resemble:**
 
@@ -8322,6 +8931,8 @@ D) Chondrocytes
 
 ---
 
+
+
 **Q6. The signet-ring appearance results from:**
 
 A) A single large droplet compressing nucleus and cytoplasm to the periphery
@@ -8348,6 +8959,8 @@ D) Multiple droplets compressing a round nucleus
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. The brown color of brown fat is due to its vascularity and:**
 
@@ -8376,6 +8989,8 @@ D) Lipofuscin
 
 ---
 
+
+
 **Q8. Congenital leptin deficiency produces:**
 
 A) Cachexia
@@ -8402,6 +9017,8 @@ D) Early-onset severe obesity with hyperphagia
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. White adipose tissue's endocrine role includes secretion of:**
 
@@ -8430,6 +9047,8 @@ D) Glucagon
 
 ---
 
+
+
 **Q10. Hibernoma is best described as:**
 
 A) Inflammatory fat necrosis
@@ -8457,6 +9076,8 @@ D) Malignant white-fat tumor
 
 ---
 
+
+
 **Q11. A premature infant becomes hypothermic in a cool room. The missing thermogenic tissue is:**
 
 A) White adipose tissue
@@ -8469,7 +9090,7 @@ D) Liver
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** White adipose tissue is correct because it matches the defining feature described in Junqueira 17th for a premature infant becomes hypothermic in a cool room. the missing thermogenic tissue is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -8484,6 +9105,8 @@ D) Liver
 
 ---
 
+
+
 **Q12. In obesity, adiponectin levels:**
 
 A) Stay constant
@@ -8496,7 +9119,7 @@ D) Fall
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Stay constant is correct because it matches the defining feature described in Junqueira 17th for in obesity, adiponectin levels. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -8513,7 +9136,9 @@ D) Fall
 
 ### Part B — Understanding
 
-**Q1. Brown fat produces heat via:**
+
+
+**Q13. Brown fat produces heat via:**
 
 A) Glycolysis
 
@@ -8540,7 +9165,9 @@ D) UCP1 (thermogenin) uncoupling
 
 ---
 
-**Q2. Brown-fat thermogenesis is stimulated by:**
+
+
+**Q14. Brown-fat thermogenesis is stimulated by:**
 
 A) Parasympathetic
 
@@ -8567,7 +9194,9 @@ D) Glucagon only
 
 ---
 
-**Q3. Leptin, signaling satiety to the hypothalamus, is secreted primarily by:**
+
+
+**Q15. Leptin, signaling satiety to the hypothalamus, is secreted primarily by:**
 
 A) White adipocytes
 
@@ -8594,7 +9223,9 @@ D) Brown adipocytes
 
 ---
 
-**Q4. A benign neoplasm of mature white adipocytes is a:**
+
+
+**Q16. A benign neoplasm of mature white adipocytes is a:**
 
 A) Hibernoma
 
@@ -8621,7 +9252,9 @@ D) Lipoma
 
 ---
 
-**Q5. White adipose tissue is innervated by the:**
+
+
+**Q17. White adipose tissue is innervated by the:**
 
 A) Parasympathetic system
 
@@ -8648,7 +9281,9 @@ D) Enteric system only
 
 ---
 
-**Q6. Hormones secreted by adipose tissue are termed:**
+
+
+**Q18. Hormones secreted by adipose tissue are termed:**
 
 A) Chalones
 
@@ -8675,7 +9310,9 @@ D) Adipokines
 
 ---
 
-**Q7. The most potent activator of brown-fat thermogenesis is:**
+
+
+**Q19. The most potent activator of brown-fat thermogenesis is:**
 
 A) Fasting alone
 
@@ -8702,7 +9339,9 @@ D) High-carbohydrate meals
 
 ---
 
-**Q8. Lipodystrophy (absence of fat) causes metabolic disease primarily because of:**
+
+
+**Q20. Lipodystrophy (absence of fat) causes metabolic disease primarily because of:**
 
 A) Excess adiponectin
 
@@ -8729,7 +9368,9 @@ D) Brown-fat overactivity
 
 ---
 
-**Q9. A multivacuolated cell with a scalloped nucleus in an adipose tumor is a:**
+
+
+**Q21. A multivacuolated cell with a scalloped nucleus in an adipose tumor is a:**
 
 A) Lipoblast
 
@@ -8756,7 +9397,9 @@ D) Macrophage
 
 ---
 
-**Q10. Which hormone's receptor is the β₃-adrenergic receptor on brown adipocytes?**
+
+
+**Q22. Which hormone's receptor is the β₃-adrenergic receptor on brown adipocytes?**
 
 A) Cortisol
 
@@ -8783,7 +9426,9 @@ D) Glucagon
 
 ---
 
-**Q11. UCP1 produces heat by:**
+
+
+**Q23. UCP1 produces heat by:**
 
 A) Blocking the electron transport chain
 
@@ -8795,7 +9440,7 @@ D) Increasing glycolysis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Blocking the electron transport chain is correct because it matches the defining feature described in Junqueira 17th for ucp1 produces heat by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -8810,7 +9455,9 @@ D) Increasing glycolysis
 
 ---
 
-**Q12. The lipid droplet of an adipocyte is bounded by:**
+
+
+**Q24. The lipid droplet of an adipocyte is bounded by:**
 
 A) No boundary
 
@@ -8822,7 +9469,7 @@ D) A cell wall
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** No boundary is correct because it matches the defining feature described in Junqueira 17th for the lipid droplet of an adipocyte is bounded by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -8839,7 +9486,9 @@ D) A cell wall
 
 ### Part C — Application
 
-**Q1. Brown fat appears brown because of:**
+
+
+**Q25. Brown fat appears brown because of:**
 
 A) Melanin
 
@@ -8866,7 +9515,9 @@ D) Lipofuscin
 
 ---
 
-**Q2. A benign tumor of brown fat is a:**
+
+
+**Q26. A benign tumor of brown fat is a:**
 
 A) Hibernoma
 
@@ -8893,7 +9544,9 @@ D) Lipoma
 
 ---
 
-**Q3. The lipid droplet of a white adipocyte is bound by:**
+
+
+**Q27. The lipid droplet of a white adipocyte is bound by:**
 
 A) A phospholipid bilayer
 
@@ -8920,7 +9573,9 @@ D) A double membrane
 
 ---
 
-**Q4. With aging, adipose distribution shifts from subcutaneous toward:**
+
+
+**Q28. With aging, adipose distribution shifts from subcutaneous toward:**
 
 A) No change
 
@@ -8947,7 +9602,9 @@ D) Bone marrow fat only
 
 ---
 
-**Q5. Adipocytes develop through an intermediate stage called the:**
+
+
+**Q29. Adipocytes develop through an intermediate stage called the:**
 
 A) Myoblast
 
@@ -8974,7 +9631,9 @@ D) Chondroblast
 
 ---
 
-**Q6. In routine processing, adipocyte lipid is:**
+
+
+**Q30. In routine processing, adipocyte lipid is:**
 
 A) Converted to protein
 
@@ -9001,7 +9660,9 @@ D) Dissolved out, leaving an empty vacuole
 
 ---
 
-**Q7. Cancer cachexia is driven in part by tumor-secreted:**
+
+
+**Q31. Cancer cachexia is driven in part by tumor-secreted:**
 
 A) Insulin
 
@@ -9028,7 +9689,9 @@ D) Cytokines (TNF-α) promoting lipolysis
 
 ---
 
-**Q8. Thiazolidinediones improve insulin sensitivity by activating:**
+
+
+**Q32. Thiazolidinediones improve insulin sensitivity by activating:**
 
 A) Lipoprotein lipase
 
@@ -9055,7 +9718,9 @@ D) PPAR-γ
 
 ---
 
-**Q9. Which change accompanies obesity and contributes to insulin resistance?**
+
+
+**Q33. Which change accompanies obesity and contributes to insulin resistance?**
 
 A) Falling adiponectin + rising TNF-α
 
@@ -9082,7 +9747,9 @@ D) Rising adiponectin
 
 ---
 
-**Q10. The primary fuel for brown-fat thermogenesis is:**
+
+
+**Q34. The primary fuel for brown-fat thermogenesis is:**
 
 A) Fatty acids from lipolysis
 
@@ -9109,34 +9776,9 @@ D) Glucose only
 
 ---
 
-**Q11. A benign tumor of brown fat is a:**
 
-A) Liposarcoma
 
-B) Angioma
-
-C) Lipoma
-
-D) Hibernoma
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
-
-**Difficulty:** Application
-
----
-
-**Q12. A tumor shows multivacuolated cells with scalloped nuclei. This indicates:**
+**Q35. A tumor shows multivacuolated cells with scalloped nuclei. This indicates:**
 
 A) Lipoma
 
@@ -9148,7 +9790,7 @@ D) Fibroma
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lipoma is correct because it matches the defining feature described in Junqueira 17th for a tumor shows multivacuolated cells with scalloped nuclei. this indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -9165,7 +9807,9 @@ D) Fibroma
 
 ### Part D — Integration
 
-**Q1. UCP1 uncoupling results in:**
+
+
+**Q36. UCP1 uncoupling results in:**
 
 A) Heat instead of ATP
 
@@ -9192,7 +9836,9 @@ D) More ATP
 
 ---
 
-**Q2. Adiponectin generally:**
+
+
+**Q37. Adiponectin generally:**
 
 A) Causes inflammation
 
@@ -9219,7 +9865,9 @@ D) Stimulates appetite
 
 ---
 
-**Q3. The master transcription factor for adipocyte differentiation is:**
+
+
+**Q38. The master transcription factor for adipocyte differentiation is:**
 
 A) GATA1
 
@@ -9246,7 +9894,9 @@ D) Sox9
 
 ---
 
-**Q4. UCP1 generates heat by:**
+
+
+**Q39. UCP1 generates heat by:**
 
 A) Breaking down glucose anaerobically
 
@@ -9273,7 +9923,9 @@ D) Dissipating the proton gradient, uncoupling oxidation from ATP synthesis
 
 ---
 
-**Q5. Brown adipose tissue in adult humans is most abundant in the:**
+
+
+**Q40. Brown adipose tissue in adult humans is most abundant in the:**
 
 A) Supraclavicular and paravertebral regions
 
@@ -9300,7 +9952,9 @@ D) Subcutaneous abdominal wall
 
 ---
 
-**Q6. Perirenal and perivascular adipose tissue primarily serves:**
+
+
+**Q41. Perirenal and perivascular adipose tissue primarily serves:**
 
 A) Hormone production only
 
@@ -9327,7 +9981,9 @@ D) Heat generation exclusively
 
 ---
 
-**Q7. The best histologic clue distinguishing brown from white fat is:**
+
+
+**Q42. The best histologic clue distinguishing brown from white fat is:**
 
 A) They are histologically identical
 
@@ -9354,7 +10010,9 @@ D) Brown fat has multiple small droplets (foamy), white has one large droplet
 
 ---
 
-**Q8. Which is correctly paired?**
+
+
+**Q43. Which is correctly paired regarding adipose lipolysis regulation?**
 
 A) Insulin — hormone-sensitive lipase
 
@@ -9381,7 +10039,9 @@ D) Leptin — lipoprotein lipase
 
 ---
 
-**Q9. Beige (brite) adipocytes are induced in white depots by:**
+
+
+**Q44. Beige (brite) adipocytes are induced in white depots by:**
 
 A) Fasting only
 
@@ -9408,7 +10068,9 @@ D) Insulin
 
 ---
 
-**Q10. Which cell type is the adipocyte's precursor lineage marker?**
+
+
+**Q45. Which cell type is the adipocyte's precursor lineage marker?**
 
 A) PPAR-γ-driven mesenchymal lineage
 
@@ -9435,7 +10097,9 @@ D) Keratin-positive
 
 ---
 
-**Q11. Which hormone promotes triglyceride storage via lipoprotein lipase?**
+
+
+**Q46. Which hormone promotes triglyceride storage via lipoprotein lipase?**
 
 A) Insulin
 
@@ -9447,7 +10111,7 @@ D) Epinephrine
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Insulin is correct because it matches the defining feature described in Junqueira 17th for which hormone promotes triglyceride storage via lipoprotein lipase. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -9462,7 +10126,9 @@ D) Epinephrine
 
 ---
 
-**Q12. Cold-induced thermogenesis in brown fat is mediated by:**
+
+
+**Q47. Cold-induced thermogenesis in brown fat is mediated by:**
 
 A) Somatic motor neurons
 
@@ -9474,7 +10140,7 @@ D) Sympathetic β₃ stimulation
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Somatic motor neurons is correct because it matches the defining feature described in Junqueira 17th for cold-induced thermogenesis in brown fat is mediated by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -9491,7 +10157,9 @@ D) Sympathetic β₃ stimulation
 
 ### Part E — High-Difficulty
 
-**Q1. Leptin is secreted by:**
+
+
+**Q48. Leptin is secreted by:**
 
 A) Pancreatic β cells
 
@@ -9518,7 +10186,9 @@ D) Hepatocytes
 
 ---
 
-**Q2. Neonates rely on brown fat for:**
+
+
+**Q49. Neonates rely on brown fat for:**
 
 A) Energy storage
 
@@ -9545,7 +10215,9 @@ D) Cushioning
 
 ---
 
-**Q3. Lipolysis in white adipocytes is stimulated primarily by:**
+
+
+**Q50. Lipolysis in white adipocytes is stimulated primarily by:**
 
 A) Catecholamines (epinephrine)
 
@@ -9572,7 +10244,9 @@ D) Insulin
 
 ---
 
-**Q4. Adiponectin's metabolic effect is to:**
+
+
+**Q51. Adiponectin's metabolic effect is to:**
 
 A) Promote fat storage only
 
@@ -9599,7 +10273,9 @@ D) Stimulate appetite
 
 ---
 
-**Q5. Excess glucocorticoid (Cushing) redistributes fat toward the:**
+
+
+**Q52. Excess glucocorticoid (Cushing) redistributes fat toward the:**
 
 A) Brown fat depots only
 
@@ -9626,7 +10302,9 @@ D) Trunk, face, and dorsocervical region
 
 ---
 
-**Q6. Compared with white adipocytes, brown adipocytes contain much higher density of:**
+
+
+**Q53. Compared with white adipocytes, brown adipocytes contain much higher density of:**
 
 A) Golgi apparatus
 
@@ -9653,7 +10331,9 @@ D) Lysosomes
 
 ---
 
-**Q7. Which statement about UCP1 is TRUE?**
+
+
+**Q54. Which statement about UCP1 is TRUE?**
 
 A) It is found in white adipocytes only
 
@@ -9680,7 +10360,9 @@ D) It is activated by insulin
 
 ---
 
-**Q8. The neonate's brown fat is concentrated especially in the:**
+
+
+**Q55. The neonate's brown fat is concentrated especially in the:**
 
 A) Palms
 
@@ -9707,7 +10389,9 @@ D) Buttocks
 
 ---
 
-**Q9. The lipid in a routine paraffin section of adipose tissue is absent because:**
+
+
+**Q56. The lipid in a routine paraffin section of adipose tissue is absent because:**
 
 A) It is basophilic
 
@@ -9734,7 +10418,9 @@ D) Alcohol and xylene dissolved it
 
 ---
 
-**Q10. A cold-stressed neonate maintains temperature without shivering via:**
+
+
+**Q57. A cold-stressed neonate maintains temperature without shivering via:**
 
 A) White-fat storage
 
@@ -9761,7 +10447,9 @@ D) Insulin
 
 ---
 
-**Q11. A patient has moon facies, a buffalo hump, and thin limbs. The likely diagnosis is:**
+
+
+**Q58. A patient has moon facies, a buffalo hump, and thin limbs. The likely diagnosis is:**
 
 A) Cushing syndrome
 
@@ -9773,7 +10461,7 @@ D) Leptin deficiency
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Cushing syndrome is correct because it matches the defining feature described in Junqueira 17th for a patient has moon facies, a buffalo hump, and thin limbs. the likely diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -9788,7 +10476,9 @@ D) Leptin deficiency
 
 ---
 
-**Q12. Leptin's primary function is:**
+
+
+**Q59. Leptin's primary function is:**
 
 A) Lowering insulin sensitivity
 
@@ -9800,7 +10490,7 @@ D) Stimulating lipolysis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lowering insulin sensitivity is correct because it matches the defining feature described in Junqueira 17th for leptin's primary function is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
@@ -9817,7 +10507,9 @@ D) Stimulating lipolysis
 
 
 
+
 # Chapter 7 — Nerve Tissue & the Nervous System
+
 
 ### Part A — Recall
 
@@ -9848,6 +10540,8 @@ D) Rough ER and ribosomes
 
 ---
 
+
+
 **Q2. Astrocytes contribute to the blood–brain barrier via:**
 
 A) Phagocytosis
@@ -9874,6 +10568,8 @@ D) End-feet (perivascular feet) on capillaries
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Bipolar neurons are found in the:**
 
@@ -9902,6 +10598,8 @@ D) DRG
 
 ---
 
+
+
 **Q4. One oligodendrocyte can myelinate segments of:**
 
 A) Only one axon
@@ -9928,6 +10626,8 @@ D) Exactly two
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Bipolar neurons are characteristically found in the:**
 
@@ -9956,6 +10656,8 @@ D) Anterior horn
 
 ---
 
+
+
 **Q6. Astrocyte foot processes contribute to the BBB by:**
 
 A) Producing myelin around capillaries
@@ -9982,6 +10684,8 @@ D) Ensheathing capillaries and inducing/maintaining endothelial tight junctions
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. An electrical synapse is structurally formed by:**
 
@@ -10010,6 +10714,8 @@ D) Synaptic vesicles
 
 ---
 
+
+
 **Q8. The neurotransmitter at the neuromuscular junction is:**
 
 A) Dopamine
@@ -10036,6 +10742,8 @@ D) Acetylcholine
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The pale region where the axon leaves the soma is the:**
 
@@ -10064,6 +10772,8 @@ D) Dendrite
 
 ---
 
+
+
 **Q10. Which statement about the oligodendrocyte is TRUE?**
 
 A) It has a neurilemma
@@ -10091,6 +10801,8 @@ D) It myelinates multiple axons in the CNS
 
 ---
 
+
+
 **Q11. A nerve biopsy shows segmental myelin loss with preserved axons. The disease is:**
 
 A) Multiple sclerosis
@@ -10103,7 +10815,7 @@ D) Poliomyelitis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Multiple sclerosis is correct because it matches the defining feature described in Junqueira 17th for a nerve biopsy shows segmental myelin loss with preserved axons. the disease is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -10118,6 +10830,8 @@ D) Poliomyelitis
 
 ---
 
+
+
 **Q12. One oligodendrocyte myelinates:**
 
 A) Multiple axons
@@ -10130,7 +10844,7 @@ D) One internode of one axon
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Multiple axons is correct because it matches the defining feature described in Junqueira 17th for one oligodendrocyte myelinates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -10147,7 +10861,9 @@ D) One internode of one axon
 
 ### Part B — Understanding
 
-**Q1. Nissl bodies are absent in the:**
+
+
+**Q13. Nissl bodies are absent in the:**
 
 A) Perikaryon
 
@@ -10174,7 +10890,9 @@ D) Axon and axon hillock
 
 ---
 
-**Q2. A marker for astrocytes is:**
+
+
+**Q14. A marker for astrocytes is:**
 
 A) Vimentin only
 
@@ -10201,7 +10919,9 @@ D) Desmin
 
 ---
 
-**Q3. After axonal injury, dispersion of Nissl substance is called:**
+
+
+**Q15. After axonal injury, dispersion of Nissl substance is called:**
 
 A) Apoptosis
 
@@ -10228,7 +10948,9 @@ D) Wallerian degeneration
 
 ---
 
-**Q4. Nissl bodies visible by light microscopy correspond ultrastructurally to:**
+
+
+**Q16. Nissl bodies visible by light microscopy correspond ultrastructurally to:**
 
 A) Golgi apparatus
 
@@ -10255,7 +10977,9 @@ D) Lysosomes
 
 ---
 
-**Q5. Microglia are embryologically derived from:**
+
+
+**Q17. Microglia are embryologically derived from:**
 
 A) Neuroectoderm
 
@@ -10282,7 +11006,9 @@ D) Endoderm
 
 ---
 
-**Q6. Nodes of Ranvier are the sites of:**
+
+
+**Q18. Nodes of Ranvier are the sites of:**
 
 A) Neurotransmitter synthesis
 
@@ -10309,7 +11035,9 @@ D) Axon-terminal branching
 
 ---
 
-**Q7. At a chemical synapse, neurotransmitter vesicles are located in the:**
+
+
+**Q19. At a chemical synapse, neurotransmitter vesicles are located in the:**
 
 A) Presynaptic terminal
 
@@ -10336,7 +11064,9 @@ D) Postsynaptic membrane
 
 ---
 
-**Q8. A single Schwann cell myelinates:**
+
+
+**Q20. A single Schwann cell myelinates:**
 
 A) Multiple axons simultaneously
 
@@ -10363,7 +11093,9 @@ D) One segment (internode) of a single axon
 
 ---
 
-**Q9. Which cell is the CNS's resident macrophage?**
+
+
+**Q21. Which cell is the CNS's resident macrophage?**
 
 A) Ependyma
 
@@ -10390,7 +11122,9 @@ D) Oligodendrocyte
 
 ---
 
-**Q10. Wallerian degeneration occurs in the:**
+
+
+**Q22. Wallerian degeneration occurs in the:**
 
 A) Proximal stump
 
@@ -10417,7 +11151,9 @@ D) Nucleus
 
 ---
 
-**Q11. The pale region of the neuron where the axon emerges is the:**
+
+
+**Q23. The pale region of the neuron where the axon emerges is the:**
 
 A) Node of Ranvier
 
@@ -10429,7 +11165,7 @@ D) Axon hillock
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Node of Ranvier is correct because it matches the defining feature described in Junqueira 17th for the pale region of the neuron where the axon emerges is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -10444,7 +11180,9 @@ D) Axon hillock
 
 ---
 
-**Q12. After spinal-cord transection, regeneration fails mainly because of:**
+
+
+**Q24. After spinal-cord transection, regeneration fails mainly because of:**
 
 A) Microglial inactivity
 
@@ -10456,7 +11194,7 @@ D) Excess myelin
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Microglial inactivity is correct because it matches the defining feature described in Junqueira 17th for after spinal-cord transection, regeneration fails mainly because of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -10473,7 +11211,9 @@ D) Excess myelin
 
 ### Part C — Application
 
-**Q1. Sensory neurons of the dorsal root ganglion are:**
+
+
+**Q25. Sensory neurons of the dorsal root ganglion are:**
 
 A) Pseudounipolar
 
@@ -10500,7 +11240,9 @@ D) Bipolar
 
 ---
 
-**Q2. One Schwann cell myelinates:**
+
+
+**Q26. One Schwann cell myelinates:**
 
 A) No axon
 
@@ -10527,7 +11269,9 @@ D) The whole nerve
 
 ---
 
-**Q3. The blood–nerve barrier is formed mainly by the:**
+
+
+**Q27. The blood–nerve barrier is formed mainly by the:**
 
 A) Endoneurium
 
@@ -10554,7 +11298,9 @@ D) Schwann cell only
 
 ---
 
-**Q4. After transection of a peripheral axon, the distal segment degenerates — this is:**
+
+
+**Q28. After transection of a peripheral axon, the distal segment degenerates — this is:**
 
 A) Apoptosis
 
@@ -10581,7 +11327,9 @@ D) Liquefactive necrosis
 
 ---
 
-**Q5. Ependymal cells line the:**
+
+
+**Q29. Ependymal cells line the:**
 
 A) Neuromuscular junction
 
@@ -10608,7 +11356,9 @@ D) Dorsal root ganglia
 
 ---
 
-**Q6. Saltatory conduction is:**
+
+
+**Q30. Saltatory conduction is:**
 
 A) Identical in speed
 
@@ -10635,7 +11385,9 @@ D) Significantly faster than unmyelinated conduction
 
 ---
 
-**Q7. After peripheral-nerve injury, axon regeneration is guided by:**
+
+
+**Q31. After peripheral-nerve injury, axon regeneration is guided by:**
 
 A) Schwann-cell basal-lamina tubes (bands of Büngner)
 
@@ -10662,7 +11414,9 @@ D) Degenerated axon fragments
 
 ---
 
-**Q8. Substantia nigra neurons (degeneration = Parkinson disease) contain the pigment:**
+
+
+**Q32. Substantia nigra neurons (degeneration = Parkinson disease) contain the pigment:**
 
 A) Neuromelanin
 
@@ -10689,7 +11443,9 @@ D) Lipofuscin only
 
 ---
 
-**Q9. Myelin appears as a clear ring around an axon on H&E because:**
+
+
+**Q33. Myelin appears as a clear ring around an axon on H&E because:**
 
 A) It is basophilic
 
@@ -10716,7 +11472,9 @@ D) Its lipid is dissolved during processing
 
 ---
 
-**Q10. Chromatolysis after axon injury indicates:**
+
+
+**Q34. Chromatolysis after axon injury indicates:**
 
 A) The soma's regenerative response (Nissl dispersal)
 
@@ -10743,7 +11501,9 @@ D) Neuron death
 
 ---
 
-**Q11. Which glial cell is mesodermal in origin?**
+
+
+**Q35. Which glial cell is mesodermal in origin?**
 
 A) Oligodendrocyte
 
@@ -10755,7 +11515,7 @@ D) Astrocyte
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Oligodendrocyte is correct because it matches the defining feature described in Junqueira 17th for which glial cell is mesodermal in origin. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -10770,7 +11530,9 @@ D) Astrocyte
 
 ---
 
-**Q12. Nodes of Ranvier are essential for:**
+
+
+**Q36. Nodes of Ranvier are essential for:**
 
 A) Synaptic delay
 
@@ -10782,7 +11544,7 @@ D) Saltatory conduction
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Synaptic delay is correct because it matches the defining feature described in Junqueira 17th for nodes of ranvier are essential for. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -10799,7 +11561,9 @@ D) Saltatory conduction
 
 ### Part D — Integration
 
-**Q1. Myelin in the CNS is produced by:**
+
+
+**Q37. Myelin in the CNS is produced by:**
 
 A) Astrocytes
 
@@ -10826,7 +11590,9 @@ D) Oligodendrocytes
 
 ---
 
-**Q2. The connective-tissue layer surrounding a nerve fascicle is the:**
+
+
+**Q38. The connective-tissue layer surrounding a nerve fascicle is the:**
 
 A) Neurilemma
 
@@ -10853,7 +11619,9 @@ D) Epineurium
 
 ---
 
-**Q3. CNS regeneration is poor because CNS myelin lacks:**
+
+
+**Q39. CNS regeneration is poor because CNS myelin lacks:**
 
 A) Axons
 
@@ -10880,7 +11648,9 @@ D) Nodes of Ranvier
 
 ---
 
-**Q4. Multipolar neurons are characterized by:**
+
+
+**Q40. Multipolar neurons are characterized by:**
 
 A) No axon
 
@@ -10907,7 +11677,9 @@ D) One axon and multiple dendrites
 
 ---
 
-**Q5. Satellite cells are found in the:**
+
+
+**Q41. Satellite cells are found in the:**
 
 A) Central white matter
 
@@ -10934,7 +11706,9 @@ D) Neuromuscular junction
 
 ---
 
-**Q6. Multiple sclerosis primarily targets:**
+
+
+**Q42. Multiple sclerosis primarily targets:**
 
 A) Schwann cells of the PNS
 
@@ -10961,7 +11735,9 @@ D) Microglia
 
 ---
 
-**Q7. CNS regeneration after injury is:**
+
+
+**Q43. CNS regeneration after injury is:**
 
 A) Identical to PNS
 
@@ -10988,7 +11764,9 @@ D) Poor, due to glial scarring and myelin inhibitors
 
 ---
 
-**Q8. Astrocytes contribute to the glial scar after CNS injury via:**
+
+
+**Q44. Astrocytes contribute to the glial scar after CNS injury via:**
 
 A) Astrogliosis (reactive astrocytosis)
 
@@ -11015,7 +11793,9 @@ D) Demyelination
 
 ---
 
-**Q9. Which structure provides the blood–nerve barrier?**
+
+
+**Q45. Which structure provides the blood–nerve barrier?**
 
 A) Myelin
 
@@ -11042,7 +11822,9 @@ D) Endoneurium
 
 ---
 
-**Q10. Which synapse type is faster and bidirectional?**
+
+
+**Q46. Which synapse type is faster and bidirectional?**
 
 A) Electrical
 
@@ -11069,7 +11851,9 @@ D) Chemical
 
 ---
 
-**Q11. The blood–nerve barrier is formed by the:**
+
+
+**Q47. The blood–nerve barrier is formed by the:**
 
 A) Perineurium
 
@@ -11081,7 +11865,7 @@ D) Epineurium
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Perineurium is correct because it matches the defining feature described in Junqueira 17th for the blood–nerve barrier is formed by the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -11096,7 +11880,9 @@ D) Epineurium
 
 ---
 
-**Q12. A GFAP-positive brain tumor is of:**
+
+
+**Q48. A GFAP-positive brain tumor is of:**
 
 A) Astrocytic origin
 
@@ -11108,7 +11894,7 @@ D) Neuronal origin
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Astrocytic origin is correct because it matches the defining feature described in Junqueira 17th for a gfap-positive brain tumor is of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -11125,7 +11911,9 @@ D) Neuronal origin
 
 ### Part E — High-Difficulty
 
-**Q1. The only glial cell derived from mesoderm (monocytes) is:**
+
+
+**Q49. The only glial cell derived from mesoderm (monocytes) is:**
 
 A) Microglia
 
@@ -11152,7 +11940,9 @@ D) Oligodendrocyte
 
 ---
 
-**Q2. Ependymal cells are characterized by:**
+
+
+**Q50. Ependymal cells are characterized by:**
 
 A) Satellite function
 
@@ -11179,7 +11969,9 @@ D) Phagocytosis
 
 ---
 
-**Q3. Satellite cells are found:**
+
+
+**Q51. Satellite cells are found:**
 
 A) In myelin
 
@@ -11206,7 +11998,9 @@ D) In the ependyma
 
 ---
 
-**Q4. A pseudounipolar neuron's single process:**
+
+
+**Q52. A pseudounipolar neuron's single process:**
 
 A) Contains no cell body
 
@@ -11233,7 +12027,9 @@ D) Lacks an axon
 
 ---
 
-**Q5. The blood–brain barrier is formed primarily by tight junctions between:**
+
+
+**Q53. The blood–brain barrier is formed primarily by tight junctions between:**
 
 A) Oligodendrocytes
 
@@ -11260,7 +12056,9 @@ D) Neurons
 
 ---
 
-**Q6. Guillain-Barré syndrome primarily affects:**
+
+
+**Q54. Guillain-Barré syndrome primarily affects:**
 
 A) Peripheral nerve Schwann cells/myelin
 
@@ -11287,7 +12085,9 @@ D) CNS oligodendrocytes
 
 ---
 
-**Q7. Autonomic ganglia are the site of synapse between:**
+
+
+**Q55. Autonomic ganglia are the site of synapse between:**
 
 A) Two sensory neurons
 
@@ -11314,7 +12114,9 @@ D) Motor neurons and skeletal muscle
 
 ---
 
-**Q8. Which cell myelinates a single internode but is present in the PNS?**
+
+
+**Q56. Which cell myelinates a single internode but is present in the PNS?**
 
 A) Oligodendrocyte
 
@@ -11341,7 +12143,9 @@ D) Microglia
 
 ---
 
-**Q9. A tumor of Schwann cells is a:**
+
+
+**Q57. A tumor of Schwann cells is a:**
 
 A) Astrocytoma
 
@@ -11368,7 +12172,9 @@ D) Medulloblastoma
 
 ---
 
-**Q10. CSF movement within the ventricles is aided by:**
+
+
+**Q58. CSF movement within the ventricles is aided by:**
 
 A) Microglial processes
 
@@ -11395,7 +12201,9 @@ D) Ependymal cell cilia
 
 ---
 
-**Q11. A sensory neuron whose single process bifurcates is:**
+
+
+**Q59. A sensory neuron whose single process bifurcates is:**
 
 A) Bipolar
 
@@ -11407,7 +12215,7 @@ D) Multipolar
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Bipolar is correct because it matches the defining feature described in Junqueira 17th for a sensory neuron whose single process bifurcates is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -11422,7 +12230,9 @@ D) Multipolar
 
 ---
 
-**Q12. Dispersal of Nissl substance after axonal injury is called:**
+
+
+**Q60. Dispersal of Nissl substance after axonal injury is called:**
 
 A) Pyknosis
 
@@ -11434,7 +12244,7 @@ D) Wallerian degeneration
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Pyknosis is correct because it matches the defining feature described in Junqueira 17th for dispersal of nissl substance after axonal injury is called. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
@@ -11451,7 +12261,9 @@ D) Wallerian degeneration
 
 
 
+
 # Chapter 8 — The Circulatory System
+
 
 ### Part A — Recall
 
@@ -11482,6 +12294,8 @@ D) Tunica media
 
 ---
 
+
+
 **Q2. Fenestrated capillaries are found in the:**
 
 A) Renal glomerulus
@@ -11508,6 +12322,8 @@ D) Skeletal muscle
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Atherosclerotic plaques develop primarily in the:**
 
@@ -11536,6 +12352,8 @@ D) Tunica intima
 
 ---
 
+
+
 **Q4. The IEL is most prominent in which vessel type?**
 
 A) Lymphatics
@@ -11562,6 +12380,8 @@ D) Veins
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Arterioles are characterized by:**
 
@@ -11590,6 +12410,8 @@ D) A fenestrated endothelium
 
 ---
 
+
+
 **Q6. The vasa vasorum are located primarily within the:**
 
 A) Adventitia (and outer media)
@@ -11616,6 +12438,8 @@ D) Intima
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Intercalated-disc gap junctions allow:**
 
@@ -11644,6 +12468,8 @@ D) Mechanical strength only
 
 ---
 
+
+
 **Q8. Portal systems (two capillary beds in series) are found in the hepatic circulation and the:**
 
 A) Cerebral circulation
@@ -11670,6 +12496,8 @@ D) Pulmonary circulation only
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The thoracic duct differs from lymphatic capillaries by having:**
 
@@ -11698,7 +12526,9 @@ D) RBCs in its lumen
 
 ---
 
-**Q10. Which is correctly paired?**
+
+
+**Q10. Which is correctly paired regarding capillary types and their locations?**
 
 A) Continuous capillary — glomerulus
 
@@ -11725,6 +12555,8 @@ D) Continuous — liver
 
 ---
 
+
+
 **Q11. A vessel shows many wavy elastic lamellae in its media. It is a(n):**
 
 A) Vein
@@ -11737,7 +12569,7 @@ D) Arteriole
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Vein is correct because it matches the defining feature described in Junqueira 17th for a vessel shows many wavy elastic lamellae in its media. it is a(n). The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -11752,6 +12584,8 @@ D) Arteriole
 
 ---
 
+
+
 **Q12. Atherosclerosis begins in the:**
 
 A) Intima
@@ -11764,7 +12598,7 @@ D) Media
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Intima is correct because it matches the defining feature described in Junqueira 17th for atherosclerosis begins in the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -11781,7 +12615,9 @@ D) Media
 
 ### Part B — Understanding
 
-**Q1. Vasa vasorum are located in the:**
+
+
+**Q13. Vasa vasorum are located in the:**
 
 A) Media only
 
@@ -11808,7 +12644,9 @@ D) Intima
 
 ---
 
-**Q2. Sinusoidal capillaries are found in the:**
+
+
+**Q14. Sinusoidal capillaries are found in the:**
 
 A) Brain
 
@@ -11835,7 +12673,9 @@ D) Liver and spleen
 
 ---
 
-**Q3. Pericytes are associated with:**
+
+
+**Q15. Pericytes are associated with:**
 
 A) Capillaries and postcapillary venules
 
@@ -11862,7 +12702,9 @@ D) Elastic arteries
 
 ---
 
-**Q4. Fenestrated capillaries with diaphragms are found in endocrine glands and intestinal mucosa to permit:**
+
+
+**Q16. Fenestrated capillaries with diaphragms are found in endocrine glands and intestinal mucosa to permit:**
 
 A) Barrier function
 
@@ -11889,7 +12731,9 @@ D) Blood-brain barrier
 
 ---
 
-**Q5. Continuous capillaries forming the blood–brain barrier are found in:**
+
+
+**Q17. Continuous capillaries forming the blood–brain barrier are found in:**
 
 A) Liver sinusoids
 
@@ -11916,7 +12760,9 @@ D) Renal glomerulus
 
 ---
 
-**Q6. Lymphatic capillaries differ from blood capillaries in that they:**
+
+
+**Q18. Lymphatic capillaries differ from blood capillaries in that they:**
 
 A) Contain RBCs normally
 
@@ -11943,7 +12789,9 @@ D) Are blind-ended with overlapping endothelial cells lacking a complete basal l
 
 ---
 
-**Q7. Heart valves are covered by:**
+
+
+**Q19. Heart valves are covered by:**
 
 A) Cartilage
 
@@ -11970,7 +12818,9 @@ D) Adipose tissue
 
 ---
 
-**Q8. The tunica intima is bounded externally by the:**
+
+
+**Q20. The tunica intima is bounded externally by the:**
 
 A) External elastic lamina
 
@@ -11997,7 +12847,9 @@ D) Vasa vasorum
 
 ---
 
-**Q9. Which layer is thickened in the left ventricle?**
+
+
+**Q21. Which layer is thickened in the left ventricle?**
 
 A) Pericardium
 
@@ -12024,7 +12876,9 @@ D) Epicardium
 
 ---
 
-**Q10. The blood supply to a large artery's own wall is provided by:**
+
+
+**Q22. The blood supply to a large artery's own wall is provided by:**
 
 A) Pericytes
 
@@ -12051,7 +12905,9 @@ D) Vasa vasorum
 
 ---
 
-**Q11. The layer destroyed in an aortic aneurysm is the:**
+
+
+**Q23. The layer destroyed in an aortic aneurysm is the:**
 
 A) Tunica intima
 
@@ -12063,7 +12919,7 @@ D) Endocardium
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Tunica intima is correct because it matches the defining feature described in Junqueira 17th for the layer destroyed in an aortic aneurysm is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -12078,7 +12934,9 @@ D) Endocardium
 
 ---
 
-**Q12. Venous valves are folds of the:**
+
+
+**Q24. Venous valves are folds of the:**
 
 A) Media
 
@@ -12090,7 +12948,7 @@ D) Intima
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Media is correct because it matches the defining feature described in Junqueira 17th for venous valves are folds of the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -12107,7 +12965,9 @@ D) Intima
 
 ### Part C — Application
 
-**Q1. The aorta is an example of which artery type?**
+
+
+**Q25. The aorta is an example of which artery type?**
 
 A) Muscular
 
@@ -12134,7 +12994,9 @@ D) Metarteriole
 
 ---
 
-**Q2. Compared with arteries, veins have:**
+
+
+**Q26. Compared with arteries, veins have:**
 
 A) No adventitia
 
@@ -12161,7 +13023,9 @@ D) More elastic lamellae
 
 ---
 
-**Q3. Valves in veins are formed by folds of the:**
+
+
+**Q27. Valves in veins are formed by folds of the:**
 
 A) Adventitia
 
@@ -12188,7 +13052,9 @@ D) Intima
 
 ---
 
-**Q4. Pericytes are most similar in function to:**
+
+
+**Q28. Pericytes are most similar in function to:**
 
 A) Fibroblasts
 
@@ -12215,7 +13081,9 @@ D) Smooth muscle cells
 
 ---
 
-**Q5. Sinusoidal capillaries are characteristic of the:**
+
+
+**Q29. Sinusoidal capillaries are characteristic of the:**
 
 A) Lung alveoli
 
@@ -12242,7 +13110,9 @@ D) Skeletal muscle
 
 ---
 
-**Q6. The endocardium is histologically continuous with the:**
+
+
+**Q30. The endocardium is histologically continuous with the:**
 
 A) Media of arteries
 
@@ -12269,7 +13139,9 @@ D) Pericardium
 
 ---
 
-**Q7. A fatty streak in atherosclerosis is composed of:**
+
+
+**Q31. A fatty streak in atherosclerosis is composed of:**
 
 A) Fibroblasts
 
@@ -12296,7 +13168,9 @@ D) Mast cells
 
 ---
 
-**Q8. Varicose veins result from:**
+
+
+**Q32. Varicose veins result from:**
 
 A) Chronic valvular incompetence with wall dilation/fibrosis
 
@@ -12323,7 +13197,9 @@ D) Smooth-muscle atrophy only
 
 ---
 
-**Q9. A tear in the intima that lets blood split the media describes:**
+
+
+**Q33. A tear in the intima that lets blood split the media describes:**
 
 A) Aortic dissection
 
@@ -12350,7 +13226,9 @@ D) Atherosclerosis
 
 ---
 
-**Q10. Which feature distinguishes a lymphatic from a vein microscopically?**
+
+
+**Q34. Which feature distinguishes a lymphatic from a vein microscopically?**
 
 A) Absence of red blood cells in the lumen
 
@@ -12377,7 +13255,9 @@ D) Presence of valves
 
 ---
 
-**Q11. Which capillary type lines the renal glomerulus?**
+
+
+**Q35. Which capillary type lines the renal glomerulus?**
 
 A) Lymphatic
 
@@ -12389,7 +13269,7 @@ D) Sinusoidal
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lymphatic is correct because it matches the defining feature described in Junqueira 17th for which capillary type lines the renal glomerulus. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -12404,7 +13284,9 @@ D) Sinusoidal
 
 ---
 
-**Q12. The windkessel effect is due to:**
+
+
+**Q36. The windkessel effect is due to:**
 
 A) Venous valves
 
@@ -12416,7 +13298,7 @@ D) Elastic recoil of the aortic wall
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Venous valves is correct because it matches the defining feature described in Junqueira 17th for the windkessel effect is due to. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -12433,7 +13315,9 @@ D) Elastic recoil of the aortic wall
 
 ### Part D — Integration
 
-**Q1. A prominent internal AND external elastic lamina is characteristic of:**
+
+
+**Q37. A prominent internal AND external elastic lamina is characteristic of:**
 
 A) Arterioles
 
@@ -12460,7 +13344,9 @@ D) Muscular arteries
 
 ---
 
-**Q2. Purkinje fibers are characterized by:**
+
+
+**Q38. Purkinje fibers are characterized by:**
 
 A) No nucleus
 
@@ -12487,7 +13373,9 @@ D) Abundant glycogen, few myofibrils, pale cytoplasm
 
 ---
 
-**Q3. Intercalated discs contain:**
+
+
+**Q39. Intercalated discs contain:**
 
 A) Hemidesmosomes only
 
@@ -12514,7 +13402,9 @@ D) Gap junctions and desmosomes
 
 ---
 
-**Q4. Elastic arteries contain numerous elastic lamellae within the:**
+
+
+**Q40. Elastic arteries contain numerous elastic lamellae within the:**
 
 A) Endothelium only
 
@@ -12541,7 +13431,9 @@ D) Tunica adventitia
 
 ---
 
-**Q5. Veins, compared with arteries, have:**
+
+
+**Q41. Veins, compared with arteries, have:**
 
 A) Absence of adventitia
 
@@ -12568,7 +13460,9 @@ D) A thinner wall, larger lumen, and valves
 
 ---
 
-**Q6. Purkinje fibers differ from ordinary cardiomyocytes by:**
+
+
+**Q42. Purkinje fibers differ from ordinary cardiomyocytes by:**
 
 A) Absence of gap junctions
 
@@ -12595,7 +13489,9 @@ D) Larger size, fewer myofibrils, and abundant glycogen
 
 ---
 
-**Q7. The media of muscular arteries is composed predominantly of:**
+
+
+**Q43. The media of muscular arteries is composed predominantly of:**
 
 A) Circularly arranged smooth muscle
 
@@ -12622,7 +13518,9 @@ D) Elastic lamellae
 
 ---
 
-**Q8. Capillary basal lamina is synthesized jointly by endothelial cells and:**
+
+
+**Q44. Capillary basal lamina is synthesized jointly by endothelial cells and:**
 
 A) Platelets
 
@@ -12649,7 +13547,9 @@ D) Erythrocytes
 
 ---
 
-**Q9. Which statement about the windkessel effect is TRUE?**
+
+
+**Q45. Which statement about the windkessel effect is TRUE?**
 
 A) It requires valves
 
@@ -12676,7 +13576,9 @@ D) It occurs in veins
 
 ---
 
-**Q10. Hyaline arteriolosclerosis is characteristically seen in:**
+
+
+**Q46. Hyaline arteriolosclerosis is characteristically seen in:**
 
 A) Normal arteries
 
@@ -12703,7 +13605,9 @@ D) Young athletes
 
 ---
 
-**Q11. Purkinje fibers are best identified by:**
+
+
+**Q47. Purkinje fibers are best identified by:**
 
 A) Peripheral nuclei
 
@@ -12715,7 +13619,7 @@ D) Multinucleation
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Peripheral nuclei is correct because it matches the defining feature described in Junqueira 17th for purkinje fibers are best identified by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -12730,7 +13634,9 @@ D) Multinucleation
 
 ---
 
-**Q12. Which vessel lacks smooth muscle entirely?**
+
+
+**Q48. Which vessel lacks smooth muscle entirely?**
 
 A) Muscular artery
 
@@ -12742,7 +13648,7 @@ D) Capillary
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Muscular artery is correct because it matches the defining feature described in Junqueira 17th for which vessel lacks smooth muscle entirely. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -12759,7 +13665,9 @@ D) Capillary
 
 ### Part E — High-Difficulty
 
-**Q1. The main resistance vessels are:**
+
+
+**Q49. The main resistance vessels are:**
 
 A) Venules
 
@@ -12786,7 +13694,9 @@ D) Arterioles
 
 ---
 
-**Q2. The epicardium contains:**
+
+
+**Q50. The epicardium contains:**
 
 A) Elastic lamellae
 
@@ -12813,7 +13723,9 @@ D) Cardiac muscle only
 
 ---
 
-**Q3. Cystic medial degeneration weakening the aortic media is associated with:**
+
+
+**Q51. Cystic medial degeneration weakening the aortic media is associated with:**
 
 A) Varicose veins
 
@@ -12840,7 +13752,9 @@ D) Vasculitis
 
 ---
 
-**Q4. The windkessel effect depends on the recoil of:**
+
+
+**Q52. The windkessel effect depends on the recoil of:**
 
 A) Smooth muscle
 
@@ -12867,7 +13781,9 @@ D) Endothelium
 
 ---
 
-**Q5. Venous valves are formed by folds of the:**
+
+
+**Q53. Venous valves are formed by folds of the:**
 
 A) Intima (endothelium + thin CT core)
 
@@ -12894,7 +13810,9 @@ D) Adventitia
 
 ---
 
-**Q6. Cardiac muscle cells are connected end-to-end by:**
+
+
+**Q54. Cardiac muscle cells are connected end-to-end by:**
 
 A) Intercalated discs
 
@@ -12921,7 +13839,9 @@ D) Neuromuscular junctions
 
 ---
 
-**Q7. Capillary exchange occurs by diffusion across the:**
+
+
+**Q55. Capillary exchange occurs by diffusion across the:**
 
 A) Thin endothelial cell layer and basal lamina
 
@@ -12948,7 +13868,9 @@ D) Adventitia
 
 ---
 
-**Q8. Which vessel type has NO smooth muscle in its wall?**
+
+
+**Q56. Which vessel type has NO smooth muscle in its wall?**
 
 A) Capillary
 
@@ -12975,7 +13897,9 @@ D) Arteriole
 
 ---
 
-**Q9. The subendocardial location of Purkinje fibers makes them vulnerable to:**
+
+
+**Q57. The subendocardial location of Purkinje fibers makes them vulnerable to:**
 
 A) Endocarditis
 
@@ -13002,7 +13926,9 @@ D) Atherosclerosis
 
 ---
 
-**Q10. The tunica media of the aorta weakens in aneurysm due to:**
+
+
+**Q58. The tunica media of the aorta weakens in aneurysm due to:**
 
 A) Loss of elastic lamellae and smooth muscle
 
@@ -13029,7 +13955,9 @@ D) Intimal foam cells
 
 ---
 
-**Q11. The blood–nerve-barrier analogue in the circulatory system is best represented by:**
+
+
+**Q59. The blood–nerve-barrier analogue in the circulatory system is best represented by:**
 
 A) Continuous capillaries of the brain
 
@@ -13041,7 +13969,7 @@ D) Fenestrated capillaries
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Continuous capillaries of the brain is correct because it matches the defining feature described in Junqueira 17th for the blood–nerve-barrier analogue in the circulatory system is best represented by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -13056,7 +13984,9 @@ D) Fenestrated capillaries
 
 ---
 
-**Q12. A thin-walled vessel with valves and no red blood cells is a:**
+
+
+**Q60. A thin-walled vessel with valves and no red blood cells is a:**
 
 A) Vein
 
@@ -13068,7 +13998,7 @@ D) Sinusoid
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Vein is correct because it matches the defining feature described in Junqueira 17th for a thin-walled vessel with valves and no red blood cells is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
@@ -13085,7 +14015,9 @@ D) Sinusoid
 
 
 
+
 # Chapter 9 — Blood
+
 
 ### Part A — Recall
 
@@ -13116,6 +14048,8 @@ D) Mitochondria
 
 ---
 
+
+
 **Q2. The nucleus of a monocyte is typically:**
 
 A) Bilobed
@@ -13142,6 +14076,8 @@ D) Round and dense
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Hypersegmented neutrophils (≥6 lobes) suggest:**
 
@@ -13170,6 +14106,8 @@ D) Allergy
 
 ---
 
+
+
 **Q4. Reticulocytes are identified by supravital staining that reveals:**
 
 A) Residual ribosomal RNA (reticular network)
@@ -13196,6 +14134,8 @@ D) Nuclear remnants
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Eosinophil granules stain intensely with eosin due to:**
 
@@ -13224,6 +14164,8 @@ D) Hemoglobin
 
 ---
 
+
+
 **Q6. The normal adult platelet count is approximately:**
 
 A) 150,000–400,000/µL
@@ -13250,6 +14192,8 @@ D) 4,000–11,000/µL
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. In iron-deficiency anemia, RBCs appear:**
 
@@ -13278,6 +14222,8 @@ D) Target cells exclusively
 
 ---
 
+
+
 **Q8. The buffy coat after centrifugation contains:**
 
 A) Plasma
@@ -13304,6 +14250,8 @@ D) Serum only
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. Teardrop-shaped RBCs (dacrocytes) suggest:**
 
@@ -13332,6 +14280,8 @@ D) Myelofibrosis
 
 ---
 
+
+
 **Q10. Which cell is the blood counterpart of the connective-tissue mast cell?**
 
 A) Monocyte
@@ -13359,6 +14309,8 @@ D) Eosinophil
 
 ---
 
+
+
 **Q11. A smear shows cells with bilobed nuclei and red-orange granules. These are:**
 
 A) Eosinophils
@@ -13371,7 +14323,7 @@ D) Neutrophils
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Eosinophils is correct because it matches the defining feature described in Junqueira 17th for a smear shows cells with bilobed nuclei and red-orange granules. these are. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -13386,6 +14338,8 @@ D) Neutrophils
 
 ---
 
+
+
 **Q12. Platelet dense granules contain:**
 
 A) Fibrinogen
@@ -13398,7 +14352,7 @@ D) Histamine
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Fibrinogen is correct because it matches the defining feature described in Junqueira 17th for platelet dense granules contain. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -13415,7 +14369,9 @@ D) Histamine
 
 ### Part B — Understanding
 
-**Q1. The stain used to demonstrate reticulocytes is:**
+
+
+**Q13. The stain used to demonstrate reticulocytes is:**
 
 A) Wright-Giemsa only
 
@@ -13442,7 +14398,9 @@ D) Supravital stain (new methylene blue)
 
 ---
 
-**Q2. Specific (secondary) granules of neutrophils first appear at the:**
+
+
+**Q14. Specific (secondary) granules of neutrophils first appear at the:**
 
 A) Myeloblast
 
@@ -13469,7 +14427,9 @@ D) Metamyelocyte
 
 ---
 
-**Q3. A "left shift" in the WBC count refers to:**
+
+
+**Q15. A "left shift" in the WBC count refers to:**
 
 A) Increased eosinophils
 
@@ -13496,7 +14456,9 @@ D) Increased band/immature neutrophils
 
 ---
 
-**Q4. The normal reticulocyte count is approximately:**
+
+
+**Q16. The normal reticulocyte count is approximately:**
 
 A) 0.5–2%
 
@@ -13523,7 +14485,9 @@ D) 50%
 
 ---
 
-**Q5. Basophils contain granules rich in histamine and:**
+
+
+**Q17. Basophils contain granules rich in histamine and:**
 
 A) Major basic protein
 
@@ -13550,7 +14514,9 @@ D) Heparin
 
 ---
 
-**Q6. Neutrophils arrive at sites of acute bacterial infection within:**
+
+
+**Q18. Neutrophils arrive at sites of acute bacterial infection within:**
 
 A) They never leave the bloodstream
 
@@ -13577,7 +14543,9 @@ D) Months
 
 ---
 
-**Q7. Sickle cell disease results from a point mutation in the gene encoding:**
+
+
+**Q19. Sickle cell disease results from a point mutation in the gene encoding:**
 
 A) Fetal hemoglobin
 
@@ -13604,7 +14572,9 @@ D) Beta-globin
 
 ---
 
-**Q8. Serum lacks:**
+
+
+**Q20. Serum lacks:**
 
 A) Clotting factors, particularly fibrinogen
 
@@ -13631,7 +14601,9 @@ D) Red blood cells only
 
 ---
 
-**Q9. Atypical lymphocytes on a smear are classically seen in:**
+
+
+**Q21. Atypical lymphocytes on a smear are classically seen in:**
 
 A) Iron deficiency
 
@@ -13658,7 +14630,9 @@ D) Infectious mononucleosis (EBV)
 
 ---
 
-**Q10. Reticulocytosis is most characteristic of:**
+
+
+**Q22. Reticulocytosis is most characteristic of:**
 
 A) Aplastic anemia
 
@@ -13685,7 +14659,9 @@ D) B12 deficiency
 
 ---
 
-**Q11. A patient with splenectomy would most likely show:**
+
+
+**Q23. A patient with splenectomy would most likely show:**
 
 A) Left shift
 
@@ -13697,7 +14673,7 @@ D) Hypersegmented neutrophils
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Left shift is correct because it matches the defining feature described in Junqueira 17th for a patient with splenectomy would most likely show. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -13712,7 +14688,9 @@ D) Hypersegmented neutrophils
 
 ---
 
-**Q12. A left shift refers to increased:**
+
+
+**Q24. A left shift refers to increased:**
 
 A) Lymphocytes
 
@@ -13724,7 +14702,7 @@ D) Band neutrophils
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lymphocytes is correct because it matches the defining feature described in Junqueira 17th for a left shift refers to increased. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -13741,7 +14719,9 @@ D) Band neutrophils
 
 ### Part C — Application
 
-**Q1. Eosinophils characteristically have:**
+
+
+**Q25. Eosinophils characteristically have:**
 
 A) Round nucleus + thin rim
 
@@ -13768,7 +14748,9 @@ D) Obscured nucleus + blue granules
 
 ---
 
-**Q2. Azurophilic (primary) granules of neutrophils are essentially:**
+
+
+**Q26. Azurophilic (primary) granules of neutrophils are essentially:**
 
 A) Glycogen
 
@@ -13795,7 +14777,9 @@ D) Mitochondria
 
 ---
 
-**Q3. Howell-Jolly bodies in RBCs are seen after:**
+
+
+**Q27. Howell-Jolly bodies in RBCs are seen after:**
 
 A) Splenectomy
 
@@ -13822,7 +14806,9 @@ D) Iron deficiency
 
 ---
 
-**Q4. Howell-Jolly bodies are classically seen following:**
+
+
+**Q28. Howell-Jolly bodies are classically seen following:**
 
 A) Thymectomy
 
@@ -13849,7 +14835,9 @@ D) Liver transplant
 
 ---
 
-**Q5. Lymphocytes are characterized microscopically by:**
+
+
+**Q29. Lymphocytes are characterized microscopically by:**
 
 A) A large round nucleus with scant cytoplasm
 
@@ -13876,7 +14864,9 @@ D) Abundant cytoplasm and a multilobed nucleus
 
 ---
 
-**Q6. Eosinophilia is classically associated with:**
+
+
+**Q30. Eosinophilia is classically associated with:**
 
 A) Acute bacterial infection
 
@@ -13903,7 +14893,9 @@ D) Chronic renal failure
 
 ---
 
-**Q7. ABO blood-group antigens are:**
+
+
+**Q31. ABO blood-group antigens are:**
 
 A) Carbohydrate (glycoprotein/glycolipid) antigens
 
@@ -13930,7 +14922,9 @@ D) Proteins only
 
 ---
 
-**Q8. Acute leukemia is defined by a bone-marrow blast percentage of at least:**
+
+
+**Q32. Acute leukemia is defined by a bone-marrow blast percentage of at least:**
 
 A) 5%
 
@@ -13957,7 +14951,9 @@ D) 90%
 
 ---
 
-**Q9. Target cells are associated with:**
+
+
+**Q33. Target cells are associated with:**
 
 A) Lead poisoning only
 
@@ -13984,7 +14980,9 @@ D) B12 deficiency only
 
 ---
 
-**Q10. The central pallor of a normal RBC occupies approximately:**
+
+
+**Q34. The central pallor of a normal RBC occupies approximately:**
 
 A) The entire cell
 
@@ -14011,7 +15009,9 @@ D) One-third of the diameter
 
 ---
 
-**Q11. Reticulocytes contain residual:**
+
+
+**Q35. Reticulocytes contain residual:**
 
 A) RNA
 
@@ -14023,7 +15023,7 @@ D) DNA
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** RNA is correct because it matches the defining feature described in Junqueira 17th for reticulocytes contain residual. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -14038,7 +15038,9 @@ D) DNA
 
 ---
 
-**Q12. Basophilic stippling is classically due to:**
+
+
+**Q36. Basophilic stippling is classically due to:**
 
 A) Iron deficiency
 
@@ -14050,7 +15052,7 @@ D) B12 deficiency
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Iron deficiency is correct because it matches the defining feature described in Junqueira 17th for basophilic stippling is classically due to. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -14067,7 +15069,9 @@ D) B12 deficiency
 
 ### Part D — Integration
 
-**Q1. The granules that obscure the nucleus are seen in:**
+
+
+**Q37. The granules that obscure the nucleus are seen in:**
 
 A) Basophils
 
@@ -14094,7 +15098,9 @@ D) Eosinophils
 
 ---
 
-**Q2. Platelet α-granules contain:**
+
+
+**Q38. Platelet α-granules contain:**
 
 A) ADP and serotonin
 
@@ -14121,7 +15127,9 @@ D) Histamine
 
 ---
 
-**Q3. The membrane protein responsible for RBC deformability is:**
+
+
+**Q39. The membrane protein responsible for RBC deformability is:**
 
 A) Anion exchanger only
 
@@ -14148,7 +15156,9 @@ D) Spectrin
 
 ---
 
-**Q4. The normal lifespan of a circulating erythrocyte is approximately:**
+
+
+**Q40. The normal lifespan of a circulating erythrocyte is approximately:**
 
 A) 1 year
 
@@ -14175,7 +15185,9 @@ D) 120 days
 
 ---
 
-**Q5. Monocytes characteristically have a nucleus that is:**
+
+
+**Q41. Monocytes characteristically have a nucleus that is:**
 
 A) Absent
 
@@ -14202,7 +15214,9 @@ D) Round and small
 
 ---
 
-**Q6. Microcytic hypochromic anemia is most classically caused by:**
+
+
+**Q42. Microcytic hypochromic anemia is most classically caused by:**
 
 A) Chronic hemolysis
 
@@ -14229,7 +15243,9 @@ D) Folate deficiency
 
 ---
 
-**Q7. Blood type O is the universal donor because the RBCs lack:**
+
+
+**Q43. Blood type O is the universal donor because the RBCs lack:**
 
 A) Plasma proteins
 
@@ -14256,7 +15272,9 @@ D) All surface antigens including Rh
 
 ---
 
-**Q8. Toxic granulation and Döhle bodies in neutrophils suggest:**
+
+
+**Q44. Toxic granulation and Döhle bodies in neutrophils suggest:**
 
 A) Iron deficiency
 
@@ -14283,7 +15301,9 @@ D) Severe bacterial infection/systemic inflammation
 
 ---
 
-**Q9. Which granule contains myeloperoxidase?**
+
+
+**Q45. Which granule contains myeloperoxidase?**
 
 A) α-granule
 
@@ -14310,7 +15330,9 @@ D) Dense (δ)
 
 ---
 
-**Q10. Which statement about platelets is TRUE?**
+
+
+**Q46. Which statement about platelets is TRUE?**
 
 A) They are whole cells
 
@@ -14337,7 +15359,9 @@ D) They are anucleate fragments with α- and dense granules
 
 ---
 
-**Q11. Hypersegmented neutrophils indicate:**
+
+
+**Q47. Hypersegmented neutrophils indicate:**
 
 A) Lead poisoning
 
@@ -14349,7 +15373,7 @@ D) B12/folate deficiency
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lead poisoning is correct because it matches the defining feature described in Junqueira 17th for hypersegmented neutrophils indicate. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -14364,7 +15388,9 @@ D) B12/folate deficiency
 
 ---
 
-**Q12. Serum differs from plasma by lacking:**
+
+
+**Q48. Serum differs from plasma by lacking:**
 
 A) Albumin
 
@@ -14376,7 +15402,7 @@ D) Globulins
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Albumin is correct because it matches the defining feature described in Junqueira 17th for serum differs from plasma by lacking. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -14393,7 +15419,9 @@ D) Globulins
 
 ### Part E — High-Difficulty
 
-**Q1. The largest leukocyte in peripheral blood is the:**
+
+
+**Q49. The largest leukocyte in peripheral blood is the:**
 
 A) Neutrophil
 
@@ -14420,7 +15448,9 @@ D) Eosinophil
 
 ---
 
-**Q2. Platelet dense (δ) granules contain:**
+
+
+**Q50. Platelet dense (δ) granules contain:**
 
 A) ADP, ATP, Ca²⁺, serotonin
 
@@ -14447,7 +15477,9 @@ D) vWF
 
 ---
 
-**Q3. Serum differs from plasma by the absence of:**
+
+
+**Q51. Serum differs from plasma by the absence of:**
 
 A) Electrolytes
 
@@ -14474,7 +15506,9 @@ D) Globulins
 
 ---
 
-**Q4. Neutrophils are characterized by a nucleus with:**
+
+
+**Q52. Neutrophils are characterized by a nucleus with:**
 
 A) 2–5 lobes connected by thin strands
 
@@ -14501,7 +15535,9 @@ D) A single round shape
 
 ---
 
-**Q5. Platelets are derived from the cytoplasm of:**
+
+
+**Q53. Platelets are derived from the cytoplasm of:**
 
 A) Megakaryocytes
 
@@ -14528,7 +15564,9 @@ D) Erythroblasts
 
 ---
 
-**Q6. Macrocytic (megaloblastic) anemia is classically caused by:**
+
+
+**Q54. Macrocytic (megaloblastic) anemia is classically caused by:**
 
 A) Iron
 
@@ -14555,7 +15593,9 @@ D) Copper
 
 ---
 
-**Q7. Basophilic stippling of RBCs is classically associated with:**
+
+
+**Q55. Basophilic stippling of RBCs is classically associated with:**
 
 A) Iron deficiency
 
@@ -14582,7 +15622,9 @@ D) Normal aging
 
 ---
 
-**Q8. Which is correctly paired?**
+
+
+**Q56. Which is correctly paired regarding leukocyte granules and mediators?**
 
 A) Neutrophil — major basic protein
 
@@ -14609,7 +15651,9 @@ D) Basophil — histamine and heparin
 
 ---
 
-**Q9. The normal adult RBC count is approximately:**
+
+
+**Q57. The normal adult RBC count is approximately:**
 
 A) 4–6 million/µL
 
@@ -14636,7 +15680,9 @@ D) 4,000–11,000/µL
 
 ---
 
-**Q10. A patient with severe B12 deficiency would most likely show:**
+
+
+**Q58. A patient with severe B12 deficiency would most likely show:**
 
 A) Spherocytes and reticulocytosis
 
@@ -14663,7 +15709,9 @@ D) Macrocytic RBCs and hypersegmented neutrophils
 
 ---
 
-**Q11. The largest circulating leukocyte is the:**
+
+
+**Q59. The largest circulating leukocyte is the:**
 
 A) Monocyte
 
@@ -14675,7 +15723,7 @@ D) Lymphocyte
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Monocyte is correct because it matches the defining feature described in Junqueira 17th for the largest circulating leukocyte is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -14690,7 +15738,9 @@ D) Lymphocyte
 
 ---
 
-**Q12. Microcytic hypochromic anemia is most characteristic of:**
+
+
+**Q60. Microcytic hypochromic anemia is most characteristic of:**
 
 A) Acute blood loss
 
@@ -14702,7 +15752,7 @@ D) Folate deficiency
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Acute blood loss is correct because it matches the defining feature described in Junqueira 17th for microcytic hypochromic anemia is most characteristic of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
@@ -14719,7 +15769,9 @@ D) Folate deficiency
 
 
 
+
 # Chapter 10 — Hemopoiesis
+
 
 ### Part A — Recall
 
@@ -14750,6 +15802,8 @@ D) CD3
 
 ---
 
+
+
 **Q2. The erythroblast stage that extrudes its nucleus is the:**
 
 A) Orthochromatic (acidophilic) erythroblast
@@ -14776,6 +15830,8 @@ D) Polychromatophilic erythroblast
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. A hypocellular marrow replaced by fat indicates:**
 
@@ -14804,6 +15860,8 @@ D) CML
 
 ---
 
+
+
 **Q4. Erythropoietin is produced mainly by:**
 
 A) Hepatocytes (in adults)
@@ -14830,6 +15888,8 @@ D) Renal peritubular interstitial cells
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. The most primitive hematopoietic cell is the:**
 
@@ -14858,6 +15918,8 @@ D) Myeloblast
 
 ---
 
+
+
 **Q6. Extramedullary hematopoiesis in adults most commonly occurs in the:**
 
 A) Kidney and lung
@@ -14884,6 +15946,8 @@ D) Skin
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Aplastic anemia results from failure to produce:**
 
@@ -14912,6 +15976,8 @@ D) Platelets only
 
 ---
 
+
+
 **Q8. Specific (secondary) granules first appear at which stage?**
 
 A) Band cell
@@ -14938,6 +16004,8 @@ D) Myelocyte
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The cytoplasmic color change (blue → pink) during erythropoiesis reflects:**
 
@@ -14966,6 +16034,8 @@ D) Iron accumulation
 
 ---
 
+
+
 **Q10. Which is TRUE of the orthochromatic erythroblast?**
 
 A) It is the last nucleated stage before extrusion
@@ -14993,6 +16063,8 @@ D) It divides actively
 
 ---
 
+
+
 **Q11. A marrow aspirate shows a very large cell with a single multilobed polyploid nucleus. This is a:**
 
 A) Megakaryocyte
@@ -15005,7 +16077,7 @@ D) Osteoclast
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Megakaryocyte is correct because it matches the defining feature described in Junqueira 17th for a marrow aspirate shows a very large cell with a single multilobed polyploid nucleus. this is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -15020,6 +16092,8 @@ D) Osteoclast
 
 ---
 
+
+
 **Q12. The orthochromatic erythroblast:**
 
 A) Divides actively
@@ -15032,7 +16106,7 @@ D) Is the earliest erythroid stage
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Divides actively is correct because it matches the defining feature described in Junqueira 17th for the orthochromatic erythroblast. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -15049,7 +16123,9 @@ D) Is the earliest erythroid stage
 
 ### Part B — Understanding
 
-**Q1. The normal myeloid:erythroid (M:E) ratio is approximately:**
+
+
+**Q13. The normal myeloid:erythroid (M:E) ratio is approximately:**
 
 A) 10:1
 
@@ -15076,7 +16152,9 @@ D) 1:1
 
 ---
 
-**Q2. Erythroblastic islands are organized around a central:**
+
+
+**Q14. Erythroblastic islands are organized around a central:**
 
 A) Megakaryocyte
 
@@ -15103,7 +16181,9 @@ D) Macrophage
 
 ---
 
-**Q3. Teardrop RBCs (dacrocytes) and extramedullary hematopoiesis suggest:**
+
+
+**Q15. Teardrop RBCs (dacrocytes) and extramedullary hematopoiesis suggest:**
 
 A) Sickle cell
 
@@ -15130,7 +16210,9 @@ D) Myelofibrosis
 
 ---
 
-**Q4. Bone-marrow hematopoiesis occurs primarily adjacent to:**
+
+
+**Q16. Bone-marrow hematopoiesis occurs primarily adjacent to:**
 
 A) Arterioles
 
@@ -15157,7 +16239,9 @@ D) Venules only
 
 ---
 
-**Q5. G-CSF stimulates production of:**
+
+
+**Q17. G-CSF stimulates production of:**
 
 A) Lymphocytes
 
@@ -15184,7 +16268,9 @@ D) Platelets
 
 ---
 
-**Q6. Bone-marrow stroma includes reticular cells, adipocytes, and:**
+
+
+**Q18. Bone-marrow stroma includes reticular cells, adipocytes, and:**
 
 A) Osteoclasts only
 
@@ -15211,7 +16297,9 @@ D) Hepatocytes
 
 ---
 
-**Q7. The earliest identifiable granulocyte precursor is the:**
+
+
+**Q19. The earliest identifiable granulocyte precursor is the:**
 
 A) Band cell
 
@@ -15238,7 +16326,9 @@ D) Metamyelocyte
 
 ---
 
-**Q8. The yolk sac is active during:**
+
+
+**Q20. The yolk sac is active during:**
 
 A) Throughout gestation equally
 
@@ -15265,7 +16355,9 @@ D) The third trimester exclusively
 
 ---
 
-**Q9. Which cell is the largest in the bone marrow?**
+
+
+**Q21. Which cell is the largest in the bone marrow?**
 
 A) Myeloblast
 
@@ -15292,7 +16384,9 @@ D) Plasma cell
 
 ---
 
-**Q10. Renal anemia is best explained by:**
+
+
+**Q22. Renal anemia is best explained by:**
 
 A) Erythropoietin deficiency
 
@@ -15319,7 +16413,9 @@ D) Iron deficiency
 
 ---
 
-**Q11. The last dividing granulocyte precursor is the:**
+
+
+**Q23. The last dividing granulocyte precursor is the:**
 
 A) Band cell
 
@@ -15331,7 +16427,7 @@ D) Metamyelocyte
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Band cell is correct because it matches the defining feature described in Junqueira 17th for the last dividing granulocyte precursor is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -15346,7 +16442,9 @@ D) Metamyelocyte
 
 ---
 
-**Q12. A leukemoid reaction is distinguished from CML by a:**
+
+
+**Q24. A leukemoid reaction is distinguished from CML by a:**
 
 A) Low reticulocyte count
 
@@ -15358,7 +16456,7 @@ D) High LAP score
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Low reticulocyte count is correct because it matches the defining feature described in Junqueira 17th for a leukemoid reaction is distinguished from cml by a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -15375,7 +16473,9 @@ D) High LAP score
 
 ### Part C — Application
 
-**Q1. Primary (azurophilic) granules first appear in the:**
+
+
+**Q25. Primary (azurophilic) granules first appear in the:**
 
 A) Myelocyte
 
@@ -15402,7 +16502,9 @@ D) Promyelocyte
 
 ---
 
-**Q2. Megakaryocytes are characterized by:**
+
+
+**Q26. Megakaryocytes are characterized by:**
 
 A) A polyploid nucleus via endomitosis
 
@@ -15429,7 +16531,9 @@ D) A diploid nucleus
 
 ---
 
-**Q3. Acute leukemia is defined by marrow blasts of at least:**
+
+
+**Q27. Acute leukemia is defined by marrow blasts of at least:**
 
 A) 5%
 
@@ -15456,7 +16560,9 @@ D) 90%
 
 ---
 
-**Q4. Thrombopoietin acts primarily on:**
+
+
+**Q28. Thrombopoietin acts primarily on:**
 
 A) Myeloblasts
 
@@ -15483,7 +16589,9 @@ D) Megakaryocytes
 
 ---
 
-**Q5. The first morphologically recognizable erythroid precursor is the:**
+
+
+**Q29. The first morphologically recognizable erythroid precursor is the:**
 
 A) Proerythroblast
 
@@ -15510,7 +16618,9 @@ D) Reticulocyte
 
 ---
 
-**Q6. IL-3 and GM-CSF act on:**
+
+
+**Q30. IL-3 and GM-CSF act on:**
 
 A) No role in hematopoiesis
 
@@ -15537,7 +16647,9 @@ D) Post-mitotic cells only
 
 ---
 
-**Q7. Thrombopoietin is produced mainly by the:**
+
+
+**Q31. Thrombopoietin is produced mainly by the:**
 
 A) Bone-marrow stroma
 
@@ -15564,7 +16676,9 @@ D) Kidney
 
 ---
 
-**Q8. A leukemoid reaction is distinguished from CML by a ___ LAP score:**
+
+
+**Q32. A leukemoid reaction is distinguished from CML by a ___ LAP score:**
 
 A) The LAP score is not useful
 
@@ -15591,7 +16705,9 @@ D) High
 
 ---
 
-**Q9. In hemolytic anemia, the marrow M:E ratio:**
+
+
+**Q33. In hemolytic anemia, the marrow M:E ratio:**
 
 A) Stays constant
 
@@ -15618,7 +16734,9 @@ D) Decreases (erythroid hyperplasia)
 
 ---
 
-**Q10. The polyploidy of the megakaryocyte is achieved by:**
+
+
+**Q34. The polyploidy of the megakaryocyte is achieved by:**
 
 A) Phagocytosis
 
@@ -15645,7 +16763,9 @@ D) Cell fusion
 
 ---
 
-**Q11. A hypocellular, fat-replaced marrow with pancytopenia indicates:**
+
+
+**Q35. A hypocellular, fat-replaced marrow with pancytopenia indicates:**
 
 A) Myelofibrosis
 
@@ -15657,7 +16777,7 @@ D) Aplastic anemia
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Myelofibrosis is correct because it matches the defining feature described in Junqueira 17th for a hypocellular, fat-replaced marrow with pancytopenia indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -15672,7 +16792,9 @@ D) Aplastic anemia
 
 ---
 
-**Q12. Primary (azurophilic) granules first appear at the:**
+
+
+**Q36. Primary (azurophilic) granules first appear at the:**
 
 A) Promyelocyte
 
@@ -15684,7 +16806,7 @@ D) Myeloblast
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Promyelocyte is correct because it matches the defining feature described in Junqueira 17th for primary (azurophilic) granules first appear at the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -15701,7 +16823,9 @@ D) Myeloblast
 
 ### Part D — Integration
 
-**Q1. The last granulocyte precursor capable of mitosis is the:**
+
+
+**Q37. The last granulocyte precursor capable of mitosis is the:**
 
 A) Metamyelocyte
 
@@ -15728,7 +16852,9 @@ D) Myelocyte
 
 ---
 
-**Q2. During erythropoiesis, cell size:**
+
+
+**Q38. During erythropoiesis, cell size:**
 
 A) Doubles
 
@@ -15755,7 +16881,9 @@ D) Stays constant
 
 ---
 
-**Q3. Yellow bone marrow is composed mainly of:**
+
+
+**Q39. Yellow bone marrow is composed mainly of:**
 
 A) Megakaryocytes
 
@@ -15782,7 +16910,9 @@ D) Fibroblasts
 
 ---
 
-**Q4. In the second trimester, the primary site of hematopoiesis is the:**
+
+
+**Q40. In the second trimester, the primary site of hematopoiesis is the:**
 
 A) Yolk sac
 
@@ -15809,7 +16939,9 @@ D) Thymus
 
 ---
 
-**Q5. The nucleus is extruded at which erythroid stage?**
+
+
+**Q41. The nucleus is extruded at which erythroid stage?**
 
 A) It is never extruded
 
@@ -15836,7 +16968,9 @@ D) Basophilic erythroblast
 
 ---
 
-**Q6. A left shift in peripheral blood is characterized by increased:**
+
+
+**Q42. A left shift in peripheral blood is characterized by increased:**
 
 A) Segmented neutrophils
 
@@ -15863,7 +16997,9 @@ D) Eosinophils
 
 ---
 
-**Q7. Colony-forming-unit assays are named according to the:**
+
+
+**Q43. Colony-forming-unit assays are named according to the:**
 
 A) Site of biopsy
 
@@ -15890,7 +17026,9 @@ D) Size of the colony
 
 ---
 
-**Q8. The marrow biopsy that preserves architecture is the:**
+
+
+**Q44. The marrow biopsy that preserves architecture is the:**
 
 A) Peripheral smear
 
@@ -15917,7 +17055,9 @@ D) Core (trephine) biopsy
 
 ---
 
-**Q9. Which correctly orders granulopoiesis?**
+
+
+**Q45. Which correctly orders granulopoiesis?**
 
 A) Myeloblast → metamyelocyte → promyelocyte → myelocyte
 
@@ -15944,7 +17084,9 @@ D) Myelocyte → promyelocyte → metamyelocyte → band
 
 ---
 
-**Q10. Basophilia in the peripheral blood is most characteristic of:**
+
+
+**Q46. Basophilia in the peripheral blood is most characteristic of:**
 
 A) Iron deficiency
 
@@ -15971,7 +17113,9 @@ D) Chronic myeloid leukemia
 
 ---
 
-**Q11. Teardrop-shaped red cells and splenomegaly suggest:**
+
+
+**Q47. Teardrop-shaped red cells and splenomegaly suggest:**
 
 A) Lead poisoning
 
@@ -15983,7 +17127,7 @@ D) B12 deficiency
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lead poisoning is correct because it matches the defining feature described in Junqueira 17th for teardrop-shaped red cells and splenomegaly suggest. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -15998,36 +17142,9 @@ D) B12 deficiency
 
 ---
 
-**Q12. Acute leukemia is defined by marrow blasts of at least:**
 
-A) 5%
 
-B) 20%
-
-C) 50%
-
-D) 75%
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
-
-**Difficulty:** Integration
-
----
-
-### Part E — High-Difficulty
-
-**Q1. Specific (secondary) granules first appear in the:**
+**Q48. Specific (secondary) granules first appear in the:**
 
 A) Myeloblast
 
@@ -16054,7 +17171,9 @@ D) Band
 
 ---
 
-**Q2. In the adult, the main site of hematopoiesis is the:**
+
+
+**Q49. In the adult, the main site of hematopoiesis is the:**
 
 A) Bone marrow
 
@@ -16081,7 +17200,9 @@ D) Spleen
 
 ---
 
-**Q3. The metamyelocyte nucleus is:**
+
+
+**Q50. The metamyelocyte nucleus is:**
 
 A) Indented / kidney-shaped
 
@@ -16108,7 +17229,9 @@ D) Round with nucleoli
 
 ---
 
-**Q4. By birth, the primary site of hematopoiesis is the:**
+
+
+**Q51. By birth, the primary site of hematopoiesis is the:**
 
 A) Spleen
 
@@ -16135,7 +17258,9 @@ D) Bone marrow
 
 ---
 
-**Q5. Megakaryocytes undergo nuclear replication without cell division, called:**
+
+
+**Q52. Megakaryocytes undergo nuclear replication without cell division, called:**
 
 A) Endomitosis
 
@@ -16162,7 +17287,9 @@ D) Mitosis
 
 ---
 
-**Q6. The normal M:E ratio is:**
+
+
+**Q53. The normal M:E ratio is:**
 
 A) Approximately 2:1 to 4:1 (myeloid predominant)
 
@@ -16189,7 +17316,9 @@ D) 1:1
 
 ---
 
-**Q7. In myelodysplastic syndromes, the marrow typically shows:**
+
+
+**Q54. In myelodysplastic syndromes, the marrow typically shows:**
 
 A) Absence of blasts entirely
 
@@ -16216,7 +17345,9 @@ D) Normal maturation
 
 ---
 
-**Q8. Which growth factor is correctly paired with its source?**
+
+
+**Q55. Which growth factor is correctly paired with its source?**
 
 A) EPO — kidney
 
@@ -16243,7 +17374,9 @@ D) EPO — liver
 
 ---
 
-**Q9. The extruded erythroblast nucleus is phagocytosed by:**
+
+
+**Q56. The extruded erythroblast nucleus is phagocytosed by:**
 
 A) Neutrophils
 
@@ -16270,7 +17403,9 @@ D) Megakaryocytes
 
 ---
 
-**Q10. Which statement about hematopoiesis is TRUE?**
+
+
+**Q57. Which statement about hematopoiesis is TRUE?**
 
 A) It occurs in lymph nodes as the primary site
 
@@ -16297,7 +17432,9 @@ D) It never leaves the bone marrow after birth
 
 ---
 
-**Q11. Erythropoietin is produced by the:**
+
+
+**Q58. Erythropoietin is produced by the:**
 
 A) Bone marrow
 
@@ -16309,7 +17446,7 @@ D) Spleen
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Bone marrow is correct because it matches the defining feature described in Junqueira 17th for erythropoietin is produced by the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
@@ -16323,37 +17460,10 @@ D) Spleen
 **Difficulty:** High-Difficulty
 
 ---
-
-**Q12. In hemolytic anemia, the marrow M:E ratio:**
-
-A) Remains 3:1
-
-B) Becomes 10:1
-
-C) Increases
-
-D) Decreases
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
-
-**Difficulty:** High-Difficulty
-
----
-
 
 
 # Chapter 11 — The Immune System & Lymphoid Organs
+
 
 ### Part A — Recall
 
@@ -16384,6 +17494,8 @@ D) Spleen white pulp
 
 ---
 
+
+
 **Q2. Old and damaged RBCs are removed in the spleen by the:**
 
 A) Red-pulp cords and sinusoids
@@ -16410,6 +17522,8 @@ D) White-pulp PALS
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. DiGeorge syndrome is characterized by absence of the:**
 
@@ -16438,6 +17552,8 @@ D) Spleen
 
 ---
 
+
+
 **Q4. Germinal centers are the primary site of:**
 
 A) Erythropoiesis
@@ -16464,6 +17580,8 @@ D) B-cell proliferation and affinity maturation
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Hassall's corpuscles are composed of:**
 
@@ -16492,6 +17610,8 @@ D) Plasma cells
 
 ---
 
+
+
 **Q6. The PALS is composed predominantly of:**
 
 A) Plasma cells
@@ -16518,6 +17638,8 @@ D) T lymphocytes
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Natural killer (NK) cells lack:**
 
@@ -16546,6 +17668,8 @@ D) Antigen-specific T- or B-cell receptors
 
 ---
 
+
+
 **Q8. The thymus undergoes involution (adipose replacement) most pronounced:**
 
 A) It never involutes
@@ -16572,6 +17696,8 @@ D) After puberty, continuing through adult life
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. Which best describes the marginal zone?**
 
@@ -16600,6 +17726,8 @@ D) The border between white and red pulp (antigen capture)
 
 ---
 
+
+
 **Q10. Which is TRUE of the tonsils?**
 
 A) They contain red and white pulp
@@ -16627,6 +17755,8 @@ D) They have crypts and no afferent lymphatics
 
 ---
 
+
+
 **Q11. A lymphoid organ shows Hassall's corpuscles and no germinal centers. It is the:**
 
 A) Lymph node
@@ -16639,7 +17769,7 @@ D) Tonsil
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Lymph node is correct because it matches the defining feature described in Junqueira 17th for a lymphoid organ shows hassall's corpuscles and no germinal centers. it is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -16654,6 +17784,8 @@ D) Tonsil
 
 ---
 
+
+
 **Q12. Post-splenectomy smears classically show:**
 
 A) Howell-Jolly bodies
@@ -16666,7 +17798,7 @@ D) Hypersegmented neutrophils
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Howell-Jolly bodies is correct because it matches the defining feature described in Junqueira 17th for post-splenectomy smears classically show. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -16683,7 +17815,9 @@ D) Hypersegmented neutrophils
 
 ### Part B — Understanding
 
-**Q1. The thymus characteristically lacks:**
+
+
+**Q13. The thymus characteristically lacks:**
 
 A) A medulla
 
@@ -16710,7 +17844,9 @@ D) Epithelial cells
 
 ---
 
-**Q2. The spleen differs from lymph nodes in that it:**
+
+
+**Q14. The spleen differs from lymph nodes in that it:**
 
 A) Has NO afferent lymphatics (filters blood)
 
@@ -16737,7 +17873,9 @@ D) Has afferent lymphatics
 
 ---
 
-**Q3. Medullary cords of the lymph node contain mainly:**
+
+
+**Q15. Medullary cords of the lymph node contain mainly:**
 
 A) Plasma cells and macrophages
 
@@ -16764,7 +17902,9 @@ D) Immature T cells
 
 ---
 
-**Q4. The thymus provides the microenvironment for maturation of:**
+
+
+**Q16. The thymus provides the microenvironment for maturation of:**
 
 A) T lymphocytes
 
@@ -16791,7 +17931,9 @@ D) B lymphocytes
 
 ---
 
-**Q5. The blood–thymus barrier separates the cortex from:**
+
+
+**Q17. The blood–thymus barrier separates the cortex from:**
 
 A) The capsule
 
@@ -16818,7 +17960,9 @@ D) The blood (antigens)
 
 ---
 
-**Q6. In a lymph node, primary follicles of the outer cortex are:**
+
+
+**Q18. In a lymph node, primary follicles of the outer cortex are:**
 
 A) Composed of macrophages only
 
@@ -16845,7 +17989,9 @@ D) Devoid of lymphocytes
 
 ---
 
-**Q7. Peyer's patches are an example of:**
+
+
+**Q19. Peyer's patches are an example of:**
 
 A) A primary lymphoid organ
 
@@ -16872,7 +18018,9 @@ D) Bone-marrow-derived tissue
 
 ---
 
-**Q8. Germinal centers develop in response to:**
+
+
+**Q20. Germinal centers develop in response to:**
 
 A) Antigenic stimulation (active B proliferation/selection)
 
@@ -16899,7 +18047,9 @@ D) T-independent antigens only
 
 ---
 
-**Q9. B cells mature in the:**
+
+
+**Q21. B cells mature in the:**
 
 A) Bone marrow
 
@@ -16926,7 +18076,9 @@ D) Thymus
 
 ---
 
-**Q10. Thymic T-cell negative selection occurs mainly in the:**
+
+
+**Q22. Thymic T-cell negative selection occurs mainly in the:**
 
 A) Blood vessels
 
@@ -16953,7 +18105,9 @@ D) Capsule
 
 ---
 
-**Q11. The T-cell zone of the spleen is the:**
+
+
+**Q23. The T-cell zone of the spleen is the:**
 
 A) Marginal zone
 
@@ -16965,7 +18119,7 @@ D) Follicle
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Marginal zone is correct because it matches the defining feature described in Junqueira 17th for the t-cell zone of the spleen is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -16980,7 +18134,9 @@ D) Follicle
 
 ---
 
-**Q12. Viral infection classically causes:**
+
+
+**Q24. Viral infection classically causes:**
 
 A) Follicular hyperplasia
 
@@ -16992,7 +18148,7 @@ D) Thymic involution
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Follicular hyperplasia is correct because it matches the defining feature described in Junqueira 17th for viral infection classically causes. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -17009,7 +18165,9 @@ D) Thymic involution
 
 ### Part C — Application
 
-**Q1. Germinal centers are a feature of:**
+
+
+**Q25. Germinal centers are a feature of:**
 
 A) The PALS
 
@@ -17036,7 +18194,9 @@ D) The thymus
 
 ---
 
-**Q2. M cells (microfold cells) function to:**
+
+
+**Q26. M cells (microfold cells) function to:**
 
 A) Kill bacteria directly
 
@@ -17063,7 +18223,9 @@ D) Produce mucus
 
 ---
 
-**Q3. Palatine tonsils are histologically identified by:**
+
+
+**Q27. Palatine tonsils are histologically identified by:**
 
 A) PALS
 
@@ -17090,7 +18252,9 @@ D) Lymphoid follicles with surface crypts
 
 ---
 
-**Q4. HEVs are found in the:**
+
+
+**Q28. HEVs are found in the:**
 
 A) Thymic medulla
 
@@ -17117,7 +18281,9 @@ D) Lymph-node paracortex
 
 ---
 
-**Q5. Positive and negative T-cell selection occurs in the thymic:**
+
+
+**Q29. Positive and negative T-cell selection occurs in the thymic:**
 
 A) Capsule
 
@@ -17144,7 +18310,9 @@ D) Cortex and corticomedullary junction
 
 ---
 
-**Q6. Afferent lymphatics deliver lymph into a node at the:**
+
+
+**Q30. Afferent lymphatics deliver lymph into a node at the:**
 
 A) Convex (subcapsular) surface
 
@@ -17171,7 +18339,9 @@ D) Hilum
 
 ---
 
-**Q7. The tonsils are distinguished by:**
+
+
+**Q31. The tonsils are distinguished by:**
 
 A) Hassall's corpuscles
 
@@ -17198,7 +18368,9 @@ D) Red and white pulp
 
 ---
 
-**Q8. SCID results in profound deficiency of:**
+
+
+**Q32. SCID results in profound deficiency of:**
 
 A) Neutrophils and eosinophils
 
@@ -17225,7 +18397,9 @@ D) Complement only
 
 ---
 
-**Q9. Which structure is the diagnostic marker of the thymus?**
+
+
+**Q33. Which structure is the diagnostic marker of the thymus?**
 
 A) PALS
 
@@ -17252,7 +18426,9 @@ D) HEV
 
 ---
 
-**Q10. Which is a B-cell zone?**
+
+
+**Q34. Which is a B-cell zone?**
 
 A) Thymic cortex
 
@@ -17279,7 +18455,9 @@ D) Splenic PALS
 
 ---
 
-**Q11. Lymphocytes enter a lymph node from the blood via:**
+
+
+**Q35. Lymphocytes enter a lymph node from the blood via:**
 
 A) Efferent lymphatics
 
@@ -17291,7 +18469,7 @@ D) High endothelial venules
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Efferent lymphatics is correct because it matches the defining feature described in Junqueira 17th for lymphocytes enter a lymph node from the blood via. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -17306,7 +18484,9 @@ D) High endothelial venules
 
 ---
 
-**Q12. M cells function to:**
+
+
+**Q36. M cells function to:**
 
 A) Secrete IgA
 
@@ -17318,7 +18498,7 @@ D) Phagocytose bacteria
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Secrete IgA is correct because it matches the defining feature described in Junqueira 17th for m cells function to. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -17335,7 +18515,9 @@ D) Phagocytose bacteria
 
 ### Part D — Integration
 
-**Q1. High endothelial venules (HEV) are located in the lymph-node:**
+
+
+**Q37. High endothelial venules (HEV) are located in the lymph-node:**
 
 A) Cortex follicles
 
@@ -17362,7 +18544,9 @@ D) Subcapsular sinus
 
 ---
 
-**Q2. Peyer's patches are located mainly in the:**
+
+
+**Q38. Peyer's patches are located mainly in the:**
 
 A) Stomach
 
@@ -17389,7 +18573,9 @@ D) Colon only
 
 ---
 
-**Q3. Paracortical hyperplasia of a lymph node is typical of:**
+
+
+**Q39. Paracortical hyperplasia of a lymph node is typical of:**
 
 A) Bacterial infection
 
@@ -17416,7 +18602,9 @@ D) Folate deficiency
 
 ---
 
-**Q4. Primary lymphoid organs include the thymus and:**
+
+
+**Q40. Primary lymphoid organs include the thymus and:**
 
 A) Lymph nodes
 
@@ -17443,7 +18631,9 @@ D) Bone marrow
 
 ---
 
-**Q5. The splenic white pulp is responsible for:**
+
+
+**Q41. The splenic white pulp is responsible for:**
 
 A) RBC destruction
 
@@ -17470,7 +18660,9 @@ D) Erythropoiesis in adults
 
 ---
 
-**Q6. Efferent lymphatics exit a node at the:**
+
+
+**Q42. Efferent lymphatics exit a node at the:**
 
 A) Convex surface
 
@@ -17497,7 +18689,9 @@ D) Cortex
 
 ---
 
-**Q7. Asplenic patients are at risk of encapsulated-bacteria infection because the spleen provides:**
+
+
+**Q43. Asplenic patients are at risk of encapsulated-bacteria infection because the spleen provides:**
 
 A) T-cell maturation only
 
@@ -17524,7 +18718,9 @@ D) No immune function
 
 ---
 
-**Q8. The mucosal immune system relies heavily on which immunoglobulin in secretions?**
+
+
+**Q44. The mucosal immune system relies heavily on which immunoglobulin in secretions?**
 
 A) IgE
 
@@ -17551,7 +18747,9 @@ D) Secretory IgA
 
 ---
 
-**Q9. Lymphocytes exit the blood into the node via:**
+
+
+**Q45. Lymphocytes exit the blood into the node via:**
 
 A) High endothelial venules
 
@@ -17578,7 +18776,9 @@ D) Afferent lymphatics
 
 ---
 
-**Q10. The appendix is a component of:**
+
+
+**Q46. The appendix is a component of:**
 
 A) The thymus
 
@@ -17605,7 +18805,9 @@ D) GALT (MALT)
 
 ---
 
-**Q11. A newborn with hypocalcemia and absent T cells most likely has:**
+
+
+**Q47. A newborn with hypocalcemia and absent T cells most likely has:**
 
 A) DiGeorge syndrome
 
@@ -17617,7 +18819,7 @@ D) SCID
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** DiGeorge syndrome is correct because it matches the defining feature described in Junqueira 17th for a newborn with hypocalcemia and absent t cells most likely has. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -17632,7 +18834,9 @@ D) SCID
 
 ---
 
-**Q12. Peyer's patches are located in the:**
+
+
+**Q48. Peyer's patches are located in the:**
 
 A) Colon
 
@@ -17644,7 +18848,7 @@ D) Ileum
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Colon is correct because it matches the defining feature described in Junqueira 17th for peyer's patches are located in the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -17661,7 +18865,9 @@ D) Ileum
 
 ### Part E — High-Difficulty
 
-**Q1. The periarteriolar lymphoid sheath (PALS) of the spleen is rich in:**
+
+
+**Q49. The periarteriolar lymphoid sheath (PALS) of the spleen is rich in:**
 
 A) B cells
 
@@ -17688,7 +18894,9 @@ D) Plasma cells only
 
 ---
 
-**Q2. The blood–thymus barrier is located in the thymic:**
+
+
+**Q50. The blood–thymus barrier is located in the thymic:**
 
 A) Cortex
 
@@ -17715,7 +18923,9 @@ D) Medulla
 
 ---
 
-**Q3. After splenectomy, RBCs may show:**
+
+
+**Q51. After splenectomy, RBCs may show:**
 
 A) Sickle shape
 
@@ -17742,7 +18952,9 @@ D) Spherocytes only
 
 ---
 
-**Q4. Secondary lymphoid organs include the spleen, lymph nodes, and:**
+
+
+**Q52. Secondary lymphoid organs include the spleen, lymph nodes, and:**
 
 A) Bone marrow
 
@@ -17769,7 +18981,9 @@ D) Yolk sac
 
 ---
 
-**Q5. The splenic red pulp is responsible for:**
+
+
+**Q53. The splenic red pulp is responsible for:**
 
 A) Platelet production
 
@@ -17796,7 +19010,9 @@ D) Antibody class-switching only
 
 ---
 
-**Q6. Follicular dendritic cells in germinal centers function to:**
+
+
+**Q54. Follicular dendritic cells in germinal centers function to:**
 
 A) Produce antibodies
 
@@ -17823,7 +19039,9 @@ D) Phagocytose RBCs
 
 ---
 
-**Q7. Interdigitating dendritic cells (antigen-presenting to T cells) are concentrated in the:**
+
+
+**Q55. Interdigitating dendritic cells (antigen-presenting to T cells) are concentrated in the:**
 
 A) B-cell follicles
 
@@ -17850,7 +19068,9 @@ D) Thymic cortex only
 
 ---
 
-**Q8. The spleen's central artery is surrounded by:**
+
+
+**Q56. The spleen's central artery is surrounded by:**
 
 A) Medullary cords
 
@@ -17877,7 +19097,9 @@ D) Hassall's corpuscles
 
 ---
 
-**Q9. A node's subcapsular sinus receives:**
+
+
+**Q57. A node's subcapsular sinus receives:**
 
 A) Afferent lymph
 
@@ -17904,7 +19126,9 @@ D) Efferent lymph
 
 ---
 
-**Q10. Which infection pattern enlarges the T-cell zone?**
+
+
+**Q58. Which infection pattern enlarges the T-cell zone?**
 
 A) Encapsulated bacteria
 
@@ -17931,7 +19155,9 @@ D) Allergic reaction
 
 ---
 
-**Q11. The spleen filters:**
+
+
+**Q59. The spleen filters:**
 
 A) Bile
 
@@ -17943,7 +19169,7 @@ D) CSF
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Bile is correct because it matches the defining feature described in Junqueira 17th for the spleen filters. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -17958,7 +19184,9 @@ D) CSF
 
 ---
 
-**Q12. Germinal centers are the site of:**
+
+
+**Q60. Germinal centers are the site of:**
 
 A) B-cell affinity maturation
 
@@ -17970,7 +19198,7 @@ D) T-cell maturation
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** B-cell affinity maturation is correct because it matches the defining feature described in Junqueira 17th for germinal centers are the site of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
@@ -17987,7 +19215,9 @@ D) T-cell maturation
 
 
 
+
 # Chapter 12 — The Digestive Tract
+
 
 ### Part A — Recall
 
@@ -18018,6 +19248,8 @@ D) Mucosa
 
 ---
 
+
+
 **Q2. Peyer's patches are most prominent in the:**
 
 A) Duodenum
@@ -18044,6 +19276,8 @@ D) Colon
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Barrett esophagus shows replacement of squamous epithelium by:**
 
@@ -18072,6 +19306,8 @@ D) Pseudostratified epithelium
 
 ---
 
+
+
 **Q4. Parietal cells are recognized by their:**
 
 A) Mucous-filled apical cytoplasm
@@ -18098,6 +19334,8 @@ D) Eosinophilic "fried-egg" appearance with abundant mitochondria
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Chief cells secrete:**
 
@@ -18126,6 +19364,8 @@ D) Mucus exclusively
 
 ---
 
+
+
 **Q6. Crypts of Lieberkühn are found in the:**
 
 A) Esophagus
@@ -18152,6 +19392,8 @@ D) Small and large intestine
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. The stomach's third, innermost oblique muscle layer aids:**
 
@@ -18180,6 +19422,8 @@ D) Peristalsis of liquids only
 
 ---
 
+
+
 **Q8. The muscularis mucosae functions to:**
 
 A) Produce local mucosal movements (secretion/absorption)
@@ -18206,6 +19450,8 @@ D) Propel food through the tract
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The duodenum's alkaline mucus neutralizes acid via:**
 
@@ -18234,6 +19480,8 @@ D) Goblet cells
 
 ---
 
+
+
 **Q10. H. pylori gastritis is characterized by:**
 
 A) Granulomas
@@ -18261,6 +19509,8 @@ D) Villous atrophy
 
 ---
 
+
+
 **Q11. A biopsy shows villi and mucous glands in the submucosa. This is the:**
 
 A) Ileum
@@ -18273,7 +19523,7 @@ D) Colon
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Ileum is correct because it matches the defining feature described in Junqueira 17th for a biopsy shows villi and mucous glands in the submucosa. this is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -18288,6 +19538,8 @@ D) Colon
 
 ---
 
+
+
 **Q12. Meissner's plexus is located in the:**
 
 A) Mucosa
@@ -18300,7 +19552,7 @@ D) Serosa
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Mucosa is correct because it matches the defining feature described in Junqueira 17th for meissner's plexus is located in the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -18317,7 +19569,9 @@ D) Serosa
 
 ### Part B — Understanding
 
-**Q1. The epithelium of the esophagus is:**
+
+
+**Q13. The epithelium of the esophagus is:**
 
 A) Simple columnar
 
@@ -18344,7 +19598,9 @@ D) Transitional
 
 ---
 
-**Q2. Paneth cells are located at the:**
+
+
+**Q14. Paneth cells are located at the:**
 
 A) Base of the crypts of Lieberkühn
 
@@ -18371,7 +19627,9 @@ D) Villus tip
 
 ---
 
-**Q3. The muscularis mucosae is a component of the:**
+
+
+**Q15. The muscularis mucosae is a component of the:**
 
 A) Submucosa
 
@@ -18398,7 +19656,9 @@ D) Serosa
 
 ---
 
-**Q4. The muscularis mucosae lies:**
+
+
+**Q16. The muscularis mucosae lies:**
 
 A) In the serosa
 
@@ -18425,7 +19685,9 @@ D) Within the lamina propria only
 
 ---
 
-**Q5. Gastrin is produced by G cells in the:**
+
+
+**Q17. Gastrin is produced by G cells in the:**
 
 A) Esophagus
 
@@ -18452,7 +19714,9 @@ D) Pyloric antrum
 
 ---
 
-**Q6. Enteroendocrine cells release their granules toward the:**
+
+
+**Q18. Enteroendocrine cells release their granules toward the:**
 
 A) Apical surface
 
@@ -18479,7 +19743,9 @@ D) Lumen only
 
 ---
 
-**Q7. Teniae coli are thickened bands of:**
+
+
+**Q19. Teniae coli are thickened bands of:**
 
 A) Muscularis mucosae
 
@@ -18506,7 +19772,9 @@ D) Longitudinal muscle
 
 ---
 
-**Q8. Chief-cell zymogen granules and parietal-cell mitochondria are features of glands in the gastric:**
+
+
+**Q20. Chief-cell zymogen granules and parietal-cell mitochondria are features of glands in the gastric:**
 
 A) Cardia
 
@@ -18533,7 +19801,9 @@ D) Antrum exclusively
 
 ---
 
-**Q9. Which is TRUE of the stomach's surface epithelium?**
+
+
+**Q21. Which is TRUE of the stomach's surface epithelium?**
 
 A) Simple columnar (mucous cells)
 
@@ -18560,7 +19830,9 @@ D) Stratified squamous
 
 ---
 
-**Q10. Which cells secrete gastrin?**
+
+
+**Q22. Which cells secrete gastrin?**
 
 A) Parietal cells
 
@@ -18587,7 +19859,9 @@ D) Paneth cells
 
 ---
 
-**Q11. Pink "fried-egg" cells in gastric glands are:**
+
+
+**Q23. Pink "fried-egg" cells in gastric glands are:**
 
 A) G cells
 
@@ -18599,7 +19873,7 @@ D) Parietal cells
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** G cells is correct because it matches the defining feature described in Junqueira 17th for pink "fried-egg" cells in gastric glands are. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -18614,7 +19888,9 @@ D) Parietal cells
 
 ---
 
-**Q12. Transmural inflammation with non-caseating granulomas is characteristic of:**
+
+
+**Q24. Transmural inflammation with non-caseating granulomas is characteristic of:**
 
 A) Celiac disease
 
@@ -18626,7 +19902,7 @@ D) Crohn's disease
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Celiac disease is correct because it matches the defining feature described in Junqueira 17th for transmural inflammation with non-caseating granulomas is characteristic of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -18643,7 +19919,9 @@ D) Crohn's disease
 
 ### Part C — Application
 
-**Q1. Parietal cells are characterized by:**
+
+
+**Q25. Parietal cells are characterized by:**
 
 A) Basophilic cytoplasm
 
@@ -18670,7 +19948,9 @@ D) Dark-staining granules
 
 ---
 
-**Q2. The large intestine differs from the small intestine by:**
+
+
+**Q26. The large intestine differs from the small intestine by:**
 
 A) Having Brunner's glands
 
@@ -18697,7 +19977,9 @@ D) Lacking villi
 
 ---
 
-**Q3. Intrinsic factor is secreted by:**
+
+
+**Q27. Intrinsic factor is secreted by:**
 
 A) G cells
 
@@ -18724,7 +20006,9 @@ D) Parietal cells
 
 ---
 
-**Q4. Paneth cells function in:**
+
+
+**Q28. Paneth cells function in:**
 
 A) Hormone secretion
 
@@ -18751,7 +20035,9 @@ D) Innate immune defense (lysozyme/defensins)
 
 ---
 
-**Q5. Plicae circulares are most prominent in the:**
+
+
+**Q29. Plicae circulares are most prominent in the:**
 
 A) Esophagus
 
@@ -18778,7 +20064,9 @@ D) Colon
 
 ---
 
-**Q6. The large intestine is distinguished by the absence of:**
+
+
+**Q30. The large intestine is distinguished by the absence of:**
 
 A) Villi
 
@@ -18805,7 +20093,9 @@ D) Goblet cells
 
 ---
 
-**Q7. The appendix wall is characterized by:**
+
+
+**Q31. The appendix wall is characterized by:**
 
 A) Heavy lymphoid (GALT) infiltration
 
@@ -18832,7 +20122,9 @@ D) Extensive muscularis thickening
 
 ---
 
-**Q8. Hirschsprung disease = absence of ganglion cells in the:**
+
+
+**Q32. Hirschsprung disease = absence of ganglion cells in the:**
 
 A) Stomach only
 
@@ -18859,7 +20151,9 @@ D) Small intestine exclusively
 
 ---
 
-**Q9. Ulcerative colitis characteristically shows:**
+
+
+**Q33. Ulcerative colitis characteristically shows:**
 
 A) Villous atrophy
 
@@ -18886,7 +20180,9 @@ D) Mucosal inflammation with crypt abscesses
 
 ---
 
-**Q10. The ileum is the primary site of:**
+
+
+**Q34. The ileum is the primary site of:**
 
 A) Brunner's glands
 
@@ -18913,7 +20209,9 @@ D) Esophageal glands
 
 ---
 
-**Q11. The colon is distinguished by:**
+
+
+**Q35. The colon is distinguished by:**
 
 A) Brunner's glands
 
@@ -18925,7 +20223,7 @@ D) Absence of villi
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Brunner's glands is correct because it matches the defining feature described in Junqueira 17th for the colon is distinguished by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -18940,36 +20238,9 @@ D) Absence of villi
 
 ---
 
-**Q12. Intrinsic factor is secreted by:**
 
-A) Parietal cells
 
-B) G cells
-
-C) Goblet cells
-
-D) Chief cells
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
-
-**Difficulty:** Application
-
----
-
-### Part D — Integration
-
-**Q1. Chief (zymogenic) cells secrete:**
+**Q36. Chief (zymogenic) cells secrete:**
 
 A) Pepsinogen
 
@@ -18996,7 +20267,9 @@ D) HCl
 
 ---
 
-**Q2. Goblet cells are most abundant in the:**
+
+
+**Q37. Goblet cells are most abundant in the:**
 
 A) Duodenum
 
@@ -19023,7 +20296,9 @@ D) Esophagus
 
 ---
 
-**Q3. Taeniae coli are a feature of the:**
+
+
+**Q38. Taeniae coli are a feature of the:**
 
 A) Esophagus
 
@@ -19050,7 +20325,9 @@ D) Stomach
 
 ---
 
-**Q4. The esophagus is lined along most of its length by:**
+
+
+**Q39. The esophagus is lined along most of its length by:**
 
 A) Pseudostratified columnar
 
@@ -19077,7 +20354,9 @@ D) Transitional
 
 ---
 
-**Q5. Villi are a distinguishing feature of the:**
+
+
+**Q40. Villi are a distinguishing feature of the:**
 
 A) Stomach
 
@@ -19104,7 +20383,9 @@ D) Esophagus
 
 ---
 
-**Q6. Goblet cells increase progressively from:**
+
+
+**Q41. Goblet cells increase progressively from:**
 
 A) Duodenum to rectum (colon has the most)
 
@@ -19131,7 +20412,9 @@ D) They are absent in the colon
 
 ---
 
-**Q7. Antigen sampling in the gut is mediated by:**
+
+
+**Q42. Antigen sampling in the gut is mediated by:**
 
 A) Chief cells
 
@@ -19158,7 +20441,9 @@ D) Goblet cells
 
 ---
 
-**Q8. Celiac disease shows:**
+
+
+**Q43. Celiac disease shows:**
 
 A) Villous atrophy + crypt hyperplasia + intraepithelial lymphocytes
 
@@ -19185,7 +20470,9 @@ D) Villous hypertrophy
 
 ---
 
-**Q9. Crohn's disease characteristically shows:**
+
+
+**Q44. Crohn's disease characteristically shows:**
 
 A) Crypt abscesses only
 
@@ -19212,7 +20499,9 @@ D) Villous atrophy
 
 ---
 
-**Q10. Paneth-cell granules contain:**
+
+
+**Q45. Paneth-cell granules contain:**
 
 A) HCl
 
@@ -19239,7 +20528,9 @@ D) Intrinsic factor
 
 ---
 
-**Q11. Villous atrophy with crypt hyperplasia and intraepithelial lymphocytes indicates:**
+
+
+**Q46. Villous atrophy with crypt hyperplasia and intraepithelial lymphocytes indicates:**
 
 A) Hirschsprung disease
 
@@ -19251,7 +20542,7 @@ D) Ulcerative colitis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Hirschsprung disease is correct because it matches the defining feature described in Junqueira 17th for villous atrophy with crypt hyperplasia and intraepithelial lymphocytes indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -19266,7 +20557,9 @@ D) Ulcerative colitis
 
 ---
 
-**Q12. The upper third of the esophageal muscularis is:**
+
+
+**Q47. The upper third of the esophageal muscularis is:**
 
 A) Mixed
 
@@ -19278,7 +20571,7 @@ D) Cardiac muscle
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Mixed is correct because it matches the defining feature described in Junqueira 17th for the upper third of the esophageal muscularis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -19295,7 +20588,9 @@ D) Cardiac muscle
 
 ### Part E — High-Difficulty
 
-**Q1. Brunner's glands are a diagnostic feature of the:**
+
+
+**Q48. Brunner's glands are a diagnostic feature of the:**
 
 A) Jejunum
 
@@ -19322,7 +20617,9 @@ D) Duodenum
 
 ---
 
-**Q2. The jejunum is distinguished by:**
+
+
+**Q49. The jejunum is distinguished by:**
 
 A) Peyer's patches
 
@@ -19349,7 +20646,9 @@ D) Brunner's glands
 
 ---
 
-**Q3. The appendix is histologically characterized by:**
+
+
+**Q50. The appendix is histologically characterized by:**
 
 A) Brunner's glands
 
@@ -19376,7 +20675,9 @@ D) Abundant lymphoid tissue
 
 ---
 
-**Q4. The stomach mucosa secretes a protective:**
+
+
+**Q51. The stomach mucosa secretes a protective:**
 
 A) Alkaline mucous layer
 
@@ -19403,7 +20704,9 @@ D) Hydrochloric acid layer
 
 ---
 
-**Q5. Brunner's glands are located in the:**
+
+
+**Q52. Brunner's glands are located in the:**
 
 A) Colon
 
@@ -19430,7 +20733,9 @@ D) Ileum
 
 ---
 
-**Q6. The muscularis externa has an inner circular and outer:**
+
+
+**Q53. The muscularis externa has an inner circular and outer:**
 
 A) Oblique layer only
 
@@ -19457,7 +20762,9 @@ D) Longitudinal layer
 
 ---
 
-**Q7. Achalasia results from degeneration of neurons in the:**
+
+
+**Q54. Achalasia results from degeneration of neurons in the:**
 
 A) Myenteric (Auerbach's) plexus
 
@@ -19484,7 +20791,9 @@ D) Meissner's plexus only
 
 ---
 
-**Q8. Which cell has a brush border?**
+
+
+**Q55. Which cell has a brush border?**
 
 A) Paneth cell
 
@@ -19511,7 +20820,9 @@ D) Enterocyte
 
 ---
 
-**Q9. The muscularis externa of the upper esophagus is:**
+
+
+**Q56. The muscularis externa of the upper esophagus is:**
 
 A) Skeletal muscle
 
@@ -19538,7 +20849,9 @@ D) Smooth muscle
 
 ---
 
-**Q10. The appendix most closely resembles which organ histologically?**
+
+
+**Q57. The appendix most closely resembles which organ histologically?**
 
 A) Stomach
 
@@ -19565,7 +20878,9 @@ D) Ileum only
 
 ---
 
-**Q11. Which cells are located at the crypt base with eosinophilic granules?**
+
+
+**Q58. Which cells are located at the crypt base with eosinophilic granules?**
 
 A) Chief cells
 
@@ -19577,34 +20892,7 @@ D) Enterocytes
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
-
-**Difficulty:** High-Difficulty
-
----
-
-**Q12. Peyer's patches are located in the:**
-
-A) Ileum
-
-B) Jejunum
-
-C) Colon
-
-D) Duodenum
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Chief cells is correct because it matches the defining feature described in Junqueira 17th for which cells are located at the crypt base with eosinophilic granules. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
@@ -19622,6 +20910,7 @@ D) Duodenum
 
 
 # Chapter 13 — Organs Associated with the Digestive Tract
+
 
 ### Part A — Recall
 
@@ -19652,6 +20941,8 @@ D) Mixed
 
 ---
 
+
+
 **Q2. Blood in the liver flows from the:**
 
 A) Central vein to portal triad
@@ -19678,6 +20969,8 @@ D) Hepatic vein to portal vein
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Serous demilunes are characteristic of:**
 
@@ -19706,6 +20999,8 @@ D) Liver
 
 ---
 
+
+
 **Q4. Zone 1 (periportal) hepatocytes are most susceptible to:**
 
 A) Directly-acting toxins delivered via portal blood
@@ -19732,6 +21027,8 @@ D) Ischemia/hypoxia
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. The liver acinus is organized around the:**
 
@@ -19760,6 +21057,8 @@ D) Bile canaliculus
 
 ---
 
+
+
 **Q6. Hepatic sinusoids differ from typical capillaries by being:**
 
 A) Continuous with a complete basal lamina
@@ -19786,6 +21085,8 @@ D) Lined entirely by hepatocytes
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Islets of Langerhans are most numerous in the:**
 
@@ -19814,6 +21115,8 @@ D) Head
 
 ---
 
+
+
 **Q8. Kupffer cells are located adherent to the:**
 
 A) Portal-vein wall exclusively
@@ -19840,6 +21143,8 @@ D) Sinusoidal endothelium (luminal)
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The hepatic artery and portal vein both empty into the:**
 
@@ -19868,6 +21173,8 @@ D) Central vein
 
 ---
 
+
+
 **Q10. Which is TRUE of the space of Disse?**
 
 A) It is inside the bile canaliculus
@@ -19895,6 +21202,8 @@ D) It is between hepatocytes and sinusoidal endothelium
 
 ---
 
+
+
 **Q11. A gland shows centroacinar cells and no myoepithelial cells. It is the:**
 
 A) Pancreas
@@ -19907,7 +21216,7 @@ D) Parotid
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Pancreas is correct because it matches the defining feature described in Junqueira 17th for a gland shows centroacinar cells and no myoepithelial cells. it is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -19922,36 +21231,9 @@ D) Parotid
 
 ---
 
-**Q12. Glucagon is secreted by:**
 
-A) α cells
 
-B) δ cells
-
-C) PP cells
-
-D) β cells
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
-
-**Difficulty:** Recall
-
----
-
-### Part B — Understanding
-
-**Q1. Which structure is diagnostic of the exocrine pancreas?**
+**Q12. Which structure is diagnostic of the exocrine pancreas?**
 
 A) Striated ducts only
 
@@ -19978,7 +21260,9 @@ D) Serous demilunes
 
 ---
 
-**Q2. The hepatic zone most vulnerable to ischemia and toxins is:**
+
+
+**Q13. The hepatic zone most vulnerable to ischemia and toxins is:**
 
 A) Zone 1 (periportal)
 
@@ -20005,7 +21289,9 @@ D) The portal triad
 
 ---
 
-**Q3. Vitamin A is stored in the liver by:**
+
+
+**Q14. Vitamin A is stored in the liver by:**
 
 A) Hepatic stellate (Ito) cells
 
@@ -20032,7 +21318,9 @@ D) Kupffer cells
 
 ---
 
-**Q4. Kupffer cells are located within the:**
+
+
+**Q15. Kupffer cells are located within the:**
 
 A) Portal triad
 
@@ -20059,7 +21347,9 @@ D) Bile canaliculi
 
 ---
 
-**Q5. Hepatic stellate cells normally store:**
+
+
+**Q16. Hepatic stellate cells normally store:**
 
 A) Bile
 
@@ -20086,7 +21376,9 @@ D) Glycogen only
 
 ---
 
-**Q6. The gallbladder concentrates bile by transporting:**
+
+
+**Q17. The gallbladder concentrates bile by transporting:**
 
 A) Bile acids out of the lumen
 
@@ -20113,7 +21405,9 @@ D) Cholesterol into the lumen
 
 ---
 
-**Q7. Beta cells secrete:**
+
+
+**Q18. Beta cells secrete:**
 
 A) Somatostatin
 
@@ -20140,7 +21434,9 @@ D) Insulin
 
 ---
 
-**Q8. Chronic alcohol use produces fatty change most prominently in:**
+
+
+**Q19. Chronic alcohol use produces fatty change most prominently in:**
 
 A) Zone 3 (centrilobular)
 
@@ -20167,7 +21463,9 @@ D) Zone 1
 
 ---
 
-**Q9. Which is TRUE of the hepatocyte's orientation?**
+
+
+**Q20. Which is TRUE of the hepatocyte's orientation?**
 
 A) It has no polarity
 
@@ -20194,7 +21492,9 @@ D) It faces blood on both sides
 
 ---
 
-**Q10. Cholecystitis classically shows:**
+
+
+**Q21. Cholecystitis classically shows:**
 
 A) Prominent Rokitansky-Aschoff sinuses and inflammation
 
@@ -20221,7 +21521,9 @@ D) Villous atrophy
 
 ---
 
-**Q11. The portal triad contains:**
+
+
+**Q22. The portal triad contains:**
 
 A) Hepatic vein, artery, lymphatic
 
@@ -20233,7 +21535,7 @@ D) Hepatic artery, portal vein, bile duct
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Hepatic vein, artery, lymphatic is correct because it matches the defining feature described in Junqueira 17th for the portal triad contains. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -20248,7 +21550,9 @@ D) Hepatic artery, portal vein, bile duct
 
 ---
 
-**Q12. Cirrhosis results from fibrosis driven by:**
+
+
+**Q23. Cirrhosis results from fibrosis driven by:**
 
 A) Endothelial cells
 
@@ -20260,7 +21564,7 @@ D) Hepatocytes
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Endothelial cells is correct because it matches the defining feature described in Junqueira 17th for cirrhosis results from fibrosis driven by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -20277,7 +21581,9 @@ D) Hepatocytes
 
 ### Part C — Application
 
-**Q1. The pancreas differs from salivary glands by lacking:**
+
+
+**Q24. The pancreas differs from salivary glands by lacking:**
 
 A) Myoepithelial cells
 
@@ -20304,7 +21610,9 @@ D) Acini
 
 ---
 
-**Q2. Kupffer cells are:**
+
+
+**Q25. Kupffer cells are:**
 
 A) Stellate cells
 
@@ -20331,7 +21639,9 @@ D) Bile-duct cells
 
 ---
 
-**Q3. Glucagon is secreted by:**
+
+
+**Q26. Glucagon is secreted by:**
 
 A) δ cells
 
@@ -20358,7 +21668,9 @@ D) α cells
 
 ---
 
-**Q4. The exocrine pancreas secretes enzymes from:**
+
+
+**Q27. The exocrine pancreas secretes enzymes from:**
 
 A) Centroacinar cells
 
@@ -20385,7 +21697,9 @@ D) Ductal cells
 
 ---
 
-**Q5. Activation of hepatic stellate cells drives:**
+
+
+**Q28. Activation of hepatic stellate cells drives:**
 
 A) Bile secretion
 
@@ -20412,7 +21726,9 @@ D) Liver fibrosis
 
 ---
 
-**Q6. Exocrine acinar cells show basal basophilia due to:**
+
+
+**Q29. Exocrine acinar cells show basal basophilia due to:**
 
 A) Mitochondria
 
@@ -20439,7 +21755,9 @@ D) Peroxisomes
 
 ---
 
-**Q7. Alpha cells secrete:**
+
+
+**Q30. Alpha cells secrete:**
 
 A) Glucagon
 
@@ -20466,7 +21784,9 @@ D) Insulin
 
 ---
 
-**Q8. Gallstones most commonly form from:**
+
+
+**Q31. Gallstones most commonly form from:**
 
 A) Water
 
@@ -20493,7 +21813,9 @@ D) Cholesterol
 
 ---
 
-**Q9. Insulin is released by cells located in the islet:**
+
+
+**Q32. Insulin is released by cells located in the islet:**
 
 A) Center
 
@@ -20520,7 +21842,9 @@ D) Periphery
 
 ---
 
-**Q10. Which is a serous gland?**
+
+
+**Q33. Which is a serous gland?**
 
 A) Goblet cell
 
@@ -20547,7 +21871,9 @@ D) Gallbladder
 
 ---
 
-**Q11. Bile flows toward the:**
+
+
+**Q34. Bile flows toward the:**
 
 A) Central vein
 
@@ -20559,7 +21885,7 @@ D) Sinusoid
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Central vein is correct because it matches the defining feature described in Junqueira 17th for bile flows toward the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -20574,36 +21900,9 @@ D) Sinusoid
 
 ---
 
-**Q12. The sublingual gland is predominantly:**
 
-A) Serous
 
-B) Mucous
-
-C) Mixed
-
-D) Endocrine
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
-
-**Difficulty:** Application
-
----
-
-### Part D — Integration
-
-**Q1. Insulin is secreted by:**
+**Q35. Insulin is secreted by:**
 
 A) δ cells
 
@@ -20630,7 +21929,9 @@ D) β cells
 
 ---
 
-**Q2. The gallbladder is unique in lacking:**
+
+
+**Q36. The gallbladder is unique in lacking:**
 
 A) Mucosa
 
@@ -20657,7 +21958,9 @@ D) Serosa
 
 ---
 
-**Q3. Bile canaliculi carry bile toward the:**
+
+
+**Q37. Bile canaliculi carry bile toward the:**
 
 A) Portal triad (bile duct)
 
@@ -20684,7 +21987,9 @@ D) Central vein
 
 ---
 
-**Q4. The classic hepatic lobule is organized around a:**
+
+
+**Q38. The classic hepatic lobule is organized around a:**
 
 A) Hepatic artery
 
@@ -20711,7 +22016,9 @@ D) Bile duct
 
 ---
 
-**Q5. Bile canaliculi are formed by:**
+
+
+**Q39. Bile canaliculi are formed by:**
 
 A) Kupffer cells
 
@@ -20738,7 +22045,9 @@ D) Grooves between adjacent hepatocyte membranes
 
 ---
 
-**Q6. Centroacinar cells mark the beginning of the:**
+
+
+**Q40. Centroacinar cells mark the beginning of the:**
 
 A) Common bile duct
 
@@ -20765,7 +22074,9 @@ D) Interlobular duct
 
 ---
 
-**Q7. Acute pancreatitis results from premature activation of:**
+
+
+**Q41. Acute pancreatitis results from premature activation of:**
 
 A) Glucagon
 
@@ -20792,7 +22103,9 @@ D) Trypsinogen to trypsin
 
 ---
 
-**Q8. Which cell has striated ducts?**
+
+
+**Q42. Which cell has striated ducts?**
 
 A) Pancreas
 
@@ -20819,7 +22132,9 @@ D) Gallbladder
 
 ---
 
-**Q9. Which cell type is responsible for liver fibrosis?**
+
+
+**Q43. Which cell type is responsible for liver fibrosis?**
 
 A) Endothelial cell
 
@@ -20846,7 +22161,9 @@ D) Hepatocyte
 
 ---
 
-**Q10. The hepatic acinus Zone 1 is characterized by:**
+
+
+**Q44. The hepatic acinus Zone 1 is characterized by:**
 
 A) Absence of hepatocytes
 
@@ -20873,7 +22190,9 @@ D) Highest oxygen (periportal)
 
 ---
 
-**Q11. The hepatic zone most vulnerable to ischemia and acetaminophen is:**
+
+
+**Q45. The hepatic zone most vulnerable to ischemia and acetaminophen is:**
 
 A) Zone 1
 
@@ -20885,7 +22204,7 @@ D) The portal triad
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Zone 1 is correct because it matches the defining feature described in Junqueira 17th for the hepatic zone most vulnerable to ischemia and acetaminophen is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -20900,7 +22219,9 @@ D) The portal triad
 
 ---
 
-**Q12. Acute pancreatitis is caused by:**
+
+
+**Q46. Acute pancreatitis is caused by:**
 
 A) Bile-duct obstruction only
 
@@ -20912,7 +22233,7 @@ D) Premature trypsinogen activation
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Bile-duct obstruction only is correct because it matches the defining feature described in Junqueira 17th for acute pancreatitis is caused by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -20929,7 +22250,9 @@ D) Premature trypsinogen activation
 
 ### Part E — High-Difficulty
 
-**Q1. The portal triad consists of:**
+
+
+**Q47. The portal triad consists of:**
 
 A) Hepatic vein, artery, lymphatic
 
@@ -20956,7 +22279,9 @@ D) Hepatic artery, portal vein, bile duct
 
 ---
 
-**Q2. Rokitansky-Aschoff sinuses are found in the:**
+
+
+**Q48. Rokitansky-Aschoff sinuses are found in the:**
 
 A) Stomach
 
@@ -20983,7 +22308,9 @@ D) Pancreas
 
 ---
 
-**Q3. The sublingual gland is predominantly:**
+
+
+**Q49. The sublingual gland is predominantly:**
 
 A) Serous
 
@@ -21010,7 +22337,9 @@ D) Endocrine
 
 ---
 
-**Q4. The portal lobule is centered on the:**
+
+
+**Q50. The portal lobule is centered on the:**
 
 A) Portal vein exclusively
 
@@ -21037,7 +22366,9 @@ D) Hepatic artery only
 
 ---
 
-**Q5. The space of Disse is the site of:**
+
+
+**Q51. The space of Disse is the site of:**
 
 A) Bile-canaliculus formation
 
@@ -21064,7 +22395,9 @@ D) RBC destruction exclusively
 
 ---
 
-**Q6. Pancreatic enzymes are stored as zymogens to prevent:**
+
+
+**Q52. Pancreatic enzymes are stored as zymogens to prevent:**
 
 A) Enzyme degradation
 
@@ -21091,7 +22424,9 @@ D) Excess insulin release
 
 ---
 
-**Q7. Cirrhosis is defined by diffuse fibrosis with:**
+
+
+**Q53. Cirrhosis is defined by diffuse fibrosis with:**
 
 A) A single tumor mass
 
@@ -21118,7 +22453,9 @@ D) Regenerative nodules surrounded by fibrous septa
 
 ---
 
-**Q8. Mumps classically affects the:**
+
+
+**Q54. Mumps classically affects the:**
 
 A) Parotid gland
 
@@ -21145,7 +22482,9 @@ D) Submandibular gland
 
 ---
 
-**Q9. The bile duct in a portal triad is lined by:**
+
+
+**Q55. The bile duct in a portal triad is lined by:**
 
 A) Transitional epithelium
 
@@ -21172,7 +22511,9 @@ D) Cuboidal epithelium
 
 ---
 
-**Q10. Which pair is correctly matched?**
+
+
+**Q56. Which pair is correctly matched regarding pancreatic islet cells and hormones?**
 
 A) β cell — insulin
 
@@ -21199,7 +22540,9 @@ D) α cell — insulin
 
 ---
 
-**Q11. The gallbladder lacks:**
+
+
+**Q57. The gallbladder lacks:**
 
 A) Submucosa and muscularis mucosae
 
@@ -21211,7 +22554,7 @@ D) Mucosa
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Submucosa and muscularis mucosae is correct because it matches the defining feature described in Junqueira 17th for the gallbladder lacks. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -21226,7 +22569,9 @@ D) Mucosa
 
 ---
 
-**Q12. Most gallstones are composed of:**
+
+
+**Q58. Most gallstones are composed of:**
 
 A) Protein
 
@@ -21238,7 +22583,7 @@ D) Calcium
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Protein is correct because it matches the defining feature described in Junqueira 17th for most gallstones are composed of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
@@ -21255,7 +22600,9 @@ D) Calcium
 
 
 
+
 # Chapter 14 — The Respiratory System
+
 
 ### Part A — Recall
 
@@ -21286,6 +22633,8 @@ D) Irregular cartilage plates
 
 ---
 
+
+
 **Q2. The cell type covering ~95% of the alveolar surface is:**
 
 A) club cell
@@ -21312,6 +22661,8 @@ D) Alveolar macrophage
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Alveolar macrophages are also called:**
 
@@ -21340,6 +22691,8 @@ D) Type II cells
 
 ---
 
+
+
 **Q4. Type II pneumocytes secrete:**
 
 A) Histamine
@@ -21366,6 +22719,8 @@ D) Surfactant
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. The true vocal cords are covered by stratified squamous epithelium to:**
 
@@ -21394,6 +22749,8 @@ D) Increase ciliary clearance
 
 ---
 
+
+
 **Q6. Gas exchange begins at the:**
 
 A) Larynx
@@ -21420,6 +22777,8 @@ D) Trachea
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Emphysema causes:**
 
@@ -21448,6 +22807,8 @@ D) Normal architecture
 
 ---
 
+
+
 **Q8. In chronic bronchitis, the Reid index is:**
 
 A) Unchanged
@@ -21474,6 +22835,8 @@ D) Increased (gland hypertrophy)
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The trachealis muscle is located:**
 
@@ -21502,6 +22865,8 @@ D) Posteriorly, bridging the C-shaped ring
 
 ---
 
+
+
 **Q10. Which structure has hyaline cartilage in C-shaped form?**
 
 A) Bronchus
@@ -21529,6 +22894,8 @@ D) Alveolar duct
 
 ---
 
+
+
 **Q11. An airway with no cartilage and club cells is a:**
 
 A) Bronchiole
@@ -21541,7 +22908,7 @@ D) Trachea
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Bronchiole is correct because it matches the defining feature described in Junqueira 17th for an airway with no cartilage and club cells is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
@@ -21556,36 +22923,9 @@ D) Trachea
 
 ---
 
-**Q12. The trachea is characterized by:**
 
-A) Elastic cartilage
 
-B) Irregular cartilage plates
-
-C) C-shaped hyaline rings
-
-D) No cartilage
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
-
-**Difficulty:** Recall
-
----
-
-### Part B — Understanding
-
-**Q1. Bronchi differ from bronchioles in that bronchi have:**
+**Q12. Bronchi differ from bronchioles in that bronchi have:**
 
 A) Goblet cells
 
@@ -21612,7 +22952,9 @@ D) Ciliated epithelium
 
 ---
 
-**Q2. Type II pneumocytes are characterized by:**
+
+
+**Q13. Type II pneumocytes are characterized by:**
 
 A) Cuboidal shape with lamellar bodies
 
@@ -21639,7 +22981,9 @@ D) Flat squamous shape
 
 ---
 
-**Q3. "Heart-failure cells" are found in the:**
+
+
+**Q14. "Heart-failure cells" are found in the:**
 
 A) Trachea
 
@@ -21666,7 +23010,9 @@ D) Alveoli
 
 ---
 
-**Q4. Cartilage support is lost at the level of the:**
+
+
+**Q15. Cartilage support is lost at the level of the:**
 
 A) Larynx
 
@@ -21693,7 +23039,9 @@ D) Main bronchi
 
 ---
 
-**Q5. The blood–air barrier includes type I cytoplasm, fused basal lamina, and:**
+
+
+**Q16. The blood–air barrier includes type I cytoplasm, fused basal lamina, and:**
 
 A) Type II cytoplasm
 
@@ -21720,7 +23068,9 @@ D) Cartilage
 
 ---
 
-**Q6. Cartilage support becomes progressively:**
+
+
+**Q17. Cartilage support becomes progressively:**
 
 A) More abundant distally
 
@@ -21747,7 +23097,9 @@ D) Absent even in the trachea
 
 ---
 
-**Q7. The pleura is lined by:**
+
+
+**Q18. The pleura is lined by:**
 
 A) Endothelium
 
@@ -21774,7 +23126,9 @@ D) Urothelium
 
 ---
 
-**Q8. Ciliary beat serves:**
+
+
+**Q19. Ciliary beat serves:**
 
 A) Surfactant production
 
@@ -21801,7 +23155,9 @@ D) Mucociliary clearance (mucus toward the pharynx)
 
 ---
 
-**Q9. Which is TRUE of the terminal bronchiole?**
+
+
+**Q20. Which is TRUE of the terminal bronchiole?**
 
 A) It has cartilage
 
@@ -21828,7 +23184,9 @@ D) It is the last conducting airway (no alveoli)
 
 ---
 
-**Q10. Hyaline membranes lining atelectatic alveoli characterize:**
+
+
+**Q21. Hyaline membranes lining atelectatic alveoli characterize:**
 
 A) NRDS
 
@@ -21855,34 +23213,9 @@ D) Asthma
 
 ---
 
-**Q11. Surfactant is produced by:**
 
-A) Type II pneumocytes
 
-B) Dust cells
-
-C) club cells
-
-D) Type I pneumocytes
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
-
-**Difficulty:** Understanding
-
----
-
-**Q12. Emphysema is characterized by:**
+**Q22. Emphysema is characterized by:**
 
 A) Smooth-muscle hypertrophy
 
@@ -21894,7 +23227,7 @@ D) Hyaline membranes
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Smooth-muscle hypertrophy is correct because it matches the defining feature described in Junqueira 17th for emphysema is characterized by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
@@ -21911,7 +23244,9 @@ D) Hyaline membranes
 
 ### Part C — Application
 
-**Q1. Bronchioles are defined by the absence of:**
+
+
+**Q23. Bronchioles are defined by the absence of:**
 
 A) Cartilage and glands
 
@@ -21938,7 +23273,9 @@ D) Smooth muscle
 
 ---
 
-**Q2. The blood–air barrier includes all EXCEPT:**
+
+
+**Q24. The blood–air barrier includes all EXCEPT:**
 
 A) Fused basal laminae
 
@@ -21965,7 +23302,9 @@ D) Type I pneumocyte
 
 ---
 
-**Q3. The olfactory epithelium contains:**
+
+
+**Q25. The olfactory epithelium contains:**
 
 A) club cells
 
@@ -21992,7 +23331,9 @@ D) Bipolar olfactory neurons
 
 ---
 
-**Q4. club cells are notable for:**
+
+
+**Q26. club cells are notable for:**
 
 A) Cartilage formation
 
@@ -22019,7 +23360,9 @@ D) Mucus production only
 
 ---
 
-**Q5. Alveolar macrophages derive from:**
+
+
+**Q27. Alveolar macrophages derive from:**
 
 A) Type II pneumocytes
 
@@ -22046,7 +23389,9 @@ D) Neutrophils
 
 ---
 
-**Q6. Pores of Kohn allow:**
+
+
+**Q28. Pores of Kohn allow:**
 
 A) RBC passage
 
@@ -22073,7 +23418,9 @@ D) Lymphatic drainage only
 
 ---
 
-**Q7. BALT is found in the mucosa of the:**
+
+
+**Q29. BALT is found in the mucosa of the:**
 
 A) Bronchi
 
@@ -22100,7 +23447,9 @@ D) Alveoli
 
 ---
 
-**Q8. Pulmonary fibrosis impairs gas exchange by:**
+
+
+**Q30. Pulmonary fibrosis impairs gas exchange by:**
 
 A) Cartilage loss
 
@@ -22127,7 +23476,9 @@ D) Thickening the blood–air barrier
 
 ---
 
-**Q9. A brown, Prussian-blue-positive macrophage in the alveolus is a:**
+
+
+**Q31. A brown, Prussian-blue-positive macrophage in the alveolus is a:**
 
 A) Type II cell
 
@@ -22154,7 +23505,9 @@ D) club cell
 
 ---
 
-**Q10. The mucociliary escalator fails in:**
+
+
+**Q32. The mucociliary escalator fails in:**
 
 A) Kartagener syndrome (immotile cilia)
 
@@ -22181,7 +23534,9 @@ D) NRDS
 
 ---
 
-**Q11. A premature infant with atelectasis and hyaline membranes has:**
+
+
+**Q33. A premature infant with atelectasis and hyaline membranes has:**
 
 A) Emphysema
 
@@ -22193,7 +23548,7 @@ D) NRDS
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Emphysema is correct because it matches the defining feature described in Junqueira 17th for a premature infant with atelectasis and hyaline membranes has. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
@@ -22208,36 +23563,9 @@ D) NRDS
 
 ---
 
-**Q12. Gas exchange begins at the:**
 
-A) Terminal bronchiole
 
-B) Respiratory bronchiole
-
-C) Segmental bronchus
-
-D) Trachea
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
-
-**Difficulty:** Application
-
----
-
-### Part D — Integration
-
-**Q1. club cells are found in the:**
+**Q34. club cells are found in the:**
 
 A) Bronchioles
 
@@ -22264,7 +23592,9 @@ D) Trachea
 
 ---
 
-**Q2. The respiratory epithelium of the trachea is:**
+
+
+**Q35. The respiratory epithelium of the trachea is:**
 
 A) Simple columnar
 
@@ -22291,7 +23621,9 @@ D) Stratified squamous
 
 ---
 
-**Q3. Neonatal RDS is due to surfactant deficiency from:**
+
+
+**Q36. Neonatal RDS is due to surfactant deficiency from:**
 
 A) club cells
 
@@ -22318,7 +23650,9 @@ D) Type II pneumocytes
 
 ---
 
-**Q4. The respiratory epithelium transitions to simple cuboidal at the:**
+
+
+**Q37. The respiratory epithelium transitions to simple cuboidal at the:**
 
 A) Alveoli directly
 
@@ -22345,7 +23679,9 @@ D) Trachea only
 
 ---
 
-**Q5. Pulmonary surfactant is composed mainly of:**
+
+
+**Q38. Pulmonary surfactant is composed mainly of:**
 
 A) Phospholipids (dipalmitoylphosphatidylcholine)
 
@@ -22372,7 +23708,9 @@ D) Mucus glycoproteins
 
 ---
 
-**Q6. Type I pneumocytes are characterized by:**
+
+
+**Q39. Type I pneumocytes are characterized by:**
 
 A) Ciliated surfaces
 
@@ -22399,7 +23737,9 @@ D) High mitotic activity
 
 ---
 
-**Q7. Asthma shows smooth-muscle hypertrophy, goblet hyperplasia, and:**
+
+
+**Q40. Asthma shows smooth-muscle hypertrophy, goblet hyperplasia, and:**
 
 A) Cartilage loss
 
@@ -22426,7 +23766,9 @@ D) Thickened basement membrane + eosinophils
 
 ---
 
-**Q8. The primary stimulus for increased respiratory rate is:**
+
+
+**Q41. The primary stimulus for increased respiratory rate is:**
 
 A) Blood oxygen
 
@@ -22453,7 +23795,9 @@ D) Hemoglobin concentration
 
 ---
 
-**Q9. Which is a protease/antiprotease imbalance disease?**
+
+
+**Q42. Which is a protease/antiprotease imbalance disease?**
 
 A) Emphysema (α1-antitrypsin deficiency)
 
@@ -22480,7 +23824,9 @@ D) Asthma
 
 ---
 
-**Q10. Which is correctly paired?**
+
+
+**Q43. Which is correctly paired regarding pulmonary cells and surfactant?**
 
 A) club cell — surfactant only
 
@@ -22507,7 +23853,9 @@ D) Dust cell — surfactant
 
 ---
 
-**Q11. The cell covering ~95% of the alveolar surface is the:**
+
+
+**Q44. The cell covering ~95% of the alveolar surface is the:**
 
 A) club cell
 
@@ -22519,7 +23867,7 @@ D) Dust cell
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** club cell is correct because it matches the defining feature described in Junqueira 17th for the cell covering ~95% of the alveolar surface is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
@@ -22534,7 +23882,9 @@ D) Dust cell
 
 ---
 
-**Q12. Hemosiderin-laden alveolar macrophages indicate:**
+
+
+**Q45. Hemosiderin-laden alveolar macrophages indicate:**
 
 A) NRDS
 
@@ -22546,7 +23896,7 @@ D) Heart failure (chronic congestion)
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** NRDS is correct because it matches the defining feature described in Junqueira 17th for hemosiderin-laden alveolar macrophages indicate. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
@@ -22563,7 +23913,9 @@ D) Heart failure (chronic congestion)
 
 ### Part E — High-Difficulty
 
-**Q1. Surfactant is produced by:**
+
+
+**Q46. Surfactant is produced by:**
 
 A) Type II pneumocytes
 
@@ -22590,7 +23942,9 @@ D) Type I pneumocytes
 
 ---
 
-**Q2. The first structures of the respiratory portion are the:**
+
+
+**Q47. The first structures of the respiratory portion are the:**
 
 A) Terminal bronchioles
 
@@ -22617,7 +23971,9 @@ D) Alveolar ducts
 
 ---
 
-**Q3. Emphysema is characterized histologically by:**
+
+
+**Q48. Emphysema is characterized histologically by:**
 
 A) Pleural fibrosis
 
@@ -22644,7 +24000,9 @@ D) Goblet-cell metaplasia only
 
 ---
 
-**Q4. The olfactory epithelium contains bipolar neurons and:**
+
+
+**Q49. The olfactory epithelium contains bipolar neurons and:**
 
 A) Sustentacular and basal cells
 
@@ -22671,7 +24029,9 @@ D) Goblet cells
 
 ---
 
-**Q5. NRDS results from insufficient surfactant due to immaturity of:**
+
+
+**Q50. NRDS results from insufficient surfactant due to immaturity of:**
 
 A) Alveolar macrophages
 
@@ -22698,7 +24058,9 @@ D) Type II pneumocytes
 
 ---
 
-**Q6. Type II pneumocytes are more numerous than type I because they are:**
+
+
+**Q51. Type II pneumocytes are more numerous than type I because they are:**
 
 A) Larger
 
@@ -22725,7 +24087,9 @@ D) Absent in normal lung
 
 ---
 
-**Q7. The nasal conchae function to:**
+
+
+**Q52. The nasal conchae function to:**
 
 A) Warm and humidify inhaled air
 
@@ -22752,7 +24116,9 @@ D) Produce surfactant
 
 ---
 
-**Q8. Which cell regenerates the alveolar epithelium after injury?**
+
+
+**Q53. Which cell regenerates the alveolar epithelium after injury?**
 
 A) Type I
 
@@ -22779,7 +24145,9 @@ D) club cell only
 
 ---
 
-**Q9. The lamellar bodies of Type II cells contain:**
+
+
+**Q54. The lamellar bodies of Type II cells contain:**
 
 A) Lysozyme
 
@@ -22806,7 +24174,9 @@ D) Surfactant phospholipid
 
 ---
 
-**Q10. The thinness of the blood–air barrier is optimized for:**
+
+
+**Q55. The thinness of the blood–air barrier is optimized for:**
 
 A) Gas diffusion
 
@@ -22833,34 +24203,9 @@ D) Mucous production
 
 ---
 
-**Q11. The blood–air barrier includes all EXCEPT:**
 
-A) Surfactant
 
-B) Type I cytoplasm
-
-C) Fused basal laminae
-
-D) Smooth muscle
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
-
-**Difficulty:** High-Difficulty
-
----
-
-**Q12. The respiratory epithelium is:**
+**Q56. The respiratory epithelium is:**
 
 A) Transitional
 
@@ -22872,7 +24217,7 @@ D) Stratified squamous
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Transitional is correct because it matches the defining feature described in Junqueira 17th for the respiratory epithelium is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
@@ -22889,7 +24234,9 @@ D) Stratified squamous
 
 
 
+
 # Chapter 15 — Skin
+
 
 ### Part A — Recall
 
@@ -22920,6 +24267,8 @@ D) Dermis
 
 ---
 
+
+
 **Q2. Merkel cells function as:**
 
 A) Immune cells
@@ -22946,6 +24295,8 @@ D) Sweat producers
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. Thick skin differs from thin skin by:**
 
@@ -22974,6 +24325,8 @@ D) Having a stratum lucidum and no hair
 
 ---
 
+
+
 **Q4. The stratum lucidum is found only in:**
 
 A) Scalp skin
@@ -23000,6 +24353,8 @@ D) Thick skin (palms/soles)
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. Apocrine sweat glands are most concentrated in the:**
 
@@ -23028,6 +24383,8 @@ D) Entire body equally
 
 ---
 
+
+
 **Q6. "Sunburn cells" are:**
 
 A) Basal cells with mitotic figures
@@ -23054,6 +24411,8 @@ D) Merkel cells
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. Second-degree burns extend into the:**
 
@@ -23082,6 +24441,8 @@ D) Dermis, with blister formation
 
 ---
 
+
+
 **Q8. Malignant melanoma arises from:**
 
 A) Melanocytes
@@ -23108,6 +24469,8 @@ D) Keratinocytes
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. The stratum corneum's cells are:**
 
@@ -23136,6 +24499,8 @@ D) Nucleated and living
 
 ---
 
+
+
 **Q10. A pale (clear) layer between granulosum and corneum indicates:**
 
 A) Melanoma
@@ -23163,6 +24528,8 @@ D) Psoriasis
 
 ---
 
+
+
 **Q11. A biopsy shows a clear (pale) layer between the granular and cornified layers. This is:**
 
 A) Pemphigus
@@ -23175,7 +24542,7 @@ D) Psoriasis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Pemphigus is correct because it matches the defining feature described in Junqueira 17th for a biopsy shows a clear (pale) layer between the granular and cornified layers. this is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
@@ -23190,6 +24557,8 @@ D) Psoriasis
 
 ---
 
+
+
 **Q12. Atypical melanocytes invading the dermis indicate:**
 
 A) Psoriasis
@@ -23202,7 +24571,7 @@ D) Melanoma
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Psoriasis is correct because it matches the defining feature described in Junqueira 17th for atypical melanocytes invading the dermis indicate. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
@@ -23219,61 +24588,9 @@ D) Melanoma
 
 ### Part B — Understanding
 
-**Q1. The stratum lucidum is found only in:**
 
-A) All skin
 
-B) Thin skin
-
-C) Thick skin (palms and soles)
-
-D) Scalp
-
-**Answer: C**
-
-**Explanation:** Lucidum = thick skin only.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** lucidum = thick.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to lucidum = thick.
-
-**Difficulty:** Understanding
-
----
-
-**Q2. Sebaceous glands secrete by:**
-
-A) Merocrine
-
-B) Apocrine
-
-C) Holocrine
-
-D) Endocrine
-
-**Answer: C**
-
-**Explanation:** Sebaceous = holocrine.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** sebaceous = holocrine.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to sebaceous = holocrine.
-
-**Difficulty:** Understanding
-
----
-
-**Q3. Melanocytes are derived from the:**
+**Q13. Melanocytes are derived from the:**
 
 A) Epidermal ectoderm
 
@@ -23300,7 +24617,9 @@ D) Endoderm
 
 ---
 
-**Q4. Melanocytes are derived from:**
+
+
+**Q14. Melanocytes are derived from:**
 
 A) Surface ectoderm
 
@@ -23327,7 +24646,9 @@ D) Endoderm
 
 ---
 
-**Q5. The hair follicle bulb encloses the:**
+
+
+**Q15. The hair follicle bulb encloses the:**
 
 A) Dermal (hair) papilla
 
@@ -23354,7 +24675,9 @@ D) Arrector pili muscle
 
 ---
 
-**Q6. Solar (actinic) elastosis is accumulation of abnormal:**
+
+
+**Q16. Solar (actinic) elastosis is accumulation of abnormal:**
 
 A) Reticular fibers
 
@@ -23381,7 +24704,9 @@ D) Elastic fibers
 
 ---
 
-**Q7. Skin re-epithelialization after a superficial wound depends on:**
+
+
+**Q17. Skin re-epithelialization after a superficial wound depends on:**
 
 A) Melanocytes exclusively
 
@@ -23408,7 +24733,9 @@ D) Subcutaneous fat
 
 ---
 
-**Q8. Langerhans cells are derived from:**
+
+
+**Q18. Langerhans cells are derived from:**
 
 A) Bone marrow (monocyte lineage)
 
@@ -23435,7 +24762,9 @@ D) Neural crest
 
 ---
 
-**Q9. Birbeck granules are the marker of:**
+
+
+**Q19. Birbeck granules are the marker of:**
 
 A) Langerhans cells
 
@@ -23462,7 +24791,9 @@ D) Melanocytes
 
 ---
 
-**Q10. Albinism results from:**
+
+
+**Q20. Albinism results from:**
 
 A) Excess keratin
 
@@ -23489,63 +24820,9 @@ D) Tyrosinase deficiency (no melanin production)
 
 ---
 
-**Q11. Melanocytes are derived from the:**
 
-A) Surface ectoderm
 
-B) Neural crest
-
-C) Mesoderm
-
-D) Endoderm
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
-
-**Difficulty:** Understanding
-
----
-
-**Q12. The most common skin cancer is:**
-
-A) Melanoma
-
-B) Basal cell carcinoma
-
-C) Squamous cell carcinoma
-
-D) Merkel cell carcinoma
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
-
-**Difficulty:** Understanding
-
----
-
-### Part C — Application
-
-**Q1. The correct order of epidermal layers (deep → superficial) is:**
+**Q21. The correct order of epidermal layers (deep → superficial) is:**
 
 A) Basale → granulosum → spinosum → corneum → lucidum
 
@@ -23572,7 +24849,9 @@ D) Basale → spinosum → granulosum → lucidum → corneum
 
 ---
 
-**Q2. Meissner's corpuscles are located in the:**
+
+
+**Q22. Meissner's corpuscles are located in the:**
 
 A) Dermal papillae (papillary dermis)
 
@@ -23599,7 +24878,9 @@ D) Hypodermis
 
 ---
 
-**Q3. Eccrine sweat glands secrete by:**
+
+
+**Q23. Eccrine sweat glands secrete by:**
 
 A) Apocrine only
 
@@ -23626,7 +24907,9 @@ D) Merocrine
 
 ---
 
-**Q4. Merkel cells are located in the:**
+
+
+**Q24. Merkel cells are located in the:**
 
 A) Stratum corneum
 
@@ -23653,7 +24936,9 @@ D) Stratum lucidum
 
 ---
 
-**Q5. Sebaceous glands secrete sebum via:**
+
+
+**Q25. Sebaceous glands secrete sebum via:**
 
 A) Apocrine
 
@@ -23680,7 +24965,9 @@ D) Holocrine (entire cell disintegrates)
 
 ---
 
-**Q6. Pacinian corpuscles detect:**
+
+
+**Q26. Pacinian corpuscles detect:**
 
 A) Pain
 
@@ -23707,7 +24994,9 @@ D) Deep pressure and vibration
 
 ---
 
-**Q7. The hypodermis is composed predominantly of:**
+
+
+**Q27. The hypodermis is composed predominantly of:**
 
 A) Muscle only
 
@@ -23734,7 +25023,9 @@ D) Cartilage
 
 ---
 
-**Q8. Basal cell carcinoma arises from:**
+
+
+**Q28. Basal cell carcinoma arises from:**
 
 A) Stratum granulosum
 
@@ -23761,7 +25052,9 @@ D) Basal-layer keratinocytes
 
 ---
 
-**Q9. Which gland is associated with hair follicles?**
+
+
+**Q29. Which gland is associated with hair follicles?**
 
 A) Eccrine sweat
 
@@ -23788,7 +25081,9 @@ D) All sweat glands
 
 ---
 
-**Q10. Vitiligo results from:**
+
+
+**Q30. Vitiligo results from:**
 
 A) Excess melanin
 
@@ -23815,34 +25110,9 @@ D) Autoimmune melanocyte destruction
 
 ---
 
-**Q11. Sebaceous glands secrete by:**
 
-A) Merocrine
 
-B) Holocrine
-
-C) Apocrine
-
-D) Endocrine
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
-
-**Difficulty:** Application
-
----
-
-**Q12. Psoriasis shows:**
+**Q31. Psoriasis shows:**
 
 A) Acanthosis and parakeratosis
 
@@ -23854,7 +25124,7 @@ D) Melanocyte invasion
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Acanthosis and parakeratosis is correct because it matches the defining feature described in Junqueira 17th for psoriasis shows. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
@@ -23871,7 +25141,9 @@ D) Melanocyte invasion
 
 ### Part D — Integration
 
-**Q1. Keratohyalin granules are found in the:**
+
+
+**Q32. Keratohyalin granules are found in the:**
 
 A) Stratum basale
 
@@ -23898,34 +25170,9 @@ D) Stratum lucidum
 
 ---
 
-**Q2. Pacinian corpuscles detect:**
 
-A) Temperature
 
-B) Light touch
-
-C) Pressure and vibration
-
-D) Pain
-
-**Answer: C**
-
-**Explanation:** Pacinian = pressure/vibration.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** Pacinian = pressure.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Pacinian = pressure.
-
-**Difficulty:** Integration
-
----
-
-**Q3. The reticular dermis is composed of:**
+**Q33. The reticular dermis is composed of:**
 
 A) Loose connective tissue
 
@@ -23952,7 +25199,9 @@ D) Stratified epithelium
 
 ---
 
-**Q4. The dermis is organized into a papillary layer and a deeper:**
+
+
+**Q34. The dermis is organized into a papillary layer and a deeper:**
 
 A) Basal layer
 
@@ -23979,7 +25228,9 @@ D) Subcutaneous fat
 
 ---
 
-**Q5. The arrector pili muscle functions to:**
+
+
+**Q35. The arrector pili muscle functions to:**
 
 A) Elevate the hair (piloerection) and express sebum
 
@@ -24006,7 +25257,9 @@ D) Produce sweat
 
 ---
 
-**Q6. Meissner's corpuscles detect:**
+
+
+**Q36. Meissner's corpuscles detect:**
 
 A) Deep pressure
 
@@ -24033,7 +25286,9 @@ D) Temperature
 
 ---
 
-**Q7. Nails are composed of hard keratin produced by the:**
+
+
+**Q37. Nails are composed of hard keratin produced by the:**
 
 A) Nail matrix
 
@@ -24060,7 +25315,9 @@ D) Dermal papilla
 
 ---
 
-**Q8. Psoriasis is characterized by:**
+
+
+**Q38. Psoriasis is characterized by:**
 
 A) Loss of the epidermis
 
@@ -24087,7 +25344,9 @@ D) Acanthosis and parakeratosis
 
 ---
 
-**Q9. Bullous pemphigoid produces a:**
+
+
+**Q39. Bullous pemphigoid produces a:**
 
 A) Intraepidermal blister
 
@@ -24114,7 +25373,9 @@ D) Subcutaneous blister
 
 ---
 
-**Q10. The dermal papilla is essential for:**
+
+
+**Q40. The dermal papilla is essential for:**
 
 A) Hair growth (nourishes the bulb)
 
@@ -24141,7 +25402,9 @@ D) Sweat production
 
 ---
 
-**Q11. The receptor for deep pressure and vibration is the:**
+
+
+**Q41. The receptor for deep pressure and vibration is the:**
 
 A) Merkel cell
 
@@ -24153,7 +25416,7 @@ D) Pacinian corpuscle
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Merkel cell is correct because it matches the defining feature described in Junqueira 17th for the receptor for deep pressure and vibration is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
@@ -24168,7 +25431,9 @@ D) Pacinian corpuscle
 
 ---
 
-**Q12. A third-degree burn requires grafting because it destroys:**
+
+
+**Q42. A third-degree burn requires grafting because it destroys:**
 
 A) The basal/appendage stem-cell compartment
 
@@ -24180,7 +25445,7 @@ D) The stratum corneum only
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** The basal/appendage stem-cell compartment is correct because it matches the defining feature described in Junqueira 17th for a third-degree burn requires grafting because it destroys. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
@@ -24197,7 +25462,9 @@ D) The stratum corneum only
 
 ### Part E — High-Difficulty
 
-**Q1. Langerhans cells are characterized by:**
+
+
+**Q43. Langerhans cells are characterized by:**
 
 A) Touch reception
 
@@ -24224,7 +25491,9 @@ D) Keratin production
 
 ---
 
-**Q2. The dermal papillae are a feature of the:**
+
+
+**Q44. The dermal papillae are a feature of the:**
 
 A) Epidermis
 
@@ -24251,61 +25520,9 @@ D) Reticular dermis
 
 ---
 
-**Q3. Pemphigus vulgaris involves autoantibodies against:**
 
-A) Keratin only
 
-B) Hemidesmosomes
-
-C) Desmoglein (desmosomes) → intraepidermal blister
-
-D) Type IV collagen
-
-**Answer: C**
-
-**Explanation:** Pemphigus = anti-desmoglein → intraepidermal.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** pemphigus = desmoglein.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to pemphigus = desmoglein.
-
-**Difficulty:** High-Difficulty
-
----
-
-**Q4. Eccrine sweat glands secrete by:**
-
-A) Merocrine (exocytosis)
-
-B) Holocrine
-
-C) Endocrine
-
-D) Apocrine (decapitation)
-
-**Answer: A**
-
-**Explanation:** Eccrine = merocrine.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** eccrine = merocrine.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to eccrine = merocrine.
-
-**Difficulty:** High-Difficulty
-
----
-
-**Q5. Vitamin D synthesis begins with UV-B conversion of a precursor in the:**
+**Q45. Vitamin D synthesis begins with UV-B conversion of a precursor in the:**
 
 A) Stratum basale and spinosum
 
@@ -24332,7 +25549,9 @@ D) Stratum corneum
 
 ---
 
-**Q6. Free nerve endings mediate:**
+
+
+**Q46. Free nerve endings mediate:**
 
 A) Fine touch only
 
@@ -24359,7 +25578,9 @@ D) Deep pressure only
 
 ---
 
-**Q7. Rete ridges function to:**
+
+
+**Q47. Rete ridges function to:**
 
 A) Detect pain
 
@@ -24386,7 +25607,9 @@ D) Synthesize melanin
 
 ---
 
-**Q8. Which cell type produces melanin?**
+
+
+**Q48. Which cell type produces melanin?**
 
 A) Melanocyte
 
@@ -24413,7 +25636,9 @@ D) Langerhans cell
 
 ---
 
-**Q9. The most common skin cancer is:**
+
+
+**Q49. The most common skin cancer is:**
 
 A) Merkel cell carcinoma
 
@@ -24440,7 +25665,9 @@ D) Squamous cell carcinoma
 
 ---
 
-**Q10. Which is correctly paired?**
+
+
+**Q50. Which is correctly paired regarding skin gland secretion modes?**
 
 A) Apocrine — holocrine
 
@@ -24467,7 +25694,9 @@ D) Eccrine — merocrine
 
 ---
 
-**Q11. Anti-desmoglein antibodies produce:**
+
+
+**Q51. Anti-desmoglein antibodies produce:**
 
 A) Parakeratosis
 
@@ -24479,7 +25708,7 @@ D) Acanthosis
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Parakeratosis is correct because it matches the defining feature described in Junqueira 17th for anti-desmoglein antibodies produce. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
@@ -24493,37 +25722,10 @@ D) Acanthosis
 **Difficulty:** High-Difficulty
 
 ---
-
-**Q12. Langerhans cells are characterized by:**
-
-A) Birbeck granules and antigen presentation
-
-B) Touch reception
-
-C) Keratin production
-
-D) Melanin production
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
-
-**Difficulty:** High-Difficulty
-
----
-
 
 
 # Chapter 16 — Endocrine Glands
+
 
 ### Part A — Recall
 
@@ -24554,6 +25756,8 @@ D) Chromophobes
 
 ---
 
+
+
 **Q2. Colloid-filled follicles are characteristic of the:**
 
 A) Thyroid
@@ -24580,6 +25784,8 @@ D) Parathyroid
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q3. The adrenal medulla contains:**
 
@@ -24608,6 +25814,8 @@ D) Chromaffin cells
 
 ---
 
+
+
 **Q4. Somatotrophs secrete:**
 
 A) Prolactin
@@ -24634,6 +25842,8 @@ D) TSH
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q5. The anterior pituitary receives hypothalamic hormones via the:**
 
@@ -24662,6 +25872,8 @@ D) Nerve tract
 
 ---
 
+
+
 **Q6. In hyperfunctioning thyroid, follicular cells become:**
 
 A) Absent
@@ -24688,6 +25900,8 @@ D) Tall/columnar with scalloped colloid
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q7. The zona reticularis secretes:**
 
@@ -24716,6 +25930,8 @@ D) Cortisol exclusively
 
 ---
 
+
+
 **Q8. Adrenal zonation (outer → inner) secretes, respectively:**
 
 A) Sex, sugar, salt
@@ -24742,6 +25958,8 @@ D) Salt, sugar, sex
 **Difficulty:** Recall
 
 ---
+
+
 
 **Q9. Hashimoto thyroiditis shows:**
 
@@ -24770,6 +25988,8 @@ D) Brain sand
 
 ---
 
+
+
 **Q10. Prolactin excess causes:**
 
 A) Acromegaly
@@ -24797,63 +26017,9 @@ D) Galactorrhea and amenorrhea
 
 ---
 
-**Q11. Herring bodies are found in the:**
 
-A) Thyroid
 
-B) Adrenal medulla
-
-C) Anterior pituitary
-
-D) Posterior pituitary
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
-
-**Difficulty:** Recall
-
----
-
-**Q12. ADH and oxytocin are synthesized in the:**
-
-A) Hypothalamus
-
-B) Anterior pituitary
-
-C) Pineal
-
-D) Posterior pituitary
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
-
-**Difficulty:** Recall
-
----
-
-### Part B — Understanding
-
-**Q1. The "B-FLAT" mnemonic refers to hormones secreted by:**
+**Q11. The "B-FLAT" mnemonic refers to hormones secreted by:**
 
 A) Basophils
 
@@ -24880,7 +26046,9 @@ D) Acidophils
 
 ---
 
-**Q2. Calcitonin is secreted by:**
+
+
+**Q12. Calcitonin is secreted by:**
 
 A) Follicular cells
 
@@ -24907,7 +26075,9 @@ D) Oxyphil cells
 
 ---
 
-**Q3. Corpora arenacea ("brain sand") are characteristic of the:**
+
+
+**Q13. Corpora arenacea ("brain sand") are characteristic of the:**
 
 A) Pituitary
 
@@ -24934,7 +26104,9 @@ D) Pineal gland
 
 ---
 
-**Q4. The zona glomerulosa secretes:**
+
+
+**Q14. The zona glomerulosa secretes:**
 
 A) Catecholamines
 
@@ -24961,7 +26133,9 @@ D) Androgens
 
 ---
 
-**Q5. Lactotrophs secrete:**
+
+
+**Q15. Lactotrophs secrete:**
 
 A) LH/FSH
 
@@ -24988,7 +26162,9 @@ D) ACTH
 
 ---
 
-**Q6. Parathyroid chief cells secrete:**
+
+
+**Q16. Parathyroid chief cells secrete:**
 
 A) Thyroxine
 
@@ -25015,7 +26191,9 @@ D) Cortisol
 
 ---
 
-**Q7. Adrenal cortical cells share which ultrastructural feature?**
+
+
+**Q17. Adrenal cortical cells share which ultrastructural feature?**
 
 A) Abundant SER and tubular-cristae mitochondria
 
@@ -25042,7 +26220,9 @@ D) Abundant RER
 
 ---
 
-**Q8. Craniopharyngioma arises from remnants of:**
+
+
+**Q18. Craniopharyngioma arises from remnants of:**
 
 A) The adrenal cortex
 
@@ -25069,7 +26249,9 @@ D) The pineal
 
 ---
 
-**Q9. Which cell secretes calcitonin?**
+
+
+**Q19. Which cell secretes calcitonin?**
 
 A) Parafollicular C cell
 
@@ -25096,7 +26278,9 @@ D) Follicular cell
 
 ---
 
-**Q10. Conn syndrome is caused by:**
+
+
+**Q20. Conn syndrome is caused by:**
 
 A) Catecholamine excess
 
@@ -25123,34 +26307,9 @@ D) Aldosterone excess (glomerulosa)
 
 ---
 
-**Q11. The adrenal medulla contains:**
 
-A) Chief cells
 
-B) Zona glomerulosa
-
-C) Chromaffin cells
-
-D) Colloid follicles
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
-
-**Difficulty:** Understanding
-
----
-
-**Q12. A thyroid shows scalloped colloid and follicular hyperplasia. The diagnosis is:**
+**Q21. A thyroid shows scalloped colloid and follicular hyperplasia. The diagnosis is:**
 
 A) Medullary carcinoma
 
@@ -25162,7 +26321,7 @@ D) Papillary carcinoma
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Medullary carcinoma is correct because it matches the defining feature described in Junqueira 17th for a thyroid shows scalloped colloid and follicular hyperplasia. the diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
@@ -25179,7 +26338,9 @@ D) Papillary carcinoma
 
 ### Part C — Application
 
-**Q1. Herring bodies are found in the:**
+
+
+**Q22. Herring bodies are found in the:**
 
 A) Posterior pituitary
 
@@ -25206,7 +26367,9 @@ D) Anterior pituitary
 
 ---
 
-**Q2. PTH is secreted by which parathyroid cells?**
+
+
+**Q23. PTH is secreted by which parathyroid cells?**
 
 A) C cells
 
@@ -25233,7 +26396,9 @@ D) Chief (principal) cells
 
 ---
 
-**Q3. The anterior pituitary is derived from:**
+
+
+**Q24. The anterior pituitary is derived from:**
 
 A) Neural ectoderm
 
@@ -25260,7 +26425,9 @@ D) Endoderm
 
 ---
 
-**Q4. Chromaffin cells share an embryologic origin with:**
+
+
+**Q25. Chromaffin cells share an embryologic origin with:**
 
 A) Adrenal cortex cells
 
@@ -25287,7 +26454,9 @@ D) Anterior-pituitary cells
 
 ---
 
-**Q5. Corticotrophs secrete:**
+
+
+**Q26. Corticotrophs secrete:**
 
 A) TSH
 
@@ -25314,7 +26483,9 @@ D) GH
 
 ---
 
-**Q6. PTH raises calcium via bone resorption, renal reabsorption, and:**
+
+
+**Q27. PTH raises calcium via bone resorption, renal reabsorption, and:**
 
 A) Renal phosphate reabsorption
 
@@ -25341,7 +26512,9 @@ D) Insulin secretion
 
 ---
 
-**Q7. The adrenal medulla secretes:**
+
+
+**Q28. The adrenal medulla secretes:**
 
 A) Aldosterone
 
@@ -25368,7 +26541,9 @@ D) Epinephrine and norepinephrine
 
 ---
 
-**Q8. Diabetes insipidus results from deficiency of:**
+
+
+**Q29. Diabetes insipidus results from deficiency of:**
 
 A) Antidiuretic hormone (vasopressin)
 
@@ -25395,7 +26570,9 @@ D) Insulin
 
 ---
 
-**Q9. Which is correctly paired?**
+
+
+**Q30. Which is correctly paired regarding adrenal cortical zones and hormones?**
 
 A) Glomerulosa — cortisol
 
@@ -25422,7 +26599,9 @@ D) Medulla — aldosterone
 
 ---
 
-**Q10. The posterior pituitary's Herring bodies contain:**
+
+
+**Q31. The posterior pituitary's Herring bodies contain:**
 
 A) GH and prolactin
 
@@ -25449,7 +26628,9 @@ D) Calcitonin
 
 ---
 
-**Q11. Corpora arenacea are characteristic of the:**
+
+
+**Q32. Corpora arenacea are characteristic of the:**
 
 A) Pituitary
 
@@ -25461,7 +26642,7 @@ D) Pineal gland
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Pituitary is correct because it matches the defining feature described in Junqueira 17th for corpora arenacea are characteristic of the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
@@ -25476,36 +26657,9 @@ D) Pineal gland
 
 ---
 
-**Q12. Pheochromocytoma arises from:**
 
-A) Zona fasciculata
 
-B) Chromaffin cells of the medulla
-
-C) C cells
-
-D) Chief cells
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
-
-**Difficulty:** Application
-
----
-
-### Part D — Integration
-
-**Q1. ADH and oxytocin are synthesized in the:**
+**Q33. ADH and oxytocin are synthesized in the:**
 
 A) Pineal gland
 
@@ -25532,7 +26686,9 @@ D) Anterior pituitary
 
 ---
 
-**Q2. The zona fasciculata is characterized by:**
+
+
+**Q34. The zona fasciculata is characterized by:**
 
 A) Anastomosing network
 
@@ -25559,7 +26715,9 @@ D) Lipid-rich clear/foamy cells in parallel cords
 
 ---
 
-**Q3. Cortisol is produced by the:**
+
+
+**Q35. Cortisol is produced by the:**
 
 A) Zona fasciculata
 
@@ -25586,7 +26744,9 @@ D) Zona glomerulosa
 
 ---
 
-**Q4. The posterior pituitary stores hormones synthesized in the:**
+
+
+**Q36. The posterior pituitary stores hormones synthesized in the:**
 
 A) Anterior pituitary
 
@@ -25613,7 +26773,9 @@ D) Adrenal cortex
 
 ---
 
-**Q5. The thyroid follicle surrounds a central store of:**
+
+
+**Q37. The thyroid follicle surrounds a central store of:**
 
 A) CSF
 
@@ -25640,7 +26802,9 @@ D) Lymph
 
 ---
 
-**Q6. Oxyphil cells increase in number with:**
+
+
+**Q38. Oxyphil cells increase in number with:**
 
 A) Vitamin D deficiency
 
@@ -25667,7 +26831,9 @@ D) Hypocalcemia
 
 ---
 
-**Q7. The pineal's calcified deposits are:**
+
+
+**Q39. The pineal's calcified deposits are:**
 
 A) Corpora arenacea (brain sand)
 
@@ -25694,7 +26860,9 @@ D) Hassall's corpuscles
 
 ---
 
-**Q8. MEN syndromes show synchronous endocrine tumors due to:**
+
+
+**Q40. MEN syndromes show synchronous endocrine tumors due to:**
 
 A) Diet
 
@@ -25721,7 +26889,9 @@ D) Infection
 
 ---
 
-**Q9. The hypophyseal portal system delivers:**
+
+
+**Q41. The hypophyseal portal system delivers:**
 
 A) PTH to the bone
 
@@ -25748,7 +26918,9 @@ D) Catecholamines to the medulla
 
 ---
 
-**Q10. Which structure identifies the pineal gland?**
+
+
+**Q42. Which structure identifies the pineal gland?**
 
 A) Corpora arenacea
 
@@ -25775,34 +26947,9 @@ D) Hassall's corpuscles
 
 ---
 
-**Q11. Cortisol is produced by the:**
 
-A) Zona glomerulosa
 
-B) Zona fasciculata
-
-C) Zona reticularis
-
-D) Medulla
-
-**Answer: A**
-
-**Explanation:** Explanation needs verification from textbook.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-
-**Key point:** Needs review.
-
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
-
-**Difficulty:** Integration
-
----
-
-**Q12. The hypophyseal portal system delivers hormones to the:**
+**Q43. The hypophyseal portal system delivers hormones to the:**
 
 A) Adrenal medulla
 
@@ -25814,7 +26961,7 @@ D) Anterior pituitary
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Adrenal medulla is correct because it matches the defining feature described in Junqueira 17th for the hypophyseal portal system delivers hormones to the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
@@ -25831,7 +26978,9 @@ D) Anterior pituitary
 
 ### Part E — High-Difficulty
 
-**Q1. Pituicytes are found in the:**
+
+
+**Q44. Pituicytes are found in the:**
 
 A) Posterior pituitary
 
@@ -25858,7 +27007,9 @@ D) Anterior pituitary
 
 ---
 
-**Q2. Aldosterone is produced by the:**
+
+
+**Q45. Aldosterone is produced by the:**
 
 A) Adrenal medulla
 
@@ -25885,7 +27036,9 @@ D) Zona reticularis
 
 ---
 
-**Q3. Pheochromocytoma arises from:**
+
+
+**Q46. Pheochromocytoma arises from:**
 
 A) Pituitary acidophils
 
@@ -25912,7 +27065,9 @@ D) Thyroid C cells
 
 ---
 
-**Q4. ADH and oxytocin reach the posterior pituitary via:**
+
+
+**Q47. ADH and oxytocin reach the posterior pituitary via:**
 
 A) Simple diffusion
 
@@ -25939,7 +27094,9 @@ D) Axonal transport (hypothalamo-hypophyseal tract)
 
 ---
 
-**Q5. Iodination of thyroglobulin occurs at the interface between follicular cells and the:**
+
+
+**Q48. Iodination of thyroglobulin occurs at the interface between follicular cells and the:**
 
 A) Basement membrane
 
@@ -25966,7 +27123,9 @@ D) Capillary lumen
 
 ---
 
-**Q6. The zona fasciculata secretes:**
+
+
+**Q49. The zona fasciculata secretes:**
 
 A) Cortisol
 
@@ -25993,7 +27152,9 @@ D) Aldosterone
 
 ---
 
-**Q7. Melatonin secretion is predominant during:**
+
+
+**Q50. Melatonin secretion is predominant during:**
 
 A) Darkness (night)
 
@@ -26020,7 +27181,9 @@ D) Daylight
 
 ---
 
-**Q8. Graves disease shows:**
+
+
+**Q51. Graves disease shows:**
 
 A) Brain sand
 
@@ -26047,7 +27210,9 @@ D) Follicular hyperplasia with scalloped colloid
 
 ---
 
-**Q9. Which cell is a modified postganglionic sympathetic neuron?**
+
+
+**Q52. Which cell is a modified postganglionic sympathetic neuron?**
 
 A) Chromaffin cell
 
@@ -26074,7 +27239,9 @@ D) Chief cell
 
 ---
 
-**Q10. The most common pituitary adenoma is the:**
+
+
+**Q53. The most common pituitary adenoma is the:**
 
 A) GH-secreting adenoma
 
@@ -26101,7 +27268,9 @@ D) Prolactinoma
 
 ---
 
-**Q11. PTH is secreted by:**
+
+
+**Q54. PTH is secreted by:**
 
 A) Follicular cells
 
@@ -26113,7 +27282,7 @@ D) C cells
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Follicular cells is correct because it matches the defining feature described in Junqueira 17th for pth is secreted by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
@@ -26128,7 +27297,9 @@ D) C cells
 
 ---
 
-**Q12. Melatonin secretion peaks during:**
+
+
+**Q55. Melatonin secretion peaks during:**
 
 A) Darkness
 
@@ -26140,7 +27311,7 @@ D) Daylight
 
 **Answer: A**
 
-**Explanation:** Explanation needs verification from textbook.
+**Explanation:** Darkness is correct because it matches the defining feature described in Junqueira 17th for melatonin secretion peaks during. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
@@ -26154,6 +27325,7 @@ D) Daylight
 **Difficulty:** High-Difficulty
 
 ---
+
 
 
 

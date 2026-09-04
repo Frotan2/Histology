@@ -3,9 +3,9 @@
 
 **AREMS-HY** — Academic Series
 
-**Primary Reference:** Junqueira's Basic Histology: Text and Atlas — 17th Edition, by Anthony L. Mescher, McGraw Hill
+**Primary Reference:** Junqueira's Basic Histology: Text and Atlas — 17th Edition, by Anthony L. Mescher, McGraw Hill — primary and authoritative reference for Histology section of Specialty Examination
 
-**Official Syllabus (Specialty Examination):** Based on Junqueira 17th Chapters 1,2,3,4,5,6,9,11,12,13,14,15,16,17,18,20 — total 16 chapters. All study materials based primarily on this edition and remain within official syllabus. Chapters not included not incorporated into core study plan unless specifically required.
+**Official Syllabus (Specialty Examination):** Based on Junqueira 17th Chapters 1,2,3,4,5,6,9,11,12,13,14,15,16,17,18,20 — total 16 chapters. All study materials based primarily on this edition and remain within official syllabus.
 
 ---
 
@@ -15,7 +15,7 @@ This book teaches histology as a logical system, not a list of facts.
 
 Every tissue has a reason for being built the way it is. If you understand the reason, you remember the structure. If you understand the structure, you can recognize it, distinguish it, and predict what happens when it fails.
 
-The book is aligned with **Junqueira's Basic Histology, 17th Edition** as primary and authoritative reference, and organized for the Afghanistan 1405 Clinical Medicine postgraduate examination official syllabus (16 chapters). It is not a compressed copy of Junqueira. It is a learning system that makes required histology understandable, memorable, connected, and teachable.
+The book is aligned with Junqueira's Basic Histology, 17th Edition as primary and authoritative reference, and organized for the Afghanistan 1405 Clinical Medicine postgraduate examination official syllabus (16 chapters). It is not a compressed copy of Junqueira. It is a learning system that makes required histology understandable, memorable, connected, and teachable.
 
 Each chapter opens with a question, gives you a map, builds the concept from components to complete tissue, connects structure to function, teaches you how to recognize and distinguish, explains clinical meaning, and ends with what you must know and whether you can explain it without the book.
 
@@ -31,9 +31,9 @@ Read in order. Each chapter grows from the previous one.
 
 **Third pass — discriminate:** Study Compare & Distinguish and Recognition Logic. These answer "How do I know which one I am looking at?"
 
-**Before exam — consolidate:** Use High-Yield, Integrated Summary, Rapid Review. Test yourself with Mastery Check prompts (open-ended, not MCQs).
+**Before exam — consolidate:** Use High-Yield, Integrated Summary, Rapid Review. Test yourself with Mastery Check questions (open-ended, not MCQs).
 
-Question Bank is separate: **Essential Histology: Question Bank** — questions traceable to learning objectives, based on official 16-chapter syllabus.
+Question Bank is separate: Essential Histology: Question Bank — questions traceable to learning objectives, based on official 16-chapter syllabus.
 
 ---
 
@@ -45,24 +45,25 @@ Question Bank is separate: **Essential Histology: Question Bank** — questions 
 4. Chapter 4 — Epithelial Tissue (Junqueira Ch4)
 5. Chapter 5 — Connective Tissue (Junqueira Ch5)
 6. Chapter 6 — Adipose Tissue (Junqueira Ch6)
-7. Chapter 9 — Nerve Tissue & the Nervous System (Junqueira Ch9)
-8. Chapter 11 — The Circulatory System (Junqueira Ch11)
-9. Chapter 12 — Blood (Junqueira Ch12)
-10. Chapter 13 — Hemopoiesis (Junqueira Ch13)
-11. Chapter 14 — The Immune System & Lymphoid Organs (Junqueira Ch14)
-12. Chapter 15 — Digestive Tract (Junqueira Ch15)
-13. Chapter 16 — Organs Associated with the Digestive Tract (Junqueira Ch16)
-14. Chapter 17 — The Respiratory System (Junqueira Ch17)
-15. Chapter 18 — Skin (Junqueira Ch18)
-16. Chapter 20 — Endocrine Glands (Junqueira Ch20)
-
-Chapters not in official syllabus (Cartilage Ch7, Bone Ch8, Muscle Tissue Ch10, Urinary System Ch19, Male Reproductive Ch21, Female Reproductive Ch22, Eye & Ear Ch23) not incorporated into core study plan.
+7. Chapter 7 — Nerve Tissue & the Nervous System (Junqueira Ch9)
+8. Chapter 8 — The Circulatory System (Junqueira Ch11)
+9. Chapter 9 — Blood (Junqueira Ch12)
+10. Chapter 10 — Hemopoiesis (Junqueira Ch13)
+11. Chapter 11 — The Immune System & Lymphoid Organs (Junqueira Ch14)
+12. Chapter 12 — Digestive Tract (Junqueira Ch15)
+13. Chapter 13 — Organs Associated with the Digestive Tract (Junqueira Ch16)
+14. Chapter 14 — The Respiratory System (Junqueira Ch17)
+15. Chapter 15 — Skin (Junqueira Ch18)
+16. Chapter 16 — Endocrine Glands (Junqueira Ch20)
 
 ---
 
 
 
 # Chapter 1 — Histology & Its Methods of Study
+
+Junqueira 17th Edition — Chapter 1
+
 
 ### Opening Question
 How does a pathologist turn a lump of tissue into a diagnosis you can see under a microscope — and why does the choice of stain decide what you will find?
@@ -93,7 +94,7 @@ No method is universal. Each technique = one type of contrast. If a structure is
 ### Core Concept
 **Each technique reveals primarily the specific property it was designed to detect; no method is universal.** The result must be interpreted as chemistry, not as magic color.
 
-> **CORE IDEA:** Contrast is not decoration. It is chemistry made visible.
+> **CORE IDEA:** Contrast is not decoration. It is chemistry made visible — each stain and microscope reveals a specific chemical or physical property.
 
 ### Build the Concept
 
@@ -256,7 +257,7 @@ Histology makes transparent fragile tissue cuttable and contrasted. Processing i
 7. A signet-ring cell with single large clear space and flattened nucleus on H&E — most safe interpretation and how to confirm?
 
 ### Transition
-You have now seen how tissue is prepared and stained. Next, step inside the cell itself — the machinery that every stain in this chapter is lighting up: cytoplasm and cytoskeleton.
+You have now seen how tissue is prepared and stained. Next, step inside the cell itself — the machinery that every stain in this chapter is lighting up: the cytoplasm.
 
 ### Rapid Review
 - Processing: fixation (formalin LM, glutaraldehyde+osmium EM) → dehydration (ethanol removes water) → clearing (xylene removes ethanol) → embedding (paraffin) → ~5 µm section.
@@ -270,7 +271,10 @@ You have now seen how tissue is prepared and stained. Next, step inside the cell
 
 
 
-# Chapter 2 — The Cytoplasm & Cytoskeleton
+# Chapter 2 — The Cytoplasm
+
+Junqueira 17th Edition — Chapter 2
+
 
 ### Opening Question
 How does a cell build, move, and ship thousands of proteins without mixing them up?
@@ -293,7 +297,7 @@ Governing principle: **compartmentalization by membrane + transport by vesicles 
 ### Core Concept
 The cell solves crowding by membranes that create distinct chemical environments, and solves movement by cytoskeletal tracks and motors.
 
-> **CORE IDEA:** RER makes proteins for export and membrane; SER makes lipid and detoxifies; Golgi modifies and sorts; lysosome digests; peroxisome oxidizes; mitochondria makes ATP; cytoskeleton organizes.
+> **CORE IDEA:** The cytoplasm organizes work by compartment: RER synthesizes proteins for export, SER synthesizes lipids and handles detoxification and calcium, Golgi modifies and sorts, lysosomes digest, peroxisomes oxidize, mitochondria produce ATP, and the cytoskeleton organizes space and transport.
 
 ### Build the Concept
 
@@ -389,7 +393,7 @@ Cytoplasm organizes chemistry by membranes: RER makes proteins for export/membra
 5. Why does I-cell disease cause extracellular lysosomal enzymes and intracellular inclusions?
 
 ### Transition
-Cytoplasm builds. Nucleus controls what is built, when, and how much. Next, how 2 meters of DNA fits in a 6 µm nucleus and remains readable.
+The cytoplasm builds and moves. The nucleus controls what is built, when, and how much. Next, how two meters of DNA fits in a six micrometer nucleus and remains readable.
 
 ### Rapid Review
 - RER basophilic = protein for export/membrane/lysosome. SER = lipid, steroid, detox, Ca2+.
@@ -404,6 +408,9 @@ Cytoplasm builds. Nucleus controls what is built, when, and how much. Next, how 
 
 
 # Chapter 3 — The Nucleus
+
+Junqueira 17th Edition — Chapter 3
+
 
 ### Opening Question
 How does 2 meters of DNA fit in a 6 µm nucleus and still remain readable?
@@ -424,7 +431,7 @@ Nucleus = genome storage + reading control. Envelope = barrier + transport. Chro
 ### Core Concept
 **Chromatin organization controls access to genetic information.** Euchromatin open for transcription, heterochromatin closed.
 
-> **CORE IDEA:** Light nucleus = active, dark nucleus = inactive. Nucleolus prominence = ribosome demand.
+> **CORE IDEA:** A pale, euchromatic nucleus with a prominent nucleolus indicates active transcription and ribosome production, while a dark, heterochromatic nucleus indicates quiescence.
 
 ### Build the Concept
 
@@ -499,7 +506,7 @@ Nucleus stores genome in chromatin whose condensation controls access: euchromat
 4. How does lamin defect cause disease?
 
 ### Transition
-Cells with controlled genomes organize into tissues. Next, how polarized cells form sheets that seal, absorb, and secrete: epithelium.
+Cells with controlled genomes organize into tissues. Next, how polarized cells form sheets that seal, absorb, and secrete: epithelial tissue.
 
 ### Rapid Review
 - Envelope double + perinuclear space + pores 120 MDa + lamina lamin.
@@ -513,6 +520,9 @@ Cells with controlled genomes organize into tissues. Next, how polarized cells f
 
 
 # Chapter 4 — Epithelial Tissue
+
+Junqueira 17th Edition — Chapter 4
+
 
 ### Opening Question
 Why does acid reflux slowly turn the lining of the food pipe into intestine — and why does that raise the risk of cancer?
@@ -535,7 +545,7 @@ Epithelium is boundary tissue. An epithelial cell is polarized: apical (lumen) s
 ### Core Concept
 **Polarity + avascularity + basement membrane + regeneration = epithelium.** Form follows function: flat for exchange, tall for absorption, layered for protection, dome-shaped for stretch.
 
-> **CORE IDEA:** Apical solves lumen problems, lateral solves neighbor problems, basal solves matrix problems.
+> **CORE IDEA:** Epithelial polarity solves three different problems: the apical surface handles the lumen, the lateral surface handles neighboring cells, and the basal surface handles attachment to the basement membrane.
 
 ### Build the Concept
 **Defining features:** Polarity (different proteins apical/lateral/basal), Avascular (no vessels, diffusion across BM limits thickness), Basement membrane (LM term) = basal lamina (epithelial: lamina lucida + lamina densa) + reticular lamina (fibroblast type III). Molecular: type IV collagen sheet-forming network (not fibrillar, mesh via NC1) + laminin + entactin/nidogen + perlecan. Regeneration via basal stem cells.
@@ -621,7 +631,7 @@ Epithelium polarized sheet on BM avascular regenerative. Apical microvilli actin
 5. Why pemphigus intraepidermal vs pemphigoid subepidermal?
 
 ### Transition
-Epithelium is boundary. Next, framework that supports, connects, defends: connective tissue.
+Epithelium is the boundary tissue. Next, the framework that supports, connects, and defends: connective tissue.
 
 ### Rapid Review
 - Features polarity avascular BM regeneration.
@@ -638,6 +648,9 @@ Epithelium is boundary. Next, framework that supports, connects, defends: connec
 
 
 # Chapter 5 — Connective Tissue
+
+Junqueira 17th Edition — Chapter 5
+
 
 ### Opening Question
 Why do some people have stretchy skin and others fragile bones — and how can a single tissue explain both?
@@ -660,9 +673,9 @@ A 19-year-old man with tall stature, arachnodactyly, hypermobile joints, aortic 
 Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-filling, signal-carrying. Molecular composition determines mechanical behavior and disease.
 
 ### Core Concept
-**Fiber type = disease type, ground substance = water, fibroblast writes scar.**
+**The molecular composition of the extracellular matrix determines mechanical properties, tissue distribution, and disease vulnerability.**
 
-> **CORE IDEA:** Collagen resists tension, elastic recoils, GAGs hold water for compression resistance.
+> **CORE IDEA:** In connective tissue, collagen fibers resist tension, elastic fibers provide recoil, and glycosaminoglycans hold water to resist compression.
 
 ### Build the Concept
 
@@ -672,7 +685,7 @@ Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-
 - **Collagen:** most abundant protein. Biosynthesis: procollagen α chains RER → hydroxylation proline/lysine (vitamin C cofactor Fe2+ O2) → triple helix → procollagen peptidase → tropocollagen → fibrils quarter-stagger cross-links lysyl oxidase → fibers. Defect hydroxylation → weak collagen → scurvy bleeding gums.
 - **Collagen types master table (Junqueira 17th Chapter 5):**
   - Type I: fibrillar thick, bone, skin, tendon, dentin, organ capsules, cornea, tensile strength, disease OI, EDS arthrochalasia.
-  - Type II: fibrillar thin, hyaline cartilage matrix, vitreous, nucleus pulposus — noted here for completeness but detailed cartilage histology is out of scope per official syllabus (Junqueira Ch7).
+  - Type II: fibrillar thin, hyaline cartilage matrix, vitreous, nucleus pulposus.
   - Type III: fibrillar thin reticular, granulation tissue, around vessels, lymphoid stroma, skin, uterus, delicate stroma, wound healing early, vascular EDS.
   - Type IV: sheet-forming network via NC1 domains, basal lamina, lens capsule, filtration, Goodpasture, Alport.
 - **Elastic:** elastin core hydrophobic desmosine/isodesmosine + fibrillin microfibrils scaffold. Development fibrillin scaffold first then elastin peripherally → mature elastin core surrounded microfibrils. Recoil Orcein/Verhoeff brown-black. Marfan fibrillin-1 defect → weak recoil → aortic aneurysm tall arachnodactyly.
@@ -695,8 +708,6 @@ Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-
 - Elastic: parallel elastic fibers ligamentum nuchae large artery media.
 - Reticular: type III network lymphoid.
 - Mucoid: Wharton jelly umbilical cord hyaluronan-rich.
-
-**Note on cartilage and bone:** Cartilage (Junqueira Ch7) and bone (Ch8) are specialized connective tissues with type II collagen and calcified type I collagen respectively. Detailed histology of hyaline, elastic, fibrocartilage, woven vs lamellar bone, osteon, osteoblast/osteocyte/osteoclast, endochondral vs intramembranous ossification is out of scope per official 16-chapter syllabus and therefore not included in core study plan. Ground substance GAGs hold water for cartilage compression resistance, and bone adds hydroxyapatite mineral for rigidity — concepts mentioned here for continuity.
 
 ### Structure → Function
 Why tendon tension one direction while dermis many? Tendon dense regular parallel type I along axis maximal one direction. Dermis dense irregular interwoven many directions.
@@ -748,7 +759,6 @@ Why GAGs important? GAGs sulfated negative hold water hydrated gel resists compr
 **Must Understand:** Hydroxylation vit C mechanism, why III→I wound healing, why ground substance GAGs hold water.
 
 ### Integrated Summary
-Connective tissue cells+fibers+ground substance. Fibers collagen I-IV master (I tensile bone/skin, III reticular/wound, IV sheet BM), elastic elastin+fibrillin recoil, reticular III silver stroma. Ground substance GAGs hydrated compression resistance. Cells fibroblast builds macrophage defends mast metachromatic allergy plasma antibody. Adult types loose, dense regular parallel, dense irregular interwoven, elastic, reticular silver, mucoid. Cartilage and bone are specialized connective tissues out of scope per official syllabus (Junqueira Ch7-8).
 
 ### Mastery Check
 1. Explain scurvy mechanism from collagen biosynthesis.
@@ -758,7 +768,7 @@ Connective tissue cells+fibers+ground substance. Fibers collagen I-IV master (I 
 5. Sequence wound healing explain III→I switch.
 
 ### Transition
-Framework built. Specialized framework that stores energy and signals: adipose tissue.
+The framework is built. Next, a specialized framework that stores energy and signals: adipose tissue.
 
 ### Rapid Review
 - Components cells+fibers collagen I III IV elastic elastin+fibrillin reticular III + ground substance GAGs water.
@@ -766,7 +776,6 @@ Framework built. Specialized framework that stores energy and signals: adipose t
 - Elastic elastin core+fibrillin Marfan Orcein.
 - Cells fibroblast macrophage mast metachromatic plasma clock-face.
 - CT types loose dense regular parallel dense irregular interwoven elastic reticular silver mucoid.
-- Cartilage/bone specialized CT out of scope per official syllabus (Junqueira Ch7-8) — not in core study plan.
 
 
 ---
@@ -774,6 +783,9 @@ Framework built. Specialized framework that stores energy and signals: adipose t
 
 
 # Chapter 6 — Adipose Tissue
+
+Junqueira 17th Edition — Chapter 6
+
 
 ### Opening Question
 How does fat do more than store energy — and why does its location decide metabolic risk?
@@ -793,7 +805,7 @@ Adipose = connective tissue where lipid storage dominates but endocrine and ther
 ### Core Concept
 **Lipid droplet size and mitochondria number determine function: storage vs heat.**
 
-> **CORE IDEA:** White signet-ring storage + leptin, brown multilocular + mitochondria + UCP1 heat.
+> **CORE IDEA:** White adipocytes store energy as a single large droplet and signal via leptin, while brown adipocytes generate heat via many small droplets, abundant mitochondria, and uncoupling protein 1.
 
 ### Build the Concept
 **White unilocular:** single large droplet peripheral flattened nucleus signet-ring H&E lipid dissolved empty vacuole need frozen Oil Red O confirm ~up to ~100 µm scant mitochondria energy storage insulation cushioning leptin satiety adiponectin.
@@ -848,7 +860,7 @@ Adipose specialized CT white unilocular storage + endocrine brown multilocular t
 4. Explain leptin adiponectin roles.
 
 ### Transition
-Storage → contraction. Next tissue converts chemical energy to mechanical work: muscle.
+Energy storage is organized. Next, tissue that lasts a lifetime and wires the body: nerve tissue and the nervous system.
 
 ### Rapid Review
 - White single droplet peripheral nucleus signet-ring storage leptin ~100 µm.
@@ -862,7 +874,10 @@ Storage → contraction. Next tissue converts chemical energy to mechanical work
 
 
 
-# Chapter 8 — Nerve Tissue & the Nervous System
+# Chapter 7 — Nerve Tissue & the Nervous System
+
+Junqueira 17th Edition — Chapter 9
+
 
 ### Opening Question
 How does a cell that lasts a lifetime wire a body and still support itself?
@@ -882,7 +897,7 @@ Neuron = long-lived polarized excitable cell dendrite→soma→axon→synapse; g
 ### Core Concept
 **Myelin speeds conduction saltatory jumping between nodes Ranvier; PNS one Schwann per internode with neurilemma basal lamina allows regeneration, CNS oligodendrocyte many internodes no neurilemma limits regeneration.**
 
-> **CORE IDEA:** Dendrites receive axon conducts myelin insulates nodes regenerate action potential glia support.
+> **CORE IDEA:** In nerve tissue, dendrites receive signals, the axon conducts them, myelin insulates to speed conduction, nodes of Ranvier regenerate the action potential, and glia provide support, myelination, and barrier functions.
 
 ### Build the Concept
 **Neuron:** perikaryon Nissl RER basophilic prominent nucleolus dendrites tapering spines receive axon hillock origin no Nissl action potential initiation axon uniform diameter no RER neurofilaments + microtubules transport kinesin anterograde dynein retrograde terminals synaptic vesicles.
@@ -963,7 +978,7 @@ Neuron polarized receiving dendrites synthetic perikaryon Nissl conducting axon 
 4. Describe BBB layers why many antibiotics don't cross.
 
 ### Transition
-Nerve needs supply and connection. Next system supplies and connects all tissues: circulatory.
+Nerve needs supply and connection. Next, the system that supplies and connects all tissues: the circulatory system.
 
 ### Rapid Review
 - Neuron perikaryon Nissl RER prominent nucleolus dendrites hillock no Nissl axon neurofilament/microtubule kinesin anterograde dynein retrograde.
@@ -976,7 +991,10 @@ Nerve needs supply and connection. Next system supplies and connects all tissues
 
 
 
-# Chapter 9 — The Circulatory System
+# Chapter 8 — The Circulatory System
+
+Junqueira 17th Edition — Chapter 11
+
 
 ### Opening Question
 How does one tube plan build an aorta that stretches and a capillary that leaks on purpose?
@@ -996,7 +1014,7 @@ Vessel = intima + media + adventitia. Intima is defined by endothelium plus sube
 ### Core Concept
 **Media composition = function: elastic lamellae for recoil, smooth muscle for resistance, fenestrations for exchange, valves for unidirectional flow.**
 
-> **CORE IDEA:** Elastic artery Windkessel recoil, muscular artery resistance, capillary exchange type determines permeability, vein capacitance + valves.
+> **CORE IDEA:** In the circulatory system, elastic arteries recoil to maintain flow, muscular arteries regulate resistance, capillary type determines permeability, and veins provide capacitance with valves ensuring unidirectional flow.
 
 ### Build the Concept
 **Heart:** endocardium endothelium+subendothelial CT+Purkinje myocardium cardiac muscle epicardium mesothelium+CT+fat. Valves dense irregular CT+endothelium.
@@ -1079,7 +1097,7 @@ Circulatory 3-layer plan modified intima endothelium always media elastic recoil
 4. Why glomerular capillary fenestrations without diaphragm?
 
 ### Transition
-Circulatory carries specialized connective tissue: blood.
+The circulatory system carries a specialized connective tissue: blood.
 
 ### Rapid Review
 - Layers intima endothelium+subendothelial media muscle+elastic adventitia CT vasa vasorum.
@@ -1092,7 +1110,10 @@ Circulatory carries specialized connective tissue: blood.
 
 
 
-# Chapter 10 — Blood
+# Chapter 9 — Blood
+
+Junqueira 17th Edition — Chapter 12
+
 
 ### Opening Question
 How can you tell a bacterial infection from a parasitic one from a single blood smear?
@@ -1110,9 +1131,9 @@ Neutrophilia bacterial eosinophilia parasite/allergy lymphocytosis viral monocyt
 Blood = plasma + formed elements. Leukocyte morphology predicts defense neutrophil bacterial eosinophil parasite/allergy basophil heparin/histamine lymphocyte adaptive monocyte macrophage precursor.
 
 ### Core Concept
-**Nucleus shape + granule color = function.**
+**Leukocyte morphology reflects function, but requires integration of nucleus shape, granule content, size, and clinical context.**
 
-> **CORE IDEA:** Multilobed short-lived innate round dark long-lived adaptive kidney monocyte macrophage precursor biconcave disc no nucleus RBC gas exchange.
+> **CORE IDEA:** In blood, multilobed neutrophils are short-lived innate defenders, round dark small lymphocytes are long-lived adaptive cells, kidney-shaped monocytes are macrophage precursors, and biconcave discs without nuclei are red cells specialized for gas exchange.
 
 ### Build the Concept
 **RBC:** biconcave disc ~7.5 µm diameter ~2 µm thick no nucleus no organelles eosinophilic hemoglobin flexible increases surface gas exchange lifespan ~120 days removed spleen.
@@ -1189,7 +1210,7 @@ Blood circulating CT RBC biconcave disc no nucleus gas exchange neutrophil 3-5 l
 4. What is left shift and what does it indicate?
 
 ### Transition
-Blood cells die days to months. Where do they come from? Next marrow factory hemopoiesis.
+Blood cells die in days to months. Where do they come from? Next, the marrow factory: hemopoiesis.
 
 ### Rapid Review
 - RBC ~7.5 µm biconcave no nucleus eosinophilic 120d.
@@ -1205,7 +1226,10 @@ Blood cells die days to months. Where do they come from? Next marrow factory hem
 
 
 
-# Chapter 11 — Hemopoiesis
+# Chapter 10 — Hemopoiesis
+
+Junqueira 17th Edition — Chapter 13
+
 
 ### Opening Question
 How does marrow make 200 billion red cells a day without making a tumor?
@@ -1225,7 +1249,7 @@ Hemopoiesis hierarchical differentiation specialized niche stem → progenitors 
 ### Core Concept
 **Niche + growth factor + morphology reflecting synthesis = regulated production.**
 
-> **CORE IDEA:** Basophilic early RER → polychromatic mixed → eosinophilic late hemoglobin reflects protein synthesis shift.
+> **CORE IDEA:** In hemopoiesis, early erythroid precursors are basophilic due to abundant rough endoplasmic reticulum, intermediate forms are polychromatic as hemoglobin accumulates, and late forms are eosinophilic as hemoglobin dominates.
 
 ### Build the Concept
 **Marrow:** red active hematopoietic cords + sinusoids fenestrated discontinuous vs yellow inactive adipocytes. Stromal cells macrophages nurse sinusoids allow mature cells enter blood but retain immature.
@@ -1290,7 +1314,7 @@ Marrow niche stromal + sinusoids discontinuous allows regulated release. Erythro
 4. Compare red vs yellow marrow why iliac crest biopsy site.
 
 ### Transition
-New lymphocytes need education before defense. Next primary vs secondary lymphoid organs and T vs B geography.
+New lymphocytes need education before defense. Next, primary versus secondary lymphoid organs and T versus B geography.
 
 ### Rapid Review
 - Marrow red active cords+sinusoids discontinuous vs yellow fatty.
@@ -1304,7 +1328,10 @@ New lymphocytes need education before defense. Next primary vs secondary lymphoi
 
 
 
-# Chapter 12 — The Immune System & Lymphoid Organs
+# Chapter 11 — The Immune System & Lymphoid Organs
+
+Junqueira 17th Edition — Chapter 14
+
 
 ### Opening Question
 Why does losing one gland in a newborn's chest leave them defenseless against viruses for life?
@@ -1325,7 +1352,7 @@ Immune organized education vs execution and T vs B geography. Every secondary or
 ### Core Concept
 **Primary organs make naive lymphocytes secondary organs where antigen encountered. T vs B geography diagnostic.**
 
-> **CORE IDEA:** Marrow + thymus = make them node + spleen + MALT = use them. PALS = T follicle = B.
+> **CORE IDEA:** Primary lymphoid organs, marrow and thymus, produce naive lymphocytes, while secondary organs, nodes, spleen, and MALT, are where lymphocytes encounter antigen. In secondary organs, the periarteriolar lymphoid sheath is T-cell rich and follicles are B-cell rich.
 
 ### Build the Concept
 **Primary:** Bone marrow B maturation negative selection. Thymus T maturation cortex immature T densely packed dark blood-thymus barrier continuous endothelium basal lamina pericyte epithelial reticular cell prevents antigen entry medulla lighter Hassall corpuscles keratinized epithelial reticular whorls + mature T negative selection no germinal centers no B response involutes with age myoid cells.
@@ -1394,7 +1421,7 @@ Immune education vs execution marrow B + thymus T cortex immature barrier medull
 5. Why splenectomy causes Howell-Jolly bodies and encapsulated bacteria risk?
 
 ### Transition
-Defense protects gut. Gut largest interface outside world. Next how one tube digests steak absorbs fat protects from acid.
+Defense protects the gut. The gut is the largest interface with the outside world. Next, how one tube digests, absorbs, and protects itself.
 
 ### Rapid Review
 - Primary marrow B thymus T cortex dark barrier medulla Hassall no germinal centers.
@@ -1408,7 +1435,10 @@ Defense protects gut. Gut largest interface outside world. Next how one tube dig
 
 
 
-# Chapter 13 — The Digestive Tract
+# Chapter 12 — Digestive Tract
+
+Junqueira 17th Edition — Chapter 15
+
 
 ### Opening Question
 How does one tube digest a steak, absorb fat, and protect itself from its own acid?
@@ -1428,7 +1458,7 @@ GI tract = common layered plan modified regionally for specialized function prot
 ### Core Concept
 **4 layers + regional specialization: epithelium type + glands + villi + lymphoid + muscle thickness = function.**
 
-> **CORE IDEA:** Mucosa epithelium+lamina propria+muscularis mucosae submucosa Meissner muscularis externa circular+longitudinal Auerbach serosa/adventitia. Regional modifications explain function.
+> **CORE IDEA:** The digestive tract shares a common four-layer plan — mucosa, submucosa, muscularis externa, and serosa or adventitia — with regional modifications in epithelium, glands, villi, lymphoid tissue, and muscle that explain specialized functions.
 
 ### Build the Concept
 **Common plan:** Mucosa epithelium type varies + lamina propria loose CT + glands + immune + muscularis mucosae thin smooth muscle moves mucosa. Submucosa dense irregular CT + submucosal plexus Meissner parasympathetic ganglia secretion. Muscularis externa inner circular + outer longitudinal smooth muscle + myenteric plexus Auerbach between motility. Serosa peritoneal cavity mesothelium+CT vs adventitia no mesothelium dense CT.
@@ -1503,7 +1533,7 @@ GI tract common 4-layer plan mucosa epithelium+lamina propria+muscularis mucosae
 5. What happens if Auerbach plexus absent?
 
 ### Transition
-Tube needs accessory organs to process nutrients liver pancreas salivary. Next organs associated with digestive tract.
+The tube needs accessory organs to process nutrients. Next, organs associated with the digestive tract: liver, pancreas, and salivary glands.
 
 ### Rapid Review
 - 4 layers mucosa epithelium+lamina+muscularis mucosae submucosa Meissner muscularis externa circular+longitudinal Auerbach serosa/adventitia.
@@ -1517,7 +1547,10 @@ Tube needs accessory organs to process nutrients liver pancreas salivary. Next o
 
 
 
-# Chapter 14 — Organs Associated with the Digestive Tract
+# Chapter 13 — Organs Associated with the Digestive Tract
+
+Junqueira 17th Edition — Chapter 16
+
 
 ### Opening Question
 How does liver do 500 jobs with only a few cell types — and why does its blood flow make it vulnerable?
@@ -1537,7 +1570,7 @@ Liver = epithelial cords + sinusoids three models explain different functions. P
 ### Core Concept
 **Liver cords + sinusoids + portal triad + 3 models; pancreas serous acinar basophilic basal eosinophilic apical + islet alpha peripheral beta central; salivary serous vs mucous + striated duct ion modification.**
 
-> **CORE IDEA:** Classic lobule central vein blood flow portal lobule bile flow acinus metabolic zones explain liver function injury pattern.
+> **CORE IDEA:** The liver can be described by three models: the classic lobule centered on the central vein for blood flow, the portal lobule centered on the portal triad for bile drainage, and the acinus for metabolic zonation and injury patterns.
 
 ### Build the Concept
 **Liver:** Hepatocyte polygonal central nucleus eosinophilic mitochondria basophilic RER patches peroxisomes glycogen plates one cell thick radiating central vein. Sinusoids fenestrated discontinuous endothelium discontinuous basal lamina Kupffer macrophages phagocytosis Ito stellate cells vitamin A storage fibrosis collagen when activated. Space Disse between hepatocyte sinusoid microvilli plasma. Bile canaliculi between hepatocytes tight junctions seal drain canals Hering → bile ductules → interlobular bile ducts portal triad. Portal triad portal vein large thin hepatic artery small thick bile duct cuboidal epithelium. Models classic lobule hexagon central vein portal triads corners blood portal+arterial → central. Portal lobule triangle portal triad center bile drains center exocrine function. Acinus diamond portal triad + central vein corners zones 1 periportal oxygen rich vulnerable bile 2 mid 3 perivenular oxygen poor vulnerable ischemia centrilobular necrosis.
@@ -1617,7 +1650,7 @@ Liver epithelial cords + sinusoids discontinuous fenestrated Kupffer Ito space D
 4. Distinguish serous vs mucous acinus and striated duct function.
 
 ### Transition
-Gut absorbs nutrients liver processes pancreas regulates glucose. Next organ exchanges gas with similar barrier logic but air respiratory.
+The gut absorbs nutrients, the liver processes them, and the pancreas regulates glucose. Next, an organ that exchanges gas with a similar barrier logic but for air: the respiratory system.
 
 ### Rapid Review
 - Liver plates hepatocytes eosinophilic + sinusoids fenestrated discontinuous Kupffer Ito space Disse microvilli bile canaliculi tight junctions portal triad classic central vein portal triad center acinus zones 1 periportal 3 perivenular centrilobular necrosis ischemia.
@@ -1629,7 +1662,10 @@ Gut absorbs nutrients liver processes pancreas regulates glucose. Next organ exc
 
 
 
-# Chapter 15 — The Respiratory System
+# Chapter 14 — The Respiratory System
+
+Junqueira 17th Edition — Chapter 17
+
 
 ### Opening Question
 How does an organ that must stay open also clean itself — and how does a 0.5 µm barrier let oxygen through but keep blood in?
@@ -1649,7 +1685,7 @@ Conducting portion conditions air cleans via mucociliary escalator pseudostratif
 ### Core Concept
 **Conducting = cartilage + glands + pseudostratified ciliated + goblet + smooth muscle; respiratory = no cartilage no glands simple cuboidal→squamous Clara/club alveoli type I flat + type II surfactant blood-air barrier 3 layers.**
 
-> **CORE IDEA:** Bronchus has cartilage and glands bronchiole has no cartilage no glands but has Clara cells and more smooth muscle. Blood-air barrier thin diffusion but tight protein.
+> **CORE IDEA:** A bronchus has cartilage plates and submucosal glands, while a bronchiole has no cartilage or glands but has club cells and relatively more smooth muscle. The blood-air barrier is thin for diffusion yet tight to prevent protein leak.
 
 ### Build the Concept
 **Nasal cavity:** respiratory region pseudostratified ciliated columnar + goblet + seromucous glands olfactory region pseudostratified columnar olfactory neurons + sustentacular + basal stem + Bowman glands.
@@ -1743,7 +1779,7 @@ Respiratory conducting conditions cleans nasal pseudostratified ciliated goblet 
 5. Why asthma affects bronchiole smooth muscle goblet?
 
 ### Transition
-Lung exchanges gas thin barrier. Skin protects thick barrier. Next stratified squamous keratinized specialization integument.
+The lung exchanges gas with a thin barrier. Skin protects with a thick barrier. Next, a stratified squamous keratinized specialization: skin.
 
 ### Rapid Review
 - Conducting nasal pseudostratified ciliated goblet trachea C hyaline cartilage pseudostratified ciliated goblet glands bronchus plates cartilage glands pseudostratified goblet smooth muscle bronchiole no cartilage no glands simple ciliated + Clara dome smooth muscle prominent.
@@ -1756,7 +1792,10 @@ Lung exchanges gas thin barrier. Skin protects thick barrier. Next stratified sq
 
 
 
-# Chapter 16 — Skin (Integument)
+# Chapter 15 — Skin
+
+Junqueira 17th Edition — Chapter 18
+
 
 ### Opening Question
 How does skin be waterproof, touch-sensitive, and able to regrow after a cut?
@@ -1776,7 +1815,7 @@ Skin = keratinized stratified squamous epithelium epidermis + CT dermis papillar
 ### Core Concept
 **Epidermis basal stem → spinous desmosomes → granular keratohyalin → corneum anucleate keratin waterproof; dermis papillary loose Meissner touch reticular dense irregular Pacinian pressure; appendages hair + arrector pili smooth muscle + sebaceous holocrine + eccrine merocrine.**
 
-> **CORE IDEA:** Basale stem hemidesmosome spinosum desmosome spines granulosum keratohyalin corneum keratin barrier. Melanocyte melanin supranuclear cap Langerhans antigen Merkel touch.
+> **CORE IDEA:** In skin, basal stem cells attach via hemidesmosomes, spinous cells connect via desmosomes visible as spines, granular cells contain keratohyalin, and corneum forms a keratin barrier. Melanocytes provide a supranuclear melanin cap for UV protection, Langerhans cells present antigen, and Merkel cells mediate touch.
 
 ### Build the Concept
 **Epidermis:**
@@ -1868,7 +1907,7 @@ Skin keratinized stratified squamous epidermis basal stem hemidesmosome melanocy
 5. Compare sebaceous vs eccrine vs apocrine mechanism location.
 
 ### Transition
-Skin is barrier. Next organ filters blood with similar basement membrane logic but fenestrated urinary system.
+Skin is the outer barrier. Next, ductless glands that command long-distance signaling via blood: endocrine glands.
 
 ### Rapid Review
 - Layers basale cuboidal stem hemidesmosome + spinosum desmosome spines + granulosum keratohyalin lamellar + lucidum thick only + corneum anucleate keratin.
@@ -1882,7 +1921,10 @@ Skin is barrier. Next organ filters blood with similar basement membrane logic b
 
 
 
-# Chapter 18 — Endocrine Glands
+# Chapter 16 — Endocrine Glands
+
+Junqueira 17th Edition — Chapter 20
+
 
 ### Opening Question
 How does a pea-sized gland behind eyes control growth, milk, stress, thirst — with only handful of cell types?
@@ -1904,7 +1946,7 @@ Endocrine = ductless secretion into blood fenestrated capillaries. Identified by
 ### Core Concept
 **Gland = cell + hormone pituitary anterior synthesizes via portal system posterior stores via axonal transport adrenal cortex outer→inner salt→sugar→sex.**
 
-> **CORE IDEA:** Acidophil GH prolactin basophil B-FLAT FSH LH ACTH TSH historical modern somatotroph lactotroph corticotroph gonadotroph thyrotroph. Posterior Herring bodies ADH oxytocin stored. Thyroid colloid T3/T4 + C calcitonin. Adrenal GFR glomerulosa aldosterone fasciculata cortisol clear cells reticularis androgen medulla chromaffin catecholamines.
+> **CORE IDEA:** In endocrine glands, anterior pituitary acidophils produce growth hormone and prolactin, basophils produce FSH, LH, ACTH, and TSH, with modern immunohistochemistry identifying somatotrophs, lactotrophs, corticotrophs, gonadotrophs, and thyrotrophs. Posterior pituitary stores ADH and oxytocin in Herring bodies. Thyroid follicles store colloid for T3 and T4 with parafollicular C cells producing calcitonin. Adrenal cortex shows outer to inner zonation for salt, sugar, and sex steroids, and medulla contains chromaffin cells producing catecholamines.
 
 ### Build the Concept
 **Pituitary hypophysis:** sella turcica dual origin.
@@ -1997,7 +2039,7 @@ Endocrine ductless fenestrated capillaries cell+ hormone pairing pituitary dual 
 5. Why prolactinoma associated bitemporal hemianopia?
 
 ### Transition
-Endocrine is command. Entire body epithelium + connective tissue + muscle + nerve organized by function supplied circulatory defended immune regulated endocrine. You now have map from methods to control.
+Endocrine glands complete the body's long-distance signaling. You now have a continuous map from methods to cells to tissues to organ systems to hormonal control. The sixteen chapters read as one connected course.
 
 ### Rapid Review
 - Pituitary anterior adenohypophysis oral ectoderm acidophils GH PRL basophils B-FLAT FSH LH ACTH TSH chromophobes posterior neurohypophysis neural Herring bodies ADH oxytocin stored pituicytes portal hypothalamus.

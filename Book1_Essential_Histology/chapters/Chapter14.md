@@ -1,4 +1,7 @@
-# Chapter 14 — Organs Associated with the Digestive Tract
+# Chapter 13 — Organs Associated with the Digestive Tract
+
+Junqueira 17th Edition — Chapter 16
+
 
 ### Opening Question
 How does liver do 500 jobs with only a few cell types — and why does its blood flow make it vulnerable?
@@ -18,7 +21,7 @@ Liver = epithelial cords + sinusoids three models explain different functions. P
 ### Core Concept
 **Liver cords + sinusoids + portal triad + 3 models; pancreas serous acinar basophilic basal eosinophilic apical + islet alpha peripheral beta central; salivary serous vs mucous + striated duct ion modification.**
 
-> **CORE IDEA:** Classic lobule central vein blood flow portal lobule bile flow acinus metabolic zones explain liver function injury pattern.
+> **CORE IDEA:** The liver can be described by three models: the classic lobule centered on the central vein for blood flow, the portal lobule centered on the portal triad for bile drainage, and the acinus for metabolic zonation and injury patterns.
 
 ### Build the Concept
 **Liver:** Hepatocyte polygonal central nucleus eosinophilic mitochondria basophilic RER patches peroxisomes glycogen plates one cell thick radiating central vein. Sinusoids fenestrated discontinuous endothelium discontinuous basal lamina Kupffer macrophages phagocytosis Ito stellate cells vitamin A storage fibrosis collagen when activated. Space Disse between hepatocyte sinusoid microvilli plasma. Bile canaliculi between hepatocytes tight junctions seal drain canals Hering → bile ductules → interlobular bile ducts portal triad. Portal triad portal vein large thin hepatic artery small thick bile duct cuboidal epithelium. Models classic lobule hexagon central vein portal triads corners blood portal+arterial → central. Portal lobule triangle portal triad center bile drains center exocrine function. Acinus diamond portal triad + central vein corners zones 1 periportal oxygen rich vulnerable bile 2 mid 3 perivenular oxygen poor vulnerable ischemia centrilobular necrosis.
@@ -98,7 +101,7 @@ Liver epithelial cords + sinusoids discontinuous fenestrated Kupffer Ito space D
 4. Distinguish serous vs mucous acinus and striated duct function.
 
 ### Transition
-Gut absorbs nutrients liver processes pancreas regulates glucose. Next organ exchanges gas with similar barrier logic but air respiratory.
+The gut absorbs nutrients, the liver processes them, and the pancreas regulates glucose. Next, an organ that exchanges gas with a similar barrier logic but for air: the respiratory system.
 
 ### Rapid Review
 - Liver plates hepatocytes eosinophilic + sinusoids fenestrated discontinuous Kupffer Ito space Disse microvilli bile canaliculi tight junctions portal triad classic central vein portal triad center acinus zones 1 periportal 3 perivenular centrilobular necrosis ischemia.

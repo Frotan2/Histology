@@ -1,4 +1,7 @@
-# Chapter 8 — Nerve Tissue & the Nervous System
+# Chapter 7 — Nerve Tissue & the Nervous System
+
+Junqueira 17th Edition — Chapter 9
+
 
 ### Opening Question
 How does a cell that lasts a lifetime wire a body and still support itself?
@@ -18,7 +21,7 @@ Neuron = long-lived polarized excitable cell dendrite→soma→axon→synapse; g
 ### Core Concept
 **Myelin speeds conduction saltatory jumping between nodes Ranvier; PNS one Schwann per internode with neurilemma basal lamina allows regeneration, CNS oligodendrocyte many internodes no neurilemma limits regeneration.**
 
-> **CORE IDEA:** Dendrites receive axon conducts myelin insulates nodes regenerate action potential glia support.
+> **CORE IDEA:** In nerve tissue, dendrites receive signals, the axon conducts them, myelin insulates to speed conduction, nodes of Ranvier regenerate the action potential, and glia provide support, myelination, and barrier functions.
 
 ### Build the Concept
 **Neuron:** perikaryon Nissl RER basophilic prominent nucleolus dendrites tapering spines receive axon hillock origin no Nissl action potential initiation axon uniform diameter no RER neurofilaments + microtubules transport kinesin anterograde dynein retrograde terminals synaptic vesicles.
@@ -99,7 +102,7 @@ Neuron polarized receiving dendrites synthetic perikaryon Nissl conducting axon 
 4. Describe BBB layers why many antibiotics don't cross.
 
 ### Transition
-Nerve needs supply and connection. Next system supplies and connects all tissues: circulatory.
+Nerve needs supply and connection. Next, the system that supplies and connects all tissues: the circulatory system.
 
 ### Rapid Review
 - Neuron perikaryon Nissl RER prominent nucleolus dendrites hillock no Nissl axon neurofilament/microtubule kinesin anterograde dynein retrograde.

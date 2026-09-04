@@ -1,4 +1,7 @@
-# Chapter 2 — The Cytoplasm & Cytoskeleton
+# Chapter 2 — The Cytoplasm
+
+Junqueira 17th Edition — Chapter 2
+
 
 ### Opening Question
 How does a cell build, move, and ship thousands of proteins without mixing them up?
@@ -21,7 +24,7 @@ Governing principle: **compartmentalization by membrane + transport by vesicles 
 ### Core Concept
 The cell solves crowding by membranes that create distinct chemical environments, and solves movement by cytoskeletal tracks and motors.
 
-> **CORE IDEA:** RER makes proteins for export and membrane; SER makes lipid and detoxifies; Golgi modifies and sorts; lysosome digests; peroxisome oxidizes; mitochondria makes ATP; cytoskeleton organizes.
+> **CORE IDEA:** The cytoplasm organizes work by compartment: RER synthesizes proteins for export, SER synthesizes lipids and handles detoxification and calcium, Golgi modifies and sorts, lysosomes digest, peroxisomes oxidize, mitochondria produce ATP, and the cytoskeleton organizes space and transport.
 
 ### Build the Concept
 
@@ -117,7 +120,7 @@ Cytoplasm organizes chemistry by membranes: RER makes proteins for export/membra
 5. Why does I-cell disease cause extracellular lysosomal enzymes and intracellular inclusions?
 
 ### Transition
-Cytoplasm builds. Nucleus controls what is built, when, and how much. Next, how 2 meters of DNA fits in a 6 µm nucleus and remains readable.
+The cytoplasm builds and moves. The nucleus controls what is built, when, and how much. Next, how two meters of DNA fits in a six micrometer nucleus and remains readable.
 
 ### Rapid Review
 - RER basophilic = protein for export/membrane/lysosome. SER = lipid, steroid, detox, Ca2+.

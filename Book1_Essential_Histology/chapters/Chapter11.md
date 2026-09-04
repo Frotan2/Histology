@@ -1,4 +1,7 @@
-# Chapter 11 — Hemopoiesis
+# Chapter 10 — Hemopoiesis
+
+Junqueira 17th Edition — Chapter 13
+
 
 ### Opening Question
 How does marrow make 200 billion red cells a day without making a tumor?
@@ -18,7 +21,7 @@ Hemopoiesis hierarchical differentiation specialized niche stem → progenitors 
 ### Core Concept
 **Niche + growth factor + morphology reflecting synthesis = regulated production.**
 
-> **CORE IDEA:** Basophilic early RER → polychromatic mixed → eosinophilic late hemoglobin reflects protein synthesis shift.
+> **CORE IDEA:** In hemopoiesis, early erythroid precursors are basophilic due to abundant rough endoplasmic reticulum, intermediate forms are polychromatic as hemoglobin accumulates, and late forms are eosinophilic as hemoglobin dominates.
 
 ### Build the Concept
 **Marrow:** red active hematopoietic cords + sinusoids fenestrated discontinuous vs yellow inactive adipocytes. Stromal cells macrophages nurse sinusoids allow mature cells enter blood but retain immature.
@@ -83,7 +86,7 @@ Marrow niche stromal + sinusoids discontinuous allows regulated release. Erythro
 4. Compare red vs yellow marrow why iliac crest biopsy site.
 
 ### Transition
-New lymphocytes need education before defense. Next primary vs secondary lymphoid organs and T vs B geography.
+New lymphocytes need education before defense. Next, primary versus secondary lymphoid organs and T versus B geography.
 
 ### Rapid Review
 - Marrow red active cords+sinusoids discontinuous vs yellow fatty.

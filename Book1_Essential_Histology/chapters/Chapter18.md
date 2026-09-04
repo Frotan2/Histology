@@ -1,4 +1,7 @@
-# Chapter 18 — Endocrine Glands
+# Chapter 16 — Endocrine Glands
+
+Junqueira 17th Edition — Chapter 20
+
 
 ### Opening Question
 How does a pea-sized gland behind eyes control growth, milk, stress, thirst — with only handful of cell types?
@@ -20,7 +23,7 @@ Endocrine = ductless secretion into blood fenestrated capillaries. Identified by
 ### Core Concept
 **Gland = cell + hormone pituitary anterior synthesizes via portal system posterior stores via axonal transport adrenal cortex outer→inner salt→sugar→sex.**
 
-> **CORE IDEA:** Acidophil GH prolactin basophil B-FLAT FSH LH ACTH TSH historical modern somatotroph lactotroph corticotroph gonadotroph thyrotroph. Posterior Herring bodies ADH oxytocin stored. Thyroid colloid T3/T4 + C calcitonin. Adrenal GFR glomerulosa aldosterone fasciculata cortisol clear cells reticularis androgen medulla chromaffin catecholamines.
+> **CORE IDEA:** In endocrine glands, anterior pituitary acidophils produce growth hormone and prolactin, basophils produce FSH, LH, ACTH, and TSH, with modern immunohistochemistry identifying somatotrophs, lactotrophs, corticotrophs, gonadotrophs, and thyrotrophs. Posterior pituitary stores ADH and oxytocin in Herring bodies. Thyroid follicles store colloid for T3 and T4 with parafollicular C cells producing calcitonin. Adrenal cortex shows outer to inner zonation for salt, sugar, and sex steroids, and medulla contains chromaffin cells producing catecholamines.
 
 ### Build the Concept
 **Pituitary hypophysis:** sella turcica dual origin.
@@ -113,7 +116,7 @@ Endocrine ductless fenestrated capillaries cell+ hormone pairing pituitary dual 
 5. Why prolactinoma associated bitemporal hemianopia?
 
 ### Transition
-Endocrine is command. Entire body epithelium + connective tissue + muscle + nerve organized by function supplied circulatory defended immune regulated endocrine. You now have map from methods to control.
+Endocrine glands complete the body's long-distance signaling. You now have a continuous map from methods to cells to tissues to organ systems to hormonal control. The sixteen chapters read as one connected course.
 
 ### Rapid Review
 - Pituitary anterior adenohypophysis oral ectoderm acidophils GH PRL basophils B-FLAT FSH LH ACTH TSH chromophobes posterior neurohypophysis neural Herring bodies ADH oxytocin stored pituicytes portal hypothalamus.

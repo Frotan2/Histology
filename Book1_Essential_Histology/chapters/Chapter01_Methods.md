@@ -1,5 +1,8 @@
 # Chapter 1 — Histology & Its Methods of Study
 
+Junqueira 17th Edition — Chapter 1
+
+
 ### Opening Question
 How does a pathologist turn a lump of tissue into a diagnosis you can see under a microscope — and why does the choice of stain decide what you will find?
 
@@ -29,7 +32,7 @@ No method is universal. Each technique = one type of contrast. If a structure is
 ### Core Concept
 **Each technique reveals primarily the specific property it was designed to detect; no method is universal.** The result must be interpreted as chemistry, not as magic color.
 
-> **CORE IDEA:** Contrast is not decoration. It is chemistry made visible.
+> **CORE IDEA:** Contrast is not decoration. It is chemistry made visible — each stain and microscope reveals a specific chemical or physical property.
 
 ### Build the Concept
 
@@ -192,7 +195,7 @@ Histology makes transparent fragile tissue cuttable and contrasted. Processing i
 7. A signet-ring cell with single large clear space and flattened nucleus on H&E — most safe interpretation and how to confirm?
 
 ### Transition
-You have now seen how tissue is prepared and stained. Next, step inside the cell itself — the machinery that every stain in this chapter is lighting up: cytoplasm and cytoskeleton.
+You have now seen how tissue is prepared and stained. Next, step inside the cell itself — the machinery that every stain in this chapter is lighting up: the cytoplasm.
 
 ### Rapid Review
 - Processing: fixation (formalin LM, glutaraldehyde+osmium EM) → dehydration (ethanol removes water) → clearing (xylene removes ethanol) → embedding (paraffin) → ~5 µm section.

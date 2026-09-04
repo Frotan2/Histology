@@ -1,5 +1,8 @@
 # Chapter 3 — The Nucleus
 
+Junqueira 17th Edition — Chapter 3
+
+
 ### Opening Question
 How does 2 meters of DNA fit in a 6 µm nucleus and still remain readable?
 
@@ -19,7 +22,7 @@ Nucleus = genome storage + reading control. Envelope = barrier + transport. Chro
 ### Core Concept
 **Chromatin organization controls access to genetic information.** Euchromatin open for transcription, heterochromatin closed.
 
-> **CORE IDEA:** Light nucleus = active, dark nucleus = inactive. Nucleolus prominence = ribosome demand.
+> **CORE IDEA:** A pale, euchromatic nucleus with a prominent nucleolus indicates active transcription and ribosome production, while a dark, heterochromatic nucleus indicates quiescence.
 
 ### Build the Concept
 
@@ -94,7 +97,7 @@ Nucleus stores genome in chromatin whose condensation controls access: euchromat
 4. How does lamin defect cause disease?
 
 ### Transition
-Cells with controlled genomes organize into tissues. Next, how polarized cells form sheets that seal, absorb, and secrete: epithelium.
+Cells with controlled genomes organize into tissues. Next, how polarized cells form sheets that seal, absorb, and secrete: epithelial tissue.
 
 ### Rapid Review
 - Envelope double + perinuclear space + pores 120 MDa + lamina lamin.

@@ -1,5 +1,8 @@
 # Chapter 4 — Epithelial Tissue
 
+Junqueira 17th Edition — Chapter 4
+
+
 ### Opening Question
 Why does acid reflux slowly turn the lining of the food pipe into intestine — and why does that raise the risk of cancer?
 
@@ -21,7 +24,7 @@ Epithelium is boundary tissue. An epithelial cell is polarized: apical (lumen) s
 ### Core Concept
 **Polarity + avascularity + basement membrane + regeneration = epithelium.** Form follows function: flat for exchange, tall for absorption, layered for protection, dome-shaped for stretch.
 
-> **CORE IDEA:** Apical solves lumen problems, lateral solves neighbor problems, basal solves matrix problems.
+> **CORE IDEA:** Epithelial polarity solves three different problems: the apical surface handles the lumen, the lateral surface handles neighboring cells, and the basal surface handles attachment to the basement membrane.
 
 ### Build the Concept
 **Defining features:** Polarity (different proteins apical/lateral/basal), Avascular (no vessels, diffusion across BM limits thickness), Basement membrane (LM term) = basal lamina (epithelial: lamina lucida + lamina densa) + reticular lamina (fibroblast type III). Molecular: type IV collagen sheet-forming network (not fibrillar, mesh via NC1) + laminin + entactin/nidogen + perlecan. Regeneration via basal stem cells.
@@ -107,7 +110,7 @@ Epithelium polarized sheet on BM avascular regenerative. Apical microvilli actin
 5. Why pemphigus intraepidermal vs pemphigoid subepidermal?
 
 ### Transition
-Epithelium is boundary. Next, framework that supports, connects, defends: connective tissue.
+Epithelium is the boundary tissue. Next, the framework that supports, connects, and defends: connective tissue.
 
 ### Rapid Review
 - Features polarity avascular BM regeneration.

@@ -1,5 +1,8 @@
 # Chapter 6 — Adipose Tissue
 
+Junqueira 17th Edition — Chapter 6
+
+
 ### Opening Question
 How does fat do more than store energy — and why does its location decide metabolic risk?
 
@@ -18,7 +21,7 @@ Adipose = connective tissue where lipid storage dominates but endocrine and ther
 ### Core Concept
 **Lipid droplet size and mitochondria number determine function: storage vs heat.**
 
-> **CORE IDEA:** White signet-ring storage + leptin, brown multilocular + mitochondria + UCP1 heat.
+> **CORE IDEA:** White adipocytes store energy as a single large droplet and signal via leptin, while brown adipocytes generate heat via many small droplets, abundant mitochondria, and uncoupling protein 1.
 
 ### Build the Concept
 **White unilocular:** single large droplet peripheral flattened nucleus signet-ring H&E lipid dissolved empty vacuole need frozen Oil Red O confirm ~up to ~100 µm scant mitochondria energy storage insulation cushioning leptin satiety adiponectin.
@@ -73,7 +76,7 @@ Adipose specialized CT white unilocular storage + endocrine brown multilocular t
 4. Explain leptin adiponectin roles.
 
 ### Transition
-Storage → contraction. Next tissue converts chemical energy to mechanical work: muscle.
+Energy storage is organized. Next, tissue that lasts a lifetime and wires the body: nerve tissue and the nervous system.
 
 ### Rapid Review
 - White single droplet peripheral nucleus signet-ring storage leptin ~100 µm.

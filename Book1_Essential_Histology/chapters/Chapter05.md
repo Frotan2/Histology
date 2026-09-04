@@ -1,5 +1,8 @@
 # Chapter 5 — Connective Tissue
 
+Junqueira 17th Edition — Chapter 5
+
+
 ### Opening Question
 Why do some people have stretchy skin and others fragile bones — and how can a single tissue explain both?
 
@@ -21,9 +24,9 @@ A 19-year-old man with tall stature, arachnodactyly, hypermobile joints, aortic 
 Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-filling, signal-carrying. Molecular composition determines mechanical behavior and disease.
 
 ### Core Concept
-**Fiber type = disease type, ground substance = water, fibroblast writes scar.**
+**The molecular composition of the extracellular matrix determines mechanical properties, tissue distribution, and disease vulnerability.**
 
-> **CORE IDEA:** Collagen resists tension, elastic recoils, GAGs hold water for compression resistance.
+> **CORE IDEA:** In connective tissue, collagen fibers resist tension, elastic fibers provide recoil, and glycosaminoglycans hold water to resist compression.
 
 ### Build the Concept
 
@@ -33,7 +36,7 @@ Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-
 - **Collagen:** most abundant protein. Biosynthesis: procollagen α chains RER → hydroxylation proline/lysine (vitamin C cofactor Fe2+ O2) → triple helix → procollagen peptidase → tropocollagen → fibrils quarter-stagger cross-links lysyl oxidase → fibers. Defect hydroxylation → weak collagen → scurvy bleeding gums.
 - **Collagen types master table (Junqueira 17th Chapter 5):**
   - Type I: fibrillar thick, bone, skin, tendon, dentin, organ capsules, cornea, tensile strength, disease OI, EDS arthrochalasia.
-  - Type II: fibrillar thin, hyaline cartilage matrix, vitreous, nucleus pulposus — noted here for completeness but detailed cartilage histology is out of scope per official syllabus (Junqueira Ch7).
+  - Type II: fibrillar thin, hyaline cartilage matrix, vitreous, nucleus pulposus.
   - Type III: fibrillar thin reticular, granulation tissue, around vessels, lymphoid stroma, skin, uterus, delicate stroma, wound healing early, vascular EDS.
   - Type IV: sheet-forming network via NC1 domains, basal lamina, lens capsule, filtration, Goodpasture, Alport.
 - **Elastic:** elastin core hydrophobic desmosine/isodesmosine + fibrillin microfibrils scaffold. Development fibrillin scaffold first then elastin peripherally → mature elastin core surrounded microfibrils. Recoil Orcein/Verhoeff brown-black. Marfan fibrillin-1 defect → weak recoil → aortic aneurysm tall arachnodactyly.
@@ -56,8 +59,6 @@ Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-
 - Elastic: parallel elastic fibers ligamentum nuchae large artery media.
 - Reticular: type III network lymphoid.
 - Mucoid: Wharton jelly umbilical cord hyaluronan-rich.
-
-**Note on cartilage and bone:** Cartilage (Junqueira Ch7) and bone (Ch8) are specialized connective tissues with type II collagen and calcified type I collagen respectively. Detailed histology of hyaline, elastic, fibrocartilage, woven vs lamellar bone, osteon, osteoblast/osteocyte/osteoclast, endochondral vs intramembranous ossification is out of scope per official 16-chapter syllabus and therefore not included in core study plan. Ground substance GAGs hold water for cartilage compression resistance, and bone adds hydroxyapatite mineral for rigidity — concepts mentioned here for continuity.
 
 ### Structure → Function
 Why tendon tension one direction while dermis many? Tendon dense regular parallel type I along axis maximal one direction. Dermis dense irregular interwoven many directions.
@@ -109,7 +110,6 @@ Why GAGs important? GAGs sulfated negative hold water hydrated gel resists compr
 **Must Understand:** Hydroxylation vit C mechanism, why III→I wound healing, why ground substance GAGs hold water.
 
 ### Integrated Summary
-Connective tissue cells+fibers+ground substance. Fibers collagen I-IV master (I tensile bone/skin, III reticular/wound, IV sheet BM), elastic elastin+fibrillin recoil, reticular III silver stroma. Ground substance GAGs hydrated compression resistance. Cells fibroblast builds macrophage defends mast metachromatic allergy plasma antibody. Adult types loose, dense regular parallel, dense irregular interwoven, elastic, reticular silver, mucoid. Cartilage and bone are specialized connective tissues out of scope per official syllabus (Junqueira Ch7-8).
 
 ### Mastery Check
 1. Explain scurvy mechanism from collagen biosynthesis.
@@ -119,7 +119,7 @@ Connective tissue cells+fibers+ground substance. Fibers collagen I-IV master (I 
 5. Sequence wound healing explain III→I switch.
 
 ### Transition
-Framework built. Specialized framework that stores energy and signals: adipose tissue.
+The framework is built. Next, a specialized framework that stores energy and signals: adipose tissue.
 
 ### Rapid Review
 - Components cells+fibers collagen I III IV elastic elastin+fibrillin reticular III + ground substance GAGs water.
@@ -127,4 +127,3 @@ Framework built. Specialized framework that stores energy and signals: adipose t
 - Elastic elastin core+fibrillin Marfan Orcein.
 - Cells fibroblast macrophage mast metachromatic plasma clock-face.
 - CT types loose dense regular parallel dense irregular interwoven elastic reticular silver mucoid.
-- Cartilage/bone specialized CT out of scope per official syllabus (Junqueira Ch7-8) — not in core study plan.

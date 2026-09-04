@@ -1,4 +1,7 @@
-# Chapter 16 — Skin (Integument)
+# Chapter 15 — Skin
+
+Junqueira 17th Edition — Chapter 18
+
 
 ### Opening Question
 How does skin be waterproof, touch-sensitive, and able to regrow after a cut?
@@ -18,7 +21,7 @@ Skin = keratinized stratified squamous epithelium epidermis + CT dermis papillar
 ### Core Concept
 **Epidermis basal stem → spinous desmosomes → granular keratohyalin → corneum anucleate keratin waterproof; dermis papillary loose Meissner touch reticular dense irregular Pacinian pressure; appendages hair + arrector pili smooth muscle + sebaceous holocrine + eccrine merocrine.**
 
-> **CORE IDEA:** Basale stem hemidesmosome spinosum desmosome spines granulosum keratohyalin corneum keratin barrier. Melanocyte melanin supranuclear cap Langerhans antigen Merkel touch.
+> **CORE IDEA:** In skin, basal stem cells attach via hemidesmosomes, spinous cells connect via desmosomes visible as spines, granular cells contain keratohyalin, and corneum forms a keratin barrier. Melanocytes provide a supranuclear melanin cap for UV protection, Langerhans cells present antigen, and Merkel cells mediate touch.
 
 ### Build the Concept
 **Epidermis:**
@@ -110,7 +113,7 @@ Skin keratinized stratified squamous epidermis basal stem hemidesmosome melanocy
 5. Compare sebaceous vs eccrine vs apocrine mechanism location.
 
 ### Transition
-Skin is barrier. Next organ filters blood with similar basement membrane logic but fenestrated urinary system.
+Skin is the outer barrier. Next, ductless glands that command long-distance signaling via blood: endocrine glands.
 
 ### Rapid Review
 - Layers basale cuboidal stem hemidesmosome + spinosum desmosome spines + granulosum keratohyalin lamellar + lucidum thick only + corneum anucleate keratin.
