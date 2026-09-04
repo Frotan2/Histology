@@ -59,16 +59,16 @@ D) PAS
 
 **Answer: A**
 
-**Explanation:** Von Kossa demonstrates mineralization via silver nitrate reacting with phosphate and carbonate anions bound to calcium in mineralized deposits. Silver substitutes then reduced to metallic silver black. It does NOT stain calcium ion directly; it is indirect indicator of calcium phosphate/carbonate deposits.
+**Explanation:** Lipid dyes need frozen sections because routine processing dissolves lipid. PAS, Prussian blue, Von Kossa work on paraffin.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Von Kossa = mineralization phosphate/carbonate indirect black.
+**Key point:** lipid → frozen.
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Von Kossa = mineralization phosphate/carbonate indirect black.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to lipid → frozen.
 
 **Difficulty:** Recall
 
@@ -318,18 +318,18 @@ C) Elastic fibers
 
 D) Amyloid
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Type I collagen is correct because it matches the defining feature described in Junqueira 17th for a lymph-node biopsy shows a delicate black branching mesh on a silver-stained section. the structure is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Reticular (type III) fibers form delicate black branching mesh on silver impregnation, seen in lymphoid stroma, liver, endocrine.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Reticular (type III) fibers form delicate black branching mesh on silver impregnation, seen in lymph
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Reticular (type III) fibers form delicate black branching mesh on silver impregn
 
 **Difficulty:** Recall
 
@@ -349,16 +349,16 @@ D) Lens quality only
 
 **Answer: A**
 
-**Explanation:** The wavelength of visible light is correct because it matches the defining feature described in Junqueira 17th for the resolution of a light microscope is fundamentally limited by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Resolution ~0.2 µm limited by wavelength of visible light; electrons shorter wavelength → ~0.1 nm EM.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Resolution ~0.2 µm limited by wavelength of visible light; electrons shorter wavelength → ~0.1 nm EM
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Resolution ~0.2 µm limited by wavelength of visible light; electrons shorter wav
 
 **Difficulty:** Recall
 
@@ -668,18 +668,18 @@ C) Ribosomes
 
 D) Structural proteins
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Glycogen is correct because it matches the defining feature described in Junqueira 17th for a hepatocyte's cytoplasm is uniformly pink on h&e and contains no visible blue granules. this indicates abundance of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Eosinophilic pink indicates structural proteins/mitochondria; basophilic blue indicates RER/RNA; plasma cell basophilic due to RER.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Eosinophilic pink indicates structural proteins/mitochondria; basophilic blue indicates RER/RNA; pla
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Eosinophilic pink indicates structural proteins/mitochondria; basophilic blue in
 
 **Difficulty:** Understanding
 
@@ -699,16 +699,16 @@ D) Iron
 
 **Answer: A**
 
-**Explanation:** Amyloid is correct because it matches the defining feature described in Junqueira 17th for apple-green birefringence after congo red indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Amyloid β-pleated sheet binds Congo red → apple-green birefringence polarized; diagnostic Congo red + green.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Amyloid β-pleated sheet binds Congo red → apple-green birefringence polarized; diagnostic Congo red 
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Amyloid β-pleated sheet binds Congo red → apple-green birefringence polarized; d
 
 **Difficulty:** Understanding
 
@@ -817,16 +817,16 @@ D) Lipid
 
 **Answer: C**
 
-**Explanation:** Von Kossa demonstrates mineralization via silver nitrate reacting with phosphate and carbonate anions bound to calcium in mineralized deposits. Silver substitutes then reduced to metallic silver black. It does NOT stain calcium ion directly; it is indirect indicator of calcium phosphate/carbonate deposits.
+**Explanation:** Von Kossa stains calcium black (silver substitution). Iron = Prussian blue; mucin = PAS/Alcian.
 
 **Why distractors are wrong:**
 - A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Von Kossa = mineralization phosphate/carbonate indirect black.
+**Key point:** Von Kossa = calcium.
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Von Kossa = mineralization phosphate/carbonate indirect black.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Von Kossa = calcium.
 
 **Difficulty:** Application
 
@@ -1018,18 +1018,18 @@ C) TEM
 
 D) SEM
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Freeze-fracture is correct because it matches the defining feature described in Junqueira 17th for a pathologist must see the 3-d surface of a ciliated cell. the method is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** SEM shows 3-D surface topography via secondary electrons; TEM shows internal ultrastructure 2-D.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** SEM shows 3-D surface topography via secondary electrons; TEM shows internal ultrastructure 2-D.
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to SEM shows 3-D surface topography via secondary electrons; TEM shows internal ult
 
 **Difficulty:** Application
 
@@ -1049,16 +1049,16 @@ D) Glutaraldehyde
 
 **Answer: A**
 
-**Explanation:** Osmium tetroxide is correct because it matches the defining feature described in Junqueira 17th for which fixative preserves membranes and adds electron contrast. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Osmium tetroxide binds phospholipid head groups, fixes lipids and scatters electrons → membrane contrast TEM.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Osmium tetroxide binds phospholipid head groups, fixes lipids and scatters electrons → membrane cont
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Osmium tetroxide binds phospholipid head groups, fixes lipids and scatters elect
 
 **Difficulty:** Application
 
@@ -1368,18 +1368,18 @@ C) Frozen section + Oil Red O
 
 D) Paraffin + Prussian blue
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Von Kossa demonstrates mineralization via silver nitrate reacting with phosphate and carbonate anions bound to calcium in mineralized deposits. Silver substitutes then reduced to metallic silver black. It does NOT stain calcium ion directly; it is indirect indicator of calcium phosphate/carbonate deposits.
+**Explanation:** Lipid dissolves in ethanol/xylene, routine paraffin shows empty vacuoles; need frozen + Oil Red O for lipid.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Von Kossa = mineralization phosphate/carbonate indirect black.
+**Key point:** Lipid dissolves in ethanol/xylene, routine paraffin shows empty vacuoles; need frozen + Oil Red O fo
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Von Kossa = mineralization phosphate/carbonate indirect black.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Lipid dissolves in ethanol/xylene, routine paraffin shows empty vacuoles; need f
 
 **Difficulty:** Integration
 
@@ -1397,18 +1397,18 @@ C) DNA synthesis
 
 D) Lipid synthesis
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Antigen expression is correct because it matches the defining feature described in Junqueira 17th for ³h-thymidine autoradiography localizes. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** ³H-thymidine incorporation marks DNA synthesis S-phase; Feulgen measures DNA amount; Ki-67 marks cycling cells.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** ³H-thymidine incorporation marks DNA synthesis S-phase; Feulgen measures DNA amount; Ki-67 marks cyc
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to ³H-thymidine incorporation marks DNA synthesis S-phase; Feulgen measures DNA amo
 
 **Difficulty:** Integration
 
@@ -1718,18 +1718,18 @@ C) Acidophilia
 
 D) Birefringence
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Basophilia is correct because it matches the defining feature described in Junqueira 17th for a slide shows purple granules in a cell stained with blue toluidine dye. this is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Metachromasia = color shift blue→purple/red due to dye polymerization on dense polyanions like heparin in mast cells.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Metachromasia = color shift blue→purple/red due to dye polymerization on dense polyanions like hepar
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Metachromasia = color shift blue→purple/red due to dye polymerization on dense p
 
 **Difficulty:** High-Difficulty
 
@@ -1747,18 +1747,18 @@ C) Plastic embedding
 
 D) Decalcification
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Paraffin embedding is correct because it matches the defining feature described in Junqueira 17th for an intraoperative margin must be reported in 15 minutes. the processing is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Frozen section for intraoperative diagnosis, preserves enzymes/lipids, fast but ice crystal artifacts, inferior morphology.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Histology & Its Methods of Study section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Frozen section for intraoperative diagnosis, preserves enzymes/lipids, fast but ice crystal artifact
 
-**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Needs review.
+**Learning Objective mapping:** Chapter 1 — Histology & Its Methods of Study — LO related to Frozen section for intraoperative diagnosis, preserves enzymes/lipids, fast but 
 
 **Difficulty:** High-Difficulty
 
@@ -2072,18 +2072,18 @@ C) Carcinoma
 
 D) Rhabdomyosarcoma
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Astrocytoma is correct because it matches the defining feature described in Junqueira 17th for a malignant tumor stains positively for desmin. the most likely diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Desmin intermediate filament marks muscle differentiation → rhabdomyosarcoma; GFAP astrocyte, cytokeratin carcinoma.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Desmin intermediate filament marks muscle differentiation → rhabdomyosarcoma; GFAP astrocyte, cytoke
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Desmin intermediate filament marks muscle differentiation → rhabdomyosarcoma; GF
 
 **Difficulty:** Recall
 
@@ -2101,18 +2101,18 @@ C) Clathrin
 
 D) Caveolin
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** COPI is correct because it matches the defining feature described in Junqueira 17th for a vesicle moves a protein from the er to the golgi. its coat is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** COPII ER→Golgi anterograde, COPI Golgi→ER retrograde, clathrin Golgi→membrane and membrane→endosome.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** COPII ER→Golgi anterograde, COPI Golgi→ER retrograde, clathrin Golgi→membrane and membrane→endosome.
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to COPII ER→Golgi anterograde, COPI Golgi→ER retrograde, clathrin Golgi→membrane an
 
 **Difficulty:** Recall
 
@@ -2424,16 +2424,16 @@ D) Vincristine
 
 **Answer: A**
 
-**Explanation:** Paclitaxel is correct because it matches the defining feature described in Junqueira 17th for a drug causes mitotic arrest by preventing microtubule disassembly. the drug is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Paclitaxel stabilizes microtubules preventing disassembly → mitotic arrest; colchicine/vincristine prevent assembly.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Paclitaxel stabilizes microtubules preventing disassembly → mitotic arrest; colchicine/vincristine p
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Paclitaxel stabilizes microtubules preventing disassembly → mitotic arrest; colc
 
 **Difficulty:** Understanding
 
@@ -2451,18 +2451,18 @@ C) Dynein arms
 
 D) Actin
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Lamin is correct because it matches the defining feature described in Junqueira 17th for chronic sinusitis, bronchiectasis, and situs inversus point to a defect in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Kartagener primary ciliary dyskinesia dynein arm defect → immotile cilia sinusitis bronchiectasis situs inversus.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Kartagener primary ciliary dyskinesia dynein arm defect → immotile cilia sinusitis bronchiectasis si
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Kartagener primary ciliary dyskinesia dynein arm defect → immotile cilia sinusit
 
 **Difficulty:** Understanding
 
@@ -2772,18 +2772,18 @@ C) Lysosomes and peroxisomes
 
 D) Actin and myosin
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** SER and mitochondria is correct because it matches the defining feature described in Junqueira 17th for a cell shows intensely blue cytoplasm and a pale perinuclear zone. the dominant organelles are. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Plasma cell: basophilic cytoplasm = RER, perinuclear halo = Golgi, eccentric clock-face nucleus, Russell bodies immunoglobulin.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Plasma cell: basophilic cytoplasm = RER, perinuclear halo = Golgi, eccentric clock-face nucleus, Rus
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Plasma cell: basophilic cytoplasm = RER, perinuclear halo = Golgi, eccentric clo
 
 **Difficulty:** Application
 
@@ -2801,18 +2801,18 @@ C) Nuclear DNA
 
 D) Mitochondrial DNA
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** The X chromosome only is correct because it matches the defining feature described in Junqueira 17th for a disease is transmitted only through females but affects both sexes. the genetic lesion is in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Mitochondrial DNA maternal inheritance, affects both sexes but transmitted only through females.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Mitochondrial DNA maternal inheritance, affects both sexes but transmitted only through females.
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Mitochondrial DNA maternal inheritance, affects both sexes but transmitted only 
 
 **Difficulty:** Application
 
@@ -3124,16 +3124,16 @@ D) Mitochondrion
 
 **Answer: A**
 
-**Explanation:** Peroxisome is correct because it matches the defining feature described in Junqueira 17th for a neonate has elevated vlcfa, hypotonia, and dysmorphic facies. the defective organelle is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Zellweger peroxisome biogenesis defect → elevated VLCFA, hypotonia, dysmorphism, liver dysfunction.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Zellweger peroxisome biogenesis defect → elevated VLCFA, hypotonia, dysmorphism, liver dysfunction.
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Zellweger peroxisome biogenesis defect → elevated VLCFA, hypotonia, dysmorphism,
 
 **Difficulty:** Integration
 
@@ -3151,18 +3151,18 @@ C) Lysosome
 
 D) Proteasome
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Golgi is correct because it matches the defining feature described in Junqueira 17th for a protein tagged with ubiquitin is destined for the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Ubiquitin tags proteins for proteasomal degradation; M6P receptor tags for lysosome.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Ubiquitin tags proteins for proteasomal degradation; M6P receptor tags for lysosome.
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Ubiquitin tags proteins for proteasomal degradation; M6P receptor tags for lysos
 
 **Difficulty:** Integration
 
@@ -3472,18 +3472,18 @@ C) Cilium
 
 D) Microvillus
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Nuclear pore is correct because it matches the defining feature described in Junqueira 17th for the structure with a 9+2 arrangement is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Motile cilium 9+2 doublet + central pair + dynein arms; microvillus actin core, centriole 9+0 triplet.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Motile cilium 9+2 doublet + central pair + dynein arms; microvillus actin core, centriole 9+0 triple
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Motile cilium 9+2 doublet + central pair + dynein arms; microvillus actin core, 
 
 **Difficulty:** High-Difficulty
 
@@ -3501,18 +3501,18 @@ C) PAS ± diastase vs Oil Red O on a frozen section
 
 D) Congo red
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Prussian blue is correct because it matches the defining feature described in Junqueira 17th for a clear cytoplasmic vacuole on h&e could be glycogen or lipid. the definitive discriminator is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** PAS ± diastase vs Oil Red O frozen distinguishes glycogen (PAS positive diastase sensitive) vs lipid (Oil Red O frozen positive).
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Cytoplasm section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** PAS ± diastase vs Oil Red O frozen distinguishes glycogen (PAS positive diastase sensitive) vs lipid
 
-**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to Needs review.
+**Learning Objective mapping:** Chapter 2 — The Cytoplasm — LO related to PAS ± diastase vs Oil Red O frozen distinguishes glycogen (PAS positive diastase
 
 **Difficulty:** High-Difficulty
 
@@ -3828,16 +3828,16 @@ D) 46,XX
 
 **Answer: A**
 
-**Explanation:** 47,XXX is correct because it matches the defining feature described in Junqueira 17th for a buccal smear from a patient shows two barr bodies. the most likely karyotype is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Barr body count = X chromosomes -1; 47,XXX has 2 Barr bodies, 47,XXY has 1, 45,X has 0, 46,XX has 1, 46,XY has 0.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Barr body count = X chromosomes -1; 47,XXX has 2 Barr bodies, 47,XXY has 1, 45,X has 0, 46,XX has 1,
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Barr body count = X chromosomes -1; 47,XXX has 2 Barr bodies, 47,XXY has 1, 45,X
 
 **Difficulty:** Recall
 
@@ -3855,18 +3855,18 @@ C) Cyclin D
 
 D) p53
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Telomerase is correct because it matches the defining feature described in Junqueira 17th for the "guardian of the genome" acting at the g1/s checkpoint is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** p53 guardian of genome, G1/S checkpoint, DNA damage response; mutated in many cancers.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** p53 guardian of genome, G1/S checkpoint, DNA damage response; mutated in many cancers.
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to p53 guardian of genome, G1/S checkpoint, DNA damage response; mutated in many ca
 
 **Difficulty:** Recall
 
@@ -4176,18 +4176,18 @@ C) Mitosis
 
 D) Transcription
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Apoptosis is correct because it matches the defining feature described in Junqueira 17th for a cell with an intensely dark, shrunken, irregular nucleus amid inflamed tissue is undergoing. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Pyknosis dark shrunken irregular nucleus with inflammation = necrosis; apoptosis condensed but no inflammation, caspase-mediated.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Pyknosis dark shrunken irregular nucleus with inflammation = necrosis; apoptosis condensed but no in
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Pyknosis dark shrunken irregular nucleus with inflammation = necrosis; apoptosis
 
 **Difficulty:** Understanding
 
@@ -4205,18 +4205,18 @@ C) Bone marrow stem cells
 
 D) Epidermis
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Intestinal epithelium is correct because it matches the defining feature described in Junqueira 17th for a cell in permanent g0 is characteristic of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Cardiac muscle and neurons permanent G0 post-mitotic no centrioles no regeneration; intestinal epithelium labile, stem cells quiescent G0 but can re-enter.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Cardiac muscle and neurons permanent G0 post-mitotic no centrioles no regeneration; intestinal epith
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Cardiac muscle and neurons permanent G0 post-mitotic no centrioles no regenerati
 
 **Difficulty:** Understanding
 
@@ -4526,18 +4526,18 @@ C) Centriole
 
 D) Barr body
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Nucleolus is correct because it matches the defining feature described in Junqueira 17th for the structure that disassembles when lamins are phosphorylated is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Lamin phosphorylation disassembles nuclear lamina → nuclear envelope breakdown in mitosis.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Lamin phosphorylation disassembles nuclear lamina → nuclear envelope breakdown in mitosis.
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Lamin phosphorylation disassembles nuclear lamina → nuclear envelope breakdown i
 
 **Difficulty:** Application
 
@@ -4557,16 +4557,16 @@ D) Heterochromatin predominance
 
 **Answer: A**
 
-**Explanation:** Euchromatin predominance (active transcription) is correct because it matches the defining feature described in Junqueira 17th for the pale, open nucleus of an activated cell indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Pale open euchromatic nucleus = active transcription, dark heterochromatic = inactive.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Pale open euchromatic nucleus = active transcription, dark heterochromatic = inactive.
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Pale open euchromatic nucleus = active transcription, dark heterochromatic = ina
 
 **Difficulty:** Application
 
@@ -4876,18 +4876,18 @@ C) Malignancy
 
 D) Quiescence
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Apoptosis is correct because it matches the defining feature described in Junqueira 17th for a cytology specimen shows large nuclei with very prominent nucleoli. the primary concern is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Large nuclei with prominent nucleoli indicate high ribosome demand → malignancy concern; small dark nucleus = quiescence.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Large nuclei with prominent nucleoli indicate high ribosome demand → malignancy concern; small dark 
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Large nuclei with prominent nucleoli indicate high ribosome demand → malignancy 
 
 **Difficulty:** Integration
 
@@ -4905,18 +4905,18 @@ C) 0
 
 D) 1
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** 2 is correct because it matches the defining feature described in Junqueira 17th for in 46,xy males, the barr-body count is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** 46,XY male has 0 Barr bodies; 46,XX female has 1; 47,XXY has 1; 47,XXX has 2.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** 46,XY male has 0 Barr bodies; 46,XX female has 1; 47,XXY has 1; 47,XXX has 2.
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to 46,XY male has 0 Barr bodies; 46,XX female has 1; 47,XXY has 1; 47,XXX has 2.
 
 **Difficulty:** Integration
 
@@ -5226,18 +5226,18 @@ C) Metaphase
 
 D) Anaphase
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Telophase is correct because it matches the defining feature described in Junqueira 17th for which phase is defined by separation of sister chromatids. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Anaphase = sister chromatids separate; metaphase = alignment, prophase = condensation, telophase = decondensation.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Anaphase = sister chromatids separate; metaphase = alignment, prophase = condensation, telophase = d
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Anaphase = sister chromatids separate; metaphase = alignment, prophase = condens
 
 **Difficulty:** High-Difficulty
 
@@ -5257,16 +5257,16 @@ D) Apoptosis
 
 **Answer: A**
 
-**Explanation:** Necrosis is correct because it matches the defining feature described in Junqueira 17th for karyolysis is a feature of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Karyolysis fading nucleus is necrosis feature, along with pyknosis, karyorrhexis; apoptosis has karyorrhexis but no inflammation.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Nucleus section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Karyolysis fading nucleus is necrosis feature, along with pyknosis, karyorrhexis; apoptosis has kary
 
-**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Needs review.
+**Learning Objective mapping:** Chapter 3 — The Nucleus — LO related to Karyolysis fading nucleus is necrosis feature, along with pyknosis, karyorrhexis
 
 **Difficulty:** High-Difficulty
 
@@ -5580,18 +5580,18 @@ C) Achalasia
 
 D) Eosinophilic esophagitis
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Squamous cell carcinoma is correct because it matches the defining feature described in Junqueira 17th for a biopsy of the distal esophagus shows columnar epithelium with goblet cells. the diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Barrett esophagus = metaplasia stratified squamous → columnar with goblet cells due to chronic GERD, premalignant.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Barrett esophagus = metaplasia stratified squamous → columnar with goblet cells due to chronic GERD,
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Barrett esophagus = metaplasia stratified squamous → columnar with goblet cells 
 
 **Difficulty:** Recall
 
@@ -5609,18 +5609,18 @@ C) Desmoglein
 
 D) Integrin α6β4
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Laminin is correct because it matches the defining feature described in Junqueira 17th for which molecule is the autoantigen in goodpasture syndrome. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Goodpasture anti-type IV collagen α3 chain in basement membrane → lung hemorrhage + glomerulonephritis.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Goodpasture anti-type IV collagen α3 chain in basement membrane → lung hemorrhage + glomerulonephrit
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Goodpasture anti-type IV collagen α3 chain in basement membrane → lung hemorrhag
 
 **Difficulty:** Recall
 
@@ -5930,18 +5930,18 @@ C) Cilia
 
 D) Microvilli
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Flagella is correct because it matches the defining feature described in Junqueira 17th for which apical specialization is built from actin and is non-motile. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Microvilli actin core non-motile absorption; cilia 9+2 tubulin motile; stereocilia long branched microvilli.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Microvilli actin core non-motile absorption; cilia 9+2 tubulin motile; stereocilia long branched mic
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Microvilli actin core non-motile absorption; cilia 9+2 tubulin motile; stereocil
 
 **Difficulty:** Understanding
 
@@ -5959,18 +5959,18 @@ C) Transitional epithelium
 
 D) Stratified squamous epithelium
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Simple squamous epithelium is correct because it matches the defining feature described in Junqueira 17th for chronic smoking converts bronchial ciliated columnar epithelium into. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Chronic smoking → squamous metaplasia pseudostratified ciliated → stratified squamous, premalignant, goblet loss.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Chronic smoking → squamous metaplasia pseudostratified ciliated → stratified squamous, premalignant,
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Chronic smoking → squamous metaplasia pseudostratified ciliated → stratified squ
 
 **Difficulty:** Understanding
 
@@ -6282,16 +6282,16 @@ D) Subepidermal blisters
 
 **Answer: A**
 
-**Explanation:** Intraepidermal acantholysis is correct because it matches the defining feature described in Junqueira 17th for autoantibodies against desmoglein produce. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Anti-desmoglein → desmosome loss → intraepidermal acantholysis pemphigus vulgaris; anti-hemidesmosome → subepidermal bullous pemphigoid.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Anti-desmoglein → desmosome loss → intraepidermal acantholysis pemphigus vulgaris; anti-hemidesmosom
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Anti-desmoglein → desmosome loss → intraepidermal acantholysis pemphigus vulgari
 
 **Difficulty:** Application
 
@@ -6311,16 +6311,16 @@ D) It is a true stratified epithelium
 
 **Answer: A**
 
-**Explanation:** All cells touch the basal lamina is correct because it matches the defining feature described in Junqueira 17th for which statement about pseudostratified epithelium is correct. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Pseudostratified: all cells touch basal lamina but nuclei at different heights, appears stratified but simple.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Pseudostratified: all cells touch basal lamina but nuclei at different heights, appears stratified b
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Pseudostratified: all cells touch basal lamina but nuclei at different heights, 
 
 **Difficulty:** Application
 
@@ -6630,18 +6630,18 @@ C) Umbrella cells
 
 D) Goblet cells
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Ciliated cells is correct because it matches the defining feature described in Junqueira 17th for the epithelium that can stretch without leaking contains. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Transitional epithelium umbrella cells dome-shaped binucleate stretch without leaking, line bladder ureter.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Transitional epithelium umbrella cells dome-shaped binucleate stretch without leaking, line bladder 
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Transitional epithelium umbrella cells dome-shaped binucleate stretch without le
 
 **Difficulty:** Integration
 
@@ -6659,18 +6659,18 @@ C) Laminin
 
 D) Elastin
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Connexin is correct because it matches the defining feature described in Junqueira 17th for hemidesmosomes anchor epithelial cells to the basement membrane by binding. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Hemidesmosome integrin α6β4 binds laminin-332 in basal lamina, BP180/230 + plectin + keratin intermediate filament.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Hemidesmosome integrin α6β4 binds laminin-332 in basal lamina, BP180/230 + plectin + keratin interme
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Hemidesmosome integrin α6β4 binds laminin-332 in basal lamina, BP180/230 + plect
 
 **Difficulty:** Integration
 
@@ -6980,18 +6980,18 @@ C) Apocrine
 
 D) Holocrine
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Endocrine is correct because it matches the defining feature described in Junqueira 17th for a gland whose cells disintegrate entirely to release their product is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Holocrine = whole cell disintegrates sebaceous; merocrine = exocytosis, apocrine = decapitation.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Holocrine = whole cell disintegrates sebaceous; merocrine = exocytosis, apocrine = decapitation.
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Holocrine = whole cell disintegrates sebaceous; merocrine = exocytosis, apocrine
 
 **Difficulty:** High-Difficulty
 
@@ -7009,18 +7009,18 @@ C) The epidermal stem-cell compartment (basal layer + appendages)
 
 D) The subcutaneous fat
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Only the stratum corneum is correct because it matches the defining feature described in Junqueira 17th for a third-degree burn fails to re-epithelialize without grafting because it destroys. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Third-degree burn destroys epidermis + dermis including basal stem cells and appendages → needs graft; superficial burn heals from appendages.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Epithelial Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Third-degree burn destroys epidermis + dermis including basal stem cells and appendages → needs graf
 
-**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 4 — Epithelial Tissue — LO related to Third-degree burn destroys epidermis + dermis including basal stem cells and app
 
 **Difficulty:** High-Difficulty
 
@@ -7336,16 +7336,16 @@ D) Type I collagen
 
 **Answer: A**
 
-**Explanation:** Fibrillin-1 is correct because it matches the defining feature described in Junqueira 17th for a patient has aortic root dilation, lens dislocation, and tall stature. the defective molecule is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Marfan fibrillin-1 defect → elastic fiber scaffold weak → aortic root dilation, lens dislocation, tall arachnodactyly.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Marfan fibrillin-1 defect → elastic fiber scaffold weak → aortic root dilation, lens dislocation, ta
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Marfan fibrillin-1 defect → elastic fiber scaffold weak → aortic root dilation, 
 
 **Difficulty:** Recall
 
@@ -7363,18 +7363,18 @@ C) Fibroblast
 
 D) Macrophage
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Mast cell is correct because it matches the defining feature described in Junqueira 17th for the cell with an eccentric clock-face nucleus and perinuclear hof is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Plasma cell eccentric clock-face nucleus basophilic cytoplasm perinuclear hof Golgi Russell bodies antibody.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Plasma cell eccentric clock-face nucleus basophilic cytoplasm perinuclear hof Golgi Russell bodies a
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Plasma cell eccentric clock-face nucleus basophilic cytoplasm perinuclear hof Go
 
 **Difficulty:** Recall
 
@@ -7684,18 +7684,18 @@ C) I
 
 D) II
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** III is correct because it matches the defining feature described in Junqueira 17th for which collagen type forms the basement membrane sheet. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Type IV collagen sheet-forming network via NC1 domains forms basal lamina, filtration, Goodpasture, Alport.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Type IV collagen sheet-forming network via NC1 domains forms basal lamina, filtration, Goodpasture, 
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Type IV collagen sheet-forming network via NC1 domains forms basal lamina, filtr
 
 **Difficulty:** Understanding
 
@@ -7715,16 +7715,16 @@ D) Hypertrophic scar
 
 **Answer: A**
 
-**Explanation:** Keloid is correct because it matches the defining feature described in Junqueira 17th for a scar that extends beyond the original wound margins is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Keloid extends beyond original wound margins and does not regress; hypertrophic scar stays within margins.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Keloid beyond margins.
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Keloid beyond margins.
 
 **Difficulty:** Understanding
 
@@ -8036,16 +8036,16 @@ D) Type I collagen
 
 **Answer: A**
 
-**Explanation:** Type III collagen and new capillaries is correct because it matches the defining feature described in Junqueira 17th for early granulation tissue is rich in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Early granulation tissue rich in type III collagen reticular and new capillaries, later remodeling to type I.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Early granulation tissue rich in type III collagen reticular and new capillaries, later remodeling t
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Early granulation tissue rich in type III collagen reticular and new capillaries
 
 **Difficulty:** Application
 
@@ -8063,18 +8063,18 @@ C) Dense regular CT
 
 D) Loose CT
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Reticular CT is correct because it matches the defining feature described in Junqueira 17th for tendon is an example of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Tendon dense regular parallel type I collagen tensile one direction; dense irregular interwoven many directions.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Tendon dense regular parallel type I collagen tensile one direction; dense irregular interwoven many
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Tendon dense regular parallel type I collagen tensile one direction; dense irreg
 
 **Difficulty:** Application
 
@@ -8384,18 +8384,18 @@ C) Excess collagen
 
 D) Fibrillin loss
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Failed elastin cross-linking is correct because it matches the defining feature described in Junqueira 17th for a diet deficient in fresh fruit produces bleeding gums. the mechanism is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Scurvy vitamin C deficiency → proline/lysine hydroxylation fails → weak collagen → bleeding gums poor wound healing.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Scurvy vitamin C deficiency → proline/lysine hydroxylation fails → weak collagen → bleeding gums poo
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Scurvy vitamin C deficiency → proline/lysine hydroxylation fails → weak collagen
 
 **Difficulty:** Integration
 
@@ -8413,18 +8413,18 @@ C) Sulfated and protein-bound
 
 D) Non-sulfated and not covalently bound to a core protein
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** A glycoprotein is correct because it matches the defining feature described in Junqueira 17th for hyaluronic acid is unique because it is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Hyaluronan non-sulfated GAG not covalently bound to core protein, highly hydrated, compression resistance, CD44 receptor.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Hyaluronan non-sulfated GAG not covalently bound to core protein, highly hydrated, compression resis
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Hyaluronan non-sulfated GAG not covalently bound to core protein, highly hydrate
 
 **Difficulty:** Integration
 
@@ -8734,18 +8734,18 @@ C) Silver impregnation
 
 D) H&E
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Oil Red O is correct because it matches the defining feature described in Junqueira 17th for which stain demonstrates reticular fibers. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Reticular fibers type III collagen demonstrated by silver impregnation black argyrophilic.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Reticular fibers type III collagen demonstrated by silver impregnation black argyrophilic.
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Reticular fibers type III collagen demonstrated by silver impregnation black arg
 
 **Difficulty:** High-Difficulty
 
@@ -8763,18 +8763,18 @@ C) Fibrillin-1
 
 D) Type I collagen
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Type II collagen is correct because it matches the defining feature described in Junqueira 17th for a child has recurrent fractures and blue sclerae. the defect is in. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Osteogenesis imperfecta type I collagen mutation brittle bones blue sclerae; EDS collagen hypermobile, Marfan fibrillin.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Connective Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Osteogenesis imperfecta type I collagen mutation brittle bones blue sclerae; EDS collagen hypermobil
 
-**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 5 — Connective Tissue — LO related to Osteogenesis imperfecta type I collagen mutation brittle bones blue sclerae; EDS
 
 **Difficulty:** High-Difficulty
 
@@ -9088,18 +9088,18 @@ C) Skeletal muscle
 
 D) Liver
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** White adipose tissue is correct because it matches the defining feature described in Junqueira 17th for a premature infant becomes hypothermic in a cool room. the missing thermogenic tissue is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Brown adipose tissue thermogenesis via UCP1, abundant in neonate perirenal supraclavicular, sympathetic β3 mediated.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Brown adipose tissue thermogenesis via UCP1, abundant in neonate perirenal supraclavicular, sympathe
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Brown adipose tissue thermogenesis via UCP1, abundant in neonate perirenal supra
 
 **Difficulty:** Recall
 
@@ -9117,18 +9117,18 @@ C) Rise
 
 D) Fall
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Stay constant is correct because it matches the defining feature described in Junqueira 17th for in obesity, adiponectin levels. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Adiponectin falls in obesity, insulin-sensitizing; leptin rises satiety signal.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Adiponectin falls in obesity, insulin-sensitizing; leptin rises satiety signal.
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Adiponectin falls in obesity, insulin-sensitizing; leptin rises satiety signal.
 
 **Difficulty:** Recall
 
@@ -9438,18 +9438,18 @@ C) Dissipating the proton gradient as heat
 
 D) Increasing glycolysis
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Blocking the electron transport chain is correct because it matches the defining feature described in Junqueira 17th for ucp1 produces heat by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** UCP1 uncouples oxidative phosphorylation dissipating proton gradient as heat in brown fat mitochondria.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** UCP1 uncouples oxidative phosphorylation dissipating proton gradient as heat in brown fat mitochondr
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to UCP1 uncouples oxidative phosphorylation dissipating proton gradient as heat in 
 
 **Difficulty:** Understanding
 
@@ -9467,18 +9467,18 @@ C) A phospholipid monolayer
 
 D) A cell wall
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** No boundary is correct because it matches the defining feature described in Junqueira 17th for the lipid droplet of an adipocyte is bounded by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Lipid droplet bounded by phospholipid monolayer with perilipin, not bilayer.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Lipid droplet bounded by phospholipid monolayer with perilipin, not bilayer.
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Lipid droplet bounded by phospholipid monolayer with perilipin, not bilayer.
 
 **Difficulty:** Understanding
 
@@ -9788,18 +9788,18 @@ C) Hibernoma
 
 D) Fibroma
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Lipoma is correct because it matches the defining feature described in Junqueira 17th for a tumor shows multivacuolated cells with scalloped nuclei. this indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Liposarcoma lipoblasts multivacuolated scalloped nuclei atypical; hibernoma brown fat multivacuolated central nucleus benign.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Liposarcoma lipoblasts multivacuolated scalloped nuclei atypical; hibernoma brown fat multivacuolate
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Liposarcoma lipoblasts multivacuolated scalloped nuclei atypical; hibernoma brow
 
 **Difficulty:** Application
 
@@ -10111,16 +10111,16 @@ D) Epinephrine
 
 **Answer: A**
 
-**Explanation:** Insulin is correct because it matches the defining feature described in Junqueira 17th for which hormone promotes triglyceride storage via lipoprotein lipase. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Insulin promotes storage via lipoprotein lipase; catecholamines activate hormone-sensitive lipase lipolysis.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Insulin promotes storage via lipoprotein lipase; catecholamines activate hormone-sensitive lipase li
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Insulin promotes storage via lipoprotein lipase; catecholamines activate hormone
 
 **Difficulty:** Integration
 
@@ -10138,18 +10138,18 @@ C) Parasympathetic fibers
 
 D) Sympathetic β₃ stimulation
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Somatic motor neurons is correct because it matches the defining feature described in Junqueira 17th for cold-induced thermogenesis in brown fat is mediated by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Cold thermogenesis sympathetic β3 stimulation → UCP1 activation in brown fat.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Cold thermogenesis sympathetic β3 stimulation → UCP1 activation in brown fat.
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Cold thermogenesis sympathetic β3 stimulation → UCP1 activation in brown fat.
 
 **Difficulty:** Integration
 
@@ -10461,16 +10461,16 @@ D) Leptin deficiency
 
 **Answer: A**
 
-**Explanation:** Cushing syndrome is correct because it matches the defining feature described in Junqueira 17th for a patient has moon facies, a buffalo hump, and thin limbs. the likely diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Cushing cortisol excess central obesity moon facies buffalo hump thin limbs striae; cortisol from fasciculata.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Cushing cortisol excess central obesity moon facies buffalo hump thin limbs striae; cortisol from fa
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Cushing cortisol excess central obesity moon facies buffalo hump thin limbs stri
 
 **Difficulty:** High-Difficulty
 
@@ -10488,18 +10488,18 @@ C) Signaling satiety to the hypothalamus
 
 D) Stimulating lipolysis
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Lowering insulin sensitivity is correct because it matches the defining feature described in Junqueira 17th for leptin's primary function is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Leptin satiety signal to hypothalamus, decreases appetite; adiponectin insulin sensitizer.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Adipose Tissue section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Leptin satiety signal to hypothalamus, decreases appetite; adiponectin insulin sensitizer.
 
-**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Needs review.
+**Learning Objective mapping:** Chapter 6 — Adipose Tissue — LO related to Leptin satiety signal to hypothalamus, decreases appetite; adiponectin insulin s
 
 **Difficulty:** High-Difficulty
 
@@ -10813,18 +10813,18 @@ C) Amyotrophic lateral sclerosis
 
 D) Poliomyelitis
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Multiple sclerosis is correct because it matches the defining feature described in Junqueira 17th for a nerve biopsy shows segmental myelin loss with preserved axons. the disease is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Guillain-Barré PNS segmental demyelination preserved axons; MS CNS demyelination; ALS motor neuron loss.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Guillain-Barré PNS segmental demyelination preserved axons; MS CNS demyelination; ALS motor neuron l
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Guillain-Barré PNS segmental demyelination preserved axons; MS CNS demyelination
 
 **Difficulty:** Recall
 
@@ -10844,16 +10844,16 @@ D) One internode of one axon
 
 **Answer: A**
 
-**Explanation:** Multiple axons is correct because it matches the defining feature described in Junqueira 17th for one oligodendrocyte myelinates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Oligodendrocyte myelinates many internodes of multiple axons CNS no neurilemma no regeneration; Schwann one internode one axon PNS neurilemma basal lamina regeneration.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Oligodendrocyte myelinates many internodes of multiple axons CNS no neurilemma no regeneration; Schw
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Oligodendrocyte myelinates many internodes of multiple axons CNS no neurilemma n
 
 **Difficulty:** Recall
 
@@ -11163,18 +11163,18 @@ C) Dendrite
 
 D) Axon hillock
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Node of Ranvier is correct because it matches the defining feature described in Junqueira 17th for the pale region of the neuron where the axon emerges is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Axon hillock pale no Nissl action potential initiation; Nissl = RER basophilic in perikaryon and dendrites.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Axon hillock pale no Nissl action potential initiation; Nissl = RER basophilic in perikaryon and den
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Axon hillock pale no Nissl action potential initiation; Nissl = RER basophilic i
 
 **Difficulty:** Understanding
 
@@ -11192,18 +11192,18 @@ C) Glial scarring and absence of neurilemma
 
 D) Excess myelin
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Microglial inactivity is correct because it matches the defining feature described in Junqueira 17th for after spinal-cord transection, regeneration fails mainly because of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** CNS regeneration fails due to glial scarring oligodendrocyte inhibitory factors absence neurilemma; PNS Schwann basal lamina allows regeneration.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** CNS regeneration fails due to glial scarring oligodendrocyte inhibitory factors absence neurilemma; 
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to CNS regeneration fails due to glial scarring oligodendrocyte inhibitory factors 
 
 **Difficulty:** Understanding
 
@@ -11513,18 +11513,18 @@ C) Ependyma
 
 D) Astrocyte
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Oligodendrocyte is correct because it matches the defining feature described in Junqueira 17th for which glial cell is mesodermal in origin. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Microglia mesodermal monocyte-derived phagocytosis; astrocyte oligodendrocyte ependyma ectodermal.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Microglia mesodermal monocyte-derived phagocytosis; astrocyte oligodendrocyte ependyma ectodermal.
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Microglia mesodermal monocyte-derived phagocytosis; astrocyte oligodendrocyte ep
 
 **Difficulty:** Application
 
@@ -11542,18 +11542,18 @@ C) Continuous conduction
 
 D) Saltatory conduction
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Synaptic delay is correct because it matches the defining feature described in Junqueira 17th for nodes of ranvier are essential for. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Nodes Ranvier Na+ channels high density regenerate action potential saltatory conduction jumping.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Nodes Ranvier Na+ channels high density regenerate action potential saltatory conduction jumping.
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Nodes Ranvier Na+ channels high density regenerate action potential saltatory co
 
 **Difficulty:** Application
 
@@ -11865,16 +11865,16 @@ D) Epineurium
 
 **Answer: A**
 
-**Explanation:** Perineurium is correct because it matches the defining feature described in Junqueira 17th for the blood–nerve barrier is formed by the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Blood-nerve barrier perineurium tight junctions; BBB astrocyte foot processes + endothelial tight junctions.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Blood-nerve barrier perineurium tight junctions; BBB astrocyte foot processes + endothelial tight ju
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Blood-nerve barrier perineurium tight junctions; BBB astrocyte foot processes + 
 
 **Difficulty:** Integration
 
@@ -11894,16 +11894,16 @@ D) Neuronal origin
 
 **Answer: A**
 
-**Explanation:** Astrocytic origin is correct because it matches the defining feature described in Junqueira 17th for a gfap-positive brain tumor is of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** GFAP glial fibrillary acidic protein astrocyte marker → astrocytoma; oligodendroglioma OLIG2.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** GFAP glial fibrillary acidic protein astrocyte marker → astrocytoma; oligodendroglioma OLIG2.
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to GFAP glial fibrillary acidic protein astrocyte marker → astrocytoma; oligodendro
 
 **Difficulty:** Integration
 
@@ -12213,18 +12213,18 @@ C) Apolar
 
 D) Multipolar
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Bipolar is correct because it matches the defining feature described in Junqueira 17th for a sensory neuron whose single process bifurcates is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Pseudounipolar sensory neuron single process bifurcates T-shaped, dorsal root ganglion.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Pseudounipolar sensory neuron single process bifurcates T-shaped, dorsal root ganglion.
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Pseudounipolar sensory neuron single process bifurcates T-shaped, dorsal root ga
 
 **Difficulty:** High-Difficulty
 
@@ -12242,18 +12242,18 @@ C) Chromatolysis
 
 D) Wallerian degeneration
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Pyknosis is correct because it matches the defining feature described in Junqueira 17th for dispersal of nissl substance after axonal injury is called. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Chromatolysis dispersal Nissl RER after axonal injury, perikaryon swollen, nucleus eccentric.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Nerve Tissue & the Nervous System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Chromatolysis dispersal Nissl RER after axonal injury, perikaryon swollen, nucleus eccentric.
 
-**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 7 — Nerve Tissue & the Nervous System — LO related to Chromatolysis dispersal Nissl RER after axonal injury, perikaryon swollen, nucle
 
 **Difficulty:** High-Difficulty
 
@@ -12567,18 +12567,18 @@ C) Elastic artery
 
 D) Arteriole
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Vein is correct because it matches the defining feature described in Junqueira 17th for a vessel shows many wavy elastic lamellae in its media. it is a(n). The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Elastic artery aorta many wavy elastic lamellae media Windkessel recoil; muscular artery many smooth muscle layers.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Elastic artery aorta many wavy elastic lamellae media Windkessel recoil; muscular artery many smooth
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Elastic artery aorta many wavy elastic lamellae media Windkessel recoil; muscula
 
 **Difficulty:** Recall
 
@@ -12598,16 +12598,16 @@ D) Media
 
 **Answer: A**
 
-**Explanation:** Intima is correct because it matches the defining feature described in Junqueira 17th for atherosclerosis begins in the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Atherosclerosis begins in intima subendothelial LDL accumulation foam cells.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Atherosclerosis begins in intima subendothelial LDL accumulation foam cells.
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Atherosclerosis begins in intima subendothelial LDL accumulation foam cells.
 
 **Difficulty:** Recall
 
@@ -12917,18 +12917,18 @@ C) Tunica adventitia
 
 D) Endocardium
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Tunica intima is correct because it matches the defining feature described in Junqueira 17th for the layer destroyed in an aortic aneurysm is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Aortic aneurysm media destruction cystic medial necrosis Marfan fibrillin defect.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Aortic aneurysm media destruction cystic medial necrosis Marfan fibrillin defect.
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Aortic aneurysm media destruction cystic medial necrosis Marfan fibrillin defect
 
 **Difficulty:** Understanding
 
@@ -12946,18 +12946,18 @@ C) Adventitia
 
 D) Intima
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Media is correct because it matches the defining feature described in Junqueira 17th for venous valves are folds of the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Venous valves folds of intima endothelium + connective tissue core prevent backflow.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Venous valves folds of intima endothelium + connective tissue core prevent backflow.
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Venous valves folds of intima endothelium + connective tissue core prevent backf
 
 **Difficulty:** Understanding
 
@@ -13267,18 +13267,18 @@ C) Fenestrated
 
 D) Sinusoidal
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Lymphatic is correct because it matches the defining feature described in Junqueira 17th for which capillary type lines the renal glomerulus. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Glomerular capillary fenestrated without diaphragm + thick basal lamina + podocyte slit diaphragm filtration.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Glomerular capillary fenestrated without diaphragm + thick basal lamina + podocyte slit diaphragm fi
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Glomerular capillary fenestrated without diaphragm + thick basal lamina + podocy
 
 **Difficulty:** Application
 
@@ -13296,18 +13296,18 @@ C) Smooth-muscle contraction
 
 D) Elastic recoil of the aortic wall
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Venous valves is correct because it matches the defining feature described in Junqueira 17th for the windkessel effect is due to. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Windkessel effect elastic recoil aortic wall maintains diastolic flow.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Windkessel effect elastic recoil aortic wall maintains diastolic flow.
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Windkessel effect elastic recoil aortic wall maintains diastolic flow.
 
 **Difficulty:** Application
 
@@ -13617,18 +13617,18 @@ C) Large pale glycogen-rich cytoplasm, subendocardial
 
 D) Multinucleation
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Peripheral nuclei is correct because it matches the defining feature described in Junqueira 17th for purkinje fibers are best identified by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Purkinje fibers large pale glycogen-rich cytoplasm subendocardial, fewer myofibrils, fast conduction.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Purkinje fibers large pale glycogen-rich cytoplasm subendocardial, fewer myofibrils, fast conduction
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Purkinje fibers large pale glycogen-rich cytoplasm subendocardial, fewer myofibr
 
 **Difficulty:** Integration
 
@@ -13646,18 +13646,18 @@ C) Arteriole
 
 D) Capillary
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Muscular artery is correct because it matches the defining feature described in Junqueira 17th for which vessel lacks smooth muscle entirely. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Capillary lacks smooth muscle, only endothelium + basal lamina + pericyte; arteriole has smooth muscle.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Capillary lacks smooth muscle, only endothelium + basal lamina + pericyte; arteriole has smooth musc
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Capillary lacks smooth muscle, only endothelium + basal lamina + pericyte; arter
 
 **Difficulty:** Integration
 
@@ -13969,16 +13969,16 @@ D) Fenestrated capillaries
 
 **Answer: A**
 
-**Explanation:** Continuous capillaries of the brain is correct because it matches the defining feature described in Junqueira 17th for the blood–nerve-barrier analogue in the circulatory system is best represented by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** BBB continuous capillaries brain tight junctions astrocyte foot processes; liver sinusoid discontinuous; kidney glomerulus fenestrated.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** BBB continuous capillaries brain tight junctions astrocyte foot processes; liver sinusoid discontinu
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to BBB continuous capillaries brain tight junctions astrocyte foot processes; liver
 
 **Difficulty:** High-Difficulty
 
@@ -13996,18 +13996,18 @@ C) Muscular artery
 
 D) Sinusoid
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Vein is correct because it matches the defining feature described in Junqueira 17th for a thin-walled vessel with valves and no red blood cells is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Lymphatic thin-walled valves no RBC, no basal lamina, drainage; vein has RBC.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Circulatory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Lymphatic thin-walled valves no RBC, no basal lamina, drainage; vein has RBC.
 
-**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 8 — The Circulatory System — LO related to Lymphatic thin-walled valves no RBC, no basal lamina, drainage; vein has RBC.
 
 **Difficulty:** High-Difficulty
 
@@ -14323,16 +14323,16 @@ D) Neutrophils
 
 **Answer: A**
 
-**Explanation:** Eosinophils is correct because it matches the defining feature described in Junqueira 17th for a smear shows cells with bilobed nuclei and red-orange granules. these are. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Eosinophil bilobed nucleus red-orange granules major basic protein parasitic allergy.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Eosinophil bilobed nucleus red-orange granules major basic protein parasitic allergy.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Eosinophil bilobed nucleus red-orange granules major basic protein parasitic all
 
 **Difficulty:** Recall
 
@@ -14350,18 +14350,18 @@ C) Von Willebrand factor
 
 D) Histamine
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Fibrinogen is correct because it matches the defining feature described in Junqueira 17th for platelet dense granules contain. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Platelet dense granules ADP, calcium, serotonin; alpha granules fibrinogen, VWF, growth factors.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Platelet dense granules ADP, calcium, serotonin; alpha granules fibrinogen, VWF, growth factors.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Platelet dense granules ADP, calcium, serotonin; alpha granules fibrinogen, VWF,
 
 **Difficulty:** Recall
 
@@ -14671,18 +14671,18 @@ C) Howell-Jolly bodies
 
 D) Hypersegmented neutrophils
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Left shift is correct because it matches the defining feature described in Junqueira 17th for a patient with splenectomy would most likely show. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Splenectomy → Howell-Jolly bodies nuclear remnants, Heinz bodies, target cells, encapsulated bacteria risk.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Splenectomy → Howell-Jolly bodies nuclear remnants, Heinz bodies, target cells, encapsulated bacteri
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Splenectomy → Howell-Jolly bodies nuclear remnants, Heinz bodies, target cells, 
 
 **Difficulty:** Understanding
 
@@ -14700,18 +14700,18 @@ C) Segmented neutrophils
 
 D) Band neutrophils
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Lymphocytes is correct because it matches the defining feature described in Junqueira 17th for a left shift refers to increased. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Left shift increased band neutrophils immature neutrophils indicates acute bacterial infection.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Left shift increased band neutrophils immature neutrophils indicates acute bacterial infection.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Left shift increased band neutrophils immature neutrophils indicates acute bacte
 
 **Difficulty:** Understanding
 
@@ -15023,16 +15023,16 @@ D) DNA
 
 **Answer: A**
 
-**Explanation:** RNA is correct because it matches the defining feature described in Junqueira 17th for reticulocytes contain residual. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Reticulocyte residual RNA polyribosomes supravital stain, 1-2 days maturation to RBC.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Reticulocyte residual RNA polyribosomes supravital stain, 1-2 days maturation to RBC.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Reticulocyte residual RNA polyribosomes supravital stain, 1-2 days maturation to
 
 **Difficulty:** Application
 
@@ -15050,18 +15050,18 @@ C) Lead poisoning
 
 D) B12 deficiency
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Iron deficiency is correct because it matches the defining feature described in Junqueira 17th for basophilic stippling is classically due to. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Basophilic stippling ribosomal aggregates lead poisoning impaired pyrimidine 5'-nucleotidase.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Basophilic stippling ribosomal aggregates lead poisoning impaired pyrimidine 5'-nucleotidase.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Basophilic stippling ribosomal aggregates lead poisoning impaired pyrimidine 5'-
 
 **Difficulty:** Application
 
@@ -15371,18 +15371,18 @@ C) Bacterial infection
 
 D) B12/folate deficiency
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Lead poisoning is correct because it matches the defining feature described in Junqueira 17th for hypersegmented neutrophils indicate. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Hypersegmented neutrophils >5 lobes indicate megaloblastic anemia B12/folate deficiency impaired DNA synthesis.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Hypersegmented neutrophils >5 lobes indicate megaloblastic anemia B12/folate deficiency impaired DNA
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Hypersegmented neutrophils >5 lobes indicate megaloblastic anemia B12/folate def
 
 **Difficulty:** Integration
 
@@ -15400,18 +15400,18 @@ C) Electrolytes
 
 D) Globulins
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Albumin is correct because it matches the defining feature described in Junqueira 17th for serum differs from plasma by lacking. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Serum = plasma minus fibrinogen and clotting factors after clotting.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Serum = plasma minus fibrinogen and clotting factors after clotting.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Serum = plasma minus fibrinogen and clotting factors after clotting.
 
 **Difficulty:** Integration
 
@@ -15723,16 +15723,16 @@ D) Lymphocyte
 
 **Answer: A**
 
-**Explanation:** Monocyte is correct because it matches the defining feature described in Junqueira 17th for the largest circulating leukocyte is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Monocyte largest circulating leukocyte kidney-shaped nucleus, precursor to macrophage.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Monocyte largest circulating leukocyte kidney-shaped nucleus, precursor to macrophage.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Monocyte largest circulating leukocyte kidney-shaped nucleus, precursor to macro
 
 **Difficulty:** High-Difficulty
 
@@ -15750,18 +15750,18 @@ C) B12 deficiency
 
 D) Folate deficiency
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Acute blood loss is correct because it matches the defining feature described in Junqueira 17th for microcytic hypochromic anemia is most characteristic of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Microcytic hypochromic iron deficiency impaired hemoglobin synthesis; B12/folate macrocytic.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Blood section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Microcytic hypochromic iron deficiency impaired hemoglobin synthesis; B12/folate macrocytic.
 
-**Learning Objective mapping:** Chapter 9 — Blood — LO related to Needs review.
+**Learning Objective mapping:** Chapter 9 — Blood — LO related to Microcytic hypochromic iron deficiency impaired hemoglobin synthesis; B12/folate
 
 **Difficulty:** High-Difficulty
 
@@ -16077,16 +16077,16 @@ D) Osteoclast
 
 **Answer: A**
 
-**Explanation:** Megakaryocyte is correct because it matches the defining feature described in Junqueira 17th for a marrow aspirate shows a very large cell with a single multilobed polyploid nucleus. this is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Megakaryocyte very large multilobed polyploid nucleus produces platelets from demarcation membranes.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Megakaryocyte very large multilobed polyploid nucleus produces platelets from demarcation membranes.
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Megakaryocyte very large multilobed polyploid nucleus produces platelets from de
 
 **Difficulty:** Recall
 
@@ -16104,18 +16104,18 @@ C) Contains no hemoglobin
 
 D) Is the earliest erythroid stage
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Divides actively is correct because it matches the defining feature described in Junqueira 17th for the orthochromatic erythroblast. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Orthochromatic erythroblast eosinophilic hemoglobin-rich extrudes nucleus to become reticulocyte.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Orthochromatic erythroblast eosinophilic hemoglobin-rich extrudes nucleus to become reticulocyte.
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Orthochromatic erythroblast eosinophilic hemoglobin-rich extrudes nucleus to bec
 
 **Difficulty:** Recall
 
@@ -16425,18 +16425,18 @@ C) Myelocyte
 
 D) Metamyelocyte
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Band cell is correct because it matches the defining feature described in Junqueira 17th for the last dividing granulocyte precursor is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Myelocyte last dividing stage of granulopoiesis, after that metamyelocyte band segmented non-dividing.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Myelocyte last dividing stage of granulopoiesis, after that metamyelocyte band segmented non-dividin
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Myelocyte last dividing stage of granulopoiesis, after that metamyelocyte band s
 
 **Difficulty:** Understanding
 
@@ -16454,18 +16454,18 @@ C) Low LAP score
 
 D) High LAP score
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Low reticulocyte count is correct because it matches the defining feature described in Junqueira 17th for a leukemoid reaction is distinguished from cml by a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Leukemoid reaction high LAP score vs CML low LAP score; BCR-ABL negative vs positive.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Leukemoid reaction high LAP score vs CML low LAP score; BCR-ABL negative vs positive.
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Leukemoid reaction high LAP score vs CML low LAP score; BCR-ABL negative vs posi
 
 **Difficulty:** Understanding
 
@@ -16775,18 +16775,18 @@ C) Acute leukemia
 
 D) Aplastic anemia
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Myelofibrosis is correct because it matches the defining feature described in Junqueira 17th for a hypocellular, fat-replaced marrow with pancytopenia indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Aplastic anemia hypocellular fat-replaced marrow pancytopenia due to stem cell failure.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Aplastic anemia hypocellular fat-replaced marrow pancytopenia due to stem cell failure.
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Aplastic anemia hypocellular fat-replaced marrow pancytopenia due to stem cell f
 
 **Difficulty:** Application
 
@@ -16806,16 +16806,16 @@ D) Myeloblast
 
 **Answer: A**
 
-**Explanation:** Promyelocyte is correct because it matches the defining feature described in Junqueira 17th for primary (azurophilic) granules first appear at the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Primary azurophilic granules first appear at promyelocyte, secondary specific granules at myelocyte.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Primary azurophilic granules first appear at promyelocyte, secondary specific granules at myelocyte.
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Primary azurophilic granules first appear at promyelocyte, secondary specific gr
 
 **Difficulty:** Application
 
@@ -17125,18 +17125,18 @@ C) Myelofibrosis
 
 D) B12 deficiency
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Lead poisoning is correct because it matches the defining feature described in Junqueira 17th for teardrop-shaped red cells and splenomegaly suggest. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Myelofibrosis marrow fibrosis extramedullary hematopoiesis teardrop RBC splenomegaly.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Myelofibrosis marrow fibrosis extramedullary hematopoiesis teardrop RBC splenomegaly.
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Myelofibrosis marrow fibrosis extramedullary hematopoiesis teardrop RBC splenome
 
 **Difficulty:** Integration
 
@@ -17444,18 +17444,18 @@ C) Kidney
 
 D) Spleen
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Bone marrow is correct because it matches the defining feature described in Junqueira 17th for erythropoietin is produced by the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Erythropoietin produced by peritubular interstitial cells kidney in response to hypoxia, stimulates erythropoiesis.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Hemopoiesis section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Erythropoietin produced by peritubular interstitial cells kidney in response to hypoxia, stimulates 
 
-**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Needs review.
+**Learning Objective mapping:** Chapter 10 — Hemopoiesis — LO related to Erythropoietin produced by peritubular interstitial cells kidney in response to 
 
 **Difficulty:** High-Difficulty
 
@@ -17767,18 +17767,18 @@ C) Spleen
 
 D) Tonsil
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Lymph node is correct because it matches the defining feature described in Junqueira 17th for a lymphoid organ shows hassall's corpuscles and no germinal centers. it is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Thymus Hassall's corpuscles concentric keratinized epithelial reticular cells, no germinal centers, blood-thymus barrier.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Thymus Hassall's corpuscles concentric keratinized epithelial reticular cells, no germinal centers, 
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Thymus Hassall's corpuscles concentric keratinized epithelial reticular cells, n
 
 **Difficulty:** Recall
 
@@ -17798,16 +17798,16 @@ D) Hypersegmented neutrophils
 
 **Answer: A**
 
-**Explanation:** Howell-Jolly bodies is correct because it matches the defining feature described in Junqueira 17th for post-splenectomy smears classically show. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Post-splenectomy Howell-Jolly bodies nuclear remnants, Heinz bodies, target cells, encapsulated bacteria risk.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Post-splenectomy Howell-Jolly bodies nuclear remnants, Heinz bodies, target cells, encapsulated bact
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Post-splenectomy Howell-Jolly bodies nuclear remnants, Heinz bodies, target cell
 
 **Difficulty:** Recall
 
@@ -18117,18 +18117,18 @@ C) PALS
 
 D) Follicle
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Marginal zone is correct because it matches the defining feature described in Junqueira 17th for the t-cell zone of the spleen is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Spleen T-cell zone periarteriolar lymphoid sheath PALS around central artery; B-cell zone follicles.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Spleen T-cell zone periarteriolar lymphoid sheath PALS around central artery; B-cell zone follicles.
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Spleen T-cell zone periarteriolar lymphoid sheath PALS around central artery; B-
 
 **Difficulty:** Understanding
 
@@ -18146,18 +18146,18 @@ C) Red-pulp expansion
 
 D) Thymic involution
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Follicular hyperplasia is correct because it matches the defining feature described in Junqueira 17th for viral infection classically causes. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Viral infection paracortical T-cell hyperplasia; bacterial follicular B-cell hyperplasia.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Viral infection paracortical T-cell hyperplasia; bacterial follicular B-cell hyperplasia.
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Viral infection paracortical T-cell hyperplasia; bacterial follicular B-cell hyp
 
 **Difficulty:** Understanding
 
@@ -18467,18 +18467,18 @@ C) Afferent lymphatics
 
 D) High endothelial venules
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Efferent lymphatics is correct because it matches the defining feature described in Junqueira 17th for lymphocytes enter a lymph node from the blood via. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Lymphocytes enter lymph node from blood via high endothelial venules HEV in paracortex.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Lymphocytes enter lymph node from blood via high endothelial venules HEV in paracortex.
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Lymphocytes enter lymph node from blood via high endothelial venules HEV in para
 
 **Difficulty:** Application
 
@@ -18496,18 +18496,18 @@ C) Produce mucus
 
 D) Phagocytose bacteria
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Secrete IgA is correct because it matches the defining feature described in Junqueira 17th for m cells function to. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** M cells sample luminal antigen transport to underlying lymphoid tissue in Peyer's patches.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** M cells sample luminal antigen transport to underlying lymphoid tissue in Peyer's patches.
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to M cells sample luminal antigen transport to underlying lymphoid tissue in Peyer'
 
 **Difficulty:** Application
 
@@ -18819,16 +18819,16 @@ D) SCID
 
 **Answer: A**
 
-**Explanation:** DiGeorge syndrome is correct because it matches the defining feature described in Junqueira 17th for a newborn with hypocalcemia and absent t cells most likely has. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** DiGeorge 22q11 deletion thymic aplasia absent T cells hypocalcemia parathyroid aplasia cardiac anomalies.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** DiGeorge 22q11 deletion thymic aplasia absent T cells hypocalcemia parathyroid aplasia cardiac anoma
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to DiGeorge 22q11 deletion thymic aplasia absent T cells hypocalcemia parathyroid a
 
 **Difficulty:** Integration
 
@@ -18846,18 +18846,18 @@ C) Duodenum
 
 D) Ileum
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Colon is correct because it matches the defining feature described in Junqueira 17th for peyer's patches are located in the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Peyer's patches ileum, part of MALT, B-cell follicles with M cells.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Peyer's patches ileum, part of MALT, B-cell follicles with M cells.
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Peyer's patches ileum, part of MALT, B-cell follicles with M cells.
 
 **Difficulty:** Integration
 
@@ -19167,18 +19167,18 @@ C) Blood
 
 D) CSF
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Bile is correct because it matches the defining feature described in Junqueira 17th for the spleen filters. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Spleen filters blood no afferent lymphatics; lymph node filters lymph.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Spleen filters blood no afferent lymphatics; lymph node filters lymph.
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Spleen filters blood no afferent lymphatics; lymph node filters lymph.
 
 **Difficulty:** High-Difficulty
 
@@ -19198,16 +19198,16 @@ D) T-cell maturation
 
 **Answer: A**
 
-**Explanation:** B-cell affinity maturation is correct because it matches the defining feature described in Junqueira 17th for germinal centers are the site of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Germinal centers B-cell affinity maturation somatic hypermutation class switching.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Immune System & Lymphoid Organs section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Germinal centers B-cell affinity maturation somatic hypermutation class switching.
 
-**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Needs review.
+**Learning Objective mapping:** Chapter 11 — The Immune System & Lymphoid Organs — LO related to Germinal centers B-cell affinity maturation somatic hypermutation class switchin
 
 **Difficulty:** High-Difficulty
 
@@ -19216,7 +19216,7 @@ D) T-cell maturation
 
 
 
-# Chapter 12 — The Digestive Tract
+# Chapter 12 — Digestive Tract
 
 
 ### Part A — Recall
@@ -19236,13 +19236,13 @@ D) Mucosa
 **Explanation:** Meissner's plexus = submucosa (secretion).
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Meissner = submucosa.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Meissner = submucosa.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Meissner = submucosa.
 
 **Difficulty:** Recall
 
@@ -19265,13 +19265,13 @@ D) Colon
 **Explanation:** Peyer's patches = ileum.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Peyer's = ileum.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Peyer's = ileum.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Peyer's = ileum.
 
 **Difficulty:** Recall
 
@@ -19294,13 +19294,13 @@ D) Pseudostratified epithelium
 **Explanation:** Barrett = intestinal columnar metaplasia (goblet cells).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Barrett = goblet cells.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Barrett = goblet cells.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Barrett = goblet cells.
 
 **Difficulty:** Recall
 
@@ -19323,13 +19323,13 @@ D) Eosinophilic "fried-egg" appearance with abundant mitochondria
 **Explanation:** Parietal = eosinophilic, mitochondria-rich.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** parietal = mitochondria.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to parietal = mitochondria.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to parietal = mitochondria.
 
 **Difficulty:** Recall
 
@@ -19352,13 +19352,13 @@ D) Mucus exclusively
 **Explanation:** Chief = pepsinogen.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** chief = pepsinogen.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to chief = pepsinogen.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to chief = pepsinogen.
 
 **Difficulty:** Recall
 
@@ -19381,13 +19381,13 @@ D) Small and large intestine
 **Explanation:** Crypts of Lieberkühn = small + large intestine.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** crypts = intestines.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to crypts = intestines.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to crypts = intestines.
 
 **Difficulty:** Recall
 
@@ -19410,13 +19410,13 @@ D) Peristalsis of liquids only
 **Explanation:** Oblique layer = churning/mixing.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** oblique = mixing.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to oblique = mixing.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to oblique = mixing.
 
 **Difficulty:** Recall
 
@@ -19439,13 +19439,13 @@ D) Propel food through the tract
 **Explanation:** Muscularis mucosae = local mucosal movements.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** muscularis mucosae = local.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to muscularis mucosae = local.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to muscularis mucosae = local.
 
 **Difficulty:** Recall
 
@@ -19468,13 +19468,13 @@ D) Goblet cells
 **Explanation:** Brunner's glands → alkaline mucus/bicarbonate.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Brunner's = alkaline.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Brunner's = alkaline.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Brunner's = alkaline.
 
 **Difficulty:** Recall
 
@@ -19497,13 +19497,13 @@ D) Villous atrophy
 **Explanation:** H. pylori gastritis = neutrophilic infiltrate.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** H. pylori = neutrophils.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to H. pylori = neutrophils.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to H. pylori = neutrophils.
 
 **Difficulty:** Recall
 
@@ -19521,18 +19521,18 @@ C) Jejunum
 
 D) Colon
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Ileum is correct because it matches the defining feature described in Junqueira 17th for a biopsy shows villi and mucous glands in the submucosa. this is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Duodenum villi + Brunner's glands mucous alkaline submucosa protects from acid; jejunum no Brunner, ileum Peyer's patches.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Duodenum villi + Brunner's glands mucous alkaline submucosa protects from acid; jejunum no Brunner, 
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Duodenum villi + Brunner's glands mucous alkaline submucosa protects from acid; 
 
 **Difficulty:** Recall
 
@@ -19550,18 +19550,18 @@ C) Muscularis externa
 
 D) Serosa
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Mucosa is correct because it matches the defining feature described in Junqueira 17th for meissner's plexus is located in the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Meissner's submucosal plexus parasympathetic secretion; Auerbach's myenteric plexus between circular and longitudinal muscle motility.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Meissner's submucosal plexus parasympathetic secretion; Auerbach's myenteric plexus between circular
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Meissner's submucosal plexus parasympathetic secretion; Auerbach's myenteric ple
 
 **Difficulty:** Recall
 
@@ -19586,13 +19586,13 @@ D) Transitional
 **Explanation:** Esophagus = stratified squamous non-keratinized.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** esophagus = squamous.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to esophagus = squamous.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to esophagus = squamous.
 
 **Difficulty:** Understanding
 
@@ -19615,13 +19615,13 @@ D) Villus tip
 **Explanation:** Paneth cells = crypt base.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Paneth = crypt base.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Paneth = crypt base.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Paneth = crypt base.
 
 **Difficulty:** Understanding
 
@@ -19644,13 +19644,13 @@ D) Serosa
 **Explanation:** Muscularis mucosae = part of the mucosa.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** muscularis mucosae = mucosa.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to muscularis mucosae = mucosa.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to muscularis mucosae = mucosa.
 
 **Difficulty:** Understanding
 
@@ -19673,13 +19673,13 @@ D) Within the lamina propria only
 **Explanation:** Muscularis mucosae = between mucosa and submucosa.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** muscularis mucosae = mucosa-submucosa border.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to muscularis mucosae = mucosa-submucosa border.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to muscularis mucosae = mucosa-submucosa border.
 
 **Difficulty:** Understanding
 
@@ -19702,13 +19702,13 @@ D) Pyloric antrum
 **Explanation:** G cells = pyloric antrum (gastrin).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** G cells = antrum.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to G cells = antrum.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to G cells = antrum.
 
 **Difficulty:** Understanding
 
@@ -19731,13 +19731,13 @@ D) Lumen only
 **Explanation:** Enteroendocrine cells = basal release (toward lamina propria/blood).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** enteroendocrine = basal.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to enteroendocrine = basal.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to enteroendocrine = basal.
 
 **Difficulty:** Understanding
 
@@ -19760,13 +19760,13 @@ D) Longitudinal muscle
 **Explanation:** Teniae coli = 3 longitudinal muscle bands.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** taeniae = longitudinal.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to taeniae = longitudinal.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to taeniae = longitudinal.
 
 **Difficulty:** Understanding
 
@@ -19789,13 +19789,13 @@ D) Antrum exclusively
 **Explanation:** Fundus/body = parietal + chief cells.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** fundus/body = both.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to fundus/body = both.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to fundus/body = both.
 
 **Difficulty:** Understanding
 
@@ -19818,13 +19818,13 @@ D) Stratified squamous
 **Explanation:** Stomach surface = simple columnar mucous cells.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** stomach = simple columnar.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to stomach = simple columnar.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to stomach = simple columnar.
 
 **Difficulty:** Understanding
 
@@ -19847,13 +19847,13 @@ D) Paneth cells
 **Explanation:** G cells = gastrin.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** G cell = gastrin.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to G cell = gastrin.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to G cell = gastrin.
 
 **Difficulty:** Understanding
 
@@ -19871,18 +19871,18 @@ C) Chief cells
 
 D) Parietal cells
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** G cells is correct because it matches the defining feature described in Junqueira 17th for pink "fried-egg" cells in gastric glands are. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Parietal cells pink fried-egg central nucleus eosinophilic HCl + intrinsic factor; chief cells basophilic pepsinogen.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Parietal cells pink fried-egg central nucleus eosinophilic HCl + intrinsic factor; chief cells basop
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Parietal cells pink fried-egg central nucleus eosinophilic HCl + intrinsic facto
 
 **Difficulty:** Understanding
 
@@ -19900,18 +19900,18 @@ C) Ulcerative colitis
 
 D) Crohn's disease
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Celiac disease is correct because it matches the defining feature described in Junqueira 17th for transmural inflammation with non-caseating granulomas is characteristic of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Crohn's transmural inflammation non-caseating granulomas skip lesions, cobblestoning, anywhere GI mouth to anus.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Crohn's transmural inflammation non-caseating granulomas skip lesions, cobblestoning, anywhere GI mo
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Crohn's transmural inflammation non-caseating granulomas skip lesions, cobblesto
 
 **Difficulty:** Understanding
 
@@ -19936,13 +19936,13 @@ D) Dark-staining granules
 **Explanation:** Parietal = eosinophilic "fried-egg" (mitochondria).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** parietal = pink.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to parietal = pink.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to parietal = pink.
 
 **Difficulty:** Application
 
@@ -19965,13 +19965,13 @@ D) Lacking villi
 **Explanation:** Colon = no villi.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** no villi = colon.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to no villi = colon.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to no villi = colon.
 
 **Difficulty:** Application
 
@@ -19994,13 +19994,13 @@ D) Parietal cells
 **Explanation:** Parietal cells = HCl + intrinsic factor.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** IF = parietal.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to IF = parietal.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to IF = parietal.
 
 **Difficulty:** Application
 
@@ -20023,13 +20023,13 @@ D) Innate immune defense (lysozyme/defensins)
 **Explanation:** Paneth cells = innate defense.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Paneth = defense.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Paneth = defense.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Paneth = defense.
 
 **Difficulty:** Application
 
@@ -20052,13 +20052,13 @@ D) Colon
 **Explanation:** Plicae circulares = jejunum (prominent).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** plicae = jejunum.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to plicae = jejunum.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to plicae = jejunum.
 
 **Difficulty:** Application
 
@@ -20081,13 +20081,13 @@ D) Goblet cells
 **Explanation:** Colon = no villi.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** colon = no villi.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to colon = no villi.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to colon = no villi.
 
 **Difficulty:** Application
 
@@ -20110,13 +20110,13 @@ D) Extensive muscularis thickening
 **Explanation:** Appendix = lymphoid-rich wall.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** appendix = GALT.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to appendix = GALT.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to appendix = GALT.
 
 **Difficulty:** Application
 
@@ -20139,13 +20139,13 @@ D) Small intestine exclusively
 **Explanation:** Hirschsprung = aganglionic distal colon (both plexuses).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Hirschsprung = no ganglia.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Hirschsprung = no ganglia.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Hirschsprung = no ganglia.
 
 **Difficulty:** Application
 
@@ -20168,13 +20168,13 @@ D) Mucosal inflammation with crypt abscesses
 **Explanation:** UC = mucosal + crypt abscesses.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** UC = mucosal + crypt abscesses.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to UC = mucosal + crypt abscesses.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to UC = mucosal + crypt abscesses.
 
 **Difficulty:** Application
 
@@ -20197,13 +20197,13 @@ D) Esophageal glands
 **Explanation:** Ileum = Peyer's patches.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** ileum = Peyer's.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to ileum = Peyer's.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to ileum = Peyer's.
 
 **Difficulty:** Application
 
@@ -20221,18 +20221,18 @@ C) Tall villi
 
 D) Absence of villi
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Brunner's glands is correct because it matches the defining feature described in Junqueira 17th for the colon is distinguished by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Colon distinguished by absence of villi, presence of crypts, goblet cells, taenia coli; small intestine has villi.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Colon distinguished by absence of villi, presence of crypts, goblet cells, taenia coli; small intest
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Colon distinguished by absence of villi, presence of crypts, goblet cells, taeni
 
 **Difficulty:** Application
 
@@ -20255,13 +20255,13 @@ D) HCl
 **Explanation:** Chief cells = pepsinogen.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** chief = pepsinogen.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to chief = pepsinogen.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to chief = pepsinogen.
 
 **Difficulty:** Integration
 
@@ -20284,13 +20284,13 @@ D) Esophagus
 **Explanation:** Colon = goblet-rich.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** colon = goblets.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to colon = goblets.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to colon = goblets.
 
 **Difficulty:** Integration
 
@@ -20313,13 +20313,13 @@ D) Stomach
 **Explanation:** Taeniae coli = colon.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** taeniae coli = colon.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to taeniae coli = colon.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to taeniae coli = colon.
 
 **Difficulty:** Integration
 
@@ -20342,13 +20342,13 @@ D) Transitional
 **Explanation:** Esophagus = stratified squamous non-keratinized.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** esophagus = squamous.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to esophagus = squamous.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to esophagus = squamous.
 
 **Difficulty:** Integration
 
@@ -20371,13 +20371,13 @@ D) Esophagus
 **Explanation:** Villi = small intestine.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** villi = small intestine.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to villi = small intestine.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to villi = small intestine.
 
 **Difficulty:** Integration
 
@@ -20400,13 +20400,13 @@ D) They are absent in the colon
 **Explanation:** Goblet cells ↑ from duodenum → colon (most).
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** goblets ↑ distally.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to goblets ↑ distally.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to goblets ↑ distally.
 
 **Difficulty:** Integration
 
@@ -20429,13 +20429,13 @@ D) Goblet cells
 **Explanation:** M cells = antigen sampling.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** M cell = sampler.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to M cell = sampler.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to M cell = sampler.
 
 **Difficulty:** Integration
 
@@ -20458,13 +20458,13 @@ D) Villous hypertrophy
 **Explanation:** Celiac = villous atrophy + crypt hyperplasia + IELs.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** celiac = villous atrophy.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to celiac = villous atrophy.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to celiac = villous atrophy.
 
 **Difficulty:** Integration
 
@@ -20487,13 +20487,13 @@ D) Villous atrophy
 **Explanation:** Crohn's = transmural + granulomas.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Crohn's = transmural + granulomas.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Crohn's = transmural + granulomas.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Crohn's = transmural + granulomas.
 
 **Difficulty:** Integration
 
@@ -20516,13 +20516,13 @@ D) Intrinsic factor
 **Explanation:** Paneth granules = lysozyme + defensins.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Paneth = lysozyme/defensins.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Paneth = lysozyme/defensins.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Paneth = lysozyme/defensins.
 
 **Difficulty:** Integration
 
@@ -20540,18 +20540,18 @@ C) Celiac disease
 
 D) Ulcerative colitis
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Hirschsprung disease is correct because it matches the defining feature described in Junqueira 17th for villous atrophy with crypt hyperplasia and intraepithelial lymphocytes indicates. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Celiac disease villous atrophy crypt hyperplasia intraepithelial lymphocytes gluten-sensitive, anti-tTG.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Celiac disease villous atrophy crypt hyperplasia intraepithelial lymphocytes gluten-sensitive, anti-
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Celiac disease villous atrophy crypt hyperplasia intraepithelial lymphocytes glu
 
 **Difficulty:** Integration
 
@@ -20569,18 +20569,18 @@ C) Skeletal muscle
 
 D) Cardiac muscle
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Mixed is correct because it matches the defining feature described in Junqueira 17th for the upper third of the esophageal muscularis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Esophagus upper third skeletal muscle, middle mixed, lower third smooth muscle; Auerbach and Meissner throughout.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Esophagus upper third skeletal muscle, middle mixed, lower third smooth muscle; Auerbach and Meissne
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Esophagus upper third skeletal muscle, middle mixed, lower third smooth muscle; 
 
 **Difficulty:** Integration
 
@@ -20605,13 +20605,13 @@ D) Duodenum
 **Explanation:** Brunner's = duodenal submucosa.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Brunner's = duodenum.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Brunner's = duodenum.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Brunner's = duodenum.
 
 **Difficulty:** High-Difficulty
 
@@ -20634,13 +20634,13 @@ D) Brunner's glands
 **Explanation:** Jejunum = tall villi, no Brunner's/Peyer's.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** jejunum = neither.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to jejunum = neither.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to jejunum = neither.
 
 **Difficulty:** High-Difficulty
 
@@ -20663,13 +20663,13 @@ D) Abundant lymphoid tissue
 **Explanation:** Appendix = lymphoid-rich (GALT).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** appendix = lymphoid.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to appendix = lymphoid.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to appendix = lymphoid.
 
 **Difficulty:** High-Difficulty
 
@@ -20692,13 +20692,13 @@ D) Hydrochloric acid layer
 **Explanation:** Surface mucous cells → alkaline mucus (protective layer).
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** stomach = mucous barrier.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to stomach = mucous barrier.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to stomach = mucous barrier.
 
 **Difficulty:** High-Difficulty
 
@@ -20721,13 +20721,13 @@ D) Ileum
 **Explanation:** Brunner's = duodenal submucosa.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** Brunner's = duodenum.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Brunner's = duodenum.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Brunner's = duodenum.
 
 **Difficulty:** High-Difficulty
 
@@ -20750,13 +20750,13 @@ D) Longitudinal layer
 **Explanation:** Muscularis externa = inner circular + outer longitudinal.
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** inner circular + outer longitudinal.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to inner circular + outer longitudinal.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to inner circular + outer longitudinal.
 
 **Difficulty:** High-Difficulty
 
@@ -20779,13 +20779,13 @@ D) Meissner's plexus only
 **Explanation:** Achalasia = myenteric (Auerbach's) plexus degeneration.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** achalasia = Auerbach's.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to achalasia = Auerbach's.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to achalasia = Auerbach's.
 
 **Difficulty:** High-Difficulty
 
@@ -20808,13 +20808,13 @@ D) Enterocyte
 **Explanation:** Enterocyte = brush border (microvilli).
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** enterocyte = brush border.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to enterocyte = brush border.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to enterocyte = brush border.
 
 **Difficulty:** High-Difficulty
 
@@ -20837,13 +20837,13 @@ D) Smooth muscle
 **Explanation:** Upper ⅓ esophagus = skeletal muscle.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** upper esophagus = skeletal.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to upper esophagus = skeletal.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to upper esophagus = skeletal.
 
 **Difficulty:** High-Difficulty
 
@@ -20866,13 +20866,13 @@ D) Ileum only
 **Explanation:** Appendix = colon-like + lymphoid-rich. Practice Test
 
 **Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
 **Key point:** appendix ≈ colon + GALT.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to appendix ≈ colon + GALT.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to appendix ≈ colon + GALT.
 
 **Difficulty:** High-Difficulty
 
@@ -20890,18 +20890,18 @@ C) Paneth cells
 
 D) Enterocytes
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Chief cells is correct because it matches the defining feature described in Junqueira 17th for which cells are located at the crypt base with eosinophilic granules. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Paneth cells crypt base eosinophilic granules lysozyme defensins, regulate microbiome.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Paneth cells crypt base eosinophilic granules lysozyme defensins, regulate microbiome.
 
-**Learning Objective mapping:** Chapter 12 — The Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 12 — Digestive Tract — LO related to Paneth cells crypt base eosinophilic granules lysozyme defensins, regulate micro
 
 **Difficulty:** High-Difficulty
 
@@ -21216,16 +21216,16 @@ D) Parotid
 
 **Answer: A**
 
-**Explanation:** Pancreas is correct because it matches the defining feature described in Junqueira 17th for a gland shows centroacinar cells and no myoepithelial cells. it is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Pancreas exocrine centroacinar cells (ductal) no myoepithelial; salivary glands have myoepithelial.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Pancreas exocrine centroacinar cells (ductal) no myoepithelial; salivary glands have myoepithelial.
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Pancreas exocrine centroacinar cells (ductal) no myoepithelial; salivary glands 
 
 **Difficulty:** Recall
 
@@ -21233,7 +21233,38 @@ D) Parotid
 
 
 
-**Q12. Which structure is diagnostic of the exocrine pancreas?**
+**Q12. Glucagon is secreted by:**
+
+A) α cells
+
+B) δ cells
+
+C) PP cells
+
+D) β cells
+
+**Answer: A**
+
+**Explanation:** Alpha cells peripheral islet glucagon; beta central insulin; delta somatostatin; PP pancreatic polypeptide.
+
+**Why distractors are wrong:**
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+
+**Key point:** Alpha cells peripheral islet glucagon; beta central insulin; delta somatostatin; PP pancreatic polyp
+
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Alpha cells peripheral islet glucagon; beta central insulin; delta somatostatin;
+
+**Difficulty:** Recall
+
+---
+
+### Part B — Understanding
+
+
+
+**Q13. Which structure is diagnostic of the exocrine pancreas?**
 
 A) Striated ducts only
 
@@ -21262,7 +21293,7 @@ D) Serous demilunes
 
 
 
-**Q13. The hepatic zone most vulnerable to ischemia and toxins is:**
+**Q14. The hepatic zone most vulnerable to ischemia and toxins is:**
 
 A) Zone 1 (periportal)
 
@@ -21291,7 +21322,7 @@ D) The portal triad
 
 
 
-**Q14. Vitamin A is stored in the liver by:**
+**Q15. Vitamin A is stored in the liver by:**
 
 A) Hepatic stellate (Ito) cells
 
@@ -21320,7 +21351,7 @@ D) Kupffer cells
 
 
 
-**Q15. Kupffer cells are located within the:**
+**Q16. Kupffer cells are located within the:**
 
 A) Portal triad
 
@@ -21349,7 +21380,7 @@ D) Bile canaliculi
 
 
 
-**Q16. Hepatic stellate cells normally store:**
+**Q17. Hepatic stellate cells normally store:**
 
 A) Bile
 
@@ -21378,7 +21409,7 @@ D) Glycogen only
 
 
 
-**Q17. The gallbladder concentrates bile by transporting:**
+**Q18. The gallbladder concentrates bile by transporting:**
 
 A) Bile acids out of the lumen
 
@@ -21407,7 +21438,7 @@ D) Cholesterol into the lumen
 
 
 
-**Q18. Beta cells secrete:**
+**Q19. Beta cells secrete:**
 
 A) Somatostatin
 
@@ -21436,7 +21467,7 @@ D) Insulin
 
 
 
-**Q19. Chronic alcohol use produces fatty change most prominently in:**
+**Q20. Chronic alcohol use produces fatty change most prominently in:**
 
 A) Zone 3 (centrilobular)
 
@@ -21465,7 +21496,7 @@ D) Zone 1
 
 
 
-**Q20. Which is TRUE of the hepatocyte's orientation?**
+**Q21. Which is TRUE of the hepatocyte's orientation?**
 
 A) It has no polarity
 
@@ -21494,7 +21525,7 @@ D) It faces blood on both sides
 
 
 
-**Q21. Cholecystitis classically shows:**
+**Q22. Cholecystitis classically shows:**
 
 A) Prominent Rokitansky-Aschoff sinuses and inflammation
 
@@ -21523,7 +21554,7 @@ D) Villous atrophy
 
 
 
-**Q22. The portal triad contains:**
+**Q23. The portal triad contains:**
 
 A) Hepatic vein, artery, lymphatic
 
@@ -21533,18 +21564,18 @@ C) Central vein, sinusoid, hepatocyte
 
 D) Hepatic artery, portal vein, bile duct
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Hepatic vein, artery, lymphatic is correct because it matches the defining feature described in Junqueira 17th for the portal triad contains. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Portal triad: hepatic artery (small thick), portal vein (large thin), bile duct (cuboidal epithelium).
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Portal triad: hepatic artery (small thick), portal vein (large thin), bile duct (cuboidal epithelium
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Portal triad: hepatic artery (small thick), portal vein (large thin), bile duct 
 
 **Difficulty:** Understanding
 
@@ -21552,7 +21583,7 @@ D) Hepatic artery, portal vein, bile duct
 
 
 
-**Q23. Cirrhosis results from fibrosis driven by:**
+**Q24. Cirrhosis results from fibrosis driven by:**
 
 A) Endothelial cells
 
@@ -21562,18 +21593,18 @@ C) Stellate (Ito) cells
 
 D) Hepatocytes
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Endothelial cells is correct because it matches the defining feature described in Junqueira 17th for cirrhosis results from fibrosis driven by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Cirrhosis fibrosis driven by stellate Ito cells vitamin A storage activated to myofibroblast collagen production.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Cirrhosis fibrosis driven by stellate Ito cells vitamin A storage activated to myofibroblast collage
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Cirrhosis fibrosis driven by stellate Ito cells vitamin A storage activated to m
 
 **Difficulty:** Understanding
 
@@ -21583,7 +21614,7 @@ D) Hepatocytes
 
 
 
-**Q24. The pancreas differs from salivary glands by lacking:**
+**Q25. The pancreas differs from salivary glands by lacking:**
 
 A) Myoepithelial cells
 
@@ -21612,7 +21643,7 @@ D) Acini
 
 
 
-**Q25. Kupffer cells are:**
+**Q26. Kupffer cells are:**
 
 A) Stellate cells
 
@@ -21634,35 +21665,6 @@ D) Bile-duct cells
 **Key point:** Kupffer = macrophage.
 
 **Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Kupffer = macrophage.
-
-**Difficulty:** Application
-
----
-
-
-
-**Q26. Glucagon is secreted by:**
-
-A) δ cells
-
-B) Centroacinar cells
-
-C) β cells
-
-D) α cells
-
-**Answer: D**
-
-**Explanation:** α cells (peripheral) = glucagon.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-
-**Key point:** glucagon = α.
-
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to glucagon = α.
 
 **Difficulty:** Application
 
@@ -21883,18 +21885,18 @@ C) Hepatic vein
 
 D) Sinusoid
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Central vein is correct because it matches the defining feature described in Junqueira 17th for bile flows toward the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Bile flows toward portal triad bile duct (opposite blood flow toward central vein).
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Bile flows toward portal triad bile duct (opposite blood flow toward central vein).
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Bile flows toward portal triad bile duct (opposite blood flow toward central vei
 
 **Difficulty:** Application
 
@@ -21902,7 +21904,38 @@ D) Sinusoid
 
 
 
-**Q35. Insulin is secreted by:**
+**Q35. The sublingual gland is predominantly:**
+
+A) Serous
+
+B) Mucous
+
+C) Mixed
+
+D) Endocrine
+
+**Answer: B**
+
+**Explanation:** Sublingual predominantly mucous, submandibular mixed, parotid serous.
+
+**Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+
+**Key point:** Sublingual predominantly mucous, submandibular mixed, parotid serous.
+
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Sublingual predominantly mucous, submandibular mixed, parotid serous.
+
+**Difficulty:** Application
+
+---
+
+### Part D — Integration
+
+
+
+**Q36. Insulin is secreted by:**
 
 A) δ cells
 
@@ -21931,7 +21964,7 @@ D) β cells
 
 
 
-**Q36. The gallbladder is unique in lacking:**
+**Q37. The gallbladder is unique in lacking:**
 
 A) Mucosa
 
@@ -21960,7 +21993,7 @@ D) Serosa
 
 
 
-**Q37. Bile canaliculi carry bile toward the:**
+**Q38. Bile canaliculi carry bile toward the:**
 
 A) Portal triad (bile duct)
 
@@ -21989,7 +22022,7 @@ D) Central vein
 
 
 
-**Q38. The classic hepatic lobule is organized around a:**
+**Q39. The classic hepatic lobule is organized around a:**
 
 A) Hepatic artery
 
@@ -22018,7 +22051,7 @@ D) Bile duct
 
 
 
-**Q39. Bile canaliculi are formed by:**
+**Q40. Bile canaliculi are formed by:**
 
 A) Kupffer cells
 
@@ -22047,7 +22080,7 @@ D) Grooves between adjacent hepatocyte membranes
 
 
 
-**Q40. Centroacinar cells mark the beginning of the:**
+**Q41. Centroacinar cells mark the beginning of the:**
 
 A) Common bile duct
 
@@ -22076,7 +22109,7 @@ D) Interlobular duct
 
 
 
-**Q41. Acute pancreatitis results from premature activation of:**
+**Q42. Acute pancreatitis results from premature activation of:**
 
 A) Glucagon
 
@@ -22105,7 +22138,7 @@ D) Trypsinogen to trypsin
 
 
 
-**Q42. Which cell has striated ducts?**
+**Q43. Which cell has striated ducts?**
 
 A) Pancreas
 
@@ -22134,7 +22167,7 @@ D) Gallbladder
 
 
 
-**Q43. Which cell type is responsible for liver fibrosis?**
+**Q44. Which cell type is responsible for liver fibrosis?**
 
 A) Endothelial cell
 
@@ -22163,7 +22196,7 @@ D) Hepatocyte
 
 
 
-**Q44. The hepatic acinus Zone 1 is characterized by:**
+**Q45. The hepatic acinus Zone 1 is characterized by:**
 
 A) Absence of hepatocytes
 
@@ -22192,7 +22225,7 @@ D) Highest oxygen (periportal)
 
 
 
-**Q45. The hepatic zone most vulnerable to ischemia and acetaminophen is:**
+**Q46. The hepatic zone most vulnerable to ischemia and acetaminophen is:**
 
 A) Zone 1
 
@@ -22202,18 +22235,18 @@ C) Zone 2
 
 D) The portal triad
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** Zone 1 is correct because it matches the defining feature described in Junqueira 17th for the hepatic zone most vulnerable to ischemia and acetaminophen is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Zone 3 perivenular centrilobular oxygen-poor vulnerable to ischemia acetaminophen centrilobular necrosis; Zone 1 periportal vulnerable to bile, oxygen-rich.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Zone 3 perivenular centrilobular oxygen-poor vulnerable to ischemia acetaminophen centrilobular necr
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Zone 3 perivenular centrilobular oxygen-poor vulnerable to ischemia acetaminophe
 
 **Difficulty:** Integration
 
@@ -22221,7 +22254,7 @@ D) The portal triad
 
 
 
-**Q46. Acute pancreatitis is caused by:**
+**Q47. Acute pancreatitis is caused by:**
 
 A) Bile-duct obstruction only
 
@@ -22231,18 +22264,18 @@ C) Insulin overproduction
 
 D) Premature trypsinogen activation
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Bile-duct obstruction only is correct because it matches the defining feature described in Junqueira 17th for acute pancreatitis is caused by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Acute pancreatitis premature trypsinogen activation autodigestion, often gallstone or alcohol.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Acute pancreatitis premature trypsinogen activation autodigestion, often gallstone or alcohol.
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Acute pancreatitis premature trypsinogen activation autodigestion, often gallsto
 
 **Difficulty:** Integration
 
@@ -22252,7 +22285,7 @@ D) Premature trypsinogen activation
 
 
 
-**Q47. The portal triad consists of:**
+**Q48. The portal triad consists of:**
 
 A) Hepatic vein, artery, lymphatic
 
@@ -22281,7 +22314,7 @@ D) Hepatic artery, portal vein, bile duct
 
 
 
-**Q48. Rokitansky-Aschoff sinuses are found in the:**
+**Q49. Rokitansky-Aschoff sinuses are found in the:**
 
 A) Stomach
 
@@ -22303,35 +22336,6 @@ D) Pancreas
 **Key point:** Rokitansky-Aschoff = gallbladder.
 
 **Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Rokitansky-Aschoff = gallbladder.
-
-**Difficulty:** High-Difficulty
-
----
-
-
-
-**Q49. The sublingual gland is predominantly:**
-
-A) Serous
-
-B) Mucous
-
-C) Mixed serous
-
-D) Endocrine
-
-**Answer: B**
-
-**Explanation:** Sublingual = predominantly mucous.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-
-**Key point:** sublingual = mucous.
-
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to sublingual = mucous.
 
 **Difficulty:** High-Difficulty
 
@@ -22554,16 +22558,16 @@ D) Mucosa
 
 **Answer: A**
 
-**Explanation:** Submucosa and muscularis mucosae is correct because it matches the defining feature described in Junqueira 17th for the gallbladder lacks. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Gallbladder lacks submucosa and muscularis mucosae, has mucosa, muscularis, serosa/adventitia, Rokitansky-Aschoff sinuses.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Gallbladder lacks submucosa and muscularis mucosae, has mucosa, muscularis, serosa/adventitia, Rokit
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Gallbladder lacks submucosa and muscularis mucosae, has mucosa, muscularis, sero
 
 **Difficulty:** High-Difficulty
 
@@ -22581,18 +22585,18 @@ C) Cholesterol
 
 D) Calcium
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Protein is correct because it matches the defining feature described in Junqueira 17th for most gallstones are composed of. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Most gallstones cholesterol, mixed; pigment bilirubin in hemolysis.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Organs Associated with the Digestive Tract section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Most gallstones cholesterol, mixed; pigment bilirubin in hemolysis.
 
-**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Needs review.
+**Learning Objective mapping:** Chapter 13 — Organs Associated with the Digestive Tract — LO related to Most gallstones cholesterol, mixed; pigment bilirubin in hemolysis.
 
 **Difficulty:** High-Difficulty
 
@@ -22908,16 +22912,16 @@ D) Trachea
 
 **Answer: A**
 
-**Explanation:** Bronchiole is correct because it matches the defining feature described in Junqueira 17th for an airway with no cartilage and club cells is a. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Bronchiole no cartilage no glands club cells more smooth muscle; bronchus has cartilage plates and glands.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Bronchiole no cartilage no glands club cells more smooth muscle; bronchus has cartilage plates and g
 
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Bronchiole no cartilage no glands club cells more smooth muscle; bronchus has ca
 
 **Difficulty:** Recall
 
@@ -23215,7 +23219,36 @@ D) Asthma
 
 
 
-**Q22. Emphysema is characterized by:**
+**Q22. Surfactant is produced by:**
+
+A) Type II pneumocytes
+
+B) Dust cells
+
+C) club cells
+
+D) Type I pneumocytes
+
+**Answer: A**
+
+**Explanation:** Type II pneumocytes cuboidal surfactant + progenitor for type I; type I flat gas exchange 95% surface.
+
+**Why distractors are wrong:**
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
+
+**Key point:** Type II pneumocytes cuboidal surfactant + progenitor for type I; type I flat gas exchange 95% surfac
+
+**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Type II pneumocytes cuboidal surfactant + progenitor for type I; type I flat gas
+
+**Difficulty:** Understanding
+
+---
+
+
+
+**Q23. Emphysema is characterized by:**
 
 A) Smooth-muscle hypertrophy
 
@@ -23225,18 +23258,18 @@ C) Alveolar-wall destruction
 
 D) Hyaline membranes
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Smooth-muscle hypertrophy is correct because it matches the defining feature described in Junqueira 17th for emphysema is characterized by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Emphysema alveolar wall destruction loss elastic recoil, smoking, centrilobular or panacinar.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Emphysema alveolar wall destruction loss elastic recoil, smoking, centrilobular or panacinar.
 
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Emphysema alveolar wall destruction loss elastic recoil, smoking, centrilobular 
 
 **Difficulty:** Understanding
 
@@ -23246,7 +23279,7 @@ D) Hyaline membranes
 
 
 
-**Q23. Bronchioles are defined by the absence of:**
+**Q24. Bronchioles are defined by the absence of:**
 
 A) Cartilage and glands
 
@@ -23275,7 +23308,7 @@ D) Smooth muscle
 
 
 
-**Q24. The blood–air barrier includes all EXCEPT:**
+**Q25. The blood–air barrier includes all EXCEPT:**
 
 A) Fused basal laminae
 
@@ -23304,7 +23337,7 @@ D) Type I pneumocyte
 
 
 
-**Q25. The olfactory epithelium contains:**
+**Q26. The olfactory epithelium contains:**
 
 A) club cells
 
@@ -23333,7 +23366,7 @@ D) Bipolar olfactory neurons
 
 
 
-**Q26. club cells are notable for:**
+**Q27. club cells are notable for:**
 
 A) Cartilage formation
 
@@ -23362,7 +23395,7 @@ D) Mucus production only
 
 
 
-**Q27. Alveolar macrophages derive from:**
+**Q28. Alveolar macrophages derive from:**
 
 A) Type II pneumocytes
 
@@ -23391,7 +23424,7 @@ D) Neutrophils
 
 
 
-**Q28. Pores of Kohn allow:**
+**Q29. Pores of Kohn allow:**
 
 A) RBC passage
 
@@ -23420,7 +23453,7 @@ D) Lymphatic drainage only
 
 
 
-**Q29. BALT is found in the mucosa of the:**
+**Q30. BALT is found in the mucosa of the:**
 
 A) Bronchi
 
@@ -23449,7 +23482,7 @@ D) Alveoli
 
 
 
-**Q30. Pulmonary fibrosis impairs gas exchange by:**
+**Q31. Pulmonary fibrosis impairs gas exchange by:**
 
 A) Cartilage loss
 
@@ -23478,7 +23511,7 @@ D) Thickening the blood–air barrier
 
 
 
-**Q31. A brown, Prussian-blue-positive macrophage in the alveolus is a:**
+**Q32. A brown, Prussian-blue-positive macrophage in the alveolus is a:**
 
 A) Type II cell
 
@@ -23507,7 +23540,7 @@ D) club cell
 
 
 
-**Q32. The mucociliary escalator fails in:**
+**Q33. The mucociliary escalator fails in:**
 
 A) Kartagener syndrome (immotile cilia)
 
@@ -23536,7 +23569,7 @@ D) NRDS
 
 
 
-**Q33. A premature infant with atelectasis and hyaline membranes has:**
+**Q34. A premature infant with atelectasis and hyaline membranes has:**
 
 A) Emphysema
 
@@ -23546,18 +23579,18 @@ C) Asthma
 
 D) NRDS
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Emphysema is correct because it matches the defining feature described in Junqueira 17th for a premature infant with atelectasis and hyaline membranes has. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** NRDS neonatal respiratory distress syndrome surfactant deficiency premature infant atelectasis hyaline membranes.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** NRDS neonatal respiratory distress syndrome surfactant deficiency premature infant atelectasis hyali
 
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to NRDS neonatal respiratory distress syndrome surfactant deficiency premature infa
 
 **Difficulty:** Application
 
@@ -23565,7 +23598,7 @@ D) NRDS
 
 
 
-**Q34. club cells are found in the:**
+**Q35. club cells are found in the:**
 
 A) Bronchioles
 
@@ -23594,7 +23627,7 @@ D) Trachea
 
 
 
-**Q35. The respiratory epithelium of the trachea is:**
+**Q36. The respiratory epithelium of the trachea is:**
 
 A) Simple columnar
 
@@ -23623,7 +23656,7 @@ D) Stratified squamous
 
 
 
-**Q36. Neonatal RDS is due to surfactant deficiency from:**
+**Q37. Neonatal RDS is due to surfactant deficiency from:**
 
 A) club cells
 
@@ -23652,7 +23685,7 @@ D) Type II pneumocytes
 
 
 
-**Q37. The respiratory epithelium transitions to simple cuboidal at the:**
+**Q38. The respiratory epithelium transitions to simple cuboidal at the:**
 
 A) Alveoli directly
 
@@ -23681,7 +23714,7 @@ D) Trachea only
 
 
 
-**Q38. Pulmonary surfactant is composed mainly of:**
+**Q39. Pulmonary surfactant is composed mainly of:**
 
 A) Phospholipids (dipalmitoylphosphatidylcholine)
 
@@ -23710,7 +23743,7 @@ D) Mucus glycoproteins
 
 
 
-**Q39. Type I pneumocytes are characterized by:**
+**Q40. Type I pneumocytes are characterized by:**
 
 A) Ciliated surfaces
 
@@ -23739,7 +23772,7 @@ D) High mitotic activity
 
 
 
-**Q40. Asthma shows smooth-muscle hypertrophy, goblet hyperplasia, and:**
+**Q41. Asthma shows smooth-muscle hypertrophy, goblet hyperplasia, and:**
 
 A) Cartilage loss
 
@@ -23768,7 +23801,7 @@ D) Thickened basement membrane + eosinophils
 
 
 
-**Q41. The primary stimulus for increased respiratory rate is:**
+**Q42. The primary stimulus for increased respiratory rate is:**
 
 A) Blood oxygen
 
@@ -23797,7 +23830,7 @@ D) Hemoglobin concentration
 
 
 
-**Q42. Which is a protease/antiprotease imbalance disease?**
+**Q43. Which is a protease/antiprotease imbalance disease?**
 
 A) Emphysema (α1-antitrypsin deficiency)
 
@@ -23826,7 +23859,7 @@ D) Asthma
 
 
 
-**Q43. Which is correctly paired regarding pulmonary cells and surfactant?**
+**Q44. Which is correctly paired regarding pulmonary cells and surfactant?**
 
 A) club cell — surfactant only
 
@@ -23855,7 +23888,7 @@ D) Dust cell — surfactant
 
 
 
-**Q44. The cell covering ~95% of the alveolar surface is the:**
+**Q45. The cell covering ~95% of the alveolar surface is the:**
 
 A) club cell
 
@@ -23865,18 +23898,18 @@ C) Type II pneumocyte
 
 D) Dust cell
 
-**Answer: A**
+**Answer: B**
 
-**Explanation:** club cell is correct because it matches the defining feature described in Junqueira 17th for the cell covering ~95% of the alveolar surface is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Type I pneumocyte flat 95% surface gas exchange; Type II cuboidal surfactant progenitor.
 
 **Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Type I pneumocyte flat 95% surface gas exchange; Type II cuboidal surfactant progenitor.
 
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Type I pneumocyte flat 95% surface gas exchange; Type II cuboidal surfactant pro
 
 **Difficulty:** Integration
 
@@ -23884,7 +23917,7 @@ D) Dust cell
 
 
 
-**Q45. Hemosiderin-laden alveolar macrophages indicate:**
+**Q46. Hemosiderin-laden alveolar macrophages indicate:**
 
 A) NRDS
 
@@ -23894,53 +23927,24 @@ C) Asthma
 
 D) Heart failure (chronic congestion)
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** NRDS is correct because it matches the defining feature described in Junqueira 17th for hemosiderin-laden alveolar macrophages indicate. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Heart failure chronic congestion → hemosiderin-laden macrophages heart failure cells in alveoli.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Heart failure chronic congestion → hemosiderin-laden macrophages heart failure cells in alveoli.
 
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Heart failure chronic congestion → hemosiderin-laden macrophages heart failure c
 
 **Difficulty:** Integration
 
 ---
 
 ### Part E — High-Difficulty
-
-
-
-**Q46. Surfactant is produced by:**
-
-A) Type II pneumocytes
-
-B) Alveolar macrophages
-
-C) Goblet cells
-
-D) Type I pneumocytes
-
-**Answer: A**
-
-**Explanation:** Type II pneumocytes produce surfactant.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-
-**Key point:** surfactant = Type II.
-
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to surfactant = Type II.
-
-**Difficulty:** High-Difficulty
-
----
 
 
 
@@ -24215,18 +24219,18 @@ C) Pseudostratified ciliated columnar with goblet cells
 
 D) Stratified squamous
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Transitional is correct because it matches the defining feature described in Junqueira 17th for the respiratory epithelium is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Respiratory epithelium pseudostratified ciliated columnar with goblet cells, seromucous glands, cartilage in bronchi.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook The Respiratory System section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Respiratory epithelium pseudostratified ciliated columnar with goblet cells, seromucous glands, cart
 
-**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Needs review.
+**Learning Objective mapping:** Chapter 14 — The Respiratory System — LO related to Respiratory epithelium pseudostratified ciliated columnar with goblet cells, ser
 
 **Difficulty:** High-Difficulty
 
@@ -24540,18 +24544,18 @@ C) Thick skin (stratum lucidum)
 
 D) Psoriasis
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Pemphigus is correct because it matches the defining feature described in Junqueira 17th for a biopsy shows a clear (pale) layer between the granular and cornified layers. this is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Stratum lucidum clear pale layer between granulosum and corneum in thick skin palms soles.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Stratum lucidum clear pale layer between granulosum and corneum in thick skin palms soles.
 
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
+**Learning Objective mapping:** Chapter 15 — Skin — LO related to Stratum lucidum clear pale layer between granulosum and corneum in thick skin pa
 
 **Difficulty:** Recall
 
@@ -24569,18 +24573,18 @@ C) Basal cell carcinoma
 
 D) Melanoma
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Psoriasis is correct because it matches the defining feature described in Junqueira 17th for atypical melanocytes invading the dermis indicate. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Melanoma atypical melanocytes invading dermis, most deadly skin cancer.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Melanoma atypical melanocytes invading dermis, most deadly skin cancer.
 
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
+**Learning Objective mapping:** Chapter 15 — Skin — LO related to Melanoma atypical melanocytes invading dermis, most deadly skin cancer.
 
 **Difficulty:** Recall
 
@@ -24822,7 +24826,38 @@ D) Tyrosinase deficiency (no melanin production)
 
 
 
-**Q21. The correct order of epidermal layers (deep → superficial) is:**
+**Q21. The most common skin cancer is:**
+
+A) Melanoma
+
+B) Basal cell carcinoma
+
+C) Squamous cell carcinoma
+
+D) Merkel cell carcinoma
+
+**Answer: B**
+
+**Explanation:** Basal cell carcinoma most common skin cancer, least metastatic; melanoma most deadly.
+
+**Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
+
+**Key point:** Basal cell carcinoma most common skin cancer, least metastatic; melanoma most deadly.
+
+**Learning Objective mapping:** Chapter 15 — Skin — LO related to Basal cell carcinoma most common skin cancer, least metastatic; melanoma most de
+
+**Difficulty:** Understanding
+
+---
+
+### Part C — Application
+
+
+
+**Q22. The correct order of epidermal layers (deep → superficial) is:**
 
 A) Basale → granulosum → spinosum → corneum → lucidum
 
@@ -24851,7 +24886,7 @@ D) Basale → spinosum → granulosum → lucidum → corneum
 
 
 
-**Q22. Meissner's corpuscles are located in the:**
+**Q23. Meissner's corpuscles are located in the:**
 
 A) Dermal papillae (papillary dermis)
 
@@ -24880,7 +24915,7 @@ D) Hypodermis
 
 
 
-**Q23. Eccrine sweat glands secrete by:**
+**Q24. Eccrine sweat glands secrete by:**
 
 A) Apocrine only
 
@@ -24909,7 +24944,7 @@ D) Merocrine
 
 
 
-**Q24. Merkel cells are located in the:**
+**Q25. Merkel cells are located in the:**
 
 A) Stratum corneum
 
@@ -24938,7 +24973,7 @@ D) Stratum lucidum
 
 
 
-**Q25. Sebaceous glands secrete sebum via:**
+**Q26. Sebaceous glands secrete sebum via:**
 
 A) Apocrine
 
@@ -24967,7 +25002,7 @@ D) Holocrine (entire cell disintegrates)
 
 
 
-**Q26. Pacinian corpuscles detect:**
+**Q27. Pacinian corpuscles detect:**
 
 A) Pain
 
@@ -24996,7 +25031,7 @@ D) Deep pressure and vibration
 
 
 
-**Q27. The hypodermis is composed predominantly of:**
+**Q28. The hypodermis is composed predominantly of:**
 
 A) Muscle only
 
@@ -25025,7 +25060,7 @@ D) Cartilage
 
 
 
-**Q28. Basal cell carcinoma arises from:**
+**Q29. Basal cell carcinoma arises from:**
 
 A) Stratum granulosum
 
@@ -25054,7 +25089,7 @@ D) Basal-layer keratinocytes
 
 
 
-**Q29. Which gland is associated with hair follicles?**
+**Q30. Which gland is associated with hair follicles?**
 
 A) Eccrine sweat
 
@@ -25083,7 +25118,7 @@ D) All sweat glands
 
 
 
-**Q30. Vitiligo results from:**
+**Q31. Vitiligo results from:**
 
 A) Excess melanin
 
@@ -25112,7 +25147,7 @@ D) Autoimmune melanocyte destruction
 
 
 
-**Q31. Psoriasis shows:**
+**Q32. Psoriasis shows:**
 
 A) Acanthosis and parakeratosis
 
@@ -25124,16 +25159,16 @@ D) Melanocyte invasion
 
 **Answer: A**
 
-**Explanation:** Acanthosis and parakeratosis is correct because it matches the defining feature described in Junqueira 17th for psoriasis shows. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Psoriasis acanthosis thick spinous + parakeratosis nuclei retained in corneum + Munro microabscesses.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Psoriasis acanthosis thick spinous + parakeratosis nuclei retained in corneum + Munro microabscesses
 
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
+**Learning Objective mapping:** Chapter 15 — Skin — LO related to Psoriasis acanthosis thick spinous + parakeratosis nuclei retained in corneum + 
 
 **Difficulty:** Application
 
@@ -25143,7 +25178,7 @@ D) Melanocyte invasion
 
 
 
-**Q32. Keratohyalin granules are found in the:**
+**Q33. Keratohyalin granules are found in the:**
 
 A) Stratum basale
 
@@ -25172,7 +25207,7 @@ D) Stratum lucidum
 
 
 
-**Q33. The reticular dermis is composed of:**
+**Q34. The reticular dermis is composed of:**
 
 A) Loose connective tissue
 
@@ -25201,7 +25236,7 @@ D) Stratified epithelium
 
 
 
-**Q34. The dermis is organized into a papillary layer and a deeper:**
+**Q35. The dermis is organized into a papillary layer and a deeper:**
 
 A) Basal layer
 
@@ -25230,7 +25265,7 @@ D) Subcutaneous fat
 
 
 
-**Q35. The arrector pili muscle functions to:**
+**Q36. The arrector pili muscle functions to:**
 
 A) Elevate the hair (piloerection) and express sebum
 
@@ -25259,7 +25294,7 @@ D) Produce sweat
 
 
 
-**Q36. Meissner's corpuscles detect:**
+**Q37. Meissner's corpuscles detect:**
 
 A) Deep pressure
 
@@ -25288,7 +25323,7 @@ D) Temperature
 
 
 
-**Q37. Nails are composed of hard keratin produced by the:**
+**Q38. Nails are composed of hard keratin produced by the:**
 
 A) Nail matrix
 
@@ -25317,7 +25352,7 @@ D) Dermal papilla
 
 
 
-**Q38. Psoriasis is characterized by:**
+**Q39. Psoriasis is characterized by:**
 
 A) Loss of the epidermis
 
@@ -25346,7 +25381,7 @@ D) Acanthosis and parakeratosis
 
 
 
-**Q39. Bullous pemphigoid produces a:**
+**Q40. Bullous pemphigoid produces a:**
 
 A) Intraepidermal blister
 
@@ -25375,7 +25410,7 @@ D) Subcutaneous blister
 
 
 
-**Q40. The dermal papilla is essential for:**
+**Q41. The dermal papilla is essential for:**
 
 A) Hair growth (nourishes the bulb)
 
@@ -25404,7 +25439,7 @@ D) Sweat production
 
 
 
-**Q41. The receptor for deep pressure and vibration is the:**
+**Q42. The receptor for deep pressure and vibration is the:**
 
 A) Merkel cell
 
@@ -25414,18 +25449,18 @@ C) Meissner's corpuscle
 
 D) Pacinian corpuscle
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Merkel cell is correct because it matches the defining feature described in Junqueira 17th for the receptor for deep pressure and vibration is the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Pacinian deep pressure vibration, Meissner light touch, Merkel touch, Ruffini stretch.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Pacinian deep pressure vibration, Meissner light touch, Merkel touch, Ruffini stretch.
 
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
+**Learning Objective mapping:** Chapter 15 — Skin — LO related to Pacinian deep pressure vibration, Meissner light touch, Merkel touch, Ruffini st
 
 **Difficulty:** Integration
 
@@ -25433,7 +25468,7 @@ D) Pacinian corpuscle
 
 
 
-**Q42. A third-degree burn requires grafting because it destroys:**
+**Q43. A third-degree burn requires grafting because it destroys:**
 
 A) The basal/appendage stem-cell compartment
 
@@ -25445,16 +25480,16 @@ D) The stratum corneum only
 
 **Answer: A**
 
-**Explanation:** The basal/appendage stem-cell compartment is correct because it matches the defining feature described in Junqueira 17th for a third-degree burn requires grafting because it destroys. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Third-degree burn destroys basal stem cells and appendages → needs grafting.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Third-degree burn destroys basal stem cells and appendages → needs grafting.
 
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
+**Learning Objective mapping:** Chapter 15 — Skin — LO related to Third-degree burn destroys basal stem cells and appendages → needs grafting.
 
 **Difficulty:** Integration
 
@@ -25464,7 +25499,7 @@ D) The stratum corneum only
 
 
 
-**Q43. Langerhans cells are characterized by:**
+**Q44. Langerhans cells are characterized by:**
 
 A) Touch reception
 
@@ -25493,7 +25528,7 @@ D) Keratin production
 
 
 
-**Q44. The dermal papillae are a feature of the:**
+**Q45. The dermal papillae are a feature of the:**
 
 A) Epidermis
 
@@ -25522,7 +25557,7 @@ D) Reticular dermis
 
 
 
-**Q45. Vitamin D synthesis begins with UV-B conversion of a precursor in the:**
+**Q46. Vitamin D synthesis begins with UV-B conversion of a precursor in the:**
 
 A) Stratum basale and spinosum
 
@@ -25551,7 +25586,7 @@ D) Stratum corneum
 
 
 
-**Q46. Free nerve endings mediate:**
+**Q47. Free nerve endings mediate:**
 
 A) Fine touch only
 
@@ -25580,7 +25615,7 @@ D) Deep pressure only
 
 
 
-**Q47. Rete ridges function to:**
+**Q48. Rete ridges function to:**
 
 A) Detect pain
 
@@ -25609,7 +25644,7 @@ D) Synthesize melanin
 
 
 
-**Q48. Which cell type produces melanin?**
+**Q49. Which cell type produces melanin?**
 
 A) Melanocyte
 
@@ -25631,35 +25666,6 @@ D) Langerhans cell
 **Key point:** melanin = melanocyte.
 
 **Learning Objective mapping:** Chapter 15 — Skin — LO related to melanin = melanocyte.
-
-**Difficulty:** High-Difficulty
-
----
-
-
-
-**Q49. The most common skin cancer is:**
-
-A) Merkel cell carcinoma
-
-B) Melanoma
-
-C) Basal cell carcinoma
-
-D) Squamous cell carcinoma
-
-**Answer: C**
-
-**Explanation:** BCC = most common skin cancer.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-
-**Key point:** BCC = most common.
-
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to BCC = most common.
 
 **Difficulty:** High-Difficulty
 
@@ -25706,18 +25712,18 @@ C) Intraepidermal acantholysis
 
 D) Acanthosis
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Parakeratosis is correct because it matches the defining feature described in Junqueira 17th for anti-desmoglein antibodies produce. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Anti-desmoglein → desmosome loss → intraepidermal acantholysis pemphigus vulgaris; anti-hemidesmosome → subepidermal bullous pemphigoid.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Skin section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Anti-desmoglein → desmosome loss → intraepidermal acantholysis pemphigus vulgaris; anti-hemidesmosom
 
-**Learning Objective mapping:** Chapter 15 — Skin — LO related to Needs review.
+**Learning Objective mapping:** Chapter 15 — Skin — LO related to Anti-desmoglein → desmosome loss → intraepidermal acantholysis pemphigus vulgari
 
 **Difficulty:** High-Difficulty
 
@@ -26019,7 +26025,67 @@ D) Galactorrhea and amenorrhea
 
 
 
-**Q11. The "B-FLAT" mnemonic refers to hormones secreted by:**
+**Q11. Herring bodies are found in the:**
+
+A) Thyroid
+
+B) Adrenal medulla
+
+C) Anterior pituitary
+
+D) Posterior pituitary
+
+**Answer: D**
+
+**Explanation:** Herring bodies posterior pituitary dilated axon terminals storing ADH oxytocin from hypothalamus.
+
+**Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
+
+**Key point:** Herring bodies posterior pituitary dilated axon terminals storing ADH oxytocin from hypothalamus.
+
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Herring bodies posterior pituitary dilated axon terminals storing ADH oxytocin f
+
+**Difficulty:** Recall
+
+---
+
+
+
+**Q12. ADH and oxytocin are synthesized in the:**
+
+A) Hypothalamus
+
+B) Anterior pituitary
+
+C) Pineal
+
+D) Posterior pituitary
+
+**Answer: A**
+
+**Explanation:** ADH oxytocin synthesized in hypothalamus supraoptic paraventricular nuclei, transported via axons to posterior pituitary stored.
+
+**Why distractors are wrong:**
+- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
+- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
+
+**Key point:** ADH oxytocin synthesized in hypothalamus supraoptic paraventricular nuclei, transported via axons to
+
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to ADH oxytocin synthesized in hypothalamus supraoptic paraventricular nuclei, tran
+
+**Difficulty:** Recall
+
+---
+
+### Part B — Understanding
+
+
+
+**Q13. The "B-FLAT" mnemonic refers to hormones secreted by:**
 
 A) Basophils
 
@@ -26048,7 +26114,7 @@ D) Acidophils
 
 
 
-**Q12. Calcitonin is secreted by:**
+**Q14. Calcitonin is secreted by:**
 
 A) Follicular cells
 
@@ -26077,7 +26143,7 @@ D) Oxyphil cells
 
 
 
-**Q13. Corpora arenacea ("brain sand") are characteristic of the:**
+**Q15. Corpora arenacea ("brain sand") are characteristic of the:**
 
 A) Pituitary
 
@@ -26106,7 +26172,7 @@ D) Pineal gland
 
 
 
-**Q14. The zona glomerulosa secretes:**
+**Q16. The zona glomerulosa secretes:**
 
 A) Catecholamines
 
@@ -26135,7 +26201,7 @@ D) Androgens
 
 
 
-**Q15. Lactotrophs secrete:**
+**Q17. Lactotrophs secrete:**
 
 A) LH/FSH
 
@@ -26164,7 +26230,7 @@ D) ACTH
 
 
 
-**Q16. Parathyroid chief cells secrete:**
+**Q18. Parathyroid chief cells secrete:**
 
 A) Thyroxine
 
@@ -26193,7 +26259,7 @@ D) Cortisol
 
 
 
-**Q17. Adrenal cortical cells share which ultrastructural feature?**
+**Q19. Adrenal cortical cells share which ultrastructural feature?**
 
 A) Abundant SER and tubular-cristae mitochondria
 
@@ -26222,7 +26288,7 @@ D) Abundant RER
 
 
 
-**Q18. Craniopharyngioma arises from remnants of:**
+**Q20. Craniopharyngioma arises from remnants of:**
 
 A) The adrenal cortex
 
@@ -26251,7 +26317,7 @@ D) The pineal
 
 
 
-**Q19. Which cell secretes calcitonin?**
+**Q21. Which cell secretes calcitonin?**
 
 A) Parafollicular C cell
 
@@ -26280,7 +26346,7 @@ D) Follicular cell
 
 
 
-**Q20. Conn syndrome is caused by:**
+**Q22. Conn syndrome is caused by:**
 
 A) Catecholamine excess
 
@@ -26309,7 +26375,7 @@ D) Aldosterone excess (glomerulosa)
 
 
 
-**Q21. A thyroid shows scalloped colloid and follicular hyperplasia. The diagnosis is:**
+**Q23. A thyroid shows scalloped colloid and follicular hyperplasia. The diagnosis is:**
 
 A) Medullary carcinoma
 
@@ -26319,18 +26385,18 @@ C) Graves disease
 
 D) Papillary carcinoma
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Medullary carcinoma is correct because it matches the defining feature described in Junqueira 17th for a thyroid shows scalloped colloid and follicular hyperplasia. the diagnosis is. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Graves disease scalloped colloid follicular hyperplasia hyperthyroidism TSI autoantibodies.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Graves disease scalloped colloid follicular hyperplasia hyperthyroidism TSI autoantibodies.
 
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Graves disease scalloped colloid follicular hyperplasia hyperthyroidism TSI auto
 
 **Difficulty:** Understanding
 
@@ -26340,36 +26406,7 @@ D) Papillary carcinoma
 
 
 
-**Q22. Herring bodies are found in the:**
-
-A) Posterior pituitary
-
-B) Thyroid
-
-C) Adrenal medulla
-
-D) Anterior pituitary
-
-**Answer: A**
-
-**Explanation:** Herring bodies = posterior pituitary.
-
-**Why distractors are wrong:**
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-
-**Key point:** Herring = posterior.
-
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Herring = posterior.
-
-**Difficulty:** Application
-
----
-
-
-
-**Q23. PTH is secreted by which parathyroid cells?**
+**Q24. PTH is secreted by which parathyroid cells?**
 
 A) C cells
 
@@ -26398,7 +26435,7 @@ D) Chief (principal) cells
 
 
 
-**Q24. The anterior pituitary is derived from:**
+**Q25. The anterior pituitary is derived from:**
 
 A) Neural ectoderm
 
@@ -26427,7 +26464,7 @@ D) Endoderm
 
 
 
-**Q25. Chromaffin cells share an embryologic origin with:**
+**Q26. Chromaffin cells share an embryologic origin with:**
 
 A) Adrenal cortex cells
 
@@ -26456,7 +26493,7 @@ D) Anterior-pituitary cells
 
 
 
-**Q26. Corticotrophs secrete:**
+**Q27. Corticotrophs secrete:**
 
 A) TSH
 
@@ -26485,7 +26522,7 @@ D) GH
 
 
 
-**Q27. PTH raises calcium via bone resorption, renal reabsorption, and:**
+**Q28. PTH raises calcium via bone resorption, renal reabsorption, and:**
 
 A) Renal phosphate reabsorption
 
@@ -26514,7 +26551,7 @@ D) Insulin secretion
 
 
 
-**Q28. The adrenal medulla secretes:**
+**Q29. The adrenal medulla secretes:**
 
 A) Aldosterone
 
@@ -26543,7 +26580,7 @@ D) Epinephrine and norepinephrine
 
 
 
-**Q29. Diabetes insipidus results from deficiency of:**
+**Q30. Diabetes insipidus results from deficiency of:**
 
 A) Antidiuretic hormone (vasopressin)
 
@@ -26572,7 +26609,7 @@ D) Insulin
 
 
 
-**Q30. Which is correctly paired regarding adrenal cortical zones and hormones?**
+**Q31. Which is correctly paired regarding adrenal cortical zones and hormones?**
 
 A) Glomerulosa — cortisol
 
@@ -26601,7 +26638,7 @@ D) Medulla — aldosterone
 
 
 
-**Q31. The posterior pituitary's Herring bodies contain:**
+**Q32. The posterior pituitary's Herring bodies contain:**
 
 A) GH and prolactin
 
@@ -26630,7 +26667,7 @@ D) Calcitonin
 
 
 
-**Q32. Corpora arenacea are characteristic of the:**
+**Q33. Corpora arenacea are characteristic of the:**
 
 A) Pituitary
 
@@ -26640,18 +26677,18 @@ C) Thyroid
 
 D) Pineal gland
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Pituitary is correct because it matches the defining feature described in Junqueira 17th for corpora arenacea are characteristic of the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Corpora arenacea brain sand calcifications pineal gland, pinealocytes melatonin.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Corpora arenacea brain sand calcifications pineal gland, pinealocytes melatonin.
 
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Corpora arenacea brain sand calcifications pineal gland, pinealocytes melatonin.
 
 **Difficulty:** Application
 
@@ -26659,36 +26696,38 @@ D) Pineal gland
 
 
 
-**Q33. ADH and oxytocin are synthesized in the:**
+**Q34. Pheochromocytoma arises from:**
 
-A) Pineal gland
+A) Zona fasciculata
 
-B) Posterior pituitary
+B) Chromaffin cells of the medulla
 
-C) Hypothalamus
+C) C cells
 
-D) Anterior pituitary
+D) Chief cells
 
-**Answer: C**
+**Answer: B**
 
-**Explanation:** ADH/oxytocin = hypothalamus (stored in posterior).
+**Explanation:** Pheochromocytoma adrenal medullary chromaffin cells catecholamines hypertension triad headache palpitations sweating.
 
 **Why distractors are wrong:**
 - A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
+- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 
-**Key point:** hypothalamus = synthesis.
+**Key point:** Pheochromocytoma adrenal medullary chromaffin cells catecholamines hypertension triad headache palpi
 
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to hypothalamus = synthesis.
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Pheochromocytoma adrenal medullary chromaffin cells catecholamines hypertension 
 
-**Difficulty:** Integration
+**Difficulty:** Application
 
 ---
 
+### Part D — Integration
 
 
-**Q34. The zona fasciculata is characterized by:**
+
+**Q35. The zona fasciculata is characterized by:**
 
 A) Anastomosing network
 
@@ -26717,7 +26756,7 @@ D) Lipid-rich clear/foamy cells in parallel cords
 
 
 
-**Q35. Cortisol is produced by the:**
+**Q36. Cortisol is produced by the:**
 
 A) Zona fasciculata
 
@@ -26746,7 +26785,7 @@ D) Zona glomerulosa
 
 
 
-**Q36. The posterior pituitary stores hormones synthesized in the:**
+**Q37. The posterior pituitary stores hormones synthesized in the:**
 
 A) Anterior pituitary
 
@@ -26775,7 +26814,7 @@ D) Adrenal cortex
 
 
 
-**Q37. The thyroid follicle surrounds a central store of:**
+**Q38. The thyroid follicle surrounds a central store of:**
 
 A) CSF
 
@@ -26804,7 +26843,7 @@ D) Lymph
 
 
 
-**Q38. Oxyphil cells increase in number with:**
+**Q39. Oxyphil cells increase in number with:**
 
 A) Vitamin D deficiency
 
@@ -26833,7 +26872,7 @@ D) Hypocalcemia
 
 
 
-**Q39. The pineal's calcified deposits are:**
+**Q40. The pineal's calcified deposits are:**
 
 A) Corpora arenacea (brain sand)
 
@@ -26862,7 +26901,7 @@ D) Hassall's corpuscles
 
 
 
-**Q40. MEN syndromes show synchronous endocrine tumors due to:**
+**Q41. MEN syndromes show synchronous endocrine tumors due to:**
 
 A) Diet
 
@@ -26891,7 +26930,7 @@ D) Infection
 
 
 
-**Q41. The hypophyseal portal system delivers:**
+**Q42. The hypophyseal portal system delivers:**
 
 A) PTH to the bone
 
@@ -26920,7 +26959,7 @@ D) Catecholamines to the medulla
 
 
 
-**Q42. Which structure identifies the pineal gland?**
+**Q43. Which structure identifies the pineal gland?**
 
 A) Corpora arenacea
 
@@ -26949,7 +26988,7 @@ D) Hassall's corpuscles
 
 
 
-**Q43. The hypophyseal portal system delivers hormones to the:**
+**Q44. The hypophyseal portal system delivers hormones to the:**
 
 A) Adrenal medulla
 
@@ -26959,18 +26998,18 @@ C) Posterior pituitary
 
 D) Anterior pituitary
 
-**Answer: A**
+**Answer: D**
 
-**Explanation:** Adrenal medulla is correct because it matches the defining feature described in Junqueira 17th for the hypophyseal portal system delivers hormones to the. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Hypophyseal portal system delivers hypothalamic releasing hormones to anterior pituitary.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Hypophyseal portal system delivers hypothalamic releasing hormones to anterior pituitary.
 
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Hypophyseal portal system delivers hypothalamic releasing hormones to anterior p
 
 **Difficulty:** Integration
 
@@ -26980,7 +27019,7 @@ D) Anterior pituitary
 
 
 
-**Q44. Pituicytes are found in the:**
+**Q45. Pituicytes are found in the:**
 
 A) Posterior pituitary
 
@@ -27009,7 +27048,7 @@ D) Anterior pituitary
 
 
 
-**Q45. Aldosterone is produced by the:**
+**Q46. Aldosterone is produced by the:**
 
 A) Adrenal medulla
 
@@ -27031,35 +27070,6 @@ D) Zona reticularis
 **Key point:** glomerulosa = aldosterone.
 
 **Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to glomerulosa = aldosterone.
-
-**Difficulty:** High-Difficulty
-
----
-
-
-
-**Q46. Pheochromocytoma arises from:**
-
-A) Pituitary acidophils
-
-B) Zona fasciculata
-
-C) Adrenal medullary chromaffin cells
-
-D) Thyroid C cells
-
-**Answer: C**
-
-**Explanation:** Pheochromocytoma = medullary chromaffin cells.
-
-**Why distractors are wrong:**
-- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-
-**Key point:** pheo = medulla.
-
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to pheo = medulla.
 
 **Difficulty:** High-Difficulty
 
@@ -27280,18 +27290,18 @@ C) Chief cells
 
 D) C cells
 
-**Answer: A**
+**Answer: C**
 
-**Explanation:** Follicular cells is correct because it matches the defining feature described in Junqueira 17th for pth is secreted by. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Parathyroid chief cells PTH calcium regulation, oxyphil unknown function.
 
 **Why distractors are wrong:**
+- A) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
-- C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Parathyroid chief cells PTH calcium regulation, oxyphil unknown function.
 
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Parathyroid chief cells PTH calcium regulation, oxyphil unknown function.
 
 **Difficulty:** High-Difficulty
 
@@ -27311,16 +27321,16 @@ D) Daylight
 
 **Answer: A**
 
-**Explanation:** Darkness is correct because it matches the defining feature described in Junqueira 17th for melatonin secretion peaks during. The other options describe different structures, stains, or functions that do not fit the stem. Review textbook for decisive features — e.g., charge chemistry for stains, fiber type for connective tissue, cell shape and granules for blood, zonation for adrenal, etc.
+**Explanation:** Melatonin peaks during darkness pineal gland regulates circadian rhythm.
 
 **Why distractors are wrong:**
 - B) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - C) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 - D) is incorrect because it describes a different target/molecule or mechanism not matching the question stem. Refer to textbook Endocrine Glands section for decisive features.
 
-**Key point:** Needs review.
+**Key point:** Melatonin peaks during darkness pineal gland regulates circadian rhythm.
 
-**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Needs review.
+**Learning Objective mapping:** Chapter 16 — Endocrine Glands — LO related to Melatonin peaks during darkness pineal gland regulates circadian rhythm.
 
 **Difficulty:** High-Difficulty
 
