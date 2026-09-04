@@ -2,6 +2,7 @@
 
 Junqueira 17th Edition — Chapter 11
 
+> In the circulatory system, elastic arteries recoil to maintain flow, muscular arteries regulate resistance, capillary type determines permeability, and veins provide capacitance with valves ensuring unidirectional flow.
 
 ### Opening Question
 How does one tube plan build an aorta that stretches and a capillary that leaks on purpose?
@@ -10,20 +11,21 @@ How does one tube plan build an aorta that stretches and a capillary that leaks 
 Atherosclerosis intima disease, aneurysm media elastic defect, varicose veins valve failure, lymphedema lymphatic failure. Capillary type predicts protein leak.
 
 ### Learning Objectives
+By the end of this chapter, you will be able to:
 1. Describe common 3-layer plan intima endothelium+subendothelial media smooth muscle+elastic adventitia CT and how ratio changes along vascular tree.
 2. Distinguish elastic artery muscular artery arteriole capillary types continuous fenestrated discontinuous/sinusoid venule vein lymphatic.
 3. Explain why elastic artery recoils and muscular artery vasoconstricts.
 4. Predict where edema protein leak or immune trafficking occurs based on capillary type.
 
-### Big Picture
+### The Landscape
 Vessel = intima + media + adventitia. Intima is defined by endothelium plus subendothelial connective tissue. Media determines mechanical behavior elastic recoil vs vasoconstriction. Adventitia anchors.
 
-### Core Concept
+### The Core Principle
 **Media composition = function: elastic lamellae for recoil, smooth muscle for resistance, fenestrations for exchange, valves for unidirectional flow.**
 
 > **CORE IDEA:** In the circulatory system, elastic arteries recoil to maintain flow, muscular arteries regulate resistance, capillary type determines permeability, and veins provide capacitance with valves ensuring unidirectional flow.
 
-### Build the Concept
+### Building the System
 **Heart:** endocardium endothelium+subendothelial CT+Purkinje myocardium cardiac muscle epicardium mesothelium+CT+fat. Valves dense irregular CT+endothelium.
 
 **Elastic artery aorta pulmonary:** large lumen intima thick subendothelial media many elastic lamellae 40-70 + smooth muscle adventitia vasa vasorum. Function Windkessel stretch systole recoil diastole continuous flow.
@@ -43,12 +45,21 @@ Vessel = intima + media + adventitia. Intima is defined by endothelium plus sube
 
 **Lymphatic:** larger than blood capillary no basal lamina or discontinuous overlapping endothelium primary valves anchoring filaments no pericytes valves drains to nodes.
 
-### Structure → Function
 Why aorta many elastic lamellae while muscular many smooth muscle? Aorta must recoil maintain diastolic flow elastic stores energy. Muscular must regulate flow organs smooth muscle constricts/dilates.
 
 Why glomerular fenestrated without diaphragm while intestinal with diaphragm? Glomerulus needs high filtration fluid no diaphragm increases permeability. Intestine selective absorption diaphragm limits protein leak.
 
-### Compare & Distinguish
+### Seeing and Distinguishing
+**Recognition Logic**
+**Look for...** thick wall round lumen many wavy elastic lamellae elastic artery. Thick wall round lumen many smooth muscle prominent internal elastic muscular artery. Small wall 1-2 muscle arteriole. Single endothelium basal lamina pericyte capillary. Large irregular lumen thin wall valves vein. No basal lamina overlapping endothelium anchoring filaments lymphatic.
+
+**Then confirm with...** internal elastic lamina prominent muscular many elastic lamellae elastic fenestrations EM capillary type.
+
+**Do not confuse with...** artery vs vein artery round thick media vein large thin media valves. Blood capillary continuous basal lamina vs lymphatic no basal lamina.
+
+**Decisive:** elastic lamellae many elastic artery muscle many + internal elastic muscular 1-2 muscle arteriole single endothelial capillary valves thin media vein.
+
+**Compare & Distinguish**
 | Feature | Elastic artery | Muscular artery | Arteriole | Vein |
 |---|---|---|---|---|
 | Lumen | Large | Medium | Small | Large irregular |
@@ -64,46 +75,36 @@ Why glomerular fenestrated without diaphragm while intestinal with diaphragm? Gl
 | Fenestrated without diaphragm | Yes no diaphragm | Continuous | Glomerulus | High fluid |
 | Discontinuous sinusoid | Large gaps | Discontinuous | Liver spleen marrow | High protein/cells |
 
-### Recognition Logic
-**Look for...** thick wall round lumen many wavy elastic lamellae elastic artery. Thick wall round lumen many smooth muscle prominent internal elastic muscular artery. Small wall 1-2 muscle arteriole. Single endothelium basal lamina pericyte capillary. Large irregular lumen thin wall valves vein. No basal lamina overlapping endothelium anchoring filaments lymphatic.
-
-**Then confirm with...** internal elastic lamina prominent muscular many elastic lamellae elastic fenestrations EM capillary type.
-
-**Do not confuse with...** artery vs vein artery round thick media vein large thin media valves. Blood capillary continuous basal lamina vs lymphatic no basal lamina.
-
-**Decisive:** elastic lamellae many elastic artery muscle many + internal elastic muscular 1-2 muscle arteriole single endothelial capillary valves thin media vein.
-
-### Clinical Correlation
+### Clinical Meaning
 **Atherosclerosis:** intima disease subendothelial LDL accumulation smooth muscle migration foam cells.
 
 **Aneurysm:** media elastic defect Marfan fibrillin weak recoil dilation.
 
 **Varicose veins:** valve failure backflow dilation.
 
-**Edema:** capillary permeability increase continuous vs fenestrated lymphatic obstruction.
-
-### Common Misconceptions
-**Misconception:** All capillaries same. Reality three types different permeability determines where protein leaks and where blood cells exit.
-
-**Misconception:** Veins have thick media. Reality thin media thick adventitia valves capacitance.
-
-### High-Yield
+### What to Remember
+**High-Yield**
 **Must Know:** 3 layers intima endothelium+subendothelial media muscle+elastic adventitia CT. Elastic many elastic lamellae Windkessel muscular many muscle internal elastic vasoconstriction arteriole 1-2 muscle resistance capillary types continuous tight BBB fenestrated with diaphragm endocrine/intestine fenestrated without diaphragm glomerulus discontinuous sinusoid liver/spleen/marrow protein/cells vein large thin media valves capacitance lymphatic no basal lamina overlapping anchoring filaments valves.
 
 **Must Distinguish:** Elastic vs muscular vs arteriole vs vein vs lymphatic capillary types.
 
 **Must Understand:** Why media composition determines function why capillary type predicts permeability trafficking.
 
-### Integrated Summary
+**Common Misconceptions**
+**Misconception:** All capillaries same. Reality three types different permeability determines where protein leaks and where blood cells exit.
+
+**Misconception:** Veins have thick media. Reality thin media thick adventitia valves capacitance.
+
+**Integrated Summary**
 Circulatory 3-layer plan modified intima endothelium always media elastic recoil vs muscle vasoconstriction adventitia anchor. Elastic aorta recoil muscular vasoregulation arteriole resistance capillary exchange type continuous tight BBB vs fenestrated diaphragm endocrine vs no diaphragm glomerulus vs discontinuous sinusoid liver/spleen/marrow vein capacitance valves lymphatic no basal lamina drainage. Structure predicts permeability disease.
 
-### Mastery Check
+### Check Your Understanding
 1. Explain Windkessel function from elastic lamellae.
 2. Compare capillary types by fenestration basal lamina location permeability.
 3. Distinguish artery vs vein vs lymphatic decisive features.
 4. Why glomerular capillary fenestrations without diaphragm?
 
-### Transition
+### Bridge
 The circulatory system carries a specialized connective tissue: blood.
 
 ### Rapid Review
@@ -111,3 +112,4 @@ The circulatory system carries a specialized connective tissue: blood.
 - Elastic many lamellae recoil muscular many muscle internal elastic vasoconstriction arteriole 1-2 muscle resistance.
 - Capillary continuous tight BBB fenestrated diaphragm endocrine/intestine fenestrated no diaphragm glomerulus discontinuous sinusoid liver/spleen/marrow.
 - Vein large thin media valves capacitance lymphatic no BM overlapping anchoring filaments.
+

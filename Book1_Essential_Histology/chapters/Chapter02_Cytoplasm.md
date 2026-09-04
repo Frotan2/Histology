@@ -2,6 +2,7 @@
 
 Junqueira 17th Edition — Chapter 2
 
+> The cytoplasm organizes work by compartment: RER synthesizes proteins for export, SER synthesizes lipids and handles detoxification and calcium, Golgi modifies and sorts, lysosomes digest, peroxisomes oxidize, mitochondria produce ATP, and the cytoskeleton organizes space and transport.
 
 ### Opening Question
 How does a cell build, move, and ship thousands of proteins without mixing them up?
@@ -10,24 +11,24 @@ How does a cell build, move, and ship thousands of proteins without mixing them 
 Pancreatic acinar cells secrete amylase, plasma cells secrete antibody, liver cells detoxify drugs — same basic machinery, different outputs. Kartagener syndrome (immotile cilia), I-cell disease (lysosomal enzymes misrouted), and microvillus inclusion disease all trace to cytoplasmic machinery failure.
 
 ### Learning Objectives
+By the end of this chapter, you will be able to:
 1. Describe membrane flow from RER → Golgi → vesicles and explain how signal sequences and M6P targeting determine destination.
 2. Distinguish RER, SER, Golgi, lysosome, peroxisome, mitochondria by structure, function, and microscopic appearance.
 3. Classify cytoskeletal filaments by diameter, protein, stability, and function (microfilaments actin 6-8 nm, intermediate 10 nm, microtubules 25 nm).
 4. Explain why basophilic cytoplasm indicates RER-rich protein synthesis.
 5. Predict consequence of defects in microtubule motors, dynein arms, lysosomal targeting, peroxisomal oxidases.
 
-### Big Picture
+### The Landscape
 Cytoplasm = cytosol (aqueous phase) + organelles (membrane-bound compartments) + cytoskeleton (scaffolding and tracks) + inclusions (stored products).
 
 Governing principle: **compartmentalization by membrane + transport by vesicles + positioning by cytoskeleton.**
 
-### Core Concept
+### The Core Principle
 The cell solves crowding by membranes that create distinct chemical environments, and solves movement by cytoskeletal tracks and motors.
 
 > **CORE IDEA:** The cytoplasm organizes work by compartment: RER synthesizes proteins for export, SER synthesizes lipids and handles detoxification and calcium, Golgi modifies and sorts, lysosomes digest, peroxisomes oxidize, mitochondria produce ATP, and the cytoskeleton organizes space and transport.
 
-### Build the Concept
-
+### Building the System
 **RER:** studded with ribosomes (rRNA basophilic). Co-translational insertion: signal sequence → SRP → translocon → lumen. Protein synthesis for secretion, lysosomal enzymes, membrane proteins. Extensive in protein-secreting cells (pancreas, plasma cell) → basophilic cytoplasm.
 
 **SER:** no ribosomes. Lipid synthesis, steroid synthesis (adrenal cortex fasciculata, Leydig), detoxification (smooth ER proliferation with drugs, cytochrome P450), calcium storage (muscle sarcoplasmic reticulum).
@@ -45,16 +46,23 @@ The cell solves crowding by membranes that create distinct chemical environments
 - **Intermediate filaments:** ~10 nm, stable, cell-type specific: keratin (epithelium), vimentin (mesenchyme), desmin (muscle), neurofilament (neuron), GFAP (astrocyte), lamins (nuclear). Anchors desmosomes and hemidesmosomes.
 - **Microtubules:** ~25 nm, tubulin α/β dimer, dynamic instability, GTP, MTOC centrosome, 9+2 in cilia, tracks for kinesin (anterograde) and dynein (retrograde). Mitotic spindle.
 
-### Structure → Function
 Why does pancreatic acinar cell have basal basophilia and apical eosinophilia? Basal RER (basophilic) synthesizes zymogen, apical zymogen granules (eosinophilic protein) store enzymes. Polarity reflects flow.
 
 Why does microvillus have actin core while cilium has microtubule core? Microvillus needs stiff stable scaffold to increase surface area without movement → actin. Cilium needs motility → microtubule doublet sliding via dynein.
 
-### Classification
 Organelles by membrane: single membrane (RER, SER, Golgi, lysosome, peroxisome) vs double (mitochondria, nucleus). Filaments by size and protein.
 
-### Compare & Distinguish
+### Seeing and Distinguishing
+**Recognition Logic**
+**Look for...** basal blue cytoplasm + apical pink granules = protein-secreting cell (RER → zymogen). Central dark nucleus + basophilic cytoplasm + clock-face chromatin = plasma cell (RER-rich antibody).
 
+**Then confirm with...** microvilli (actin, no motility, brush border) vs cilia (9+2 microtubule, motile) vs stereocilia (long branched microvilli, not true cilia, epididymis). Terminal web (actin) under microvilli.
+
+**Do not confuse with...** RER basophilia (ribosomes) vs heterochromatin basophilia (DNA). Both blue but location and cell type differ.
+
+**Decisive feature:** ~6-8 nm actin vs ~10 nm intermediate vs ~25 nm tubulin; 9+2 microtubule for motile cilia; M6P for lysosome targeting.
+
+**Compare & Distinguish**
 | Feature | RER | SER |
 |---|---|---|
 | Ribosomes | Present | Absent |
@@ -76,23 +84,22 @@ Organelles by membrane: single membrane (RER, SER, Golgi, lysosome, peroxisome) 
 | Intermediate | ~10 nm | Keratin, vimentin, desmin, neurofilament, GFAP | Mechanical stability, desmosome anchor | Epithelial vs mesenchymal vs muscle vs neuron |
 | Microtubule | ~25 nm | Tubulin | Transport, cilia, mitosis | — |
 
-### Recognition Logic
-**Look for...** basal blue cytoplasm + apical pink granules = protein-secreting cell (RER → zymogen). Central dark nucleus + basophilic cytoplasm + clock-face chromatin = plasma cell (RER-rich antibody).
-
-**Then confirm with...** microvilli (actin, no motility, brush border) vs cilia (9+2 microtubule, motile) vs stereocilia (long branched microvilli, not true cilia, epididymis). Terminal web (actin) under microvilli.
-
-**Do not confuse with...** RER basophilia (ribosomes) vs heterochromatin basophilia (DNA). Both blue but location and cell type differ.
-
-**Decisive feature:** ~6-8 nm actin vs ~10 nm intermediate vs ~25 nm tubulin; 9+2 microtubule for motile cilia; M6P for lysosome targeting.
-
-### Clinical Correlation
+### Clinical Meaning
 **Kartagener syndrome:** dynein arm defect → immotile cilia → bronchiectasis, sinusitis, situs inversus (nodal cilia defect). Histology: cilia present but not motile, EM shows missing dynein arms.
 
 **I-cell disease (mucolipidosis II):** GlcNAc phosphotransferase defect → no M6P tag → lysosomal enzymes not targeted to lysosome → secreted, lysosomes lack enzymes → inclusion bodies (phase-dense inclusions).
 
 **Microvillus inclusion disease:** actin cytoskeleton defect → atrophic microvilli.
 
-### Common Misconceptions
+### What to Remember
+**High-Yield**
+**Must Know:** RER basophilic protein synthesis, SER lipid/detox/Ca2+, Golgi cis→trans glycosylation + sorting, lysosome acid hydrolase M6P, peroxisome oxidase/catalase, mitochondria double membrane cristae. Filament diameters ~6-8, ~10, ~25 nm. Actin microvilli, tubulin cilia 9+2.
+
+**Must Distinguish:** RER vs SER, lysosome vs peroxisome, microvilli actin vs cilia tubulin vs stereocilia long microvilli.
+
+**Must Understand:** Membrane flow polarity, why basophilic cytoplasm means synthetic activity, why cytoskeleton cell-type specific intermediate filaments are diagnostic in pathology.
+
+**Common Misconceptions**
 **Misconception:** "SER is only for detox."
 **Reality:** SER also synthesizes lipid, steroid, stores Ca2+. In muscle, SER is sarcoplasmic reticulum Ca2+ release for contraction.
 
@@ -102,24 +109,17 @@ Organelles by membrane: single membrane (RER, SER, Golgi, lysosome, peroxisome) 
 **Misconception:** "All basophilia is nucleus."
 **Reality:** Cytoplasmic basophilia = RER/ribosomes = protein synthesis.
 
-### High-Yield
-**Must Know:** RER basophilic protein synthesis, SER lipid/detox/Ca2+, Golgi cis→trans glycosylation + sorting, lysosome acid hydrolase M6P, peroxisome oxidase/catalase, mitochondria double membrane cristae. Filament diameters ~6-8, ~10, ~25 nm. Actin microvilli, tubulin cilia 9+2.
-
-**Must Distinguish:** RER vs SER, lysosome vs peroxisome, microvilli actin vs cilia tubulin vs stereocilia long microvilli.
-
-**Must Understand:** Membrane flow polarity, why basophilic cytoplasm means synthetic activity, why cytoskeleton cell-type specific intermediate filaments are diagnostic in pathology.
-
-### Integrated Summary
+**Integrated Summary**
 Cytoplasm organizes chemistry by membranes: RER makes proteins for export/membrane/lysosome, SER makes lipid and handles calcium/detox, Golgi modifies and sorts via M6P and signal peptides, lysosome digests at acidic pH, peroxisome oxidizes via catalase, mitochondria makes ATP. Cytoskeleton provides scaffold and tracks: actin for cortex and microvilli, intermediate filaments for mechanical stability and cell identity, microtubules for transport and cilia. Structure predicts staining and function.
 
-### Mastery Check
+### Check Your Understanding
 1. Explain why plasma cell cytoplasm is intensely basophilic and where antibody goes after synthesis.
 2. Reconstruct membrane flow from signal sequence to secreted protein, including M6P branch to lysosome.
 3. Compare microvillus, cilium, stereocilium by core protein, motility, location.
 4. Predict consequence of kinesin vs dynein motor defect.
 5. Why does I-cell disease cause extracellular lysosomal enzymes and intracellular inclusions?
 
-### Transition
+### Bridge
 The cytoplasm builds and moves. The nucleus controls what is built, when, and how much. Next, how two meters of DNA fits in a six micrometer nucleus and remains readable.
 
 ### Rapid Review
@@ -128,3 +128,4 @@ The cytoplasm builds and moves. The nucleus controls what is built, when, and ho
 - Lysosome acid hydrolase pH5, peroxisome oxidase/catalase.
 - Filaments: actin ~6-8 nm microvilli, intermediate ~10 nm keratin/vimentin/desmin/neurofilament/GFAP, microtubule ~25 nm tubulin 9+2 cilia.
 - Kartagener dynein immotile cilia, I-cell M6P defect.
+

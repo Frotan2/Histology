@@ -2,6 +2,7 @@
 
 Junqueira 17th Edition — Chapter 5
 
+> In connective tissue, collagen fibers resist tension, elastic fibers provide recoil, and glycosaminoglycans hold water to resist compression.
 
 ### Opening Question
 Why do some people have stretchy skin and others fragile bones — and how can a single tissue explain both?
@@ -9,27 +10,24 @@ Why do some people have stretchy skin and others fragile bones — and how can a
 ### Why This Matters
 Marfan (fibrillin), Ehlers-Danlos (collagen), osteogenesis imperfecta (type I collagen), scurvy (vitamin C hydroxylation) — all connective tissue diseases. Wound healing switches type III → type I collagen. Understanding fiber composition predicts disease and scar outcome.
 
-A 19-year-old man with tall stature, arachnodactyly, hypermobile joints, aortic root dilation — Marfan syndrome fibrillin-1 defect.
-
 ### Learning Objectives
+By the end of this chapter, you will be able to:
 1. State three components of connective tissue (cells, fibers, ground substance) and explain how ratio defines loose vs dense.
 2. Trace collagen biosynthesis (procollagen → hydroxylation vit C → triple helix → fibril → cross-link) and explain scurvy.
 3. Match collagen types I-IV to location and disease and explain fibrillar vs sheet-forming.
 4. Describe elastic fiber composition (elastin core + fibrillin microfibrils) and Marfan mechanism.
 5. Identify resident and transient cells by function and appearance.
 6. Classify adult connective tissue (loose, dense regular, dense irregular, elastic, reticular, mucoid).
-7. Explain wound healing inflammation → granulation (type III) → remodeling (type I).
 
-### Big Picture
+### The Landscape
 Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-filling, signal-carrying. Molecular composition determines mechanical behavior and disease.
 
-### Core Concept
+### The Core Principle
 **The molecular composition of the extracellular matrix determines mechanical properties, tissue distribution, and disease vulnerability.**
 
 > **CORE IDEA:** In connective tissue, collagen fibers resist tension, elastic fibers provide recoil, and glycosaminoglycans hold water to resist compression.
 
-### Build the Concept
-
+### Building the System
 **Three components:** cells, fibers, ground substance (GAGs + proteoglycans + glycoproteins fibronectin, laminin).
 
 **Fibers:**
@@ -60,13 +58,19 @@ Connective tissue = cells + extracellular matrix; matrix is load-bearing, space-
 - Reticular: type III network lymphoid.
 - Mucoid: Wharton jelly umbilical cord hyaluronan-rich.
 
-### Structure → Function
 Why tendon tension one direction while dermis many? Tendon dense regular parallel type I along axis maximal one direction. Dermis dense irregular interwoven many directions.
 
 Why GAGs important? GAGs sulfated negative hold water hydrated gel resists compression, collagen resists tension.
 
-### Compare & Distinguish
+### Seeing and Distinguishing
+**Recognition Logic**
+**Look for...** wavy pink collagen bundles dense CT, thin dark Orcein elastic, black silver network reticular III, metachromatic purple toluidine mast heparin, clock-face basophilic plasma.
 
+**Do not confuse with...** reticular type III vs type I collagen both collagen but reticular delicate silver black I thick pink trichrome blue/green. Elastic fiber disease Marfan fibrillin vs collagen disease EDS OI.
+
+**Decisive:** silver black reticular III, Orcein black elastic, wavy pink bundles type I dense.
+
+**Compare & Distinguish**
 | Feature | Dense regular | Dense irregular | Loose |
 |---|---|---|---|
 | Fiber arrangement | Parallel type I | Interwoven type I | Random all components |
@@ -81,44 +85,37 @@ Why GAGs important? GAGs sulfated negative hold water hydrated gel resists compr
 | Location | Skin tendon bone | Vessels lymphoid stroma | Large artery ligamentum nuchae |
 | Disease | OI brittle | Vascular EDS | Marfan |
 
-### Recognition Logic
-**Look for...** wavy pink collagen bundles dense CT, thin dark Orcein elastic, black silver network reticular III, metachromatic purple toluidine mast heparin, clock-face basophilic plasma.
-
-**Do not confuse with...** reticular type III vs type I collagen both collagen but reticular delicate silver black I thick pink trichrome blue/green. Elastic fiber disease Marfan fibrillin vs collagen disease EDS OI.
-
-**Decisive:** silver black reticular III, Orcein black elastic, wavy pink bundles type I dense.
-
-### Clinical Correlation
+### Clinical Meaning
 **Marfan:** fibrillin-1 scaffold defect elastic weak aortic media cystic necrosis aneurysm lens dislocation arachnodactyly. Distinguish EDS collagen hypermobile.
 
 **Scurvy:** vitamin C deficiency proline/lysine hydroxylation fails weak triple helix bleeding poor wound.
 
 **OI:** type I collagen mutation brittle bones.
 
-**Wound healing:** inflammation neutrophil macrophage → granulation type III new vessels fibroblasts → remodeling type I cross-linking scar.
-
-### Common Misconceptions
-**Misconception:** Collagen one type. Reality many types fibrillar I II III vs sheet-forming IV type determines location disease.
-
-**Misconception:** Ground substance inert filler. Reality GAGs highly hydrated functional compression resistance and signaling.
-
-### High-Yield
+### What to Remember
+**High-Yield**
 **Must Know:** Collagen I bone/skin/tendon OI, III reticular granulation vascular EDS, IV network BM Goodpasture/Alport. Elastic elastin core + fibrillin Marfan Orcein. GAGs water compression. Cells fibroblast builder macrophage defense mast metachromatic heparin/histamine plasma clock-face basophilic antibody.
 
 **Must Distinguish:** Dense regular vs irregular vs loose, collagen vs elastic disease, reticular silver vs collagen trichrome vs elastic Orcein.
 
 **Must Understand:** Hydroxylation vit C mechanism, why III→I wound healing, why ground substance GAGs hold water.
 
-### Integrated Summary
+**Common Misconceptions**
+**Misconception:** Collagen one type. Reality many types fibrillar I II III vs sheet-forming IV type determines location disease.
 
-### Mastery Check
+**Misconception:** Ground substance inert filler. Reality GAGs highly hydrated functional compression resistance and signaling.
+
+**Integrated Summary**
+
+
+### Check Your Understanding
 1. Explain scurvy mechanism from collagen biosynthesis.
 2. Reconstruct collagen I III IV table with location disease.
 3. Why Marfan aortic aneurysm while EDS hypermobile joints?
 4. Distinguish dense regular vs irregular vs loose decisive features.
 5. Sequence wound healing explain III→I switch.
 
-### Transition
+### Bridge
 The framework is built. Next, a specialized framework that stores energy and signals: adipose tissue.
 
 ### Rapid Review
@@ -127,3 +124,4 @@ The framework is built. Next, a specialized framework that stores energy and sig
 - Elastic elastin core+fibrillin Marfan Orcein.
 - Cells fibroblast macrophage mast metachromatic plasma clock-face.
 - CT types loose dense regular parallel dense irregular interwoven elastic reticular silver mucoid.
+
