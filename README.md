@@ -2,31 +2,21 @@
 
 **Essential Histology — A Concept-Based Guide for PGME**
 
-**Definitive Edition · AREMS-HY Academic Series**
+Primary scientific foundation: Anthony L. Mescher, *Junqueira's Basic Histology: Text and Atlas*, 17th Edition, McGraw Hill.
 
-Primary scientific foundation: Mescher AL. **Junqueira's Basic Histology: Text and Atlas.** 17th ed. McGraw Hill.
+Target: Afghanistan 1405 Medical Specialty Examination.
 
----
+## Current release state
 
-## Final Edition
+**Current branch:** `arena/01a095c1-histology`
 
-**Canonical source:** `Final_Edition/source/Essential_Histology_Canonical_Source.md`
+**Status:** `RELEASE BLOCKED — CANDIDATE, NOT FINAL`
 
-**Final artifacts:**
-- `Final_Edition/Essential_Histology_Definitive_Edition.docx` — editable Microsoft Word version
-- `Final_Edition/Essential_Histology_Definitive_Edition.pdf` — print-ready PDF
-- `Final_Edition/Essential_Histology_Definitive_Edition.epub` — reflowable e-book
+The v3 rebuild corrected the core syllabus scope, removed Junqueira Ch. 10 Muscle from the core, and separated Junqueira Ch. 13 Hemopoiesis from Ch. 14 Immune System. However, the edition is not yet publication-ready. A semantic scientific audit, duplicate/content audit, deeper Question Bank build, independent verification, and final reader/format QA are still required.
 
-## Book Identity
+Do not describe the current artifacts as independently verified, scientifically final, or publication-ready until the release gates in `Production_Docs/` are actually satisfied with evidence.
 
-**Title:** Essential Histology
-**Subtitle:** A Concept-Based Guide for PGME
-**Edition:** Definitive Edition
-**Publisher:** AREMS-HY Academic Series
-**Built around:** Junqueira's Basic Histology, 17th Edition
-**Built for:** Afghanistan 1405 Specialty Examination
-
-## Official 16-Chapter Syllabus
+## Official 16-chapter syllabus
 
 | Ch | Title | Junqueira |
 |---|---|---|
@@ -47,80 +37,65 @@ Primary scientific foundation: Mescher AL. **Junqueira's Basic Histology: Text a
 | 15 | Skin | Ch. 18 |
 | 16 | Endocrine Glands | Ch. 20 |
 
-Plus four supplementary sections that complete the learning system:
-- **Final Integrated Review** — the recurring-concept map and the eight-step identification algorithm
-- **Examination Practice** — 76 cross-chapter retrieval questions
-- **Recognition Drills** — pattern-recognition cues by system
-- **Final Preparation** — the seven-day study plan
+This mapping is fixed for the core edition. No out-of-scope Junqueira chapter may be inserted into the core textbook or core Question Bank.
 
-## Chapter Architecture
+## Book 1 — Teaching Text
 
-Each of the 16 core chapters follows the same coherent learning arc:
+Canonical source:
+`Book1_Essential_Histology_Final/Essential_Histology_Combined.md`
 
-1. **Opening Question** — anchors curiosity
-2. **Why This Matters** — clinical relevance
-3. **Learning Objectives** — what the reader will own
-4. **The Landscape / Core Principle** — the big idea
-5. **Building the System** — appearance → structure → composition → mechanism → function
-6. **Seeing and Distinguishing** — recognition logic (look for… then confirm… do not confuse with… decisive feature)
-7. **Clinical Meaning** — high-yield structure↔function↔disease links
-8. **Reasoning Through a Case / Before You Move On** — applied integration
-9. **Consolidating the Chapter / Integrated Summary** — concise restatement
-10. **Check Your Understanding** — 4–7 retrieval questions
-11. **Bridge** — natural connection to the next chapter
-12. **Rapid Review** — bulleted high-yield compression
+Artifacts generated from that source:
+- `Book1_Essential_Histology_Final/Essential_Histology_Final.pdf`
+- `Book1_Essential_Histology_Final/Essential_Histology_Final.docx`
+- `Book1_Essential_Histology_Final/Essential_Histology_Final.epub`
 
-The central habit running through every chapter is causal reasoning:
-**appearance → structure → composition → mechanism → function → recognition → distinction → clinical meaning → examination application.**
+Sixteen chapter source files live under `Book1_Essential_Histology_Final/chapters/`.
 
-## Companion Question Bank
+The current v3 evidence report records 45,302 words in the combined canonical source while its chapter table sums to 42,830 words. That discrepancy must be resolved before final release.
 
-A separate companion, **Essential Histology: Question Bank for PGME**, lives in `Book2_Question_Bank/` and provides ~935 single-best-answer items across the same 16-chapter syllabus, organized by difficulty and learning objective. It is a companion, not part of the textbook, and is preserved as a separate deliverable.
+## Book 2 — Question Bank
 
-## Production Records
+Canonical source:
+`Book2_Question_Bank/Essential_Histology_Question_Bank.md`
 
-All audit and reconciliation reports that produced this edition are preserved in `Production_Docs/`. These records document the source reconciliation, scientific audit, consistency checks, quality gates, and remediation history that preceded the final artifact set.
+The current v3 companion contains **80 questions (5 per chapter)**. This is not sufficient to represent a strong specialty-exam companion. The final Question Bank must be rebuilt from the teaching source with broad, balanced coverage and explicit traceability to chapter, content unit, learning objective, answer, rationale, and difficulty/cognitive level.
 
-## Building From Source
+The exact final question count is evidence-driven; arbitrary inflation is forbidden. The bank must be large enough to cover all assessed learning objectives, include cumulative mixed practice, and provide adequate repetition without duplicate or near-duplicate items.
 
-The canonical source markdown is the source of truth for the three final artifacts. To regenerate any of the outputs:
+## Reader architecture
 
-```bash
-cd Final_Edition
-python3 build_docx.py     # produces Essential_Histology_Definitive_Edition.docx
-python3 build_pdf.py      # produces Essential_Histology_Definitive_Edition.pdf
-python3 build_epub.py     # produces Essential_Histology_Definitive_Edition.epub
-```
+The final chapter architecture must support a real learning chain rather than merely satisfy heading checks. Required conceptual flow:
 
-All three scripts read `source/Essential_Histology_Canonical_Source.md` and produce independent outputs from the same canonical content.
+**opening question → why it matters → learning objectives → landscape → core principle → build the concept → structure → function → structure–function → classification → compare/distinguish → recognition logic → clinical meaning → misconceptions → high-yield synthesis → integrated summary → mastery → transition → rapid review**
 
-## File Layout
+An optional Advanced Concepts section may be retained where it adds genuine depth. It must not become filler or a hidden second syllabus.
 
-```
-Final_Edition/
-  Essential_Histology_Definitive_Edition.docx   # editable
-  Essential_Histology_Definitive_Edition.pdf    # print-ready, 167 pages, A4
-  Essential_Histology_Definitive_Edition.epub   # e-book, reflowable
-  source/
-    Essential_Histology_Canonical_Source.md     # source of truth
-    images/                                      # 16 pedagogical diagrams
-  build_docx.py
-  build_pdf.py
-  build_epub.py
+## Production and QA records
 
-Book2_Question_Bank/                           # companion question bank
-  Essential_Histology_Question_Bank.md
-  Essential_Histology_Question_Bank.docx
+All authoritative standards, audits, release criteria, blockers, and the execution prompt live in `Production_Docs/`.
 
-Production_Docs/                               # audit and reconciliation records
-```
+The production rule is simple: **PASS requires evidence. A checklist heading, keyword hit, or self-reported completion is not proof.**
 
----
+## Build principle
 
-## v2 Rebuild (Definitive Edition, expanded)
+PDF, DOCX, and EPUB must be derivatives of one canonical teaching source. The final edition must be reproducible, internally consistent, and content-equivalent across formats.
 
-A substantial, genuine expansion of the v1 edition has been built at `Final_Edition_v2/`. The v2 rebuild expands the source markdown from ~35,000 to 60,252 words through full processing-chain prose, mechanism-based stain coverage, I-cell / α1-antitrypsin / Kartagener / CDG / mitochondrial clinical examples, M6P pathway, cytoskeleton motors, 16 "Reasoning Through a Case" blocks, 16 "Common Misconceptions" blocks, 200 "Check Your Understanding" questions, and 4 supplementary chapters (Final Integrated Review, Examination Practice, Recognition Drills, Final Preparation).
+## Release definition
 
-**v2 artifacts:** `Final_Edition_v2/Essential_Histology_v2.pdf` (181 pp), `Essential_Histology_v2.docx`, `Essential_Histology_v2.epub`. See `Final_Edition_v2/VERIFICATION_REPORT.md` for the independent verification gate (42/42 scientific categories pass). The v1 edition is preserved unchanged at `Final_Edition/` for provenance.
+“Final” means:
 
-**Status: v1 + v2 both completed, verified, and preserved.**
+- exact official scope and chapter mapping;
+- no critical or high-severity scientific defects;
+- no unresolved duplication, contradiction, or misleading simplification;
+- adequate genuine depth for a learner with modest background;
+- every learning objective taught, retrieved, and assessed;
+- a serious, traceable Question Bank;
+- no student-facing production/editorial/AI residue;
+- reproducible cross-format artifacts;
+- independent or demonstrably adversarial QA strong enough to challenge the builder’s assumptions.
+
+The release may not be marked final merely because files build successfully or all headings exist.
+
+## Historical editions
+
+Earlier editions and reports may be preserved for provenance, but their claims must not override the current release standard. Historical reports that use older scope, older architecture, or inflated verification claims must be treated as archival evidence only.
