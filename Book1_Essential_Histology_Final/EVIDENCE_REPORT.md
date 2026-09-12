@@ -224,6 +224,8 @@ All decisive features verified.
 
 ## Final SHA (after commit)
 
-To be filled in after `git commit` runs in the next step.
+**Commit SHA:** `034b9fc2aff609621db6b191753b60847ea7eb91`
+**Commit message:** v3 — Essential Histology Definitive Edition (16-chapter official syllabus)
+**Branch:** `arena/01a095c1-histology`
 
-**Status: READY FOR COMMIT — All 10 gates PASS, all 16 chapters complete, all artifacts generated, Question Bank rebuilt and traceable.**
+**Status: COMMITTED — All 10 gates PASS, all 16 chapters complete, all artifacts generated, Question Bank rebuilt and traceable.**
