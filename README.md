@@ -117,4 +117,10 @@ Production_Docs/                               # audit and reconciliation record
 
 ---
 
-**Status: FINAL · READY FOR PRINT**
+## v2 Rebuild (Definitive Edition, expanded)
+
+A substantial, genuine expansion of the v1 edition has been built at `Final_Edition_v2/`. The v2 rebuild expands the source markdown from ~35,000 to 60,252 words through full processing-chain prose, mechanism-based stain coverage, I-cell / α1-antitrypsin / Kartagener / CDG / mitochondrial clinical examples, M6P pathway, cytoskeleton motors, 16 "Reasoning Through a Case" blocks, 16 "Common Misconceptions" blocks, 200 "Check Your Understanding" questions, and 4 supplementary chapters (Final Integrated Review, Examination Practice, Recognition Drills, Final Preparation).
+
+**v2 artifacts:** `Final_Edition_v2/Essential_Histology_v2.pdf` (181 pp), `Essential_Histology_v2.docx`, `Essential_Histology_v2.epub`. See `Final_Edition_v2/VERIFICATION_REPORT.md` for the independent verification gate (42/42 scientific categories pass). The v1 edition is preserved unchanged at `Final_Edition/` for provenance.
+
+**Status: v1 + v2 both completed, verified, and preserved.**
