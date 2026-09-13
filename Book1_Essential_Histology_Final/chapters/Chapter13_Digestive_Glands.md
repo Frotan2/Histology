@@ -2,6 +2,10 @@
 
 *Corresponds to Junqueira's Basic Histology, 17th Edition, Chapter 16*
 
+![](assets/images/file12.png)
+
+*Figure 13.1 — The hepatic lobule. Hepatocyte plates radiate from the central vein, with portal triads at the corners. Blood flows inward from triad to central vein while bile flows outward in canaliculi — the two travel in opposite directions.*
+
 ## Opening Question
 
 How does the liver do 500 jobs with only a few cell types — and why does its blood flow make it both central to metabolism and uniquely vulnerable to injury?
@@ -135,7 +139,7 @@ Salivary glands produce saliva for lubrication, amylase digestion, and antimicro
 
 ## Compare & Distinguish
 
-### Salivary Glands
+### Parotid vs Submandibular vs Sublingual
 
 | Feature | Parotid | Submandibular | Sublingual |
 |---|---|---|---|
@@ -173,6 +177,69 @@ Salivary glands produce saliva for lubrication, amylase digestion, and antimicro
 - **Serous acini with basal basophilia + apical eosinophilia + pale islets** → pancreas.
 - **Hexagonal lobule with central vein + portal tracts + cords of hepatocytes + sinusoids** → liver.
 - **Mucosa with rugae, no muscularis mucosae or submucosa** → gallbladder.
+
+## Deepening the Concept
+
+## The Liver Lobule: Three Models of One Organ
+
+Students find the liver confusing because three different "units" are taught and each is correct for a different purpose. Understanding *why* three exist resolves the confusion permanently.
+
+**The classic lobule** is a *morphological* unit: a hexagon with a **central vein** at its centre and **portal triads** (portal venule, hepatic arteriole, bile ductule, plus lymphatics) at its corners. Plates of hepatocytes radiate outward from the central vein like spokes, separated by sinusoids. Blood flows *centripetally* — from the portal triads at the periphery to the central vein — while bile flows *centrifugally* in canaliculi toward the bile ductule at the triad. **Blood and bile flow in opposite directions.** This is the single most reliable orientation fact in liver histology.
+
+**The portal lobule** is a *biliary/exocrine* unit: a triangle with a **portal triad at its centre** and three central veins at its corners. It groups the parenchyma that drains bile into one duct, treating the liver as the exocrine gland it also is.
+
+**The hepatic acinus (of Rappaport)** is the *functional and clinically important* unit: a diamond shape based on two adjacent triads with two central veins at the poles, divided into three zones by *proximity to the arriving blood supply*.
+
+| Zone | Position | Oxygen and nutrients | Vulnerable to | Enzyme profile |
+|---|---|---|---|---|
+| 1 (periportal) | Nearest the triad | Highest O₂, first exposure to nutrients and toxins | **Ischaemia last**; viral hepatitis; directly toxic poisons absorbed first | Gluconeogenesis, urea cycle, β-oxidation |
+| 2 (midzonal) | Intermediate | Intermediate | Intermediate | Intermediate |
+| 3 (centrilobular, around central vein) | Farthest from the triad | Lowest O₂ | **Ischaemic/hypoxic necrosis**; paracetamol and other cytochrome-P450-activated toxins; alcoholic injury | High CYP450, lipogenesis, glutamine synthesis |
+
+The acinar model earns its place because it *predicts pathology*. Shock or right heart failure produces **centrilobular (zone 3) necrosis** — the classic "nutmeg liver" — because zone 3 is at the far end of the oxygen gradient. Paracetamol overdose also damages zone 3, but for a different reason: zone 3 is richest in cytochrome P450, which converts paracetamol to the toxic metabolite NAPQI. Two mechanisms, same zone, different logic — and examiners test precisely that distinction.
+
+## Sinusoids and the Space of Disse
+
+The hepatic sinusoid is a **discontinuous capillary**: its endothelium has large fenestrations without diaphragms and an *absent or highly discontinuous basal lamina*. Between the endothelium and the hepatocyte plate lies the **space of Disse (perisinusoidal space)**, into which hepatocyte microvilli project.
+
+This arrangement is the structural basis of hepatic function. Because there is no meaningful barrier, plasma — including albumin-bound substances and lipoproteins — bathes the hepatocyte surface directly. A hepatocyte is effectively in contact with blood plasma, which is what allows it to serve simultaneously as the body's main synthetic, detoxifying, and storage organ. Lymph forms in the space of Disse and drains toward the portal tracts; the liver produces a disproportionate share of the body's lymph, which is why hepatic congestion produces ascites.
+
+**Four cell types in and around the sinusoid, each with a clinical role:**
+
+- **Hepatocyte** — polygonal, eosinophilic with basophilic RER patches, frequently **binucleate**, often polyploid. Binucleation is normal and is a recognition feature, not pathology.
+- **Kupffer cell** — resident macrophage *within the sinusoidal lumen*, derived from the monocyte lineage. Clears gut-derived bacteria and endotoxin arriving via the portal vein and phagocytoses aged erythrocytes. Its intraluminal position, sitting stellate across the sinusoid, distinguishes it from the stellate cell.
+- **Hepatic stellate cell (Ito cell)** — in the *space of Disse*; stores about 80% of the body's **vitamin A** in lipid droplets in the resting state. On injury it *transdifferentiates into a myofibroblast*, loses its lipid droplets, and secretes collagen. **This is the central cell of hepatic fibrosis and cirrhosis** — the target of most antifibrotic research.
+- **Pit cell** — a liver-resident NK cell with antitumour activity.
+
+**Cirrhosis follows directly.** Chronic injury of any cause activates stellate cells; collagen deposited in the space of Disse "capillarises" the sinusoid, losing fenestrations and impairing exchange; fibrous septa link portal tracts and central veins, dividing the parenchyma into regenerative nodules. The two clinical consequences are mechanical and synthetic: distorted architecture obstructs portal flow, raising portal pressure (varices, splenomegaly, ascites), while loss of functioning hepatocytes reduces albumin and clotting factor synthesis and impairs detoxification (jaundice, coagulopathy, encephalopathy). Every complication of cirrhosis can be derived from those two statements.
+
+## The Bile Canaliculus and the Mechanism of Jaundice
+
+The **bile canaliculus** is not a duct but a groove — a 1–2 µm channel formed between the apposed apical membranes of two adjacent hepatocytes, sealed from the sinusoid by **tight junctions**. The hepatocyte is therefore a polarised epithelial cell with two different "apical" and "basolateral" domains: it faces blood on the sinusoidal side and bile on the canalicular side. Bile flows through canaliculi → canals of Hering (the transition, lined partly by hepatocytes and partly by cholangiocytes, and the site of the hepatic stem-cell niche) → bile ductules → interlobular ducts in the portal triads.
+
+Bilirubin handling maps precisely onto this architecture, and the three types of jaundice fall out of it:
+
+1. *Uptake* of unconjugated bilirubin from the sinusoidal surface.
+2. *Conjugation* with glucuronic acid by UDP-glucuronosyltransferase in the smooth ER — converting it from lipid-soluble to water-soluble.
+3. *Excretion* into the canaliculus by MRP2, the rate-limiting step.
+
+**Pre-hepatic** jaundice (haemolysis) overwhelms conjugation → unconjugated hyperbilirubinaemia. **Hepatocellular** jaundice impairs all three steps → mixed. **Post-hepatic** (obstructive) jaundice blocks outflow → conjugated hyperbilirubinaemia with pale stools and dark urine, because water-soluble conjugated bilirubin is excreted renally. Gilbert syndrome (reduced UGT1A1 activity) and Crigler-Najjar (severe or absent) affect step 2; Dubin-Johnson (defective MRP2) affects step 3 and produces a grossly *black liver* from accumulated pigment.
+
+## The Exocrine Pancreas and Acute Pancreatitis
+
+The exocrine pancreas is a purely serous compound acinar gland, and its acinar cell is the textbook protein-secreting cell: pyramidal, with an intensely basophilic base (packed RER), a round basal nucleus, and eosinophilic apical **zymogen granules**. Its duct system begins with **centroacinar cells** — the intercalated duct cells that extend *into* the acinar lumen and are unique to the pancreas, making them a decisive identifying feature.
+
+The division of labour is important: **acinar cells secrete enzymes**, while **duct and centroacinar cells secrete bicarbonate** via CFTR, neutralising duodenal chyme to provide the alkaline pH those enzymes require. In **cystic fibrosis**, defective CFTR yields viscid, poorly hydrated secretions that obstruct the ducts, causing autodigestion, atrophy, fibrosis and fatty replacement of the exocrine pancreas — hence pancreatic insufficiency and steatorrhoea, with the islets relatively spared until late.
+
+**The protective logic of zymogens** explains acute pancreatitis. Enzymes are stored as inactive precursors; trypsinogen is normally activated only in the duodenum by enterokinase, and the acinar cell additionally makes a trypsin inhibitor (SPINK1) as a safety catch. If trypsin is activated prematurely within the pancreas — through duct obstruction by a gallstone, or alcohol-related injury — it activates the whole cascade, and the gland digests itself. The histological picture combines coagulative necrosis, acute inflammation, haemorrhage, and the characteristic **fat necrosis** in which released lipase liberates fatty acids that chelate calcium to form chalky **saponification** deposits. The resulting hypocalcaemia is a recognised clinical sign — traceable, again, directly to the histology.
+
+## Recognition Logic — Extended Discriminations
+
+**Liver.** LOOK FOR: plates of polygonal eosinophilic cells radiating from a vein, separated by sinusoids. CONFIRM: portal triads at the periphery; binucleate hepatocytes. DO NOT CONFUSE WITH: adrenal cortex (also cords of eosinophilic cells) — but adrenal cells are vacuolated and lipid-rich, lack portal triads, and lie beneath a thick capsule. DECISIVE FEATURE: the **portal triad**.
+
+**Pancreas vs parotid.** Both are serous acinar glands and this is the classic confusion. The pancreas has **islets of Langerhans** (pale, rounded, richly capillarised endocrine clusters) and **centroacinar cells**, and lacks striated ducts. The parotid has **striated ducts** (eosinophilic columnar cells with basal striations from mitochondria between membrane infoldings) and adipose tissue between lobules, and has no islets. DECISIVE FEATURE: islet or centroacinar cell = pancreas; striated duct = salivary gland.
+
+**Gallbladder.** LOOK FOR: simple columnar epithelium thrown into deep mucosal folds, with a lamina propria, *no muscularis mucosae and no submucosa*, an irregular smooth muscle layer, and an outer adventitia/serosa. DECISIVE FEATURE: the **absence of a muscularis mucosae and submucosa** — unique among hollow digestive organs — often with **Rokitansky-Aschoff sinuses** (epithelial outpouchings into the wall).
 
 ## Clinical Correlation
 

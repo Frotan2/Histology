@@ -1,3 +1,5 @@
+> **SUPERSEDED — 2026-09-13.** This report describes the v3 candidate *before* remediation and is retained for provenance only. The authoritative record is `Production_Docs/14_Final_Release_Audit.md`. Every blocker listed below has since been resolved; the metrics quoted below (42,830 words, 80 questions) are obsolete — the current figures are 64,844 words and 400 questions.
+
 # Essential Histology 1405 — V3 Evidence Report
 
 **Edition:** Essential Histology — A Concept-Based Guide for PGME

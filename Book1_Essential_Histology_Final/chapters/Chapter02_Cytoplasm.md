@@ -2,6 +2,10 @@
 
 *Corresponds to Junqueira's Basic Histology, 17th Edition, Chapter 2*
 
+![](assets/images/file1.png)
+
+*Figure 2.1 — The endomembrane system and the secretory pathway. Rough ER synthesises and folds protein under chaperone quality control; the Golgi modifies and sorts it; vesicles deliver the product to the surface, to lysosomes (via the mannose-6-phosphate tag), or to storage granules.*
+
 ## Opening Question
 
 How does a cell build, fold, sort, and ship thousands of different proteins — and destroy the ones that misfolded — without mixing them up, while constantly renewing its own membrane and reshaping itself in response to its surroundings?
@@ -236,6 +240,71 @@ Both are small organelles involved in oxidation. Mitochondria generate ATP via o
 > **Do not confuse** basophilia due to RER with basophilia due to DNA — the cytoplasm is stained, not the nucleus.
 >
 > **The decisive feature is** the combination of cytoplasm colour, granularity, and tissue context. A basaloid cell with eosinophilic cytoplasm in a salivary gland is an oncocyte (mitochondria-rich); a basaloid cell with basophilic cytoplasm in a lymph node is a lymphocyte (RER-poor).
+
+## Deepening the Concept
+
+## Reading Cytoplasm as Evidence of Function
+
+Cytoplasm is a record of what a cell spends its life doing. The light microscope cannot resolve individual organelles, but it reports their *bulk* as staining properties — and that is enough to infer function with confidence.
+
+**Basophilia means ribosomes.** Haematoxylin is basic and binds polyanions; the dominant cytoplasmic polyanion is ribosomal RNA. Intensely basophilic cytoplasm therefore means abundant rough ER and free ribosomes, which means active synthesis of protein for export. The plasma cell is the purest example: deeply basophilic cytoplasm, a pale perinuclear *hof* (the unstained Golgi), and a clock-face nucleus.
+
+**Eosinophilia means protein or membranes without RNA.** Eosin binds cationic protein groups. Cytoplasm packed with mitochondria (parietal cells, oxyphil cells, cardiac muscle, distal tubule) or with contractile protein is pink. Pink cytoplasm therefore points to transport or contraction, not protein secretion.
+
+**Pale or foamy cytoplasm means extracted content.** Lipid and glycogen are dissolved during processing; the space remains. Steroid-secreting cells are therefore vacuolated and pale in H&E — itself a diagnostic feature.
+
+| Appearance | Dominant organelle | Functional inference | Prototype |
+|---|---|---|---|
+| Strongly basophilic | RER + ribosomes | Protein export | Plasma cell, pancreatic acinar cell |
+| Strongly eosinophilic, granular | Mitochondria | High ATP demand, active transport | Parietal cell, oxyphil cell |
+| Pale, vacuolated, foamy | SER + lipid droplets | Steroid synthesis / lipid storage | Adrenal cortical cell, adipocyte |
+| Eosinophilic, fibrillar | Contractile filaments | Contraction | Muscle cell |
+| Clear with apical granules | Secretory granules (mucin extracted) | Mucus secretion | Goblet cell |
+
+This table is the highest-yield inference tool in cell biology for examinations, because it converts a purely visual observation into a functional statement.
+
+## The Secretory Pathway as a Quality-Control Line
+
+The classical sequence — ribosome → RER → Golgi → vesicle → surface — is correct but omits the feature that actually explains disease: *quality control*.
+
+Translation begins on a free ribosome. An emerging N-terminal signal sequence is bound by the signal recognition particle (SRP); translation pauses; the SRP docks on its receptor in the RER membrane; translation resumes through the Sec61 translocon into the RER lumen, where signal peptidase cleaves the signal. Inside, the protein meets chaperones (BiP, calnexin, calreticulin), N-linked core glycosylation, and disulfide bond formation by protein disulfide isomerase.
+
+Only *correctly folded* protein may leave. Misfolded protein is retained, retrotranslocated to the cytosol, ubiquitinated, and destroyed by the proteasome — ER-associated degradation (ERAD). If misfolded protein accumulates faster than ERAD clears it, the *unfolded protein response* attenuates translation, upregulates chaperones, and, if stress persists, triggers apoptosis.
+
+**Clinical chain — α1-antitrypsin deficiency.** The PiZ mutation makes α1-antitrypsin misfold and polymerise inside hepatocyte RER. One molecular defect produces two diseases by two opposite mechanisms — an examination favourite. In the liver, retained polymer forms *PAS-positive, diastase-resistant globules* in periportal hepatocytes and may cause cirrhosis: a *gain of toxicity*. In the lung, absent circulating antiprotease leaves neutrophil elastase unopposed, destroying alveolar elastin and producing *panacinar emphysema*: a *loss of function*.
+
+From the Golgi, proteins are sorted. The signal for lysosomal enzymes is mannose-6-phosphate, added by GlcNAc-phosphotransferase. Loss of that enzyme causes **I-cell disease (mucolipidosis II)**: hydrolases lack the M6P tag, are secreted into plasma instead of reaching lysosomes, and undigested substrate accumulates in dense *inclusion bodies*. The diagnostic paradox is *high enzyme in serum with deficient enzyme inside cells*.
+
+## Mitochondria: Structure Predicting Biochemistry
+
+Two features are diagnostically useful.
+
+*Cristae shape declares biochemistry.* Lamellar (shelf-like) cristae indicate oxidative phosphorylation. **Tubular or tubulovesicular cristae indicate steroidogenesis**, because steroidogenic cells house CYP11A1 and other P450 enzymes in the inner membrane. Tubular cristae on an electron micrograph effectively diagnose adrenal cortex, Leydig cell, or luteal cell.
+
+*Mitochondrial DNA is maternally inherited and multi-copy.* A mutation may affect only some mitochondria in a cell — **heteroplasmy** — and disease appears only above a tissue-specific threshold. This explains maternal inheritance, variable severity within one family, and preferential involvement of high-demand tissues (skeletal and cardiac muscle, neurons, retina). The morphological signature in muscle is the **ragged red fibre** on modified Gomori trichrome.
+
+## Cytoskeleton: Three Systems, Three Jobs, Three Diseases
+
+| Feature | Microfilaments | Intermediate filaments | Microtubules |
+|---|---|---|---|
+| Diameter | 7 nm | 10 nm | 25 nm |
+| Subunit | G-actin (ATP) | Tissue-specific proteins | α/β-tubulin (GTP) |
+| Polarity | Polar | Non-polar | Polar, minus end at centrosome |
+| Motors | Myosins | None | Kinesin (+), dynein (−) |
+| Role | Contraction, motility, microvillus core, cytokinesis | Tensile strength | Transport, spindle, cilia |
+| Drug/toxin | Cytochalasin, phalloidin | — | Colchicine, vinca alkaloids, taxanes |
+| Disease | Hereditary spherocytosis | Epidermolysis bullosa simplex (K5/K14) | Primary ciliary dyskinesia |
+
+**Intermediate filaments are the diagnostic workhorse of surgical pathology**, because their protein class is lineage-specific and survives dedifferentiation: cytokeratins (epithelium), vimentin (mesenchyme), desmin (muscle), GFAP (astrocytes), neurofilaments (neurons), lamins (nuclear lamina). When a poorly differentiated metastasis cannot be classified morphologically, an immunohistochemical panel against these proteins assigns lineage. This is the direct clinical pay-off of a cell-biology fact.
+
+**Cilia and the 9+2 axoneme.** A motile cilium has nine outer doublets around a central pair; dynein arms generate sliding that nexin links convert into bending. Loss of dynein arms causes **primary ciliary dyskinesia**: impaired mucociliary clearance (chronic sinusitis, bronchiectasis), immotile sperm, and — because nodal cilia set left–right asymmetry — *situs inversus* in about half of patients (Kartagener syndrome). Distinguish the *primary cilium*: a solitary non-motile 9+0 sensory organelle on most cells, whose dysfunction underlies polycystic kidney disease.
+
+## Recognition Logic — Which Cell Is This?
+
+**LOOK FOR:** dominant cytoplasmic staining and its distribution around the nucleus.
+**CONFIRM:** an organelle signature — pale perinuclear hof, apical zymogen granules, basal striations, a brush border.
+**DO NOT CONFUSE WITH:** plasma cell vs lymphoblast — both basophilic, but the plasma cell has an eccentric clock-face nucleus and a hof; the blast has a nucleolus and no hof.
+**DECISIVE FEATURE:** the perinuclear hof — an unstained Golgi large enough to see by light microscopy, present only in a professional secretory cell.
 
 ## Clinical Correlation
 

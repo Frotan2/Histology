@@ -49,10 +49,10 @@ This book is built around the official 16-chapter examination scope. The mapping
 | 1 | Histology and Its Methods of Study | Ch. 1 |
 | 2 | The Cytoplasm | Ch. 2 |
 | 3 | The Nucleus | Ch. 3 |
-| 4 | Epithelium | Ch. 4 |
+| 4 | Epithelial Tissue | Ch. 4 |
 | 5 | Connective Tissue | Ch. 5 |
 | 6 | Adipose Tissue | Ch. 6 |
-| 7 | Nerve Tissue | Ch. 9 |
+| 7 | Nerve Tissue and the Nervous System | Ch. 9 |
 | 8 | The Circulatory System | Ch. 11 |
 | 9 | Blood | Ch. 12 |
 | 10 | Hemopoiesis | Ch. 13 |

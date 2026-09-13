@@ -2,6 +2,10 @@
 
 *Corresponds to Junqueira's Basic Histology, 17th Edition, Chapter 20*
 
+![](assets/images/file15.png)
+
+*Figure 16.1 — Endocrine organisation. Hormone-secreting cells are arranged in cords or follicles surrounded by fenestrated capillaries. The thyroid follicle is unique in storing its hormone extracellularly as colloid; the adrenal shows the three cortical zones over the chromaffin medulla.*
+
 ## Opening Question
 
 How does the body coordinate the slow, sustained regulation of metabolism, growth, reproduction, and stress response through chemical messengers in the bloodstream — and how is this coordination organised in histologically distinct glands, each with its own characteristic cell types?
@@ -130,7 +134,7 @@ Anterior pituitary produces GH, prolactin, ACTH, TSH, FSH/LH. Posterior pituitar
 - *Basophils* (corticotrophs, thyrotrophs, gonadotrophs) → ACTH, TSH, FSH/LH → euchromatic + more RER.
 - *Posterior pituitary Herring bodies* → oxytocin/ADH storage.
 - *Thyroid follicles* → colloid = thyroglobulin storage.
-- *C cells* → calcitonin (neural-crest-derived, between follicles).
+- *C cells* → calcitonin (derived from pharyngeal endoderm via the ultimobranchial body; located between follicles or within the follicular wall).
 - *Adrenal cortex spongiocytes* → cholesterol ester droplets for steroid synthesis.
 - *Chromaffin cells* → catecholamine granules.
 
@@ -168,6 +172,116 @@ Anterior pituitary produces GH, prolactin, ACTH, TSH, FSH/LH. Posterior pituitar
 - **Sheets of small chief cells with interspersed oxyphil cells** → parathyroid.
 - **Three zones (glomerulosa + fasciculata + reticularis) + central medulla** → adrenal.
 - **Chromaffin reaction positive** → adrenal medulla.
+
+## Deepening the Concept
+
+## Two Cell Types, Two Ultrastructures: The Master Key to Endocrine Histology
+
+Almost every endocrine question can be reasoned out from a single dichotomy: is the cell making a **peptide** or a **steroid**? The two demand entirely different machinery, and that machinery is visible.
+
+| Feature | Peptide/protein-secreting cell | Steroid-secreting cell |
+|---|---|---|
+| Dominant organelle | **Rough ER** + prominent Golgi | **Smooth ER** |
+| Mitochondrial cristae | Lamellar (shelf-like) | **Tubular/tubulovesicular** |
+| Storage | **Membrane-bound secretory granules** — hormone is pre-made and stored | **None** — lipid droplets store *precursor* cholesterol |
+| Cytoplasm in H&E | Basophilic or granular | Pale, **vacuolated/foamy** (lipid extracted) |
+| Release kinetics | Rapid — exocytosis of a ready-made pool | Slower — must synthesise on demand |
+| Examples | Pituitary, parathyroid, pancreatic islet, C cells | Adrenal cortex, Leydig, granulosa/luteal cells |
+
+**The storage difference has a real physiological consequence** that examiners like. Because steroids are lipid-soluble, they diffuse through the plasma membrane and *cannot* be stored in granules; the cell must synthesise them on demand from cholesterol. That is why steroid responses are slower than peptide responses, and why steroid-secreting cells are loaded with lipid droplets and the enzymes (in SER and in tubular-cristae mitochondria) to convert them.
+
+A third class, the **amine/catecholamine-secreting** cells (adrenal medulla), behaves like the peptide group: dense-core granules, rapid exocytosis.
+
+## The Pituitary: Two Organs of Different Origin Fused Together
+
+| | Adenohypophysis (anterior) | Neurohypophysis (posterior) |
+|---|---|---|
+| Embryonic origin | **Oral ectoderm** — Rathke's pouch | **Neuroectoderm** — diencephalic downgrowth |
+| Nature | True glandular epithelium | Neural tissue — axons and glia |
+| Hormones | Synthesises GH, PRL, ACTH, TSH, FSH, LH | **Synthesises none** — stores ADH and oxytocin made in the hypothalamus |
+| Hypothalamic control | **Hypophyseal portal system** (vascular) | **Direct axonal transport** (neural) |
+| Appearance | Cords of cells with mixed staining, sinusoids | Pale, fibrillar, few nuclei |
+
+**The control mechanisms are the conceptual heart of the chapter.** The anterior pituitary is controlled *hormonally*: hypothalamic neurons release releasing/inhibiting hormones into a primary capillary plexus in the median eminence; portal veins carry them down the stalk to a secondary plexus among the anterior pituitary cells. This is why it is a **portal system** — two capillary beds in series — and why it delivers high concentrations of hypothalamic hormone directly to the target without dilution in the systemic circulation. The posterior pituitary is controlled *neurally*: the hormones are made in the supraoptic and paraventricular nuclei and transported down axons to be released from terminals.
+
+Two recognition features follow. The posterior lobe contains **Herring bodies** — dilated axonal swellings packed with neurosecretory granules, seen as eosinophilic blobs — and **pituicytes**, its supporting glia. The anterior lobe contains chromophils and chromophobes:
+
+- **Acidophils** (pink) — somatotrophs (**GH**) and lactotrophs (**PRL**).
+- **Basophils** (blue) — the glycoprotein and POMC-derived hormone producers: thyrotrophs (**TSH**), gonadotrophs (**FSH/LH**), corticotrophs (**ACTH**). Remember them as **B-FLAT**: **B**asophils make **F**SH, **L**H, **A**CTH, **T**SH.
+- **Chromophobes** (pale) — degranulated or stem/resting cells.
+
+**Clinical anchors.** Prolactinoma is the commonest pituitary adenoma, causing galactorrhoea and hypogonadism. Loss of hypothalamic dopamine (the tonic *inhibitor* of prolactin) — as with stalk compression — causes hyperprolactinaemia; prolactin is unique in being under predominantly inhibitory control, so stalk section *raises* prolactin while lowering every other anterior pituitary hormone. Sheehan syndrome is postpartum ischaemic necrosis of the enlarged anterior pituitary after obstetric haemorrhage. ADH deficiency causes central **diabetes insipidus** with dilute polyuria.
+
+## The Thyroid: The Only Endocrine Gland That Stores Hormone Extracellularly
+
+The thyroid follicle is unique in the body: a sphere of simple cuboidal epithelium enclosing **colloid**, an extracellular reservoir of **thyroglobulin** holding months of hormone supply. Nowhere else does an endocrine gland store its product *outside* its cells.
+
+The synthetic cycle — worth knowing as a sequence because each step is a drug or disease target:
+
+1. **Trapping** — iodide is pumped in against a gradient by the basolateral **Na⁺/I⁻ symporter (NIS)**. Blocked by perchlorate; exploited by radioiodine uptake scans and therapy.
+2. **Thyroglobulin synthesis and secretion** — made on RER, exocytosed apically into the colloid.
+3. **Oxidation and organification** — **thyroid peroxidase (TPO)** at the apical membrane oxidises iodide and iodinates tyrosine residues on thyroglobulin, forming MIT and DIT. Blocked by thionamides (carbimazole, propylthiouracil) — the basis of antithyroid drug therapy. TPO is also the antigen in Hashimoto thyroiditis.
+4. **Coupling** — DIT + DIT → T4; MIT + DIT → T3, still bound within thyroglobulin.
+5. **Endocytosis** — follicular cells resorb colloid.
+6. **Proteolysis** — lysosomes release free T3 and T4 into the blood.
+
+**Follicular morphology reports functional state**, which converts a static picture into a physiological reading. A *resting/inactive* gland has flat cuboidal-to-squamous cells and large follicles distended with dense colloid. A **TSH-stimulated/active** gland has tall columnar cells, smaller follicles, pale colloid, and **resorption vacuoles** — scalloped clear spaces at the colloid margin where the epithelium is actively endocytosing. Seeing scalloped colloid with tall cells is a direct visual diagnosis of hyperstimulation, as in Graves disease (where TSH-receptor-stimulating autoantibodies drive the gland).
+
+**C cells (parafollicular cells)** are the second cell type: larger and paler than follicular cells, sitting *within the follicular basal lamina or between follicles*, never contacting the colloid. They secrete **calcitonin**, which lowers blood calcium by inhibiting osteoclasts — although in adult humans calcitonin has a relatively minor role in calcium homeostasis, as shown by the absence of calcium disturbance after total thyroidectomy or in calcitonin-secreting tumours.
+
+**A point of scientific currency.** Textbooks have long stated that C cells are neural-crest derived, based on old quail-chick chimaera work. Genetic lineage-tracing studies have since shown that mammalian C-cell progenitors arise from **pharyngeal (anterior) endoderm**, reaching the thyroid via the ultimobranchial bodies; neural crest contributes surrounding stromal tissue rather than the C cells themselves. Know the endodermal/ultimobranchial origin as the current evidence, while being aware that many examinations still use the older neural-crest answer. C cells remain the origin of **medullary thyroid carcinoma**, which secretes calcitonin, shows **amyloid stroma** derived from calcitonin, and occurs in MEN 2A and 2B.
+
+## Parathyroid and the Calcium Axis
+
+The parathyroid contains **chief cells** — small, pale, polygonal, the source of **PTH** — and **oxyphil cells**, which are larger with intensely eosinophilic cytoplasm packed with mitochondria, increase after puberty, and have no established function. Adipocytes progressively infiltrate the gland with age, and their presence is a useful recognition clue distinguishing a normal parathyroid from an adenoma, which is typically fat-poor.
+
+**PTH raises serum calcium by three routes**: it stimulates osteoclastic resorption *indirectly*, because osteoclasts lack PTH receptors — PTH acts on osteoblasts, which increase **RANKL** expression to activate osteoclasts (a mechanism worth knowing precisely, since it is a common trap); it increases renal calcium reabsorption while promoting phosphate excretion; and it stimulates renal 1α-hydroxylase to produce active vitamin D, increasing intestinal calcium absorption.
+
+This makes the biochemistry of hyperparathyroidism derivable rather than memorised: high PTH → high calcium, low phosphate, and bone resorption (osteitis fibrosa cystica). The clinical mnemonic "stones, bones, abdominal groans, and psychic moans" follows.
+
+## The Adrenal: Zonation Predicts Product and Pathology
+
+The adrenal is two organs in one, of separate origin: a **mesodermal cortex** secreting steroids and a **neural-crest-derived medulla** secreting catecholamines. (Note the contrast with the thyroid C cell: here the neural crest origin is well established — the medullary chromaffin cells are modified postganglionic sympathetic neurons that have lost their axons.)
+
+| Zone | Proportion | Architecture | Product | Regulated by | Disease |
+|---|---|---|---|---|---|
+| **Glomerulosa** | ~15% | Rounded clusters/arches beneath the capsule | **Aldosterone** (mineralocorticoid) | Renin-angiotensin, K⁺ | Conn syndrome |
+| **Fasciculata** | ~75% | Long straight radial cords; pale vacuolated **"spongiocytes"** | **Cortisol** (glucocorticoid) | ACTH | Cushing syndrome |
+| **Reticularis** | ~10% | Irregular anastomosing network; more eosinophilic, lipofuscin-rich | **Androgens** (DHEA) | ACTH | Virilisation; CAH |
+| **Medulla** | — | Clusters of basophilic chromaffin cells with venous sinusoids | **Adrenaline, noradrenaline** | Preganglionic sympathetic fibres | Phaeochromocytoma |
+
+**GFR — "**G**o **F**ind **R**exall, **S**alt, **S**ugar, **S**ex"** — orders the zones and their products: **G**lomerulosa/salt, **F**asciculata/sugar, **R**eticularis/sex. The deeper you go, the sweeter and then the sexier.
+
+**Why the fasciculata is pale** is the key recognition point: it contains the most lipid (cholesterol esters, the precursor pool), extracted during processing, leaving the vacuolated spongiocyte appearance. The reticularis is more eosinophilic because it has less lipid and accumulates lipofuscin.
+
+**Two mechanisms explain the medulla's peculiarities.** First, the medulla receives blood that has already passed through the cortex, so it is bathed in a very high local cortisol concentration; cortisol induces **PNMT**, the enzyme converting noradrenaline to adrenaline. This is why the adrenal medulla — uniquely — produces mostly adrenaline, and why extra-adrenal chromaffin tissue produces noradrenaline. Second, chromaffin cells are innervated directly by *preganglionic* sympathetic fibres, so they respond instantly, acting as a neuroendocrine amplifier of the sympathetic response.
+
+**Congenital adrenal hyperplasia** ties the chapter together. In 21-hydroxylase deficiency, cortisol synthesis fails; loss of negative feedback raises ACTH; ACTH drives cortical hyperplasia; and precursors are shunted into the androgen pathway, causing virilisation, with salt-wasting if aldosterone is also deficient. A single enzyme block produces a predictable histological (hyperplasia) and clinical (virilisation, salt loss) picture.
+
+## Pancreatic Islets
+
+Islets of Langerhans are pale, richly vascularised clusters embedded in the darker exocrine pancreas, comprising 1–2% of its mass.
+
+| Cell | Proportion | Position | Hormone | Action |
+|---|---|---|---|---|
+| **Beta** | ~70% | Central | **Insulin** | Lowers glucose; anabolic |
+| **Alpha** | ~20% | Peripheral | **Glucagon** | Raises glucose |
+| **Delta** | ~5–10% | Scattered | **Somatostatin** | Inhibits both, locally |
+| PP/F | Few | Peripheral | Pancreatic polypeptide | Inhibits exocrine secretion |
+
+Cell types cannot be reliably distinguished in H&E and require immunohistochemistry — an honest limitation worth stating. In **type 1 diabetes**, autoimmune T-cell-mediated destruction of beta cells produces **insulitis** (lymphocytic infiltration of islets) early, then islets that appear small and beta-cell depleted. In **type 2 diabetes**, islets may show **amyloid deposition** derived from islet amyloid polypeptide (amylin), co-secreted with insulin.
+
+## Recognition Logic — Which Endocrine Gland?
+
+**LOOK FOR:** the architectural pattern at low power — *follicles*, *cords*, *zoned cortex*, or *islands in exocrine tissue*.
+**CONFIRM and DISTINGUISH:**
+- Follicles filled with homogeneous pink colloid → **thyroid** (the only gland with follicles)
+- Capsule, three cortical zones, dark central medulla → **adrenal**
+- Sheets of small pale chief cells with interspersed adipocytes and eosinophilic oxyphils → **parathyroid**
+- Cords of mixed pink, blue and pale cells with sinusoids, adjacent to a pale fibrillar neural lobe → **pituitary**
+- Pale round clusters within darker serous acinar tissue → **pancreatic islets**
+
+**DO NOT CONFUSE WITH:** adrenal cortex and the liver — both form cords of eosinophilic cells. The adrenal has a thick capsule, distinct zonation, and vacuolated lipid-rich cells; the liver has portal triads, central veins, and binucleate hepatocytes. **DECISIVE FEATURE:** find a portal triad (liver) or a zoned cortex under a capsule (adrenal).
 
 ## Clinical Correlation
 

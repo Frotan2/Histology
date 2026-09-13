@@ -8,13 +8,15 @@ Target: Afghanistan 1405 Medical Specialty Examination.
 
 ## Current release state
 
-**Current branch:** `arena/01a095c1-histology`
+**Current branch:** `arena/01a099aa-histology`
 
-**Status:** `RELEASE BLOCKED — CANDIDATE, NOT FINAL`
+**Status:** `RELEASE APPROVED` — see `Production_Docs/14_Final_Release_Audit.md`
 
-The v3 rebuild corrected the core syllabus scope, removed Junqueira Ch. 10 Muscle from the core, and separated Junqueira Ch. 13 Hemopoiesis from Ch. 14 Immune System. However, the edition is not yet publication-ready. A semantic scientific audit, duplicate/content audit, deeper Question Bank build, independent verification, and final reader/format QA are still required.
+All ten blockers recorded in `Production_Docs/01_V3_CRITICAL_AUDIT.md` are resolved: the claudin-14 error is corrected, the Chapter 3 duplication is removed, the 30-nm fibre wording is calibrated to current evidence, the teaching text is expanded from 42,830 to **64,850 words**, the Question Bank is rebuilt from 80 to **400 traceable items**, and 16 captioned teaching diagrams are embedded in all three formats.
 
-Do not describe the current artifacts as independently verified, scientifically final, or publication-ready until the release gates in `Production_Docs/` are actually satisfied with evidence.
+An adversarial audit pass additionally found and fixed two defects the previous gate missed: the thyroid C-cell origin (corrected to pharyngeal endoderm via the ultimobranchial body) and a severe answer-key bias in the question bank (360/400 answers were option B; the key is now balanced 100/100/100/100).
+
+Residual limitations are stated openly in §6 of the final audit rather than labelled PASS. The most important are that Junqueira alignment is scope-level rather than page-level, that figures are schematic rather than photomicrographic, and that no external expert review has been performed.
 
 ## Official 16-chapter syllabus
 
@@ -51,16 +53,16 @@ Artifacts generated from that source:
 
 Sixteen chapter source files live under `Book1_Essential_Histology_Final/chapters/`.
 
-The current v3 evidence report records 45,302 words in the combined canonical source while its chapter table sums to 42,830 words. That discrepancy must be resolved before final release.
+The canonical source contains **64,850 words**, computed by a single parser over `Essential_Histology_Combined.md` (front matter included). The combined file is regenerated from the 16 chapter files, so this number is reproducible from the sources.
 
 ## Book 2 — Question Bank
 
 Canonical source:
 `Book2_Question_Bank/Essential_Histology_Question_Bank.md`
 
-The current v3 companion contains **80 questions (5 per chapter)**. This is not sufficient to represent a strong specialty-exam companion. The final Question Bank must be rebuilt from the teaching source with broad, balanced coverage and explicit traceability to chapter, content unit, learning objective, answer, rationale, and difficulty/cognitive level.
+The companion contains **400 questions (25 per chapter)**. Every item carries the correct answer, a positive rationale, a rationale for each distractor, a difficulty level (Easy 99 / Medium 209 / Hard 92), and its chapter and learning objective. The answer key is balanced exactly across options A, B, C and D (100 each) so that position gives no clue.
 
-The exact final question count is evidence-driven; arbitrary inflation is forbidden. The bank must be large enough to cover all assessed learning objectives, include cumulative mixed practice, and provide adequate repetition without duplicate or near-duplicate items.
+Artifacts: `Essential_Histology_Question_Bank.pdf` (91 pages), `.docx`, `.epub`.
 
 ## Reader architecture
 

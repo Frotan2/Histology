@@ -8,6 +8,7 @@ These documents are the authoritative quality and release controls for the curre
 2. `01_V3_CRITICAL_AUDIT.md` — the concrete defects and blockers found in the current v3 branch.
 3. `03_DEEP_REBUILD_EXECUTION_PROMPT.md` — the execution specification for the deep content rebuild and final verification.
 4. `02_RELEASE_SCORECARD.md` — release metrics and evidence to be populated during remediation/final QA.
+5. `14_Final_Release_Audit.md` — **the authoritative final audit, disposition, metrics, and stated limitations.**
 
 ## Authority rule
 
@@ -17,6 +18,6 @@ A document may not declare the edition Final merely because the files build or b
 
 ## Current release state
 
-**Candidate / Release Blocked.**
+**Release Approved** — see `14_Final_Release_Audit.md`.
 
-The branch is not permitted to claim finality until all blockers in `01_V3_CRITICAL_AUDIT.md` are resolved and the evidence required by the final standard is produced.
+All blockers in `01_V3_CRITICAL_AUDIT.md` are resolved with evidence. The final audit also records two defects found by adversarial review that the earlier gate missed, the reproducible metrics for both books, and the residual limitations, which are stated as limitations rather than labelled PASS.

@@ -2,6 +2,10 @@
 
 *Corresponds to Junqueira's Basic Histology, 17th Edition, Chapter 11*
 
+![](assets/images/file8.png)
+
+*Figure 8.1 — Vascular organisation. Wall composition tracks haemodynamics: elastic arteries store and return energy, muscular arteries distribute, arterioles set resistance, capillaries exchange, and veins act as capacitance vessels.*
+
 ## Opening Question
 
 How does one structural plan — three concentric layers with varying composition — produce an aorta that stretches, a capillary that leaks on purpose, and a vein that stores blood?
@@ -137,6 +141,66 @@ Three layers:
 **Valves** — flaps of dense CT covered by endothelium on both sides. Chordae tendineae of AV valves attach to papillary muscles.
 
 **Conduction system** — SA node, AV node, bundle of His, bundle branches, Purkinje fibres (modified cardiac muscle cells; large, pale, abundant glycogen, few myofibrils; rapidly conduct action potentials).
+
+## Deepening the Concept
+
+## The Organising Principle: Wall Composition Follows Haemodynamics
+
+Every vessel wall is a variation on three concentric tunics, and the proportions are predictable from the pressure and flow the vessel experiences. Learn the principle and the individual vessels stop needing separate memorisation.
+
+- **Tunica intima** — endothelium + basal lamina + subendothelial connective tissue; in arteries bounded externally by the **internal elastic lamina**.
+- **Tunica media** — concentric smooth muscle with variable elastin and collagen; in muscular arteries bounded externally by the **external elastic lamina**.
+- **Tunica adventitia** — connective tissue; in large vessels contains the **vasa vasorum** supplying the outer wall, and nerves.
+
+The rule: *pressure dictates media thickness; pulsatility dictates elastin content; distance from the heart shifts elastin toward muscle.*
+
+| Vessel | Decisive feature | Why |
+|---|---|---|
+| Elastic (conducting) artery — aorta, pulmonary, common carotid, subclavian | Media packed with *concentric fenestrated elastic lamellae* | Stores energy in systole and recoils in diastole — the Windkessel effect that converts pulsatile ejection into continuous flow |
+| Muscular (distributing) artery | *Thick smooth-muscle media* with prominent, often wavy internal elastic lamina | Regulates regional distribution of blood by vasoconstriction |
+| Arteriole | Media of only 1–3 smooth muscle layers; lumen ≈ wall thickness | Principal site of *peripheral resistance* and therefore of blood-pressure control |
+| Capillary | Endothelium + basal lamina only; diameter ~7–10 µm | Exchange; a single red cell passes nearly in single file |
+| Venule (postcapillary) | Endothelium with pericytes, very thin wall | Main site of *leukocyte diapedesis* and of histamine-induced leakage in inflammation |
+| Vein | Large lumen, thin wall, media thin relative to adventitia; **valves** | Low pressure capacitance vessel holding ~70% of blood volume |
+
+**The single highest-yield recognition pair** is artery versus vein in a neurovascular bundle. The artery has a thick, muscular, round wall that holds its shape, with a crisp wavy internal elastic lamina; the vein is collapsed or irregular in outline with a large lumen and a thin wall in which the adventitia is the thickest layer. The wavy internal elastic lamina is the decisive feature, and the waviness is itself a post-mortem artifact of the media contracting — a useful example of an artifact that helps rather than hinders.
+
+## Capillary Types: Structure Dictated by What Must Cross
+
+| Type | Structure | Location | Functional logic |
+|---|---|---|---|
+| Continuous | Unbroken endothelium, continuous basal lamina, tight junctions | Muscle, lung, nervous tissue, skin | Restricts passage; in the CNS the tight junctions form the **blood-brain barrier** |
+| Fenestrated | Endothelial pores (~70 nm), usually with a thin diaphragm; continuous basal lamina | Gut mucosa, endocrine glands, renal glomerulus (here *without* diaphragms) | Rapid exchange of water and small solutes; hormone entry into blood |
+| Discontinuous (sinusoid) | Large gaps between cells, *discontinuous or absent basal lamina*, wide irregular lumen | Liver, spleen, bone marrow | Permits passage of plasma proteins and even whole cells |
+
+This table answers a large family of examination questions in one step. Why are endocrine glands fenestrated? Because hormones must reach the blood quickly. Why is the marrow sinusoidal? Because newly formed blood cells must physically enter the circulation. Why is the CNS capillary continuous with tight junctions? Because neuronal function requires a tightly controlled extracellular ionic environment.
+
+## The Endothelium as an Organ
+
+Treating endothelium as inert lining is the commonest conceptual error in this chapter. It is a distributed endocrine and regulatory organ, and each of its functions has a disease.
+
+- **Vasomotor control** — produces nitric oxide (from L-arginine via eNOS) and prostacyclin to vasodilate; endothelin-1 to vasoconstrict. Loss of NO bioavailability is the earliest measurable step of *endothelial dysfunction* in hypertension, diabetes, and atherosclerosis.
+- **Antithrombotic surface** — expresses thrombomodulin, heparan sulfate, and tissue plasminogen activator, and secretes prostacyclin and NO to inhibit platelet aggregation. Injury converts it to a *prothrombotic* surface by exposing collagen and releasing von Willebrand factor from Weibel-Palade bodies.
+- **Leukocyte trafficking** — inflammatory cytokines induce P-selectin (mobilised rapidly from Weibel-Palade bodies) and E-selectin for rolling, and ICAM-1/VCAM-1 for firm adhesion. The sequence *margination → rolling → activation → firm adhesion → transmigration* is a set-piece examination answer.
+- **Permeability control** — histamine acting on postcapillary venules causes endothelial contraction and interendothelial gaps, producing the oedema of acute inflammation.
+
+**Weibel-Palade bodies** are the endothelium's distinctive organelle: rod-shaped granules storing von Willebrand factor and P-selectin. They are the structural reason endothelium can switch to a prothrombotic, pro-adhesive state within minutes.
+
+## Atherosclerosis as Applied Vascular Histology
+
+Atherosclerosis is worth tracing because it uses nearly everything in the chapter. Endothelial injury (from shear stress at branch points, hypertension, smoking, hyperglycaemia, dyslipidaemia) increases permeability and adhesion molecule expression. LDL enters the intima and is oxidised. Monocytes adhere, transmigrate, become macrophages, take up oxidised LDL through scavenger receptors, and become **foam cells**, forming the earliest visible lesion, the *fatty streak*. Cytokines recruit smooth muscle cells from the media into the intima, where they proliferate and synthesise collagen, producing the **fibrous cap** over a necrotic lipid core — the mature *atheroma*.
+
+The clinical events follow from the histology. A *stable* plaque with a thick fibrous cap causes progressive stenosis and exertional angina. An *unstable* plaque with a thin cap, large lipid core, and abundant inflammatory cells ruptures, exposing thrombogenic material to blood and triggering the occlusive thrombus of myocardial infarction. This explains an otherwise puzzling clinical fact: most infarcts arise from plaques that were *not* severely stenotic beforehand. Plaque composition, not plaque size, determines the acute event.
+
+Note the distribution logic: plaques form preferentially at bifurcations and curvatures, where flow is disturbed and laminar shear stress is low, because laminar shear normally maintains an atheroprotective endothelial phenotype.
+
+## The Heart Wall and the Conducting System
+
+The three layers parallel the vessel tunics: **endocardium** (endothelium + subendothelial connective tissue, continuous with intima), **myocardium** (cardiac muscle, the functional bulk), and **epicardium** (visceral pericardium — mesothelium over connective tissue and the adipose containing the coronary vessels).
+
+The **cardiac skeleton** is dense fibrous connective tissue forming the annuli fibrosi around the valves. It has two indispensable functions: anchoring valve cusps and muscle, and *electrically insulating atria from ventricles*, so that the only normal route of conduction is the atrioventricular node. That anatomical fact is the entire reason the AV node can impose a conduction delay allowing atrial systole to precede ventricular systole.
+
+**Purkinje fibres** are the recognition item. They are *modified cardiac muscle cells*, not nerve: larger and paler than working myocytes, with abundant glycogen (hence pale, vacuolated cytoplasm in H&E), sparse peripheral myofibrils, and located in the subendocardium. Students who assume "fibre" means "nerve" lose the mark.
 
 ## Clinical Correlation
 

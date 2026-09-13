@@ -73,6 +73,11 @@ def md_to_xhtml(md_text):
             out.append(f'<h4>{to_xhtml(s[5:])}</h4>')
             i += 1
             continue
+        m_img = re.match(r'^!\[[^\]]*\]\(([^)]+)\)\s*$', s)
+        if m_img:
+            out.append('<div class="figure"><img src="images/%s" alt="figure"/></div>' % os.path.basename(m_img.group(1)))
+            i += 1
+            continue
         if s.startswith('|'):
             rows = []
             while i < len(lines) and lines[i].strip().startswith('|'):
@@ -128,8 +133,20 @@ hr { border: none; border-top: 1px solid #ccc; margin: 2em 0; }
 .title-page h1 { font-size: 2.5em; page-break-before: avoid; }
 '''
 
+    css = css + '\n.figure { text-align: center; margin: 1.2em 0; }\n.figure img { max-width: 100%; height: auto; }\n'
     css_item = epub.EpubItem(uid='style', file_name='styles/style.css', media_type='text/css', content=css.encode('utf-8'))
     book.add_item(css_item)
+
+    # embed figure images
+    _imgdir = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'assets', 'images'))
+    if os.path.isdir(_imgdir):
+        for _fn in sorted(os.listdir(_imgdir)):
+            if _fn.lower().endswith('.png'):
+                with open(os.path.join(_imgdir, _fn), 'rb') as _fh:
+                    book.add_item(epub.EpubItem(uid='img_' + _fn.replace('.', '_'),
+                                                file_name='images/' + _fn,
+                                                media_type='image/png',
+                                                content=_fh.read()))
 
     # Title page
     title_page = epub.EpubHtml(title='Essential Histology', file_name='text/title_page.xhtml', lang='en')

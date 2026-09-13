@@ -178,6 +178,24 @@ def process_md(story, lines, start=0):
             story.append(Paragraph(to_html(s[5:]), S['h4']))
             i += 1
             continue
+        m_img = re.match(r'^!\[[^\]]*\]\(([^)]+)\)\s*$', s)
+        if m_img:
+            ipath = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', m_img.group(1))
+            ipath = os.path.normpath(ipath)
+            if os.path.exists(ipath):
+                try:
+                    from reportlab.lib.utils import ImageReader
+                    iw, ih = ImageReader(ipath).getSize()
+                    max_w = PAGE_WIDTH - (LEFT_MARGIN + GUTTER) - RIGHT_MARGIN
+                    max_h = 3.6 * inch
+                    scale = min(max_w / iw, max_h / ih)
+                    story.append(Spacer(1, 8))
+                    story.append(Image(ipath, width=iw * scale, height=ih * scale))
+                    story.append(Spacer(1, 4))
+                except Exception:
+                    pass
+            i += 1
+            continue
         if s.startswith('|'):
             rows = []
             while i < len(lines) and lines[i].strip().startswith('|'):

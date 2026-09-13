@@ -2,6 +2,10 @@
 
 *Corresponds to Junqueira's Basic Histology, 17th Edition, Chapter 4*
 
+![](assets/images/file3.png)
+
+*Figure 4.1 — Epithelial organisation and the junctional complex. The apical surface faces the lumen, the lateral surfaces carry the junctions in a fixed apical-to-basal order (tight → adherens → desmosome → gap), and the basal surface is anchored to the basement membrane by hemidesmosomes.*
+
 ## Opening Question
 
 How does the body maintain a sharp internal/external boundary — the inside of the gut, the wall of a blood vessel, the lining of a renal tubule — while still permitting selective absorption, secretion, and protection?
@@ -71,7 +75,7 @@ The junctional complex (apical to basal: tight → adherens → desmosome → ga
 
 ### Junction Detail
 
-**Tight junction** claudins (the principal barrier proteins) form paired strands that bind across the intercellular space, sealing the paracellular pathway. ZO-1/ZO-2/ZO-3 anchor the strands to the actin cytoskeleton. Different claudins confer different paracellular selectivity: claudin-2 in the proximal renal tubule is leaky (high paracellular Na⁺ flux); claudin-16 in the thick ascending limb mediates paracellular Mg²⁺ reabsorption. Mutations in claudin-14 cause familial hypomagnesaemia.
+**Tight junction** claudins (the principal barrier proteins) form paired strands that bind across the intercellular space, sealing the paracellular pathway. ZO-1/ZO-2/ZO-3 anchor the strands to the actin cytoskeleton. Different claudins confer different paracellular selectivity: claudin-2 in the proximal renal tubule is leaky (high paracellular Na⁺ flux); claudin-16 and claudin-19 in the thick ascending limb together mediate paracellular Mg²⁺ and Ca²⁺ reabsorption. Loss-of-function mutations in *CLDN16* or *CLDN19* cause familial hypomagnesaemia with hypercalciuria and nephrocalcinosis (FHHNC), an autosomal recessive tubulopathy; *CLDN19* disease additionally carries ocular involvement. This is the cleanest illustration in human pathology that a tight junction is not merely a seal but a *selective paracellular channel* — the junction itself determines which ions cross between cells.
 
 **Adherens junction** β-catenin links E-cadherin to the actin cytoskeleton; α-catenin links the complex to actin. Adherens junctions mediate contact inhibition of proliferation; β-catenin released from the junction can enter the nucleus and activate Wnt target genes when the junction is destabilised. APC mutations in colorectal cancer disrupt β-catenin regulation.
 
@@ -170,6 +174,67 @@ Both have apical-basal polarity. Simple: all nuclei basal, single row. Pseudostr
 - **Single layer, nuclei at varying heights, apical cilia + goblet cells** → pseudostratified ciliated columnar (respiratory tract).
 - **Multiple layers, surface flat, may be keratinised** → stratified squamous.
 - **Multiple layers, surface dome-shaped, in distensible organ** → transitional (urothelium).
+
+## Deepening the Concept
+
+## Recognition Logic — Identifying an Epithelium in Four Moves
+
+Epithelial identification is the single most examined recognition skill in histology, and it is entirely algorithmic.
+
+**Move 1 — Find the basement membrane and the free surface.** Orientation comes first. The free (apical) surface faces a lumen or the exterior; the basal surface sits on connective tissue. Without establishing polarity you cannot count layers.
+
+**Move 2 — Count the layers at the *thinnest* point you can find.** Tangential sectioning makes epithelia look thicker than they are. Judge where the section is clearly perpendicular.
+
+**Move 3 — Name the shape of the *surface* cells only.** Classification uses the surface layer, not the basal layer. Stratified squamous epithelium has cuboidal basal cells; that does not make it stratified cuboidal.
+
+**Move 4 — Look for a specialisation that names the organ.** A brush border says intestine or proximal tubule. Cilia plus goblet cells says respiratory. Stereocilia says epididymis. Umbrella cells say urothelium. Keratin says epidermis.
+
+### The Classic Confusions
+
+| Confused pair | Decisive feature |
+|---|---|
+| Pseudostratified vs stratified | In pseudostratified, *every* cell touches the basement membrane; look for cytoplasm tapering to the base between nuclei |
+| Transitional (urothelium) vs stratified squamous | Urothelium has large dome-shaped *umbrella cells*, often binucleate, and no keratin |
+| Simple squamous vs a section that missed the nuclei | Follow the layer along its length; nuclei will appear where the plane crosses them |
+| Mesothelium vs endothelium | Both simple squamous; mesothelium lines body cavities (pleura, peritoneum), endothelium lines vessels containing blood |
+| Brush border vs cilia | Cilia are individually resolvable and taller, with a basal-body line beneath; brush border is a uniform unresolved fuzzy band |
+
+## Junctions: From Molecule to Blistering Disease
+
+The junctional complex is best learnt as a vertical sequence with one protein family and one disease each, because examinations test exactly those links.
+
+| Junction | Adhesion molecule | Cytoskeletal link | Disease when it fails |
+|---|---|---|---|
+| Tight junction (zonula occludens) | Claudins, occludin, JAMs | Actin via ZO-1/2/3 | FHHNC (CLDN16/19); barrier failure in inflammation |
+| Adherens junction (zonula adherens) | E-cadherin (Ca²⁺-dependent) | Actin via α/β-catenin | E-cadherin loss → diffuse gastric and lobular breast carcinoma |
+| Desmosome (macula adherens) | Desmoglein, desmocollin | Keratin via plakoglobin, desmoplakin | Pemphigus vulgaris (anti-Dsg3) |
+| Gap junction | Connexins (six per connexon) | None | Cx26 mutation → autosomal recessive deafness |
+| Hemidesmosome | Integrin α6β4, BP180/BP230 | Keratin via plectin | Bullous pemphigoid; junctional epidermolysis bullosa |
+
+**The blister-level rule is a guaranteed examination point.** Antibodies against *desmoglein* attack a junction *between keratinocytes*, so the split is **intraepidermal** and the blister is flaccid, easily ruptured, with acantholytic cells floating free (pemphigus vulgaris). Antibodies against *hemidesmosomal* BP180/BP230 attack the attachment of the basal cell to the basement membrane, so the split is **subepidermal**, beneath the entire epidermis, and the blister is tense (bullous pemphigoid). The clinical difference in blister tension is a direct readout of which junction was destroyed — structure predicting clinical sign.
+
+**E-cadherin deserves special emphasis** because it connects three domains at once. Structurally it is the adherens-junction adhesion molecule. Functionally, its loss releases β-catenin, which can enter the nucleus and drive Wnt target genes. Clinically, loss of E-cadherin removes cell–cell cohesion, which is why *CDH1*-mutant carcinomas grow as discohesive single files rather than cohesive nests — the histological appearance of lobular breast carcinoma and diffuse (signet-ring) gastric carcinoma. One molecule explains the microscopic growth pattern.
+
+## The Basement Membrane as a Functional Filter
+
+It helps to recognise that the basement membrane performs four distinct jobs, and each has a disease that proves it.
+
+1. *Attachment.* Anchoring of epithelium via integrin–laminin–collagen VII. Failure: epidermolysis bullosa, in which minor friction separates epidermis from dermis.
+2. *Filtration.* In the glomerulus the basement membrane provides size and charge selectivity, the charge barrier coming largely from heparan sulfate proteoglycan. Failure: proteinuria.
+3. *Scaffolding for repair.* If the basement membrane survives an injury, regenerating epithelium uses it as a template and architecture is restored; if it is destroyed, healing proceeds by scarring. This single principle explains why some injuries heal invisibly and others leave permanent fibrosis.
+4. *Barrier defining invasion.* This is the most clinically consequential. **Carcinoma in situ** is malignant epithelium that has not breached the basement membrane; it cannot metastasise, because access to lymphatics and capillaries lies beyond it. **Invasive carcinoma** has breached it, typically using matrix metalloproteinases. The entire staging distinction — and the prognosis — rests on a structure a few hundred nanometres thick.
+
+**Alport syndrome and Goodpasture syndrome are the paired type IV collagen diseases.** Alport is an inherited defect in the α3/α4/α5 chains (most often X-linked *COL4A5*), producing a structurally abnormal glomerular basement membrane with characteristic basket-weave lamina densa splitting on EM, haematuria, progressive renal failure, and sensorineural hearing loss. Goodpasture is an acquired autoantibody against the NC1 domain of the α3 chain, producing linear immunofluorescence along the GBM, glomerulonephritis, and pulmonary haemorrhage — because the same α3 chain is present in alveolar basement membrane. Same molecule; one genetic, one autoimmune; one explains why the lung is involved.
+
+## Glands: Predicting Product from Appearance
+
+Exocrine secretory cells announce their product.
+
+- **Serous cells** are pyramidal with a *round basal nucleus*, *strongly basophilic basal cytoplasm* (abundant RER), and *eosinophilic apical zymogen granules*. They secrete watery, enzyme-rich fluid. Prototype: pancreatic acinar cell, parotid gland.
+- **Mucous cells** are pale and foamy with a *flattened basal nucleus pressed against the base* by accumulated mucin, which washes out in processing. They secrete viscous glycoprotein. Prototype: sublingual gland, goblet cell.
+- **Serous demilunes** are crescents of serous cells capping mucous acini in mixed glands. Note the modern caveat: demilunes are now regarded as substantially a *fixation artifact* of rapid mucin swelling in conventional fixation, and are largely absent with rapid-freezing methods. They remain a useful identifying feature on routine slides, but should not be described as a purely native structure.
+
+Mechanism of release is a separate axis and a frequent examination item: **merocrine** (exocytosis only — most glands, including pancreas and salivary), **apocrine** (apical cytoplasm pinched off with the product — lactating mammary lipid), and **holocrine** (the whole cell dies and becomes the secretion — sebaceous gland). The decisive recognition cue for holocrine secretion is seeing cells *progressively disintegrating* toward the duct.
 
 ## Clinical Correlation
 

@@ -145,6 +145,17 @@ def process_md(doc, lines, start=0):
             i += 1
             continue
 
+        m_img = re.match(r'^!\[[^\]]*\]\(([^)]+)\)\s*$', line.strip())
+        if m_img:
+            ipath = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', m_img.group(1)))
+            if os.path.exists(ipath):
+                try:
+                    doc.add_picture(ipath, width=Inches(6.0))
+                    doc.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
+                except Exception:
+                    pass
+            i += 1
+            continue
         if line.strip().startswith('|'):
             rows = []
             while i < len(lines) and lines[i].strip().startswith('|'):
