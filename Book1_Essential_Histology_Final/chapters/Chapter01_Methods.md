@@ -189,7 +189,7 @@ The microscope is not a magnifier; it is a contrast generator. Each modality exp
 
 ## Deepening the Concept
 
-## Reading a Slide: The Discipline of Systematic Observation
+### Reading a Slide: The Discipline of Systematic Observation
 
 Most students lose marks not because they lack knowledge but because they look at a slide without a method. A trained observer always moves through the same four steps, and the order matters.
 
@@ -203,7 +203,7 @@ Most students lose marks not because they lack knowledge but because they look a
 
 This sequence is the recognition engine of this book. Every Recognition Logic section that follows is this sequence compressed.
 
-## Why Sections Lie: Plane of Section
+### Why Sections Lie: Plane of Section
 
 A histological section is a 5 µm slice through a three-dimensional object. Everything you see is the *intersection* of a structure with the plane of the knife, and this single fact produces more examination errors than any other.
 
@@ -217,7 +217,7 @@ Three rules follow:
 
 **Examination trap.** Apparent stratification in a duct: the test is whether *every* cell contacts the basement membrane. Nuclei at several levels with all cells reaching the base is *pseudostratified*, not stratified. Plane of section can hide nuclei but cannot remove basement-membrane contact.
 
-## Quantitative Anchors Worth Memorising
+### Quantitative Anchors Worth Memorising
 
 | Reference | Size | Use |
 |---|---|---|
@@ -229,7 +229,7 @@ Three rules follow:
 
 The erythrocyte is the most valuable. A nucleus the size of a red cell belongs to a small lymphocyte. A cell three to four red cells wide is a large cell — macrophage, megakaryocyte precursor, hepatocyte.
 
-## Resolution, Explained Rather Than Asserted
+### Resolution, Explained Rather Than Asserted
 
 Resolution is the minimum distance at which two points remain distinguishable. It improves as wavelength decreases and numerical aperture increases. Visible light (400–700 nm) places the practical limit of light microscopy near 0.2 µm regardless of magnification.
 
@@ -237,7 +237,7 @@ Two consequences follow. First, *magnification beyond the resolution limit adds 
 
 Practical translation: microvilli (~0.1 µm wide) cannot be resolved by light microscopy, which is exactly why they appear collectively as an unresolved fuzzy *brush border* rather than discrete projections. Cilia (~0.2 µm, at the limit) *are* individually visible. A student who understands resolution never has to memorise this distinction.
 
-## Fixation Chemistry and What Goes Wrong
+### Fixation Chemistry and What Goes Wrong
 
 Formaldehyde forms methylol adducts with lysine; adjacent adducts condense into methylene bridges that cross-link proteins. Three consequences follow directly:
 
@@ -247,7 +247,7 @@ Formaldehyde forms methylol adducts with lysine; adjacent adducts condense into 
 
 Glutaraldehyde cross-links more extensively and preserves ultrastructure far better but penetrates poorly — hence its use for EM on millimetre blocks, usually followed by osmium tetroxide, which both fixes and stains unsaturated lipids and so renders membranes electron-dense.
 
-## Artifacts and the Reasoning That Identifies Them
+### Artifacts and the Reasoning That Identifies Them
 
 | Artifact | Appearance | Cause | Recognising it |
 |---|---|---|---|

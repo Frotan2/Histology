@@ -93,7 +93,7 @@ Below: lamina fibroreticularis (type III collagen) with anchoring fibrils (type 
 
 Functions: structural support, selective filter (glomerular filtration barrier), barrier to tumour invasion (in situ vs invasive carcinoma), signals to epithelial cell (integrin-mediated).
 
-### Basement Membrane Detail
+### Basement Membrane — Molecular Composition
 
 Components:
 - **Type IV collagen** — forms a sheet network via NC1 domain interactions, rather than fibrils; provides the scaffold. The α3α4α5 isoforms are specialised in the glomerular basement membrane.
@@ -177,7 +177,7 @@ Both have apical-basal polarity. Simple: all nuclei basal, single row. Pseudostr
 
 ## Deepening the Concept
 
-## Recognition Logic — Identifying an Epithelium in Four Moves
+### Recognition Logic — Identifying an Epithelium in Four Moves
 
 Epithelial identification is the single most examined recognition skill in histology, and it is entirely algorithmic.
 
@@ -199,7 +199,7 @@ Epithelial identification is the single most examined recognition skill in histo
 | Mesothelium vs endothelium | Both simple squamous; mesothelium lines body cavities (pleura, peritoneum), endothelium lines vessels containing blood |
 | Brush border vs cilia | Cilia are individually resolvable and taller, with a basal-body line beneath; brush border is a uniform unresolved fuzzy band |
 
-## Junctions: From Molecule to Blistering Disease
+### Junctions: From Molecule to Blistering Disease
 
 The junctional complex is best learnt as a vertical sequence with one protein family and one disease each, because examinations test exactly those links.
 
@@ -215,7 +215,7 @@ The junctional complex is best learnt as a vertical sequence with one protein fa
 
 **E-cadherin deserves special emphasis** because it connects three domains at once. Structurally it is the adherens-junction adhesion molecule. Functionally, its loss releases β-catenin, which can enter the nucleus and drive Wnt target genes. Clinically, loss of E-cadherin removes cell–cell cohesion, which is why *CDH1*-mutant carcinomas grow as discohesive single files rather than cohesive nests — the histological appearance of lobular breast carcinoma and diffuse (signet-ring) gastric carcinoma. One molecule explains the microscopic growth pattern.
 
-## The Basement Membrane as a Functional Filter
+### The Basement Membrane as a Functional Filter
 
 It helps to recognise that the basement membrane performs four distinct jobs, and each has a disease that proves it.
 
@@ -226,7 +226,7 @@ It helps to recognise that the basement membrane performs four distinct jobs, an
 
 **Alport syndrome and Goodpasture syndrome are the paired type IV collagen diseases.** Alport is an inherited defect in the α3/α4/α5 chains (most often X-linked *COL4A5*), producing a structurally abnormal glomerular basement membrane with characteristic basket-weave lamina densa splitting on EM, haematuria, progressive renal failure, and sensorineural hearing loss. Goodpasture is an acquired autoantibody against the NC1 domain of the α3 chain, producing linear immunofluorescence along the GBM, glomerulonephritis, and pulmonary haemorrhage — because the same α3 chain is present in alveolar basement membrane. Same molecule; one genetic, one autoimmune; one explains why the lung is involved.
 
-## Glands: Predicting Product from Appearance
+### Glands: Predicting Product from Appearance
 
 Exocrine secretory cells announce their product.
 
@@ -293,7 +293,7 @@ Epithelium is a polarised sheet of cells attached to a basement membrane, with a
 5. Reconstruct the levels at which pemphigus and pemphigoid split the epithelium and explain why.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Recognition Micro-Features
 
@@ -318,14 +318,6 @@ Stem cells reside in specific niches:
 - **Intestinal crypts** — Lgr5+ stem cells at the crypt base; Paneth cells provide Wnt, EGF, Notch signals.
 - **Epidermal basal layer** — interfollicular stem cells; hair follicle bulge stem cells (K15+) contribute to wound re-epithelialisation.
 - **Corneal limbus** — limbal stem cells; deficiency → corneal neovascularisation and opacification.
-
-### Common Misconceptions Extended
-
-- *All epithelia are avascular.* Stratified squamous of the cornea is avascular; most epithelia rest on a vascularised basement membrane.
-- *Transitional epithelium is "transitional" because it changes shape.* It is transitional because it was thought to be intermediate between stratified squamous and stratified columnar; it is specialised urothelium, not a "transition" between other types.
-- *Pseudostratified means multiple layers.* A single layer with nuclei at different heights (every cell touches the basement membrane).
-- *Microvilli = cilia.* Microvilli = membrane protrusions (actin core); cilia = membrane-bound organelles (microtubule core). Different ultrastructure, different motility, different functions.
-- *Squamous cells are only on surfaces.* Mesothelium is also simple squamous (peritoneum, pleura, pericardium); mesothelial cells are squamous but have microvilli on their free surface (unique).
 
 ## Transition
 

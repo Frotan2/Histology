@@ -7,7 +7,7 @@
 
 ## How to Use This Bank
 
-This bank contains **400 single-best-answer questions — 25 per chapter**, written against the learning objectives of the companion teaching text. Every item carries:
+This bank contains **417 single-best-answer questions**, written against the learning objectives of the companion teaching text. Every item carries:
 
 - the **correct answer**;
 - an explanation of **why the correct option is right**;
@@ -15,13 +15,13 @@ This bank contains **400 single-best-answer questions — 25 per chapter**, writ
 - a **difficulty level** (Easy / Medium / Hard);
 - the **chapter** and **learning objective** it assesses.
 
-No question tests a fact that is not taught in the textbook. Distractors reproduce the specific confusions addressed by the textbook's "Do not confuse with" sections, so a wrong answer diagnoses a particular misunderstanding rather than merely recording a lost mark.
+Every learning objective stated in the textbook is assessed by at least one item: there are **no orphan objectives**. No question tests a fact that is not taught in the textbook. Distractors reproduce the specific confusions addressed by the textbook's "Do not confuse with" sections, so a wrong answer diagnoses a particular misunderstanding rather than merely recording a lost mark.
 
-**Difficulty mix.** Easy items (99) check that a definition or decisive feature has been learned. Medium items (209) require application of a mechanism. Hard items (92) require integration across topics or discrimination between two closely related entities.
+**Difficulty mix.** Easy 104 · Medium 215 · Hard 98. Easy items check that a definition or decisive feature has been learned; Medium items require application of a mechanism; Hard items require integration across topics or discrimination between two closely related entities.
 
-**Answer-key balance.** Correct answers are distributed exactly evenly across options A, B, C and D (100 each), so that position gives no clue to the answer.
+**Answer-key balance.** Correct answers are distributed evenly across options (A 105 · B 104 · C 104 · D 104), so position gives no clue to the answer.
 
-**A note on evolving science.** A few items address points where the classical textbook answer has been revised by newer evidence — for example the embryological origin of thyroid C cells, and the status of the 30-nm chromatin fibre. These are flagged in their explanations, which state both the current evidence and the older answer that some examinations still expect.
+**A note on evolving science.** A few items address points where the classical textbook answer has been revised by newer evidence — the embryological origin of thyroid C cells, the status of the 30-nm chromatin fibre, and serous demilunes. These are flagged in their explanations, which state both the current evidence and the older answer that some examinations still expect.
 
 ---
 
@@ -250,6 +250,36 @@ D) Count mitoses
 **Why A:** Architecture constrains the possibilities before any cell is named; cells confirm rather than initiate the diagnosis.
 **Why not:** B) Premature high power is the commonest student error. C, D) Come much later, if at all.
 
+**Q26.** Living tissue must be fixed before examination primarily because:
+A) Autolytic enzymes released from lysosomes begin destroying cellular architecture within minutes of death
+B) It is too soft to cut
+C) It lacks colour
+D) It is too thick for light to pass through
+
+**Answer: A** · **Difficulty:** Easy · **LO 1.1**
+**Why A:** Fixation cross-links protein and arrests enzymatic self-digestion, preserving structure as it was in life.
+**Why not:** B) Hardness is addressed by embedding. C) Addressed by staining. D) Addressed by sectioning. Each of these is a *later* step that would be pointless on already-autolysed tissue.
+
+**Q27.** A biopsy is processed by paraffin embedding and stained with H&E. Compared with a frozen section of the same tissue, the paraffin section will:
+A) Preserve lipid better
+B) Give superior morphological detail but take hours and lose lipid
+C) Be available within minutes
+D) Preserve enzyme activity
+
+**Answer: B** · **Difficulty:** Medium · **LO 1.7**
+**Why B:** Full processing gives thin, well-preserved sections but requires dehydration and clearing, which extract lipid, and takes hours to overnight.
+**Why not:** A, D) Frozen sections preserve lipid and enzyme activity. C) That is the advantage of the frozen section.
+
+**Q28.** Under polarised light a Congo red-stained deposit glows apple-green. The correct interpretation is:
+A) Glycogen is present
+B) Iron is present
+C) Amyloid is present, because its β-pleated sheet aligns the dye
+D) Calcium is present
+
+**Answer: C** · **Difficulty:** Medium · **LO 1.8**
+**Why C:** Birefringence arises from the ordered β-pleated sheet; the finding is the diagnostic criterion for amyloid.
+**Why not:** A) PAS, magenta. B) Perls, blue. D) Alizarin red (or von Kossa indirectly).
+
 ---
 
 # Chapter 2 — Cytoplasm
@@ -458,6 +488,16 @@ D) A viral protein aggregate
 **Answer: B** · **Difficulty:** Medium · **LO 2.5**
 **Why B:** The golden-brown "wear-and-tear" pigment of long-lived cells such as neurons, cardiac myocytes, hepatocytes.
 **Why not:** A, D) Not infectious. C) Glycogen is PAS-positive and extracted differently.
+
+**Q26.** Which stain-target pairing for a cytoplasmic structure is correct?
+A) Oil Red O → glycogen
+B) Congo red → mitochondria
+C) Prussian blue → lipid
+D) PAS → glycogen, with loss of staining after diastase
+
+**Answer: D** · **Difficulty:** Medium · **LO 2.6**
+**Why D:** PAS detects the 1,2-glycol groups of carbohydrate; diastase sensitivity identifies the carbohydrate specifically as glycogen.
+**Why not:** A) Oil Red O detects lipid and needs a frozen section. C) Prussian blue detects iron. B) Congo red detects amyloid.
 
 ---
 
@@ -1059,6 +1099,43 @@ A) A form of Ehlers-Danlos syndrome  B) Marfan syndrome  C) Scurvy  D) Osteogene
 **Why A:** Defective propeptide cleavage impairs normal fibril assembly — a recognised EDS mechanism.
 **Why not:** B) FBN1. C) Acquired vitamin deficiency with different features. D) Bone fragility predominates.
 
+**Q26.** The three structural components of connective tissue are:
+A) Cells, fibres, and ground substance
+B) Collagen, elastin, and reticulin
+C) Epithelium, stroma, and vessels
+D) Cells, vessels, and nerves
+
+**Answer: A** · **Difficulty:** Easy · **LO 5.1**
+**Why A:** The defining feature of connective tissue is that the *matrix* (fibres plus ground substance), not the cells, is the functional element.
+**Why not:** B) These are three fibre types, only one component. C) Describes organ architecture. D) Omits the matrix entirely.
+
+**Q27.** A section shows chondrocytes in lacunae within a homogeneous basophilic matrix containing no blood vessels, covered by a perichondrium. This is:
+A) Bone  B) Hyaline cartilage  C) Dense regular connective tissue  D) Fibrocartilage
+
+**Answer: B** · **Difficulty:** Medium · **LO 5.7**
+**Why B:** Avascularity, lacunae, a glassy basophilic matrix, and a perichondrium together identify hyaline cartilage.
+**Why not:** A) Bone is vascular with lamellae and canaliculi. C) Tendon has no lacunae. D) Fibrocartilage has visible coarse type I collagen bundles and no perichondrium.
+
+**Q28.** Fibrocartilage is distinguished from hyaline cartilage by:
+A) Having a perichondrium
+B) Being more basophilic
+C) Containing type I collagen in visible bundles and lacking a perichondrium
+D) Being avascular
+
+**Answer: C** · **Difficulty:** Hard · **LO 5.7**
+**Why C:** It is the transitional tissue at tendon-bone and ligament-bone junctions, and the only cartilage built on type I collagen.
+**Why not:** A) It lacks one. B) It is more eosinophilic because of the collagen. D) Both are avascular, so this does not discriminate.
+
+**Q29.** PTH increases bone resorption by:
+A) Binding receptors directly on osteoclasts
+B) Stimulating osteocyte division
+C) Inhibiting osteoprotegerin synthesis only
+D) Acting on osteoblasts, which express RANKL to activate osteoclast precursors
+
+**Answer: D** · **Difficulty:** Hard · **LO 5.6**
+**Why D:** Osteoclasts have **no PTH receptors**. Resorption is commanded by the bone-*forming* cell — the reason anti-RANKL therapy (denosumab) suppresses resorption.
+**Why not:** A) The classic trap. C) Osteoprotegerin is a RANKL decoy, but this is not the principal mechanism. B) Osteocytes do not divide.
+
 ---
 
 # Chapter 6 — Adipose Tissue
@@ -1259,6 +1336,26 @@ A) White adipose tissue  B) Brown adipose tissue  C) Sebaceous gland  D) Liposar
 **Why B:** Multilocular morphology, central nuclei, site and age are all concordant.
 **Why not:** A) Unilocular with peripheral nuclei. C) Attached to a follicle with a duct. D) Atypical lipoblasts.
 
+**Q26.** Beige (brite) adipocytes are best described as:
+A) UCP1-capable cells arising within white depots in response to cold or β-adrenergic stimulation
+B) Immature white adipocytes
+C) Brown adipocytes that have lost UCP1
+D) Macrophages containing lipid
+
+**Answer: A** · **Difficulty:** Medium · **LO 6.6**
+**Why A:** "Browning" is an adaptive, inducible response and a current therapeutic target in obesity.
+**Why not:** B) They are a distinct functional state, not an immature stage. C) The reverse. D) Those are foam cells.
+
+**Q27.** A soft-tissue mass contains cells with multiple cytoplasmic vacuoles that scallop and indent a hyperchromatic, irregular nucleus. The diagnosis is:
+A) Lipoma
+B) Liposarcoma, identified by lipoblasts
+C) Normal brown fat
+D) Hibernoma
+
+**Answer: B** · **Difficulty:** Hard · **LO 6.7**
+**Why B:** The indented *atypical* nucleus is the decisive malignant feature; a normal adipocyte nucleus is smoothly compressed and bland.
+**Why not:** A) Composed of mature bland adipocytes. C, D) Multivacuolated but with bland central round nuclei and no atypia.
+
 ---
 
 # Chapter 7 — Nerve Tissue and Nervous System
@@ -1441,7 +1538,7 @@ B) Pink colour
 C) Flattened nuclei in rows
 D) Wavy parallel collagen
 
-**Answer: A** · **Difficulty:** Medium · **LO 7.7**
+**Answer: A** · **Difficulty:** Medium · **LO 7.10**
 **Why A:** The haloes are dissolved myelin around axons.
 **Why not:** B) Both are pink. C, D) Both describe tendon.
 
@@ -1461,6 +1558,56 @@ D) Producing CSF
 **Answer: C** · **Difficulty:** Hard · **LO 7.2**
 **Why C:** The barrier resides in the endothelium, but astrocytes induce and sustain the phenotype — a frequently confused point.
 **Why not:** A) Endothelial cells form them. B) Microglia. D) Choroid plexus.
+
+**Q26.** The arrangement of grey and white matter is:
+A) Grey outside in both brain and spinal cord
+B) Grey inside in both
+C) Grey outside in the cerebrum and cerebellum, but inside in the spinal cord
+D) Randomly distributed
+
+**Answer: C** · **Difficulty:** Easy · **LO 7.6**
+**Why C:** Cortical grey lies superficially in brain; in the cord the grey forms a central butterfly surrounded by white funiculi. This inversion is the fastest orientation test on a CNS section.
+**Why not:** A, B) Each is true of only one region. D) The arrangement is highly ordered.
+
+**Q27.** A section shows a single row of very large flask-shaped neurons between an outer pale layer and an inner densely nucleated layer. This is:
+A) Cerebral cortex
+B) Dorsal root ganglion
+C) Spinal cord grey matter
+D) Cerebellar cortex, with Purkinje cells
+
+**Answer: D** · **Difficulty:** Easy · **LO 7.7**
+**Why D:** The single Purkinje cell row between molecular and granular layers is unique in the body.
+**Why not:** A) Six indistinct layers with triangular pyramidal cells. C) Butterfly-shaped, no layering. B) Clustered round somata with satellite cells.
+
+**Q28.** Purkinje cells are notable because they:
+A) Are the sole output of the cerebellar cortex and are inhibitory (GABAergic)
+B) Are the only excitatory output of the cerebellar cortex
+C) Receive no input
+D) Lie in the granular layer
+
+**Answer: A** · **Difficulty:** Hard · **LO 7.7**
+**Why A:** The entire cerebellar cortex computes onto one inhibitory output cell — a frequently examined point.
+**Why not:** B) They are inhibitory, not excitatory. C) They receive parallel and climbing fibre input. D) They form their own layer.
+
+**Q29.** An epidural haematoma is lens-shaped and arterial, whereas a subdural haematoma is crescent-shaped and venous, because:
+A) Blood clots differently in each space
+B) Dura is adherent to bone, so arterial blood must strip it away, while subdural venous blood spreads freely
+C) The arachnoid is impermeable
+D) CSF dilutes subdural blood
+
+**Answer: B** · **Difficulty:** Hard · **LO 7.8**
+**Why B:** The shape of each haemorrhage is a direct readout of meningeal anatomy and the vessel torn (middle meningeal artery versus bridging veins).
+**Why not:** A) Clotting is the same. C, D) Neither determines the shape.
+
+**Q30.** A ganglion shows clustered round neuronal somata, each fully encircled by satellite cells, with no synapses present. This is:
+A) An autonomic ganglion
+B) The choroid plexus
+C) A dorsal root ganglion
+D) A Meissner plexus
+
+**Answer: C** · **Difficulty:** Medium · **LO 7.9**
+**Why C:** Sensory information passes straight through a dorsal root ganglion, so no synapses occur there — the decisive difference from an autonomic ganglion.
+**Why not:** A) Multipolar, scattered neurons *with* synapses and incomplete satellite rings. B) Cuboidal epithelium on vascular fronds. D) Enteric, within the gut wall.
 
 ---
 
@@ -2268,6 +2415,16 @@ A) Lymph node  B) Spleen  C) Peyer's patch  D) Thymus
 **Why C:** Unencapsulated MALT in the ileal mucosa/submucosa with M cells in the overlying epithelium.
 **Why not:** A) Encapsulated with sinuses. B) Central arterioles and red pulp. D) Hassall's corpuscles.
 
+**Q26.** Which correctly pairs a lymphoid organ with its class?
+A) Thymus — secondary
+B) Lymph node — primary
+C) Spleen — primary
+D) Bone marrow and thymus — primary; lymph node, spleen and MALT — secondary
+
+**Answer: D** · **Difficulty:** Easy · **LO 11.1**
+**Why D:** Primary organs *generate and educate* lymphocytes without foreign antigen; secondary organs are where mature lymphocytes *meet antigen*, and only they contain germinal centres.
+**Why not:** A, B, C all misassign an organ where antigen-driven activation occurs to the primary class.
+
 ---
 
 # Chapter 12 — Digestive System
@@ -2883,6 +3040,16 @@ A) Less prominent; increases  B) More prominent; disappears  C) Unchanged; uncha
 **Why B:** This is why bronchioles are the site of bronchoconstriction in asthma.
 **Why not:** A, C, D reverse or deny the gradient.
 
+**Q26.** Which statement about pneumocytes is correct?
+A) Type II cells are the more numerous (~60% of cells) but cover only ~5% of the surface
+B) Type I cells are both the more numerous and cover more surface
+C) Type II cells cover ~95% of the surface
+D) Type I and type II are present in equal numbers and cover equal areas
+
+**Answer: A** · **Difficulty:** Hard · **LO 14.3**
+**Why A:** Type I cells are ~40% of alveolar cells yet spread over ~95% of the surface because each is paper-thin; type II cells are ~60% of cells but compact and cuboidal, covering ~5%.
+**Why not:** B) Type I cover more surface but are fewer. C) That is the type I figure. D) Neither number nor area is equal. Quoting only one of the two figures is what makes this a reliable trap.
+
 ---
 
 # Chapter 15 — Skin
@@ -3320,6 +3487,6 @@ D) A thick capsule with zonation and lipid-rich vacuolated cells versus portal t
 
 # End of Question Bank
 
-**Total: 400 questions across the 16 official chapters (25 per chapter).**
+**Total: 417 questions across the 16 official chapters.**
 
-Every item is traceable to chapter → learning objective → answer → rationale → difficulty. Items were reviewed to remove over-specific molecular-pathology claims, to ensure each distractor is a plausible and instructive error, and to balance the answer key across all four options.
+Every item is traceable to chapter → learning objective → answer → rationale → difficulty, and every stated learning objective is assessed. Items were reviewed to remove over-specific molecular-pathology claims, to ensure each distractor is a plausible and instructive error, and to balance the answer key across all four options.

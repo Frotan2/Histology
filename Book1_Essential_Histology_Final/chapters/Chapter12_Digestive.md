@@ -155,7 +155,12 @@ Rectal columnar → transitional → non-keratinised stratified squamous at pect
 
 ## Deepening the Concept
 
-## One Plan, Four Layers: The Template That Organises the Whole Tract
+### One Plan, Four Layers: The Template That Organises the Whole Tract
+
+![](assets/images/gi_layers.png)
+
+*Figure 12.2 — The four-layer plan. Each plexus governs the layer it lies beside: the myenteric plexus sits between the muscle coats it drives, the submucosal plexus beside the mucosa whose secretion it controls. Submucosal glands occur in only two places in the entire tract.*
+
 
 From oesophagus to anal canal the digestive tube is built on a single four-layer plan. Learning the template once means each organ is then described only by how it *deviates* from it — which is exactly how examination questions are constructed.
 
@@ -168,7 +173,7 @@ From oesophagus to anal canal the digestive tube is built on a single four-layer
 
 **Hirschsprung disease** is the clinical proof. Failure of neural crest cells to complete their craniocaudal migration leaves a distal segment — most often rectosigmoid — *aganglionic*, lacking both plexuses. Without inhibitory innervation the segment remains tonically contracted, producing functional obstruction with massive proximal dilatation. The diagnosis is made histologically on a rectal suction biopsy showing *absence of ganglion cells* with hypertrophied nerve trunks. Note the trap: the dilated segment looks abnormal radiologically, but the *narrow* distal segment is the diseased one.
 
-## Region-by-Region: The Decisive Feature of Each
+### Region-by-Region: The Decisive Feature of Each
 
 | Region | Epithelium | Decisive identifying feature |
 |---|---|---|
@@ -191,7 +196,7 @@ From oesophagus to anal canal the digestive tube is built on a single four-layer
 
 *Colon vs ileum.* The absence of villi is decisive. Colonic mucosa presents a flat surface pierced by straight, parallel, test-tube-like crypts packed with goblet cells.
 
-## The Gastric Gland: Cells, Products, and the Diseases That Follow
+### The Gastric Gland: Cells, Products, and the Diseases That Follow
 
 | Cell | Location in gland | Appearance | Product | Clinical significance |
 |---|---|---|---|---|
@@ -208,7 +213,7 @@ From oesophagus to anal canal the digestive tube is built on a single four-layer
 
 **Intrinsic factor is the other parietal cell product and the more dangerous to lose.** It binds vitamin B12 for absorption in the terminal ileum. Autoimmune destruction of parietal cells (autoimmune gastritis) therefore causes *both* achlorhydria *and* B12 deficiency — pernicious anaemia with megaloblastic changes and subacute combined degeneration of the cord. One cell type, two clinical syndromes.
 
-## The Mucosal Barrier and Its Failures
+### The Mucosal Barrier and Its Failures
 
 The gastric mucosa faces a paradox: it secretes an acid strong enough to digest tissue yet must not digest itself. Protection comes from a layered defence — an adherent mucus-bicarbonate layer maintaining a near-neutral pH at the epithelial surface, tight junctions between surface cells, rapid epithelial turnover, and a rich mucosal blood flow that removes back-diffused H⁺. **Prostaglandins (PGE2)** maintain mucus and bicarbonate secretion and mucosal blood flow.
 
@@ -216,7 +221,7 @@ Two common clinical problems follow directly. **NSAIDs** inhibit cyclo-oxygenase
 
 **Barrett oesophagus** is the metaplasia to know: chronic acid reflux causes the stratified squamous epithelium of the distal oesophagus to be replaced by *intestinal-type columnar epithelium with goblet cells*. It is an adaptive change — columnar epithelium tolerates acid better — but it carries an increased risk of adenocarcinoma. Goblet cells above the gastro-oesophageal junction are the decisive diagnostic finding.
 
-## Recognition Logic — Small Intestine vs Colon vs Stomach
+### Recognition Logic — Small Intestine vs Colon vs Stomach
 
 **LOOK FOR:** at scanning power, the surface profile. Villi → small intestine. Flat surface with crypts → colon. Deep pits leading into glands, no villi and no goblet-cell-packed crypts → stomach.
 **CONFIRM:** locate a decisive structure — parietal cells (stomach), Brunner glands (duodenum), Peyer's patches (ileum), taeniae coli and goblet-rich straight crypts (colon).
@@ -295,7 +300,7 @@ The GI tract is a tube with a conserved four-layer organisation (mucosa, submuco
 6. What is Hirschsprung disease and what is the histological finding?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Gastric Acid Secretion Mechanism
 

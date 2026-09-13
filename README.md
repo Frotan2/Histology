@@ -10,13 +10,15 @@ Target: Afghanistan 1405 Medical Specialty Examination.
 
 **Current branch:** `arena/01a099aa-histology`
 
-**Status:** `RELEASE APPROVED` — see `Production_Docs/14_Final_Release_Audit.md`
+**Status:** `RELEASE APPROVED` — see `Production_Docs/15_Second_Adversarial_Audit.md` (latest) and `14_Final_Release_Audit.md`
 
 All ten blockers recorded in `Production_Docs/01_V3_CRITICAL_AUDIT.md` are resolved: the claudin-14 error is corrected, the Chapter 3 duplication is removed, the 30-nm fibre wording is calibrated to current evidence, the teaching text is expanded from 42,830 to **64,850 words**, the Question Bank is rebuilt from 80 to **400 traceable items**, and 16 captioned teaching diagrams are embedded in all three formats.
 
 An adversarial audit pass additionally found and fixed two defects the previous gate missed: the thyroid C-cell origin (corrected to pharyngeal endoderm via the ultimobranchial body) and a severe answer-key bias in the question bank (360/400 answers were option B; the key is now balanced 100/100/100/100).
 
-Residual limitations are stated openly in §6 of the final audit rather than labelled PASS. The most important are that Junqueira alignment is scope-level rather than page-level, that figures are schematic rather than photomicrographic, and that no external expert review has been performed.
+A second adversarial audit (2026-09-13) found and fixed a further nine defects, including a self-contradiction on pneumocyte proportions, a Chapter 7 that did not teach the nervous system named in its title, a broken heading hierarchy in all 16 chapters, and 14 chapters in which the legacy "Advanced Concepts" section duplicated the newer expansion. Chapter 7 now covers the CNS and peripheral ganglia, and Chapter 5 carries a cartilage-and-bone essentials section — both added inside the existing chapters so the fixed 16-chapter syllabus is preserved. Details in `Production_Docs/15_Second_Adversarial_Audit.md`.
+
+Residual limitations are stated openly rather than labelled PASS. The most important are that Junqueira alignment is scope-level rather than page-level, that figures are schematic rather than photomicrographic, and that no external expert review has been performed.
 
 ## Official 16-chapter syllabus
 
@@ -60,9 +62,9 @@ The canonical source contains **64,850 words**, computed by a single parser over
 Canonical source:
 `Book2_Question_Bank/Essential_Histology_Question_Bank.md`
 
-The companion contains **400 questions (25 per chapter)**. Every item carries the correct answer, a positive rationale, a rationale for each distractor, a difficulty level (Easy 99 / Medium 209 / Hard 92), and its chapter and learning objective. The answer key is balanced exactly across options A, B, C and D (100 each) so that position gives no clue.
+The companion contains **417 questions**. Every item carries the correct answer, a positive rationale, a rationale for each distractor, a difficulty level (Easy 104 / Medium 217 / Hard 96), and its chapter and learning objective. The answer key is balanced across options A, B, C and D (105/104/104/104) so that position gives no clue. Every stated learning objective is assessed: there are no orphan objectives.
 
-Artifacts: `Essential_Histology_Question_Bank.pdf` (91 pages), `.docx`, `.epub`.
+Artifacts: `Essential_Histology_Question_Bank.pdf` (97 pages), `.docx`, `.epub`.
 
 ## Reader architecture
 

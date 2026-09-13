@@ -144,7 +144,7 @@ Three layers:
 
 ## Deepening the Concept
 
-## The Organising Principle: Wall Composition Follows Haemodynamics
+### The Organising Principle: Wall Composition Follows Haemodynamics
 
 Every vessel wall is a variation on three concentric tunics, and the proportions are predictable from the pressure and flow the vessel experiences. Learn the principle and the individual vessels stop needing separate memorisation.
 
@@ -165,7 +165,7 @@ The rule: *pressure dictates media thickness; pulsatility dictates elastin conte
 
 **The single highest-yield recognition pair** is artery versus vein in a neurovascular bundle. The artery has a thick, muscular, round wall that holds its shape, with a crisp wavy internal elastic lamina; the vein is collapsed or irregular in outline with a large lumen and a thin wall in which the adventitia is the thickest layer. The wavy internal elastic lamina is the decisive feature, and the waviness is itself a post-mortem artifact of the media contracting — a useful example of an artifact that helps rather than hinders.
 
-## Capillary Types: Structure Dictated by What Must Cross
+### Capillary Types: Structure Dictated by What Must Cross
 
 | Type | Structure | Location | Functional logic |
 |---|---|---|---|
@@ -175,7 +175,7 @@ The rule: *pressure dictates media thickness; pulsatility dictates elastin conte
 
 This table answers a large family of examination questions in one step. Why are endocrine glands fenestrated? Because hormones must reach the blood quickly. Why is the marrow sinusoidal? Because newly formed blood cells must physically enter the circulation. Why is the CNS capillary continuous with tight junctions? Because neuronal function requires a tightly controlled extracellular ionic environment.
 
-## The Endothelium as an Organ
+### The Endothelium as an Organ
 
 Treating endothelium as inert lining is the commonest conceptual error in this chapter. It is a distributed endocrine and regulatory organ, and each of its functions has a disease.
 
@@ -186,7 +186,7 @@ Treating endothelium as inert lining is the commonest conceptual error in this c
 
 **Weibel-Palade bodies** are the endothelium's distinctive organelle: rod-shaped granules storing von Willebrand factor and P-selectin. They are the structural reason endothelium can switch to a prothrombotic, pro-adhesive state within minutes.
 
-## Atherosclerosis as Applied Vascular Histology
+### Atherosclerosis as Applied Vascular Histology
 
 Atherosclerosis is worth tracing because it uses nearly everything in the chapter. Endothelial injury (from shear stress at branch points, hypertension, smoking, hyperglycaemia, dyslipidaemia) increases permeability and adhesion molecule expression. LDL enters the intima and is oxidised. Monocytes adhere, transmigrate, become macrophages, take up oxidised LDL through scavenger receptors, and become **foam cells**, forming the earliest visible lesion, the *fatty streak*. Cytokines recruit smooth muscle cells from the media into the intima, where they proliferate and synthesise collagen, producing the **fibrous cap** over a necrotic lipid core — the mature *atheroma*.
 
@@ -194,7 +194,7 @@ The clinical events follow from the histology. A *stable* plaque with a thick fi
 
 Note the distribution logic: plaques form preferentially at bifurcations and curvatures, where flow is disturbed and laminar shear stress is low, because laminar shear normally maintains an atheroprotective endothelial phenotype.
 
-## The Heart Wall and the Conducting System
+### The Heart Wall and the Conducting System
 
 The three layers parallel the vessel tunics: **endocardium** (endothelium + subendothelial connective tissue, continuous with intima), **myocardium** (cardiac muscle, the functional bulk), and **epicardium** (visceral pericardium — mesothelium over connective tissue and the adipose containing the coronary vessels).
 
@@ -256,7 +256,7 @@ The circulatory system is a closed network organised into a vessel hierarchy —
 6. Compare the structure of an artery and a vein of similar size.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Endothelial Heterogeneity and Specialised Circulations
 

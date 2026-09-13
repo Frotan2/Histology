@@ -144,7 +144,7 @@ Bone marrow produces all blood cells and matures B cells. Thymus educates T cell
 
 ## Deepening the Concept
 
-## The Governing Logic: Lymphoid Organ Architecture Follows the Antigen's Route
+### The Governing Logic: Lymphoid Organ Architecture Follows the Antigen's Route
 
 Every lymphoid organ is built around one question: *where does the antigen come from?* Answer that and the architecture becomes predictable rather than arbitrary.
 
@@ -157,7 +157,7 @@ Every lymphoid organ is built around one question: *where does the antigen come 
 
 The thymus is the exception that proves the rule: it is the only lymphoid organ that must *not* meet foreign antigen, because its job is to test developing T cells against *self*. Accordingly it has no afferent lymphatics at all — a fact that is both a recognition feature and a conceptual anchor.
 
-## Primary vs Secondary Lymphoid Organs
+### Primary vs Secondary Lymphoid Organs
 
 **Primary (central)** organs — bone marrow and thymus — are where lymphocytes are *generated and educated* in the absence of foreign antigen. B cells mature in the marrow; T cells mature in the thymus. Both involute or decline with age.
 
@@ -165,7 +165,7 @@ The thymus is the exception that proves the rule: it is the only lymphoid organ 
 
 This distinction answers a family of questions at once. Germinal centres in the thymus would be abnormal (and are indeed seen in the thymic hyperplasia of myasthenia gravis). A newborn's lymph nodes have primary follicles without germinal centres because no antigen has yet been encountered.
 
-## T-Cell Education: Two Selections, Two Failures
+### T-Cell Education: Two Selections, Two Failures
 
 In the thymic **cortex**, immature double-positive (CD4+CD8+) thymocytes are tested by cortical epithelial cells. **Positive selection** retains only those whose T-cell receptor binds self-MHC with *some* affinity; cells that cannot recognise self-MHC at all would be useless and die by neglect. This is the origin of MHC restriction.
 
@@ -175,7 +175,7 @@ Over 90% of thymocytes die in this process. The resulting apoptotic debris is cl
 
 **Recognising the thymus:** lobulated, with a *dark cortex* (densely packed small thymocytes) and a *pale medulla*, and the decisive feature — **Hassall's corpuscles**, whorled concentric aggregates of keratinised medullary epithelial cells, found in the medulla and in no other organ. Thymic *involution* after puberty replaces the parenchyma with adipose tissue while Hassall's corpuscles persist, which is how an adult thymus is still identifiable.
 
-## The Lymph Node, Compartment by Compartment
+### The Lymph Node, Compartment by Compartment
 
 Lymph flows: afferent lymphatics → **subcapsular sinus** → trabecular (cortical) sinuses → **medullary sinuses** → efferent lymphatic at the hilum. Macrophages lining these sinuses filter particulates and antigen.
 
@@ -187,7 +187,7 @@ Lymph flows: afferent lymphatics → **subcapsular sinus** → trabecular (corti
 
 **Clinical anchor.** In HIV infection, the paracortical CD4+ T-cell zone is progressively depleted, and germinal centres first become florid and later collapse and involute — the histology of the lymph node tracks the course of the disease.
 
-## The Spleen: Two Organs in One
+### The Spleen: Two Organs in One
 
 **White pulp** is the immune organ: lymphoid tissue arranged around a **central arteriole**. The **periarteriolar lymphoid sheath (PALS)** of T cells immediately surrounds the arteriole; B-cell follicles lie eccentrically alongside it; a marginal zone surrounds both and is where antigen is first encountered. On a slide, white pulp is visible at low power as discrete blue nodules — and the decisive feature is the **eccentric arteriole within the lymphoid nodule**, which a lymph node follicle never has.
 
@@ -197,7 +197,7 @@ Lymph flows: afferent lymphatics → **subcapsular sinus** → trabecular (corti
 
 **Post-splenectomy sepsis** follows from the marginal zone: the spleen is the principal site for mounting antibody responses to *polysaccharide* capsular antigens. Its loss leaves patients vulnerable to overwhelming infection with encapsulated organisms — *Streptococcus pneumoniae*, *Haemophilus influenzae* type b, *Neisseria meningitidis* — hence the vaccination requirement before elective splenectomy.
 
-## MALT and the Mucosal Interface
+### MALT and the Mucosal Interface
 
 Mucosa-associated lymphoid tissue is unencapsulated lymphoid tissue at mucosal surfaces — tonsils, Peyer's patches of the ileum, appendix, and bronchus-associated tissue. Its distinguishing device is the **M (microfold) cell**, a specialised epithelial cell with a thin, sparsely microvillous apical surface and a deep basolateral pocket containing lymphocytes and dendritic cells. M cells transcytose luminal antigen directly to the immune cells waiting in the pocket, allowing immune surveillance of the gut lumen without breaching the barrier.
 
@@ -205,7 +205,7 @@ The dominant mucosal effector is **secretory IgA**, produced as a dimer by lamin
 
 The same M cells that permit surveillance are exploited as portals by pathogens including *Salmonella*, *Shigella*, and poliovirus — an elegant illustration that any gateway can be subverted.
 
-## Recognition Logic — Which Lymphoid Organ?
+### Recognition Logic — Which Lymphoid Organ?
 
 **LOOK FOR:** a capsule, then the presence and position of follicles.
 **CONFIRM and DISTINGUISH:**
@@ -278,7 +278,7 @@ The lymphoid system separates primary (education) from secondary (execution) org
 6. Why is BCL2 expression in germinal centres a marker of follicular lymphoma?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Lymphocyte Trafficking
 

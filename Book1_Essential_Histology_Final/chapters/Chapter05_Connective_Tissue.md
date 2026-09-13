@@ -14,7 +14,7 @@ How does the body build tissues that bind organs together, support them, defend 
 
 Connective tissue is the most abundant and most diverse of the four basic tissue types. It binds organs (loose CT), supports epithelia (BM + underlying CT), transmits forces (dense regular CT of tendons), and circulates cells and molecules (blood). Many diseases directly affect connective tissue — fibrosis, scurvy, Marfan syndrome, Ehlers-Danlos, osteogenesis imperfecta.
 
-> **Note on scope.** Per the official 16-chapter syllabus, cartilage (Junqueira Ch 7) and bone (Junqueira Ch 8) are not in the core. Cartilage is type II collagen-rich specialised CT; bone is type I collagen + hydroxyapatite specialised CT. They share the same cell–matrix principle taught here.
+> **Note on scope.** Cartilage (Junqueira 7) and bone (Junqueira 8) are not separate chapters in the official 16-chapter syllabus, so they are not developed in full. Because they are specialised connective tissues built on the same cell–matrix principle, and because later chapters depend on them, an essentials section is included below under Classification.
 
 ## Learning Objectives
 
@@ -23,7 +23,7 @@ Connective tissue is the most abundant and most diverse of the four basic tissue
 3. Explain the composition and function of the ground substance.
 4. Identify the major connective-tissue cell types and their functions.
 5. Classify connective tissues by composition and architecture.
-6. Distinguish connective tissue proper from blood, cartilage, and bone.
+6. Distinguish connective tissue proper from blood, cartilage, and bone, and describe the essential structure of cartilage and bone.
 7. Recognise the histological appearance of the major connective-tissue types.
 
 ## Big Picture
@@ -69,14 +69,6 @@ Proteoglycans — GAGs attached to a core protein. Examples: aggrecan (cartilage
 Glycoproteins — fibronectin (binds integrins + collagen), laminin (binds integrins + type IV collagen; found in BM).
 
 Function: hydrated gel resists compression; binds and stores growth factors (TGF-β, FGF); medium for diffusion of nutrients/waste/signals.
-
-### Ground Substance Detail
-
-Hyaluronic acid (hyaluronan) is the simplest GAG — non-sulfated, not covalently linked to protein, very high MW (up to millions of daltons). It is synthesised by hyaluronan synthases on the plasma membrane and extruded directly into the ECM. Hyaluronan is highly hydrated; in CT it creates the gel that allows diffusion. In cartilage (out of core) it forms the backbone of large aggregates with aggrecan.
-
-The sulfated GAGs (chondroitin sulfate, dermatan sulfate, keratan sulfate, heparan sulfate) are attached to core proteins to form proteoglycans. Aggrecan binds hyaluronic acid via link proteins to form huge aggregates that hydrate cartilage matrix. Decorin and biglycan bind TGF-β and regulate its availability. Perlecan in the BM is essential for the size- and charge-selective filtration in the glomerulus; mutations cause Pierson syndrome.
-
-Fibronectin is a dimeric glycoprotein that binds integrins (α5β1 in fibroblasts) and collagen; it is essential for cell migration during wound healing. Laminin-1 is the principal laminin of epithelial BMs; laminin-332 (laminin-5) is specific to hemidesmosomes. Tenascin and thrombospondin are matricellular proteins that regulate cell-matrix interactions during development and wound healing.
 
 ### Cells
 
@@ -135,11 +127,36 @@ Wound healing illustrates the CT principle: cells + matrix + signals in dynamic 
 
 Excessive healing → keloid (scar extends beyond original wound, exuberant collagen deposition) or hypertrophic scar (raised but within wound boundaries). Defective healing → chronic wound (diabetic foot ulcer, pressure ulcer). The molecular basis of fibrosis is sustained TGF-β signalling and myofibroblast persistence.
 
-### Specialized Connective Tissues (out of core, brief mention)
+### Cartilage and Bone — The Essentials You Still Need
 
-Cartilage (J7) and bone (J8) are specialised connective tissues with type II / type I collagen respectively and are not covered in core per the official 16-chapter syllabus. The cell–matrix principle is the same: cells produce matrix, matrix determines function.
+Cartilage (Junqueira 7) and bone (Junqueira 8) sit outside the official 16-chapter core, so they are not developed in full here. They cannot be ignored altogether, however, for two reasons: they are specialised connective tissues built on exactly the cell-plus-matrix principle of this chapter, and other chapters in this book depend on them — the parathyroid chapter explains PTH acting on osteoblasts to drive osteoclasts, and the respiratory chapter uses cartilage plates as the decisive feature separating a bronchus from a bronchiole. What follows is the working minimum.
 
-Blood is fluid CT (Chapter 9).
+**The shared principle.** In every connective tissue the cells make a matrix, and the matrix determines the mechanical behaviour. Cartilage adds a highly hydrated proteoglycan gel and resists *compression*; bone adds mineral and resists compression *and* tension while remaining light.
+
+**Cartilage.** Chondrocytes sit in spaces called **lacunae** within a matrix they secrete. Cartilage is **avascular** and is nourished by diffusion from the surrounding **perichondrium**, which is why it heals poorly and why thickness is limited. Its matrix is type II collagen plus aggrecan bound to hyaluronan — the giant aggregate described earlier in this chapter — and the bound water is what resists compression.
+
+| Type | Matrix fibres | Perichondrium | Location | Decisive feature |
+|---|---|---|---|---|
+| **Hyaline** | Type II collagen (fine, masked) | Present (except articular surfaces) | Trachea, bronchi, costal, articular, growth plate, fetal skeleton | Glassy blue-grey matrix; chondrocytes in lacunae, often paired |
+| **Elastic** | Type II + **elastic fibres** | Present | External ear, epiglottis, auditory tube | Dark branching elastic fibres in the matrix |
+| **Fibrocartilage** | **Type I** collagen, coarse parallel bundles | **Absent** | Intervertebral disc, pubic symphysis, menisci | Chondrocytes in rows between visible collagen bundles; looks part-tendon, part-cartilage |
+
+Fibrocartilage is the common examination item, because it is the transitional tissue: it appears wherever tendon or ligament meets bone, and it is the only cartilage with type I collagen and no perichondrium.
+
+**Bone.** Osteocytes occupy lacunae and communicate through **canaliculi**; the matrix is type I collagen (tensile strength) impregnated with **hydroxyapatite** crystals (compressive strength and the calcium reservoir). Mature **lamellar** bone is laid down in ordered sheets; in compact bone these form concentric lamellae around a central vascular channel, the unit being the **osteon (Haversian system)**. Immature or rapidly formed **woven** bone has disordered collagen and is always abnormal in the adult skeleton — it appears in fracture callus, in Paget disease, and around tumours.
+
+Three cells run the tissue, and their relationship answers most endocrine questions about calcium:
+
+- **Osteoblast** — builds matrix (osteoid) and then mineralises it; derived from mesenchymal stem cells.
+- **Osteocyte** — a retired osteoblast trapped in its own matrix; senses mechanical load.
+- **Osteoclast** — a large multinucleated cell of *monocyte/macrophage* lineage that resorbs bone by acidifying a sealed compartment beneath its ruffled border.
+
+**The mechanism worth carrying to Chapter 16:** osteoclasts have **no PTH receptors**. PTH acts on *osteoblasts*, which respond by expressing **RANKL**; RANKL binds RANK on osteoclast precursors and drives their maturation. Osteoprotegerin, also made by osteoblasts, is a decoy receptor that blocks RANKL and so restrains resorption. Bone resorption is therefore always commanded by the bone-*forming* cell — a counter-intuitive fact that examiners exploit, and the reason denosumab (an anti-RANKL antibody) works.
+
+**Recognition on a section.** Cartilage: chondrocytes in lacunae within a smooth, homogeneous, basophilic matrix, with no blood vessels. Bone: osteocytes in lacunae within a strongly eosinophilic matrix showing lamellae, with canaliculi radiating between cells and vascular channels present. The decisive discriminator is **vascularity plus lamellae** — cartilage has neither.
+
+Blood is fluid connective tissue and is covered in Chapter 9.
+
 
 ## Compare & Distinguish
 
@@ -171,7 +188,7 @@ Blood is fluid CT (Chapter 9).
 
 ## Deepening the Concept
 
-## Collagen Synthesis: A Pathway Where Every Step Has a Disease
+### Collagen Synthesis: A Pathway Where Every Step Has a Disease
 
 Collagen synthesis is worth learning step by step, because each step has a corresponding disorder, and examiners test the pathway by asking which step failed.
 
@@ -194,7 +211,7 @@ Collagen synthesis is worth learning step by step, because each step has a corre
 
 A single memory hook covers two of these: **vitamin C for hydroxylation, copper for cross-linking.** "C before cross-link; copper *at* cross-link."
 
-## The Fibre Types and How to Tell Them Apart on a Slide
+### The Fibre Types and How to Tell Them Apart on a Slide
 
 | Fibre | Composition | H&E appearance | Special stain | Where it dominates |
 |---|---|---|---|---|
@@ -206,7 +223,7 @@ A single memory hook covers two of these: **vitamin C for hydroxylation, copper 
 
 **Elastic fibres and Marfan syndrome.** Elastin provides recoil; its cross-links are the unusual amino acids desmosine and isodesmosine, formed by the same lysyl oxidase that cross-links collagen. Elastin is deposited on a scaffold of **fibrillin-1** microfibrils. In Marfan syndrome, *FBN1* mutation disrupts the scaffold, weakening the aortic media (risk of dissection) and the ciliary zonule (lens dislocation). There is a second mechanism now recognised: fibrillin-1 normally sequesters latent TGF-β, so its loss also produces excess TGF-β signalling, which contributes to the aortic pathology — this is why the disease is more than simple mechanical weakness.
 
-## Ground Substance: Why It Matters More Than It Looks
+### Ground Substance: Why It Matters More Than It Looks
 
 Ground substance is invisible in routine H&E — it washes out, leaving apparently empty space — and students consequently underrate it.
 
@@ -216,7 +233,7 @@ Because GAGs are polyanions, they are **basophilic and metachromatic** — they 
 
 **Mucopolysaccharidoses** are lysosomal storage diseases in which GAG degradation fails (Hurler, α-L-iduronidase; Hunter, iduronate sulfatase, X-linked). Undegraded GAG accumulates in lysosomes throughout connective tissue, producing coarse facial features, corneal clouding, skeletal dysplasia, and organomegaly. Histologically the cells appear as distended, vacuolated "clear cells."
 
-## The Cells: Resident vs Wandering
+### The Cells: Resident vs Wandering
 
 | Cell | Nucleus | Cytoplasm | Decisive feature | Role |
 |---|---|---|---|---|
@@ -229,7 +246,7 @@ Because GAGs are polyanions, they are **basophilic and metachromatic** — they 
 
 **Mast cells and the mechanism of anaphylaxis.** Mast cells carry IgE bound to high-affinity FcεRI receptors. Antigen cross-linking adjacent IgE molecules triggers degranulation, releasing preformed histamine and heparin and then newly synthesised leukotrienes and prostaglandins. Histamine causes vasodilation, increased venular permeability, and bronchial smooth muscle contraction — precisely the clinical picture of urticaria, angio-oedema, and bronchospasm. The distribution of mast cells is itself informative: they are concentrated in connective tissue *around small blood vessels* and beneath epithelial surfaces exposed to the environment — skin, airway, gut — because that is where environmental antigen arrives.
 
-## Recognition Logic — Which Connective Tissue?
+### Recognition Logic — Which Connective Tissue?
 
 **LOOK FOR:** the ratio of cells to fibres, and whether fibres are ordered or random.
 **CONFIRM:** *Loose (areolar)* — many cells, sparse randomly woven fibres, abundant ground substance, many capillaries; found beneath epithelia. *Dense irregular* — few cells, thick collagen bundles in many directions; dermis, capsules; resists stress from all directions. *Dense regular* — few cells, parallel bundles with flattened fibroblasts squeezed in rows; tendon and ligament; resists tension in one axis.
@@ -287,7 +304,7 @@ A 20-year-old man with tall stature, arachnodactyly, and lens dislocation dies s
 
 ## Integrated Summary
 
-Connective tissue is the most abundant and most diverse of the four basic tissue types, defined by an abundant extracellular matrix. The matrix has three components (fibers, ground substance, water); its composition determines every disease. Collagen I is the principal fibrillar collagen (tendon, dermis, bone); type III is reticular; type IV is sheet-forming in the BM. Elastic fibers are elastin core + fibrillin-1 scaffold. Ground substance is GAGs + proteoglycans + glycoproteins in a hydrated gel. CT cells include fibroblasts, macrophages, mast cells, plasma cells, adipocytes, and mesenchymal stem cells. Cartilage and bone are specialised connective tissues out of core per the official 16-chapter syllabus.
+Connective tissue is the most abundant and most diverse of the four basic tissue types, defined by an abundant extracellular matrix. The matrix has three components (fibers, ground substance, water); its composition determines every disease. Collagen I is the principal fibrillar collagen (tendon, dermis, bone); type III is reticular; type IV is sheet-forming in the BM. Elastic fibers are elastin core + fibrillin-1 scaffold. Ground substance is GAGs + proteoglycans + glycoproteins in a hydrated gel. CT cells include fibroblasts, macrophages, mast cells, plasma cells, adipocytes, and mesenchymal stem cells. Cartilage and bone are specialised connective tissues covered here in essentials: both place cells in lacunae within a matrix that determines mechanical behaviour — hydrated proteoglycan for compression in cartilage, hydroxyapatite on collagen for rigidity in bone.
 
 ## Mastery Check
 
@@ -298,22 +315,7 @@ Connective tissue is the most abundant and most diverse of the four basic tissue
 5. Why does the matrix, not the cells, determine CT function and disease?
 
 
-## Advanced Concepts
-
-### Collagen Synthesis Pathway Detail
-
-Collagen synthesis is a multistep process that explains collagen diseases:
-
-1. **Pre-procollagen synthesis** (RER) — signal peptide directs nascent polypeptide into ER; pro-α chains assemble into triple helix (procollagen) with N- and C-terminal propeptides.
-2. **Hydroxylation** (RER, requires vitamin C) — proline and lysine residues hydroxylated by prolyl/lysyl hydroxylases; *vitamin C deficiency → hydroxyproline deficiency → triple helix unstable → scurvy* (bleeding gums, poor wound healing, perifollicular haemorrhages).
-3. **Glycosylation** (RER, Golgi) — hydroxylysine residues glycosylated.
-4. **Triple helix formation** (Golgi) — procollagen triple helix with retained propeptides.
-5. **Exocytosis** — procollagen secreted.
-6. **Cleavage of propeptides** (extracellular) — procollagen peptidases cleave N- and C-terminal propeptides → insoluble tropocollagen.
-7. **Cross-linking** (extracellular, lysyl oxidase, requires Cu²⁺) — lysine and hydroxylysine residues oxidatively deaminated → allysine → cross-links with adjacent tropocollagen molecules → collagen fibril.
-   - *Menkes disease* (Cu²⁺ transport defect) → defective cross-linking → kinky hair, brittle bones.
-   - *Ehlers-Danlos* (various, e.g., lysyl hydroxylase deficiency in type VI) → defective cross-linking → hyperextensible skin, hypermobile joints.
-8. **Fibril assembly** (extracellular) — staggered tropocollagen molecules → 67 nm D-banding periodicity.
+## Going Further — Mechanisms Beyond the Core
 
 ### Elastic Fibre Detail
 
@@ -322,16 +324,6 @@ Elastic fibres are composed of an elastin core surrounded by a fibrillin-1 micro
 - *Marfan syndrome* — FBN1 (fibrillin-1) mutation; fibrillin-1 microfibrils defective → *aortic dissection, ectopia lentis, skeletal overgrowth*. Fibrillin-1 also sequesters TGF-β; defective fibrillin → excess TGF-β signalling → additional pathology.
 - *Williams syndrome* — elastin gene deletion (7q11.23); supravalvular aortic stenosis, "elfin" facies, hypercalcaemia, friendly personality.
 - *Cutis laxa* — elastin gene mutation or acquired (post-inflammatory); loose, redundant skin.
-
-### Ground Substance Detail Extended
-
-GAG turnover is mediated by specific enzymes:
-- *Hyaluronidase* degrades hyaluronic acid (target of bacterial hyaluronidase, which spreads infection through CT).
-- *Sulfatases* degrade sulfated GAGs; *mucopolysaccharidoses* (Hurler, Hunter, Morquio) are deficiencies in specific lysosomal sulfatases or hydrolases → GAG accumulation → coarse facies, hepatosplenomegaly, skeletal dysplasia, intellectual disability.
-
-Decorin, biglycan, lumican, and fibromodulin are small leucine-rich proteoglycans that bind TGF-β and regulate collagen fibril assembly. Decorin deficiency → irregular collagen fibrils and skin fragility.
-
-Fibronectin has two forms: *plasma fibronectin* (circulating, in fibrin clots, supports wound healing) and *cellular fibronectin* (insoluble, in ECM). Fibronectin binds integrins (RGD sequence), collagen, fibrin, and heparan sulfate; it is essential for cell migration in embryogenesis and wound healing.
 
 ## Transition
 
@@ -344,4 +336,4 @@ Connective tissue in general, and the loose connective tissue that supports ever
 - Ground substance: GAGs + proteoglycans (aggrecan) + glycoproteins (fibronectin, laminin).
 - Cells: fibroblast (matrix production), macrophage (phagocytosis, CD68+), mast cell (allergy, metachromatic), plasma cell (clock-face nucleus, perinuclear hof, antibody secretion).
 - Connective tissue proper: loose, dense irregular, dense regular, elastic, reticular, mucous.
-- Specialised: cartilage (J7) and bone (J8) out of scope per official syllabus.
+- Specialised: cartilage (chondrocytes in lacunae, avascular, type II collagen; hyaline/elastic/fibrocartilage) and bone (osteocytes in lacunae, type I collagen + hydroxyapatite, osteon). PTH acts on osteoblasts → RANKL → osteoclast activation.

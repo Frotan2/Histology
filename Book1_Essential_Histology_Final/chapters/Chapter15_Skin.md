@@ -167,7 +167,7 @@ Epidermis provides barrier (chemical, microbial, UV, mechanical), waterproofing,
 
 ## Deepening the Concept
 
-## The Epidermis as a Production Line
+### The Epidermis as a Production Line
 
 The epidermis is best understood as a conveyor belt: a single mitotic layer at the base feeds cells upward, and those cells execute a programmed differentiation that ends in their own death, producing a corpse layer that is the actual barrier. Transit takes roughly four weeks.
 
@@ -185,7 +185,7 @@ The epidermis is best understood as a conveyor belt: a single mitotic layer at t
 
 **Psoriasis** is the disease of accelerated transit. Turnover shortens from ~28 days to ~4 days, so cells reach the surface before they finish differentiating. The histology follows exactly: **parakeratosis** (retained nuclei in the stratum corneum, because there was no time to lose them), *loss of the granular layer* (no time to form keratohyalin), **acanthosis** with elongated rete ridges, dilated dermal papillary capillaries (hence the pinpoint bleeding of the Auspitz sign when a scale is lifted), and neutrophil collections (Munro microabscesses). Every feature is derivable from "too fast."
 
-## The Non-Keratinocytes
+### The Non-Keratinocytes
 
 | Cell | Layer | Origin | Function | Clinical link |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ The epidermis is best understood as a conveyor belt: a single mitotic layer at t
 
 In H&E, melanocytes appear as clear cells with small dark nuclei sitting in the basal layer, the clear halo being a shrinkage artifact — a useful artifact, since it makes them findable.
 
-## Thick vs Thin Skin, and Reading the Dermis
+### Thick vs Thin Skin, and Reading the Dermis
 
 **Thick skin** (palms and soles) has all five epidermal layers including a distinct stratum lucidum, a very thick stratum corneum, deep epidermal ridges, abundant eccrine sweat glands, and **no hair follicles, no sebaceous glands, and no arrector pili**. **Thin skin** covers the rest of the body, has no stratum lucidum, a thin corneum, and possesses hair follicles with sebaceous glands. Note the terminology trap: "thick" and "thin" refer to *epidermal* thickness; the dermis of the back is far thicker than that of the palm.
 
@@ -215,7 +215,7 @@ The dermis has two layers. The **papillary dermis** is loose connective tissue w
 
 The Pacinian corpuscle is the easiest structure in all of histology to recognise — a large oval body of concentric lamellae resembling a sliced onion — and its lamellae are functionally meaningful: they filter out sustained pressure so the receptor responds only to *changes*, making it a vibration detector.
 
-## Glands and Appendages
+### Glands and Appendages
 
 **Eccrine sweat glands** are simple coiled tubular glands distributed over nearly the whole body, opening directly onto the skin surface, and are the principal effectors of **thermoregulation**. The secretory coil in the deep dermis contains clear cells (water and electrolytes), dark cells (glycoprotein), and **myoepithelial cells** that contract to expel sweat; the duct, lined by a distinctive *two-layered cuboidal epithelium*, reabsorbs sodium. That double-layered duct is the decisive recognition feature. In **cystic fibrosis**, failure of ductal chloride reabsorption produces the elevated sweat chloride that underlies the diagnostic sweat test.
 
@@ -223,7 +223,7 @@ The Pacinian corpuscle is the easiest structure in all of histology to recognise
 
 **Sebaceous glands** are **holocrine**: cells fill with lipid, disintegrate entirely, and become the secretion (sebum), discharged into the hair follicle. Recognition is straightforward — lobules of large pale multivacuolated cells with progressive nuclear disintegration toward the duct. Their blockage and colonisation by *Cutibacterium acnes*, under androgenic stimulation at puberty, produces acne.
 
-## Recognition Logic — Skin
+### Recognition Logic — Skin
 
 **LOOK FOR:** a stratified squamous epithelium with a keratinised surface over dense connective tissue.
 **CONFIRM:** identify the layers; look for appendages in the dermis.
@@ -293,7 +293,7 @@ Skin is the body's largest organ and principal barrier. Three layers: epidermis 
 6. Reconstruct keratinisation from basal layer to stratum corneum.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Melanocyte Biology Extended
 

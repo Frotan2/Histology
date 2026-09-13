@@ -180,7 +180,7 @@ Salivary glands produce saliva for lubrication, amylase digestion, and antimicro
 
 ## Deepening the Concept
 
-## The Liver Lobule: Three Models of One Organ
+### The Liver Lobule: Three Models of One Organ
 
 Students find the liver confusing because three different "units" are taught and each is correct for a different purpose. Understanding *why* three exist resolves the confusion permanently.
 
@@ -198,7 +198,7 @@ Students find the liver confusing because three different "units" are taught and
 
 The acinar model earns its place because it *predicts pathology*. Shock or right heart failure produces **centrilobular (zone 3) necrosis** — the classic "nutmeg liver" — because zone 3 is at the far end of the oxygen gradient. Paracetamol overdose also damages zone 3, but for a different reason: zone 3 is richest in cytochrome P450, which converts paracetamol to the toxic metabolite NAPQI. Two mechanisms, same zone, different logic — and examiners test precisely that distinction.
 
-## Sinusoids and the Space of Disse
+### Sinusoids and the Space of Disse
 
 The hepatic sinusoid is a **discontinuous capillary**: its endothelium has large fenestrations without diaphragms and an *absent or highly discontinuous basal lamina*. Between the endothelium and the hepatocyte plate lies the **space of Disse (perisinusoidal space)**, into which hepatocyte microvilli project.
 
@@ -213,7 +213,7 @@ This arrangement is the structural basis of hepatic function. Because there is n
 
 **Cirrhosis follows directly.** Chronic injury of any cause activates stellate cells; collagen deposited in the space of Disse "capillarises" the sinusoid, losing fenestrations and impairing exchange; fibrous septa link portal tracts and central veins, dividing the parenchyma into regenerative nodules. The two clinical consequences are mechanical and synthetic: distorted architecture obstructs portal flow, raising portal pressure (varices, splenomegaly, ascites), while loss of functioning hepatocytes reduces albumin and clotting factor synthesis and impairs detoxification (jaundice, coagulopathy, encephalopathy). Every complication of cirrhosis can be derived from those two statements.
 
-## The Bile Canaliculus and the Mechanism of Jaundice
+### The Bile Canaliculus and the Mechanism of Jaundice
 
 The **bile canaliculus** is not a duct but a groove — a 1–2 µm channel formed between the apposed apical membranes of two adjacent hepatocytes, sealed from the sinusoid by **tight junctions**. The hepatocyte is therefore a polarised epithelial cell with two different "apical" and "basolateral" domains: it faces blood on the sinusoidal side and bile on the canalicular side. Bile flows through canaliculi → canals of Hering (the transition, lined partly by hepatocytes and partly by cholangiocytes, and the site of the hepatic stem-cell niche) → bile ductules → interlobular ducts in the portal triads.
 
@@ -225,7 +225,7 @@ Bilirubin handling maps precisely onto this architecture, and the three types of
 
 **Pre-hepatic** jaundice (haemolysis) overwhelms conjugation → unconjugated hyperbilirubinaemia. **Hepatocellular** jaundice impairs all three steps → mixed. **Post-hepatic** (obstructive) jaundice blocks outflow → conjugated hyperbilirubinaemia with pale stools and dark urine, because water-soluble conjugated bilirubin is excreted renally. Gilbert syndrome (reduced UGT1A1 activity) and Crigler-Najjar (severe or absent) affect step 2; Dubin-Johnson (defective MRP2) affects step 3 and produces a grossly *black liver* from accumulated pigment.
 
-## The Exocrine Pancreas and Acute Pancreatitis
+### The Exocrine Pancreas and Acute Pancreatitis
 
 The exocrine pancreas is a purely serous compound acinar gland, and its acinar cell is the textbook protein-secreting cell: pyramidal, with an intensely basophilic base (packed RER), a round basal nucleus, and eosinophilic apical **zymogen granules**. Its duct system begins with **centroacinar cells** — the intercalated duct cells that extend *into* the acinar lumen and are unique to the pancreas, making them a decisive identifying feature.
 
@@ -233,7 +233,7 @@ The division of labour is important: **acinar cells secrete enzymes**, while **d
 
 **The protective logic of zymogens** explains acute pancreatitis. Enzymes are stored as inactive precursors; trypsinogen is normally activated only in the duodenum by enterokinase, and the acinar cell additionally makes a trypsin inhibitor (SPINK1) as a safety catch. If trypsin is activated prematurely within the pancreas — through duct obstruction by a gallstone, or alcohol-related injury — it activates the whole cascade, and the gland digests itself. The histological picture combines coagulative necrosis, acute inflammation, haemorrhage, and the characteristic **fat necrosis** in which released lipase liberates fatty acids that chelate calcium to form chalky **saponification** deposits. The resulting hypocalcaemia is a recognised clinical sign — traceable, again, directly to the histology.
 
-## Recognition Logic — Extended Discriminations
+### Recognition Logic — Extended Discriminations
 
 **Liver.** LOOK FOR: plates of polygonal eosinophilic cells radiating from a vein, separated by sinusoids. CONFIRM: portal triads at the periphery; binucleate hepatocytes. DO NOT CONFUSE WITH: adrenal cortex (also cords of eosinophilic cells) — but adrenal cells are vacuolated and lipid-rich, lack portal triads, and lie beneath a thick capsule. DECISIVE FEATURE: the **portal triad**.
 
@@ -305,7 +305,7 @@ The salivary glands (parotid serous, submandibular mixed, sublingual mucous-pred
 5. What are the histological features of cirrhosis?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Bile Acid Metabolism
 

@@ -84,7 +84,7 @@ What is not in doubt is the outcome: this hierarchical organisation compacts rou
 
 Histone modifications — acetylation, methylation, phosphorylation, ubiquitination — form the *histone code* that regulates chromatin accessibility. Acetylation of H3 and H4 by HATs (histone acetyltransferases) opens chromatin and promotes transcription; deacetylation by HDACs (histone deacetylases) closes chromatin and silences transcription. Methylation can be activating or repressing depending on the residue. Bromodomain proteins recognise acetylated lysines; chromodomain proteins recognise methylated lysines.
 
-### Nucleolus in Detail
+### Nucleolus — Ultrastructure and Assembly Line
 
 The nucleolus assembles around nucleolar organiser regions (NORs) — tandem repeats of rRNA genes on the acrocentric chromosomes (13, 14, 15, 21, 22 in humans). RNA polymerase I transcribes the 45S pre-rRNA in the fibrillar centres. The 45S is processed in the dense fibrillar component to 28S, 18S, and 5.8S rRNAs. These rRNAs are assembled with ribosomal proteins (imported from the cytoplasm) in the granular component to form the 40S and 60S subunits. The subunits are exported through NPCs and join in the cytoplasm to form functional 80S ribosomes.
 
@@ -166,7 +166,7 @@ The mitotic *spindle* is built from microtubules nucleated by centrosomes at the
 
 ## Deepening the Concept
 
-## The Nucleus as a Readable Indicator of Cell State
+### The Nucleus as a Readable Indicator of Cell State
 
 In diagnostic practice the nucleus is read before the cytoplasm, because nuclear features report three things at once: how active the cell is, how differentiated it is, and whether it is malignant.
 
@@ -187,7 +187,7 @@ In diagnostic practice the nucleus is read before the cytoplasm, because nuclear
 
 **Malignancy has a nuclear vocabulary.** Pathologists judge malignancy largely on nuclear criteria: increased nuclear-to-cytoplasmic ratio, hyperchromasia, irregular nuclear contours, coarse clumped chromatin, multiple or enlarged irregular nucleoli, and atypical mitotic figures. The nucleolar enlargement is mechanistically meaningful — malignant cells need ribosomes to sustain growth, so nucleolar prominence reflects rRNA transcription, not a mysterious cancer marker.
 
-## Barr Body: One Observation, Three Concepts
+### Barr Body: One Observation, Three Concepts
 
 The Barr body is a small, dense chromatin mass applied to the inner nuclear membrane in cells of normal females, and a "drumstick" appendage on the neutrophil nucleus. It is the inactivated X chromosome.
 
@@ -195,13 +195,13 @@ It is worth dwelling on because it demonstrates three separate principles simult
 
 The Barr-body count equals the number of X chromosomes minus one. This converts directly into examination answers: 46,XY has none; 46,XX has one; 47,XXY (Klinefelter) has one; 45,X (Turner) has none.
 
-## Nucleolar Structure and Why It Is Basophilic
+### Nucleolar Structure and Why It Is Basophilic
 
 The nucleolus is not membrane-bound. It is a phase-separated assembly around nucleolar organiser regions — the tandem rRNA gene repeats on the acrocentric chromosomes 13, 14, 15, 21, and 22. It has three ultrastructural zones reflecting an assembly line: *fibrillar centres* (where RNA polymerase I transcribes 45S pre-rRNA), the *dense fibrillar component* (early processing), and the *granular component* (assembly of rRNA with imported ribosomal proteins into pre-40S and pre-60S subunits, which exit through nuclear pores).
 
 The nucleolus is intensely basophilic for the same reason RER-rich cytoplasm is: it is packed with RNA. Recognising this means the observation "prominent nucleolus" immediately implies "this cell is manufacturing ribosomes because it is growing, secreting, or dividing."
 
-## Common Misconceptions Corrected
+### Common Misconceptions Corrected
 
 *"Heterochromatin is junk DNA."* No — heterochromatin is a *state*, not a category of sequence. Facultative heterochromatin contains functional genes that are silenced in that cell type and can be reactivated in another.
 
@@ -211,7 +211,7 @@ The nucleolus is intensely basophilic for the same reason RER-rich cytoplasm is:
 
 *"Apoptosis and necrosis are just different amounts of damage."* They are mechanistically distinct. Apoptosis is ATP-dependent, caspase-executed, membrane-preserving, and non-inflammatory. Necrosis is passive, membrane-rupturing, and inflammatory because released intracellular contents act as damage-associated molecular patterns.
 
-## Recognition Logic — Nuclear Pattern
+### Recognition Logic — Nuclear Pattern
 
 **LOOK FOR:** size, chromatin density, contour, and nucleolus.
 **CONFIRM:** correlate with cytoplasm — basophilic cytoplasm plus open nucleus and prominent nucleolus is a synthetically active cell.
@@ -267,7 +267,7 @@ The nucleus is a regulated gateway whose envelope, pores, lamina, chromatin, and
 4. Predict the nuclear appearance of: cardiac myocyte, small lymphocyte, plasma cell, malignant epithelial cell, apoptotic cell.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Recognition Micro-Features
 
@@ -290,27 +290,6 @@ The cell cycle is governed by cyclin-dependent kinases (CDKs) whose activity osc
 Checkpoints monitor fidelity: G1 checkpoint (DNA damage → p53 → p21 → CDK2 inhibition → G1 arrest), intra-S checkpoint, G2/M checkpoint (DNA damage → ATR → Chk1 → CDK1 inhibition), spindle assembly checkpoint (kinetochore-microtubule attachment → separase activation).
 
 p53 (the "guardian of the genome") is the most commonly mutated gene in human cancer (~50% of all cancers); p53 loss removes the G1 DNA-damage checkpoint, allowing cells with damaged DNA to proliferate. Li-Fraumeni syndrome (germline p53 mutation) predisposes to multiple cancers.
-
-### Apoptosis vs Necrosis vs Autophagy
-
-| Feature | Apoptosis | Necrosis | Autophagy |
-|---|---|---|---|
-| Trigger | Programmed, physiological/pathological | Pathological, acute injury | Stress, starvation |
-| Cell size | Shrinks | Swells | Variable |
-| Nucleus | Pyknosis, karyorrhexis | Karyolysis | Intact |
-| Membrane | Blebs, apoptotic bodies | Rupture | Intact |
-| Inflammatory | No | Yes | No |
-| Mechanism | Caspase cascade | ATP failure → membrane rupture | Lysosomal degradation |
-| Marker | Annexin V+, TUNEL+ | HMGB1 release | LC3-II, p62 |
-
-Apoptosis pathways:
-- **Intrinsic (mitochondrial)** — stress (DNA damage, growth factor withdrawal) → Bax/Bak → cytochrome c release → apoptosome (Apaf-1 + caspase-9) → caspase-3/-7 activation.
-- **Extrinsic (death receptor)** — FasL/FasR, TRAIL/TRAIL-R, TNF/TNFR1 → FADD → caspase-8 → caspase-3/-7.
-- **Common pathway** — caspase-3/-7 execute: DNA fragmentation (CAD), cytoskeletal breakdown, blebbing, phagocytic uptake.
-
-Necrosis is uncontrolled cell death from membrane rupture (inflammation, ATP depletion, complement). Coagulative necrosis (preserved architecture, e.g., MI), liquefactive necrosis (CNS, abscess), caseous necrosis (TB), fat necrosis (pancreatitis, breast trauma), gangrenous necrosis (limb ischaemia ± infection).
-
-Autophagy ("self-eating") wraps organelles in autophagosomes that fuse with lysosomes; degrades long-lived proteins and damaged organelles; protective during nutrient stress; implicated in neurodegeneration, cancer, infection.
 
 ## Transition
 

@@ -94,7 +94,15 @@ UCP1 uncouples oxidative phosphorylation to produce heat (non-shivering thermoge
 
 ## Classification
 
-By cell type: white, brown, beige. By distribution: subcutaneous, visceral. By clinical status: hypertrophic (cell size up), hyperplastic (cell number up), inflamed (crown-like structures of macrophages around dying adipocytes in obesity).
+Adipose tissue is classified on three independent axes. Keeping them separate prevents a common confusion: a depot is described by *all three* at once.
+
+| Axis | Categories | Why it matters |
+|---|---|---|
+| **Cell type** | White (unilocular) · Brown (multilocular) · Beige/brite | Determines function: storage and endocrine signalling versus thermogenesis |
+| **Distribution** | Subcutaneous · Visceral | Visceral fat drains to the **portal vein** and is far more strongly associated with insulin resistance and cardiovascular risk than subcutaneous fat of the same mass |
+| **Clinical state** | Hypertrophic (cell size ↑) · Hyperplastic (cell number ↑) · Inflamed | Hypertrophied adipocytes outgrow their blood supply, become hypoxic, and recruit macrophages that form **crown-like structures** |
+
+**The subcutaneous–visceral distinction is the clinically decisive one.** Two patients with identical body mass index can carry very different risk, because visceral adipocytes are more lipolytically active and release free fatty acids and inflammatory adipokines *directly into the portal circulation*, delivering them first to the liver. This is the histological basis of "central obesity" as a cardiovascular risk factor, and the reason waist circumference predicts risk better than weight.
 
 ## Development
 
@@ -113,7 +121,7 @@ Terminal differentiated adipocyte expresses lipoprotein lipase (LPL, fatty acid 
 
 ## Deepening the Concept
 
-## Why Adipose Tissue Deserves a Chapter of Its Own
+### Why Adipose Tissue Deserves a Chapter of Its Own
 
 For most of the twentieth century adipose tissue was taught as inert packing. That view is obsolete. Adipose tissue is the largest endocrine organ in the body by mass, and its secretions — collectively **adipokines** — regulate appetite, insulin sensitivity, reproduction, and inflammation. Understanding this converts a dull chapter into the histological foundation of obesity, type 2 diabetes, and the metabolic syndrome.
 
@@ -123,7 +131,7 @@ For most of the twentieth century adipose tissue was taught as inert packing. Th
 
 Crown-like structures are a genuinely useful histological finding: rings of macrophages encircling a degenerating adipocyte, visible on routine sections in obese adipose tissue, and a direct visual demonstration that obesity is an inflammatory state.
 
-## White vs Brown vs Beige
+### White vs Brown vs Beige
 
 | Feature | White (unilocular) | Brown (multilocular) |
 |---|---|---|
@@ -141,7 +149,7 @@ Crown-like structures are a genuinely useful histological finding: rings of macr
 
 **Beige (brite) adipocytes** are UCP1-capable cells that appear within white depots in response to chronic cold or β-adrenergic stimulation — a process called browning. They matter because they represent a plausible therapeutic target in obesity, and because they explain why the old teaching that "brown fat disappears after infancy" is wrong: PET-CT studies detect metabolically active brown/beige fat in adults, particularly in supraclavicular and paravertebral regions.
 
-## Recognition Logic — Adipose Tissue
+### Recognition Logic — Adipose Tissue
 
 **LOOK FOR:** large, clear, round-to-polygonal empty spaces packed together with almost no visible cytoplasm.
 **CONFIRM:** flattened nuclei compressed against the cell margin, giving the **signet-ring** profile; a delicate reticular (type III collagen) network and capillaries between cells.
@@ -153,7 +161,7 @@ Crown-like structures are a genuinely useful histological finding: rings of macr
 
 **DECISIVE FEATURE:** the *single* vacuole with a *peripheral, crescentically flattened* nucleus within a lobule bounded by fine reticular septa. If the vacuole is mucin, a mucicarmine or PAS stain settles the question immediately.
 
-## Clinical Integration
+### Clinical Integration
 
 *Lipomas* are benign tumours of mature white adipocytes — the commonest soft-tissue tumour — and are histologically nearly indistinguishable from normal fat except for their encapsulation and slightly variable cell size. *Liposarcomas* are recognised by **lipoblasts**: cells with multiple cytoplasmic vacuoles that scallop and indent a hyperchromatic, atypical nucleus. The indented atypical nucleus is the decisive difference from a normal adipocyte, whose nucleus is smoothly compressed and bland.
 
@@ -220,7 +228,7 @@ Adipose is a specialised connective tissue with three cell types: white (unilocu
 5. Distinguish the histological appearance of white fat, brown fat, lipoma, and liposarcoma.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Adipose as an Endocrine Organ Extended
 

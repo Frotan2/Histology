@@ -175,7 +175,7 @@ Anterior pituitary produces GH, prolactin, ACTH, TSH, FSH/LH. Posterior pituitar
 
 ## Deepening the Concept
 
-## Two Cell Types, Two Ultrastructures: The Master Key to Endocrine Histology
+### Two Cell Types, Two Ultrastructures: The Master Key to Endocrine Histology
 
 Almost every endocrine question can be reasoned out from a single dichotomy: is the cell making a **peptide** or a **steroid**? The two demand entirely different machinery, and that machinery is visible.
 
@@ -192,7 +192,7 @@ Almost every endocrine question can be reasoned out from a single dichotomy: is 
 
 A third class, the **amine/catecholamine-secreting** cells (adrenal medulla), behaves like the peptide group: dense-core granules, rapid exocytosis.
 
-## The Pituitary: Two Organs of Different Origin Fused Together
+### The Pituitary: Two Organs of Different Origin Fused Together
 
 | | Adenohypophysis (anterior) | Neurohypophysis (posterior) |
 |---|---|---|
@@ -212,7 +212,7 @@ Two recognition features follow. The posterior lobe contains **Herring bodies** 
 
 **Clinical anchors.** Prolactinoma is the commonest pituitary adenoma, causing galactorrhoea and hypogonadism. Loss of hypothalamic dopamine (the tonic *inhibitor* of prolactin) — as with stalk compression — causes hyperprolactinaemia; prolactin is unique in being under predominantly inhibitory control, so stalk section *raises* prolactin while lowering every other anterior pituitary hormone. Sheehan syndrome is postpartum ischaemic necrosis of the enlarged anterior pituitary after obstetric haemorrhage. ADH deficiency causes central **diabetes insipidus** with dilute polyuria.
 
-## The Thyroid: The Only Endocrine Gland That Stores Hormone Extracellularly
+### The Thyroid: The Only Endocrine Gland That Stores Hormone Extracellularly
 
 The thyroid follicle is unique in the body: a sphere of simple cuboidal epithelium enclosing **colloid**, an extracellular reservoir of **thyroglobulin** holding months of hormone supply. Nowhere else does an endocrine gland store its product *outside* its cells.
 
@@ -231,7 +231,7 @@ The synthetic cycle — worth knowing as a sequence because each step is a drug 
 
 **A point of scientific currency.** Textbooks have long stated that C cells are neural-crest derived, based on old quail-chick chimaera work. Genetic lineage-tracing studies have since shown that mammalian C-cell progenitors arise from **pharyngeal (anterior) endoderm**, reaching the thyroid via the ultimobranchial bodies; neural crest contributes surrounding stromal tissue rather than the C cells themselves. Know the endodermal/ultimobranchial origin as the current evidence, while being aware that many examinations still use the older neural-crest answer. C cells remain the origin of **medullary thyroid carcinoma**, which secretes calcitonin, shows **amyloid stroma** derived from calcitonin, and occurs in MEN 2A and 2B.
 
-## Parathyroid and the Calcium Axis
+### Parathyroid and the Calcium Axis
 
 The parathyroid contains **chief cells** — small, pale, polygonal, the source of **PTH** — and **oxyphil cells**, which are larger with intensely eosinophilic cytoplasm packed with mitochondria, increase after puberty, and have no established function. Adipocytes progressively infiltrate the gland with age, and their presence is a useful recognition clue distinguishing a normal parathyroid from an adenoma, which is typically fat-poor.
 
@@ -239,7 +239,7 @@ The parathyroid contains **chief cells** — small, pale, polygonal, the source 
 
 This makes the biochemistry of hyperparathyroidism derivable rather than memorised: high PTH → high calcium, low phosphate, and bone resorption (osteitis fibrosa cystica). The clinical mnemonic "stones, bones, abdominal groans, and psychic moans" follows.
 
-## The Adrenal: Zonation Predicts Product and Pathology
+### The Adrenal: Zonation Predicts Product and Pathology
 
 The adrenal is two organs in one, of separate origin: a **mesodermal cortex** secreting steroids and a **neural-crest-derived medulla** secreting catecholamines. (Note the contrast with the thyroid C cell: here the neural crest origin is well established — the medullary chromaffin cells are modified postganglionic sympathetic neurons that have lost their axons.)
 
@@ -258,7 +258,7 @@ The adrenal is two organs in one, of separate origin: a **mesodermal cortex** se
 
 **Congenital adrenal hyperplasia** ties the chapter together. In 21-hydroxylase deficiency, cortisol synthesis fails; loss of negative feedback raises ACTH; ACTH drives cortical hyperplasia; and precursors are shunted into the androgen pathway, causing virilisation, with salt-wasting if aldosterone is also deficient. A single enzyme block produces a predictable histological (hyperplasia) and clinical (virilisation, salt loss) picture.
 
-## Pancreatic Islets
+### Pancreatic Islets
 
 Islets of Langerhans are pale, richly vascularised clusters embedded in the darker exocrine pancreas, comprising 1–2% of its mass.
 
@@ -271,7 +271,7 @@ Islets of Langerhans are pale, richly vascularised clusters embedded in the dark
 
 Cell types cannot be reliably distinguished in H&E and require immunohistochemistry — an honest limitation worth stating. In **type 1 diabetes**, autoimmune T-cell-mediated destruction of beta cells produces **insulitis** (lymphocytic infiltration of islets) early, then islets that appear small and beta-cell depleted. In **type 2 diabetes**, islets may show **amyloid deposition** derived from islet amyloid polypeptide (amylin), co-secreted with insulin.
 
-## Recognition Logic — Which Endocrine Gland?
+### Recognition Logic — Which Endocrine Gland?
 
 **LOOK FOR:** the architectural pattern at low power — *follicles*, *cords*, *zoned cortex*, or *islands in exocrine tissue*.
 **CONFIRM and DISTINGUISH:**
@@ -354,7 +354,7 @@ The endocrine system is a collection of ductless glands that secrete hormones in
 6. Why does the posterior pituitary have axons but the anterior pituitary has glandular cells?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Steroid Hormone Synthesis
 

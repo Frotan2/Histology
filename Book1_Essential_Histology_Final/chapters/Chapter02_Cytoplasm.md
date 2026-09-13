@@ -243,7 +243,7 @@ Both are small organelles involved in oxidation. Mitochondria generate ATP via o
 
 ## Deepening the Concept
 
-## Reading Cytoplasm as Evidence of Function
+### Reading Cytoplasm as Evidence of Function
 
 Cytoplasm is a record of what a cell spends its life doing. The light microscope cannot resolve individual organelles, but it reports their *bulk* as staining properties — and that is enough to infer function with confidence.
 
@@ -263,7 +263,7 @@ Cytoplasm is a record of what a cell spends its life doing. The light microscope
 
 This table is the highest-yield inference tool in cell biology for examinations, because it converts a purely visual observation into a functional statement.
 
-## The Secretory Pathway as a Quality-Control Line
+### The Secretory Pathway as a Quality-Control Line
 
 The classical sequence — ribosome → RER → Golgi → vesicle → surface — is correct but omits the feature that actually explains disease: *quality control*.
 
@@ -275,7 +275,7 @@ Only *correctly folded* protein may leave. Misfolded protein is retained, retrot
 
 From the Golgi, proteins are sorted. The signal for lysosomal enzymes is mannose-6-phosphate, added by GlcNAc-phosphotransferase. Loss of that enzyme causes **I-cell disease (mucolipidosis II)**: hydrolases lack the M6P tag, are secreted into plasma instead of reaching lysosomes, and undigested substrate accumulates in dense *inclusion bodies*. The diagnostic paradox is *high enzyme in serum with deficient enzyme inside cells*.
 
-## Mitochondria: Structure Predicting Biochemistry
+### Mitochondria: Structure Predicting Biochemistry
 
 Two features are diagnostically useful.
 
@@ -283,7 +283,7 @@ Two features are diagnostically useful.
 
 *Mitochondrial DNA is maternally inherited and multi-copy.* A mutation may affect only some mitochondria in a cell — **heteroplasmy** — and disease appears only above a tissue-specific threshold. This explains maternal inheritance, variable severity within one family, and preferential involvement of high-demand tissues (skeletal and cardiac muscle, neurons, retina). The morphological signature in muscle is the **ragged red fibre** on modified Gomori trichrome.
 
-## Cytoskeleton: Three Systems, Three Jobs, Three Diseases
+### Cytoskeleton: Three Systems, Three Jobs, Three Diseases
 
 | Feature | Microfilaments | Intermediate filaments | Microtubules |
 |---|---|---|---|
@@ -299,7 +299,7 @@ Two features are diagnostically useful.
 
 **Cilia and the 9+2 axoneme.** A motile cilium has nine outer doublets around a central pair; dynein arms generate sliding that nexin links convert into bending. Loss of dynein arms causes **primary ciliary dyskinesia**: impaired mucociliary clearance (chronic sinusitis, bronchiectasis), immotile sperm, and — because nodal cilia set left–right asymmetry — *situs inversus* in about half of patients (Kartagener syndrome). Distinguish the *primary cilium*: a solitary non-motile 9+0 sensory organelle on most cells, whose dysfunction underlies polycystic kidney disease.
 
-## Recognition Logic — Which Cell Is This?
+### Recognition Logic — Which Cell Is This?
 
 **LOOK FOR:** dominant cytoplasmic staining and its distribution around the nucleus.
 **CONFIRM:** an organelle signature — pale perinuclear hof, apical zymogen granules, basal striations, a brush border.

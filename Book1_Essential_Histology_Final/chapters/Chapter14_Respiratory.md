@@ -27,7 +27,7 @@ The respiratory system is essential for life. Asthma, COPD, pneumonia, lung canc
 
 - **Conducting zone** (nasal cavity → terminal bronchioles; no gas exchange) — warms, moistens, filters air; pseudostratified ciliated columnar with goblet cells; cartilage decreases; smooth muscle increases.
 - **Respiratory zone** (respiratory bronchioles → alveoli; gas exchange) — progressively more alveoli; simple squamous → simple cuboidal → type I/II pneumocytes.
-- **Alveolar wall** — type I pneumocytes (~95% surface, gas exchange), type II pneumocytes (~60% of cells, surfactant + stem cell), alveolar macrophages (dust cells), capillary endothelium.
+- **Alveolar wall** — type I pneumocytes (~40% of alveolar cells but ~95% of the surface; gas exchange), type II pneumocytes (~60% of alveolar cells but only ~5% of the surface; surfactant + progenitor), alveolar macrophages (dust cells), capillary endothelium.
 - **Blood-air barrier** — type I pneumocyte + fused basal laminae + capillary endothelium, ~0.5 µm thin.
 
 ## Core Concept
@@ -77,7 +77,7 @@ Lumen < 1 mm; **no cartilage, no submucosal glands**. Wall:
 - Simple ciliated columnar (initially) → simple ciliated cuboidal (smaller).
 - Few or no goblet cells.
 - Smooth muscle in relatively thick layer.
-- **Clara (club) cells** — dome-shaped; secrete Clara cell secretory protein (CCSP/CC10) and surfactant-like substances; serve as stem cells.
+- **Club cells** (formerly Clara cells) — dome-shaped, non-ciliated; secrete club cell secretory protein (CCSP/CC10) and surfactant-associated proteins; detoxify xenobiotics via cytochrome P450; serve as bronchiolar progenitor cells.
 
 Absence of cartilage means caliber depends on smooth muscle tone. Bronchospasm = asthma.
 
@@ -87,7 +87,7 @@ Absence of cartilage means caliber depends on smooth muscle tone. Bronchospasm =
 
 ### Respiratory Bronchioles
 
-Bronchioles with occasional *alveoli* opening from the wall. Lined by simple cuboidal epithelium with Clara cells, interrupted by alveoli.
+Bronchioles with occasional *alveoli* opening from the wall. Lined by simple cuboidal epithelium with club cells, interrupted by alveoli.
 
 ### Alveolar Ducts
 
@@ -139,7 +139,7 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 
 - **C-shaped tracheal cartilage** allows esophageal expansion during swallowing.
 - **Pseudostratified ciliated epithelium + mucus** = mucociliary escalator that traps and propels debris.
-- **Clara cells** secrete surfactant-like substances into bronchioles (anti-adhesive), CCSP (anti-inflammatory), and serve as stem cells.
+- **Club cells** secrete surfactant-associated material into bronchioles (anti-adhesive), CCSP (anti-inflammatory), and serve as bronchiolar progenitor cells.
 - **Type I pneumocytes** are extremely thin → minimal diffusion distance.
 - **Type II pneumocytes** secrete surfactant → reduced surface tension → alveolar stability.
 - **Fused basal laminae** create the air-blood barrier.
@@ -156,7 +156,7 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 | Submucosal glands | Yes | No |
 | Epithelium | Pseudostratified ciliated columnar | Simple ciliated columnar/cuboidal |
 | Goblet cells | Yes | Few |
-| Clara cells | No | Yes |
+| Club cells | No | Yes |
 | Smooth muscle | Present | Relatively thicker |
 
 ### Type I vs Type II Pneumocyte
@@ -164,14 +164,17 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 | Feature | Type I | Type II |
 |---|---|---|
 | Shape | Flat, attenuated | Cuboidal |
-| Coverage | ~95% of surface | ~60% of cells (smaller total area) |
-| Function | Gas exchange | Surfactant, stem cell |
+| Share of alveolar **cells** | ~40% | ~60% |
+| Share of alveolar **surface** | ~95% | ~5% |
+| Function | Gas exchange | Surfactant, progenitor for both types |
 | Diagnostic | EM only (thin squamous lining) | Lamellar bodies on EM |
+
+Read the two middle rows together: type II cells are the **more numerous** cell but cover the **smaller area**, because a single type I cell is spread paper-thin over a vast surface. Reporting only one of the two figures is what makes this a reliable examination trap.
 
 ## Recognition Logic
 
 - **Pseudostratified ciliated columnar + goblet + hyaline cartilage + submucosal glands** → trachea or bronchus.
-- **Simple ciliated columnar/cuboidal + Clara cells + no cartilage + no glands** → bronchiole.
+- **Simple ciliated columnar/cuboidal + club cells + no cartilage + no glands** → bronchiole.
 - **Simple cuboidal with alveoli in wall** → respiratory bronchiole.
 - **Wall entirely alveolar openings** → alveolar duct.
 - **Polygonal air spaces with thin septa (capillaries, type I, type II)** → alveoli.
@@ -179,7 +182,7 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 
 ## Deepening the Concept
 
-## The Conducting–Respiratory Divide and the Gradual Transition
+### The Conducting–Respiratory Divide and the Gradual Transition
 
 The respiratory system has one architectural storyline: as the airway divides and narrows, every wall component changes in a predictable direction until, at the alveolus, nothing remains but the barrier itself.
 
@@ -197,7 +200,7 @@ The respiratory system has one architectural storyline: as the airway divides an
 
 **Clinical translation.** Asthma is a disease of exactly this segment: bronchoconstriction of cartilage-free airways with mucus plugging, a thickened basement membrane, eosinophilic inflammation, and smooth muscle hypertrophy. Histological hallmarks include **Curschmann spirals** (casts of mucus from small airways) and **Charcot-Leyden crystals** (crystallised galectin-10 from eosinophils).
 
-## The Blood–Air Barrier: Thinness as a Design Requirement
+### The Blood–Air Barrier: Thinness as a Design Requirement
 
 Gas exchange obeys Fick's law: flux is proportional to surface area and the partial pressure gradient, and *inversely proportional to thickness*. The lung's entire architecture is a solution to that equation — roughly 70 m² of surface area across a barrier as little as 0.2 µm thick.
 
@@ -226,7 +229,7 @@ Surfactant production begins around 24 weeks and becomes adequate near 34–36 w
 
 **Alveolar macrophages (dust cells)** patrol the alveolar surface, phagocytosing inhaled particles and surfactant, and migrate up the mucociliary escalator or into lymphatics. In left heart failure, they ingest extravasated erythrocytes and accumulate haemosiderin, becoming **"heart failure cells"** identifiable with Prussian blue.
 
-## Emphysema as Applied Alveolar Histology
+### Emphysema as Applied Alveolar Histology
 
 Alveolar walls contain an elastic fibre network that provides the recoil for passive expiration and, through radial traction, holds bronchioles open. Neutrophil elastase, released during inflammation, is normally neutralised by **α1-antitrypsin**.
 
@@ -234,7 +237,7 @@ Disturbing that balance destroys the alveolar wall. Cigarette smoke both recruit
 
 Both produce the same physiology by the same structural route: loss of alveolar walls reduces surface area for exchange, and loss of elastic recoil both traps air and removes the radial traction that splinted the bronchioles, so small airways collapse during expiration. The clinical picture of airflow obstruction with hyperinflation is read straight from the lost elastin.
 
-## Recognition Logic — Extended Discriminations
+### Recognition Logic — Extended Discriminations
 
 **Trachea.** LOOK FOR: pseudostratified ciliated columnar epithelium with goblet cells over a conspicuously thick basement membrane; seromucous glands in the submucosa; a **C-shaped hyaline cartilage ring** with the trachealis smooth muscle bridging the open posterior gap. DECISIVE FEATURE: the C-shaped ring with posterior smooth muscle.
 
@@ -267,7 +270,7 @@ A 30-week premature infant with tachypnea, grunting, cyanosis. Chest X-ray shows
 ## Common Misconceptions
 
 - *The trachea is one long tube.* Branches at the carina into primary bronchi, then secondary, tertiary, smaller bronchi, eventually bronchioles.
-- *All airways have goblet cells.* Goblet cells are in trachea and bronchi; absent in bronchioles (Clara cells produce protective secretions).
+- *All airways have goblet cells.* Goblet cells are in trachea and bronchi; absent in bronchioles (club cells produce protective secretions).
 - *Alveoli are empty sacs.* Contain alveolar macrophages that clear debris; smokers' macrophages contain anthracotic pigment.
 - *The air-blood barrier is one membrane.* Fused basal laminae sandwiched between type I pneumocyte and capillary endothelium.
 - *Surfactant is one molecule.* Complex of phospholipids + proteins (SP-A, SP-B, SP-C, SP-D).
@@ -284,7 +287,7 @@ A 30-week premature infant with tachypnea, grunting, cyanosis. Chest X-ray shows
 
 ### Must Distinguish
 
-- Bronchus vs bronchiole (cartilage, glands, Clara).
+- Bronchus vs bronchiole (cartilage, glands, club cells).
 - Type I vs Type II pneumocyte.
 - Terminal bronchiole (no alveoli) vs respiratory bronchiole (with alveoli).
 
@@ -307,7 +310,7 @@ The respiratory system is organised into a conducting zone (nasal cavity → ter
 5. Why does surfactant deficiency cause neonatal respiratory distress syndrome?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Mucociliary Escalator Detail
 
@@ -355,7 +358,7 @@ The respiratory system exchanges gases. The next chapter turns to the body's bar
 
 ## Rapid Review
 
-- Conducting zone: nasal → terminal bronchioles. Respiratory epithelium (pseudostratified ciliated columnar + goblet); cartilage (trachea, bronchi); submucosal glands; Clara cells (bronchioles).
+- Conducting zone: nasal → terminal bronchioles. Respiratory epithelium (pseudostratified ciliated columnar + goblet); cartilage (trachea, bronchi); submucosal glands; club cells (bronchioles).
 - Respiratory zone: respiratory bronchioles → alveolar ducts → alveolar sacs → alveoli.
 - Alveolar epithelium: Type I (~95% surface, gas exchange), Type II (surfactant + stem cell, lamellar bodies).
 - Alveolar macrophages (dust cells): phagocytosis, anthracotic pigment in smokers.

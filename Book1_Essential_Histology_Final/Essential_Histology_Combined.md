@@ -277,7 +277,7 @@ The microscope is not a magnifier; it is a contrast generator. Each modality exp
 
 ## Deepening the Concept
 
-## Reading a Slide: The Discipline of Systematic Observation
+### Reading a Slide: The Discipline of Systematic Observation
 
 Most students lose marks not because they lack knowledge but because they look at a slide without a method. A trained observer always moves through the same four steps, and the order matters.
 
@@ -291,7 +291,7 @@ Most students lose marks not because they lack knowledge but because they look a
 
 This sequence is the recognition engine of this book. Every Recognition Logic section that follows is this sequence compressed.
 
-## Why Sections Lie: Plane of Section
+### Why Sections Lie: Plane of Section
 
 A histological section is a 5 µm slice through a three-dimensional object. Everything you see is the *intersection* of a structure with the plane of the knife, and this single fact produces more examination errors than any other.
 
@@ -305,7 +305,7 @@ Three rules follow:
 
 **Examination trap.** Apparent stratification in a duct: the test is whether *every* cell contacts the basement membrane. Nuclei at several levels with all cells reaching the base is *pseudostratified*, not stratified. Plane of section can hide nuclei but cannot remove basement-membrane contact.
 
-## Quantitative Anchors Worth Memorising
+### Quantitative Anchors Worth Memorising
 
 | Reference | Size | Use |
 |---|---|---|
@@ -317,7 +317,7 @@ Three rules follow:
 
 The erythrocyte is the most valuable. A nucleus the size of a red cell belongs to a small lymphocyte. A cell three to four red cells wide is a large cell — macrophage, megakaryocyte precursor, hepatocyte.
 
-## Resolution, Explained Rather Than Asserted
+### Resolution, Explained Rather Than Asserted
 
 Resolution is the minimum distance at which two points remain distinguishable. It improves as wavelength decreases and numerical aperture increases. Visible light (400–700 nm) places the practical limit of light microscopy near 0.2 µm regardless of magnification.
 
@@ -325,7 +325,7 @@ Two consequences follow. First, *magnification beyond the resolution limit adds 
 
 Practical translation: microvilli (~0.1 µm wide) cannot be resolved by light microscopy, which is exactly why they appear collectively as an unresolved fuzzy *brush border* rather than discrete projections. Cilia (~0.2 µm, at the limit) *are* individually visible. A student who understands resolution never has to memorise this distinction.
 
-## Fixation Chemistry and What Goes Wrong
+### Fixation Chemistry and What Goes Wrong
 
 Formaldehyde forms methylol adducts with lysine; adjacent adducts condense into methylene bridges that cross-link proteins. Three consequences follow directly:
 
@@ -335,7 +335,7 @@ Formaldehyde forms methylol adducts with lysine; adjacent adducts condense into 
 
 Glutaraldehyde cross-links more extensively and preserves ultrastructure far better but penetrates poorly — hence its use for EM on millimetre blocks, usually followed by osmium tetroxide, which both fixes and stains unsaturated lipids and so renders membranes electron-dense.
 
-## Artifacts and the Reasoning That Identifies Them
+### Artifacts and the Reasoning That Identifies Them
 
 | Artifact | Appearance | Cause | Recognising it |
 |---|---|---|---|
@@ -694,7 +694,7 @@ Both are small organelles involved in oxidation. Mitochondria generate ATP via o
 
 ## Deepening the Concept
 
-## Reading Cytoplasm as Evidence of Function
+### Reading Cytoplasm as Evidence of Function
 
 Cytoplasm is a record of what a cell spends its life doing. The light microscope cannot resolve individual organelles, but it reports their *bulk* as staining properties — and that is enough to infer function with confidence.
 
@@ -714,7 +714,7 @@ Cytoplasm is a record of what a cell spends its life doing. The light microscope
 
 This table is the highest-yield inference tool in cell biology for examinations, because it converts a purely visual observation into a functional statement.
 
-## The Secretory Pathway as a Quality-Control Line
+### The Secretory Pathway as a Quality-Control Line
 
 The classical sequence — ribosome → RER → Golgi → vesicle → surface — is correct but omits the feature that actually explains disease: *quality control*.
 
@@ -726,7 +726,7 @@ Only *correctly folded* protein may leave. Misfolded protein is retained, retrot
 
 From the Golgi, proteins are sorted. The signal for lysosomal enzymes is mannose-6-phosphate, added by GlcNAc-phosphotransferase. Loss of that enzyme causes **I-cell disease (mucolipidosis II)**: hydrolases lack the M6P tag, are secreted into plasma instead of reaching lysosomes, and undigested substrate accumulates in dense *inclusion bodies*. The diagnostic paradox is *high enzyme in serum with deficient enzyme inside cells*.
 
-## Mitochondria: Structure Predicting Biochemistry
+### Mitochondria: Structure Predicting Biochemistry
 
 Two features are diagnostically useful.
 
@@ -734,7 +734,7 @@ Two features are diagnostically useful.
 
 *Mitochondrial DNA is maternally inherited and multi-copy.* A mutation may affect only some mitochondria in a cell — **heteroplasmy** — and disease appears only above a tissue-specific threshold. This explains maternal inheritance, variable severity within one family, and preferential involvement of high-demand tissues (skeletal and cardiac muscle, neurons, retina). The morphological signature in muscle is the **ragged red fibre** on modified Gomori trichrome.
 
-## Cytoskeleton: Three Systems, Three Jobs, Three Diseases
+### Cytoskeleton: Three Systems, Three Jobs, Three Diseases
 
 | Feature | Microfilaments | Intermediate filaments | Microtubules |
 |---|---|---|---|
@@ -750,7 +750,7 @@ Two features are diagnostically useful.
 
 **Cilia and the 9+2 axoneme.** A motile cilium has nine outer doublets around a central pair; dynein arms generate sliding that nexin links convert into bending. Loss of dynein arms causes **primary ciliary dyskinesia**: impaired mucociliary clearance (chronic sinusitis, bronchiectasis), immotile sperm, and — because nodal cilia set left–right asymmetry — *situs inversus* in about half of patients (Kartagener syndrome). Distinguish the *primary cilium*: a solitary non-motile 9+0 sensory organelle on most cells, whose dysfunction underlies polycystic kidney disease.
 
-## Recognition Logic — Which Cell Is This?
+### Recognition Logic — Which Cell Is This?
 
 **LOOK FOR:** dominant cytoplasmic staining and its distribution around the nucleus.
 **CONFIRM:** an organelle signature — pale perinuclear hof, apical zymogen granules, basal striations, a brush border.
@@ -940,7 +940,7 @@ What is not in doubt is the outcome: this hierarchical organisation compacts rou
 
 Histone modifications — acetylation, methylation, phosphorylation, ubiquitination — form the *histone code* that regulates chromatin accessibility. Acetylation of H3 and H4 by HATs (histone acetyltransferases) opens chromatin and promotes transcription; deacetylation by HDACs (histone deacetylases) closes chromatin and silences transcription. Methylation can be activating or repressing depending on the residue. Bromodomain proteins recognise acetylated lysines; chromodomain proteins recognise methylated lysines.
 
-### Nucleolus in Detail
+### Nucleolus — Ultrastructure and Assembly Line
 
 The nucleolus assembles around nucleolar organiser regions (NORs) — tandem repeats of rRNA genes on the acrocentric chromosomes (13, 14, 15, 21, 22 in humans). RNA polymerase I transcribes the 45S pre-rRNA in the fibrillar centres. The 45S is processed in the dense fibrillar component to 28S, 18S, and 5.8S rRNAs. These rRNAs are assembled with ribosomal proteins (imported from the cytoplasm) in the granular component to form the 40S and 60S subunits. The subunits are exported through NPCs and join in the cytoplasm to form functional 80S ribosomes.
 
@@ -1022,7 +1022,7 @@ The mitotic *spindle* is built from microtubules nucleated by centrosomes at the
 
 ## Deepening the Concept
 
-## The Nucleus as a Readable Indicator of Cell State
+### The Nucleus as a Readable Indicator of Cell State
 
 In diagnostic practice the nucleus is read before the cytoplasm, because nuclear features report three things at once: how active the cell is, how differentiated it is, and whether it is malignant.
 
@@ -1043,7 +1043,7 @@ In diagnostic practice the nucleus is read before the cytoplasm, because nuclear
 
 **Malignancy has a nuclear vocabulary.** Pathologists judge malignancy largely on nuclear criteria: increased nuclear-to-cytoplasmic ratio, hyperchromasia, irregular nuclear contours, coarse clumped chromatin, multiple or enlarged irregular nucleoli, and atypical mitotic figures. The nucleolar enlargement is mechanistically meaningful — malignant cells need ribosomes to sustain growth, so nucleolar prominence reflects rRNA transcription, not a mysterious cancer marker.
 
-## Barr Body: One Observation, Three Concepts
+### Barr Body: One Observation, Three Concepts
 
 The Barr body is a small, dense chromatin mass applied to the inner nuclear membrane in cells of normal females, and a "drumstick" appendage on the neutrophil nucleus. It is the inactivated X chromosome.
 
@@ -1051,13 +1051,13 @@ It is worth dwelling on because it demonstrates three separate principles simult
 
 The Barr-body count equals the number of X chromosomes minus one. This converts directly into examination answers: 46,XY has none; 46,XX has one; 47,XXY (Klinefelter) has one; 45,X (Turner) has none.
 
-## Nucleolar Structure and Why It Is Basophilic
+### Nucleolar Structure and Why It Is Basophilic
 
 The nucleolus is not membrane-bound. It is a phase-separated assembly around nucleolar organiser regions — the tandem rRNA gene repeats on the acrocentric chromosomes 13, 14, 15, 21, and 22. It has three ultrastructural zones reflecting an assembly line: *fibrillar centres* (where RNA polymerase I transcribes 45S pre-rRNA), the *dense fibrillar component* (early processing), and the *granular component* (assembly of rRNA with imported ribosomal proteins into pre-40S and pre-60S subunits, which exit through nuclear pores).
 
 The nucleolus is intensely basophilic for the same reason RER-rich cytoplasm is: it is packed with RNA. Recognising this means the observation "prominent nucleolus" immediately implies "this cell is manufacturing ribosomes because it is growing, secreting, or dividing."
 
-## Common Misconceptions Corrected
+### Common Misconceptions Corrected
 
 *"Heterochromatin is junk DNA."* No — heterochromatin is a *state*, not a category of sequence. Facultative heterochromatin contains functional genes that are silenced in that cell type and can be reactivated in another.
 
@@ -1067,7 +1067,7 @@ The nucleolus is intensely basophilic for the same reason RER-rich cytoplasm is:
 
 *"Apoptosis and necrosis are just different amounts of damage."* They are mechanistically distinct. Apoptosis is ATP-dependent, caspase-executed, membrane-preserving, and non-inflammatory. Necrosis is passive, membrane-rupturing, and inflammatory because released intracellular contents act as damage-associated molecular patterns.
 
-## Recognition Logic — Nuclear Pattern
+### Recognition Logic — Nuclear Pattern
 
 **LOOK FOR:** size, chromatin density, contour, and nucleolus.
 **CONFIRM:** correlate with cytoplasm — basophilic cytoplasm plus open nucleus and prominent nucleolus is a synthetically active cell.
@@ -1123,7 +1123,7 @@ The nucleus is a regulated gateway whose envelope, pores, lamina, chromatin, and
 4. Predict the nuclear appearance of: cardiac myocyte, small lymphocyte, plasma cell, malignant epithelial cell, apoptotic cell.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Recognition Micro-Features
 
@@ -1146,27 +1146,6 @@ The cell cycle is governed by cyclin-dependent kinases (CDKs) whose activity osc
 Checkpoints monitor fidelity: G1 checkpoint (DNA damage → p53 → p21 → CDK2 inhibition → G1 arrest), intra-S checkpoint, G2/M checkpoint (DNA damage → ATR → Chk1 → CDK1 inhibition), spindle assembly checkpoint (kinetochore-microtubule attachment → separase activation).
 
 p53 (the "guardian of the genome") is the most commonly mutated gene in human cancer (~50% of all cancers); p53 loss removes the G1 DNA-damage checkpoint, allowing cells with damaged DNA to proliferate. Li-Fraumeni syndrome (germline p53 mutation) predisposes to multiple cancers.
-
-### Apoptosis vs Necrosis vs Autophagy
-
-| Feature | Apoptosis | Necrosis | Autophagy |
-|---|---|---|---|
-| Trigger | Programmed, physiological/pathological | Pathological, acute injury | Stress, starvation |
-| Cell size | Shrinks | Swells | Variable |
-| Nucleus | Pyknosis, karyorrhexis | Karyolysis | Intact |
-| Membrane | Blebs, apoptotic bodies | Rupture | Intact |
-| Inflammatory | No | Yes | No |
-| Mechanism | Caspase cascade | ATP failure → membrane rupture | Lysosomal degradation |
-| Marker | Annexin V+, TUNEL+ | HMGB1 release | LC3-II, p62 |
-
-Apoptosis pathways:
-- **Intrinsic (mitochondrial)** — stress (DNA damage, growth factor withdrawal) → Bax/Bak → cytochrome c release → apoptosome (Apaf-1 + caspase-9) → caspase-3/-7 activation.
-- **Extrinsic (death receptor)** — FasL/FasR, TRAIL/TRAIL-R, TNF/TNFR1 → FADD → caspase-8 → caspase-3/-7.
-- **Common pathway** — caspase-3/-7 execute: DNA fragmentation (CAD), cytoskeletal breakdown, blebbing, phagocytic uptake.
-
-Necrosis is uncontrolled cell death from membrane rupture (inflammation, ATP depletion, complement). Coagulative necrosis (preserved architecture, e.g., MI), liquefactive necrosis (CNS, abscess), caseous necrosis (TB), fat necrosis (pancreatitis, breast trauma), gangrenous necrosis (limb ischaemia ± infection).
-
-Autophagy ("self-eating") wraps organelles in autophagosomes that fuse with lysosomes; degrades long-lived proteins and damaged organelles; protective during nutrient stress; implicated in neurodegeneration, cancer, infection.
 
 ## Transition
 
@@ -1276,7 +1255,7 @@ Below: lamina fibroreticularis (type III collagen) with anchoring fibrils (type 
 
 Functions: structural support, selective filter (glomerular filtration barrier), barrier to tumour invasion (in situ vs invasive carcinoma), signals to epithelial cell (integrin-mediated).
 
-### Basement Membrane Detail
+### Basement Membrane — Molecular Composition
 
 Components:
 - **Type IV collagen** — forms a sheet network via NC1 domain interactions, rather than fibrils; provides the scaffold. The α3α4α5 isoforms are specialised in the glomerular basement membrane.
@@ -1360,7 +1339,7 @@ Both have apical-basal polarity. Simple: all nuclei basal, single row. Pseudostr
 
 ## Deepening the Concept
 
-## Recognition Logic — Identifying an Epithelium in Four Moves
+### Recognition Logic — Identifying an Epithelium in Four Moves
 
 Epithelial identification is the single most examined recognition skill in histology, and it is entirely algorithmic.
 
@@ -1382,7 +1361,7 @@ Epithelial identification is the single most examined recognition skill in histo
 | Mesothelium vs endothelium | Both simple squamous; mesothelium lines body cavities (pleura, peritoneum), endothelium lines vessels containing blood |
 | Brush border vs cilia | Cilia are individually resolvable and taller, with a basal-body line beneath; brush border is a uniform unresolved fuzzy band |
 
-## Junctions: From Molecule to Blistering Disease
+### Junctions: From Molecule to Blistering Disease
 
 The junctional complex is best learnt as a vertical sequence with one protein family and one disease each, because examinations test exactly those links.
 
@@ -1398,7 +1377,7 @@ The junctional complex is best learnt as a vertical sequence with one protein fa
 
 **E-cadherin deserves special emphasis** because it connects three domains at once. Structurally it is the adherens-junction adhesion molecule. Functionally, its loss releases β-catenin, which can enter the nucleus and drive Wnt target genes. Clinically, loss of E-cadherin removes cell–cell cohesion, which is why *CDH1*-mutant carcinomas grow as discohesive single files rather than cohesive nests — the histological appearance of lobular breast carcinoma and diffuse (signet-ring) gastric carcinoma. One molecule explains the microscopic growth pattern.
 
-## The Basement Membrane as a Functional Filter
+### The Basement Membrane as a Functional Filter
 
 It helps to recognise that the basement membrane performs four distinct jobs, and each has a disease that proves it.
 
@@ -1409,7 +1388,7 @@ It helps to recognise that the basement membrane performs four distinct jobs, an
 
 **Alport syndrome and Goodpasture syndrome are the paired type IV collagen diseases.** Alport is an inherited defect in the α3/α4/α5 chains (most often X-linked *COL4A5*), producing a structurally abnormal glomerular basement membrane with characteristic basket-weave lamina densa splitting on EM, haematuria, progressive renal failure, and sensorineural hearing loss. Goodpasture is an acquired autoantibody against the NC1 domain of the α3 chain, producing linear immunofluorescence along the GBM, glomerulonephritis, and pulmonary haemorrhage — because the same α3 chain is present in alveolar basement membrane. Same molecule; one genetic, one autoimmune; one explains why the lung is involved.
 
-## Glands: Predicting Product from Appearance
+### Glands: Predicting Product from Appearance
 
 Exocrine secretory cells announce their product.
 
@@ -1476,7 +1455,7 @@ Epithelium is a polarised sheet of cells attached to a basement membrane, with a
 5. Reconstruct the levels at which pemphigus and pemphigoid split the epithelium and explain why.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Recognition Micro-Features
 
@@ -1501,14 +1480,6 @@ Stem cells reside in specific niches:
 - **Intestinal crypts** — Lgr5+ stem cells at the crypt base; Paneth cells provide Wnt, EGF, Notch signals.
 - **Epidermal basal layer** — interfollicular stem cells; hair follicle bulge stem cells (K15+) contribute to wound re-epithelialisation.
 - **Corneal limbus** — limbal stem cells; deficiency → corneal neovascularisation and opacification.
-
-### Common Misconceptions Extended
-
-- *All epithelia are avascular.* Stratified squamous of the cornea is avascular; most epithelia rest on a vascularised basement membrane.
-- *Transitional epithelium is "transitional" because it changes shape.* It is transitional because it was thought to be intermediate between stratified squamous and stratified columnar; it is specialised urothelium, not a "transition" between other types.
-- *Pseudostratified means multiple layers.* A single layer with nuclei at different heights (every cell touches the basement membrane).
-- *Microvilli = cilia.* Microvilli = membrane protrusions (actin core); cilia = membrane-bound organelles (microtubule core). Different ultrastructure, different motility, different functions.
-- *Squamous cells are only on surfaces.* Mesothelium is also simple squamous (peritoneum, pleura, pericardium); mesothelial cells are squamous but have microvilli on their free surface (unique).
 
 ## Transition
 
@@ -1539,7 +1510,7 @@ How does the body build tissues that bind organs together, support them, defend 
 
 Connective tissue is the most abundant and most diverse of the four basic tissue types. It binds organs (loose CT), supports epithelia (BM + underlying CT), transmits forces (dense regular CT of tendons), and circulates cells and molecules (blood). Many diseases directly affect connective tissue — fibrosis, scurvy, Marfan syndrome, Ehlers-Danlos, osteogenesis imperfecta.
 
-> **Note on scope.** Per the official 16-chapter syllabus, cartilage (Junqueira Ch 7) and bone (Junqueira Ch 8) are not in the core. Cartilage is type II collagen-rich specialised CT; bone is type I collagen + hydroxyapatite specialised CT. They share the same cell–matrix principle taught here.
+> **Note on scope.** Cartilage (Junqueira 7) and bone (Junqueira 8) are not separate chapters in the official 16-chapter syllabus, so they are not developed in full. Because they are specialised connective tissues built on the same cell–matrix principle, and because later chapters depend on them, an essentials section is included below under Classification.
 
 ## Learning Objectives
 
@@ -1548,7 +1519,7 @@ Connective tissue is the most abundant and most diverse of the four basic tissue
 3. Explain the composition and function of the ground substance.
 4. Identify the major connective-tissue cell types and their functions.
 5. Classify connective tissues by composition and architecture.
-6. Distinguish connective tissue proper from blood, cartilage, and bone.
+6. Distinguish connective tissue proper from blood, cartilage, and bone, and describe the essential structure of cartilage and bone.
 7. Recognise the histological appearance of the major connective-tissue types.
 
 ## Big Picture
@@ -1594,14 +1565,6 @@ Proteoglycans — GAGs attached to a core protein. Examples: aggrecan (cartilage
 Glycoproteins — fibronectin (binds integrins + collagen), laminin (binds integrins + type IV collagen; found in BM).
 
 Function: hydrated gel resists compression; binds and stores growth factors (TGF-β, FGF); medium for diffusion of nutrients/waste/signals.
-
-### Ground Substance Detail
-
-Hyaluronic acid (hyaluronan) is the simplest GAG — non-sulfated, not covalently linked to protein, very high MW (up to millions of daltons). It is synthesised by hyaluronan synthases on the plasma membrane and extruded directly into the ECM. Hyaluronan is highly hydrated; in CT it creates the gel that allows diffusion. In cartilage (out of core) it forms the backbone of large aggregates with aggrecan.
-
-The sulfated GAGs (chondroitin sulfate, dermatan sulfate, keratan sulfate, heparan sulfate) are attached to core proteins to form proteoglycans. Aggrecan binds hyaluronic acid via link proteins to form huge aggregates that hydrate cartilage matrix. Decorin and biglycan bind TGF-β and regulate its availability. Perlecan in the BM is essential for the size- and charge-selective filtration in the glomerulus; mutations cause Pierson syndrome.
-
-Fibronectin is a dimeric glycoprotein that binds integrins (α5β1 in fibroblasts) and collagen; it is essential for cell migration during wound healing. Laminin-1 is the principal laminin of epithelial BMs; laminin-332 (laminin-5) is specific to hemidesmosomes. Tenascin and thrombospondin are matricellular proteins that regulate cell-matrix interactions during development and wound healing.
 
 ### Cells
 
@@ -1660,11 +1623,36 @@ Wound healing illustrates the CT principle: cells + matrix + signals in dynamic 
 
 Excessive healing → keloid (scar extends beyond original wound, exuberant collagen deposition) or hypertrophic scar (raised but within wound boundaries). Defective healing → chronic wound (diabetic foot ulcer, pressure ulcer). The molecular basis of fibrosis is sustained TGF-β signalling and myofibroblast persistence.
 
-### Specialized Connective Tissues (out of core, brief mention)
+### Cartilage and Bone — The Essentials You Still Need
 
-Cartilage (J7) and bone (J8) are specialised connective tissues with type II / type I collagen respectively and are not covered in core per the official 16-chapter syllabus. The cell–matrix principle is the same: cells produce matrix, matrix determines function.
+Cartilage (Junqueira 7) and bone (Junqueira 8) sit outside the official 16-chapter core, so they are not developed in full here. They cannot be ignored altogether, however, for two reasons: they are specialised connective tissues built on exactly the cell-plus-matrix principle of this chapter, and other chapters in this book depend on them — the parathyroid chapter explains PTH acting on osteoblasts to drive osteoclasts, and the respiratory chapter uses cartilage plates as the decisive feature separating a bronchus from a bronchiole. What follows is the working minimum.
 
-Blood is fluid CT (Chapter 9).
+**The shared principle.** In every connective tissue the cells make a matrix, and the matrix determines the mechanical behaviour. Cartilage adds a highly hydrated proteoglycan gel and resists *compression*; bone adds mineral and resists compression *and* tension while remaining light.
+
+**Cartilage.** Chondrocytes sit in spaces called **lacunae** within a matrix they secrete. Cartilage is **avascular** and is nourished by diffusion from the surrounding **perichondrium**, which is why it heals poorly and why thickness is limited. Its matrix is type II collagen plus aggrecan bound to hyaluronan — the giant aggregate described earlier in this chapter — and the bound water is what resists compression.
+
+| Type | Matrix fibres | Perichondrium | Location | Decisive feature |
+|---|---|---|---|---|
+| **Hyaline** | Type II collagen (fine, masked) | Present (except articular surfaces) | Trachea, bronchi, costal, articular, growth plate, fetal skeleton | Glassy blue-grey matrix; chondrocytes in lacunae, often paired |
+| **Elastic** | Type II + **elastic fibres** | Present | External ear, epiglottis, auditory tube | Dark branching elastic fibres in the matrix |
+| **Fibrocartilage** | **Type I** collagen, coarse parallel bundles | **Absent** | Intervertebral disc, pubic symphysis, menisci | Chondrocytes in rows between visible collagen bundles; looks part-tendon, part-cartilage |
+
+Fibrocartilage is the common examination item, because it is the transitional tissue: it appears wherever tendon or ligament meets bone, and it is the only cartilage with type I collagen and no perichondrium.
+
+**Bone.** Osteocytes occupy lacunae and communicate through **canaliculi**; the matrix is type I collagen (tensile strength) impregnated with **hydroxyapatite** crystals (compressive strength and the calcium reservoir). Mature **lamellar** bone is laid down in ordered sheets; in compact bone these form concentric lamellae around a central vascular channel, the unit being the **osteon (Haversian system)**. Immature or rapidly formed **woven** bone has disordered collagen and is always abnormal in the adult skeleton — it appears in fracture callus, in Paget disease, and around tumours.
+
+Three cells run the tissue, and their relationship answers most endocrine questions about calcium:
+
+- **Osteoblast** — builds matrix (osteoid) and then mineralises it; derived from mesenchymal stem cells.
+- **Osteocyte** — a retired osteoblast trapped in its own matrix; senses mechanical load.
+- **Osteoclast** — a large multinucleated cell of *monocyte/macrophage* lineage that resorbs bone by acidifying a sealed compartment beneath its ruffled border.
+
+**The mechanism worth carrying to Chapter 16:** osteoclasts have **no PTH receptors**. PTH acts on *osteoblasts*, which respond by expressing **RANKL**; RANKL binds RANK on osteoclast precursors and drives their maturation. Osteoprotegerin, also made by osteoblasts, is a decoy receptor that blocks RANKL and so restrains resorption. Bone resorption is therefore always commanded by the bone-*forming* cell — a counter-intuitive fact that examiners exploit, and the reason denosumab (an anti-RANKL antibody) works.
+
+**Recognition on a section.** Cartilage: chondrocytes in lacunae within a smooth, homogeneous, basophilic matrix, with no blood vessels. Bone: osteocytes in lacunae within a strongly eosinophilic matrix showing lamellae, with canaliculi radiating between cells and vascular channels present. The decisive discriminator is **vascularity plus lamellae** — cartilage has neither.
+
+Blood is fluid connective tissue and is covered in Chapter 9.
+
 
 ## Compare & Distinguish
 
@@ -1696,7 +1684,7 @@ Blood is fluid CT (Chapter 9).
 
 ## Deepening the Concept
 
-## Collagen Synthesis: A Pathway Where Every Step Has a Disease
+### Collagen Synthesis: A Pathway Where Every Step Has a Disease
 
 Collagen synthesis is worth learning step by step, because each step has a corresponding disorder, and examiners test the pathway by asking which step failed.
 
@@ -1719,7 +1707,7 @@ Collagen synthesis is worth learning step by step, because each step has a corre
 
 A single memory hook covers two of these: **vitamin C for hydroxylation, copper for cross-linking.** "C before cross-link; copper *at* cross-link."
 
-## The Fibre Types and How to Tell Them Apart on a Slide
+### The Fibre Types and How to Tell Them Apart on a Slide
 
 | Fibre | Composition | H&E appearance | Special stain | Where it dominates |
 |---|---|---|---|---|
@@ -1731,7 +1719,7 @@ A single memory hook covers two of these: **vitamin C for hydroxylation, copper 
 
 **Elastic fibres and Marfan syndrome.** Elastin provides recoil; its cross-links are the unusual amino acids desmosine and isodesmosine, formed by the same lysyl oxidase that cross-links collagen. Elastin is deposited on a scaffold of **fibrillin-1** microfibrils. In Marfan syndrome, *FBN1* mutation disrupts the scaffold, weakening the aortic media (risk of dissection) and the ciliary zonule (lens dislocation). There is a second mechanism now recognised: fibrillin-1 normally sequesters latent TGF-β, so its loss also produces excess TGF-β signalling, which contributes to the aortic pathology — this is why the disease is more than simple mechanical weakness.
 
-## Ground Substance: Why It Matters More Than It Looks
+### Ground Substance: Why It Matters More Than It Looks
 
 Ground substance is invisible in routine H&E — it washes out, leaving apparently empty space — and students consequently underrate it.
 
@@ -1741,7 +1729,7 @@ Because GAGs are polyanions, they are **basophilic and metachromatic** — they 
 
 **Mucopolysaccharidoses** are lysosomal storage diseases in which GAG degradation fails (Hurler, α-L-iduronidase; Hunter, iduronate sulfatase, X-linked). Undegraded GAG accumulates in lysosomes throughout connective tissue, producing coarse facial features, corneal clouding, skeletal dysplasia, and organomegaly. Histologically the cells appear as distended, vacuolated "clear cells."
 
-## The Cells: Resident vs Wandering
+### The Cells: Resident vs Wandering
 
 | Cell | Nucleus | Cytoplasm | Decisive feature | Role |
 |---|---|---|---|---|
@@ -1754,7 +1742,7 @@ Because GAGs are polyanions, they are **basophilic and metachromatic** — they 
 
 **Mast cells and the mechanism of anaphylaxis.** Mast cells carry IgE bound to high-affinity FcεRI receptors. Antigen cross-linking adjacent IgE molecules triggers degranulation, releasing preformed histamine and heparin and then newly synthesised leukotrienes and prostaglandins. Histamine causes vasodilation, increased venular permeability, and bronchial smooth muscle contraction — precisely the clinical picture of urticaria, angio-oedema, and bronchospasm. The distribution of mast cells is itself informative: they are concentrated in connective tissue *around small blood vessels* and beneath epithelial surfaces exposed to the environment — skin, airway, gut — because that is where environmental antigen arrives.
 
-## Recognition Logic — Which Connective Tissue?
+### Recognition Logic — Which Connective Tissue?
 
 **LOOK FOR:** the ratio of cells to fibres, and whether fibres are ordered or random.
 **CONFIRM:** *Loose (areolar)* — many cells, sparse randomly woven fibres, abundant ground substance, many capillaries; found beneath epithelia. *Dense irregular* — few cells, thick collagen bundles in many directions; dermis, capsules; resists stress from all directions. *Dense regular* — few cells, parallel bundles with flattened fibroblasts squeezed in rows; tendon and ligament; resists tension in one axis.
@@ -1812,7 +1800,7 @@ A 20-year-old man with tall stature, arachnodactyly, and lens dislocation dies s
 
 ## Integrated Summary
 
-Connective tissue is the most abundant and most diverse of the four basic tissue types, defined by an abundant extracellular matrix. The matrix has three components (fibers, ground substance, water); its composition determines every disease. Collagen I is the principal fibrillar collagen (tendon, dermis, bone); type III is reticular; type IV is sheet-forming in the BM. Elastic fibers are elastin core + fibrillin-1 scaffold. Ground substance is GAGs + proteoglycans + glycoproteins in a hydrated gel. CT cells include fibroblasts, macrophages, mast cells, plasma cells, adipocytes, and mesenchymal stem cells. Cartilage and bone are specialised connective tissues out of core per the official 16-chapter syllabus.
+Connective tissue is the most abundant and most diverse of the four basic tissue types, defined by an abundant extracellular matrix. The matrix has three components (fibers, ground substance, water); its composition determines every disease. Collagen I is the principal fibrillar collagen (tendon, dermis, bone); type III is reticular; type IV is sheet-forming in the BM. Elastic fibers are elastin core + fibrillin-1 scaffold. Ground substance is GAGs + proteoglycans + glycoproteins in a hydrated gel. CT cells include fibroblasts, macrophages, mast cells, plasma cells, adipocytes, and mesenchymal stem cells. Cartilage and bone are specialised connective tissues covered here in essentials: both place cells in lacunae within a matrix that determines mechanical behaviour — hydrated proteoglycan for compression in cartilage, hydroxyapatite on collagen for rigidity in bone.
 
 ## Mastery Check
 
@@ -1823,22 +1811,7 @@ Connective tissue is the most abundant and most diverse of the four basic tissue
 5. Why does the matrix, not the cells, determine CT function and disease?
 
 
-## Advanced Concepts
-
-### Collagen Synthesis Pathway Detail
-
-Collagen synthesis is a multistep process that explains collagen diseases:
-
-1. **Pre-procollagen synthesis** (RER) — signal peptide directs nascent polypeptide into ER; pro-α chains assemble into triple helix (procollagen) with N- and C-terminal propeptides.
-2. **Hydroxylation** (RER, requires vitamin C) — proline and lysine residues hydroxylated by prolyl/lysyl hydroxylases; *vitamin C deficiency → hydroxyproline deficiency → triple helix unstable → scurvy* (bleeding gums, poor wound healing, perifollicular haemorrhages).
-3. **Glycosylation** (RER, Golgi) — hydroxylysine residues glycosylated.
-4. **Triple helix formation** (Golgi) — procollagen triple helix with retained propeptides.
-5. **Exocytosis** — procollagen secreted.
-6. **Cleavage of propeptides** (extracellular) — procollagen peptidases cleave N- and C-terminal propeptides → insoluble tropocollagen.
-7. **Cross-linking** (extracellular, lysyl oxidase, requires Cu²⁺) — lysine and hydroxylysine residues oxidatively deaminated → allysine → cross-links with adjacent tropocollagen molecules → collagen fibril.
-   - *Menkes disease* (Cu²⁺ transport defect) → defective cross-linking → kinky hair, brittle bones.
-   - *Ehlers-Danlos* (various, e.g., lysyl hydroxylase deficiency in type VI) → defective cross-linking → hyperextensible skin, hypermobile joints.
-8. **Fibril assembly** (extracellular) — staggered tropocollagen molecules → 67 nm D-banding periodicity.
+## Going Further — Mechanisms Beyond the Core
 
 ### Elastic Fibre Detail
 
@@ -1847,16 +1820,6 @@ Elastic fibres are composed of an elastin core surrounded by a fibrillin-1 micro
 - *Marfan syndrome* — FBN1 (fibrillin-1) mutation; fibrillin-1 microfibrils defective → *aortic dissection, ectopia lentis, skeletal overgrowth*. Fibrillin-1 also sequesters TGF-β; defective fibrillin → excess TGF-β signalling → additional pathology.
 - *Williams syndrome* — elastin gene deletion (7q11.23); supravalvular aortic stenosis, "elfin" facies, hypercalcaemia, friendly personality.
 - *Cutis laxa* — elastin gene mutation or acquired (post-inflammatory); loose, redundant skin.
-
-### Ground Substance Detail Extended
-
-GAG turnover is mediated by specific enzymes:
-- *Hyaluronidase* degrades hyaluronic acid (target of bacterial hyaluronidase, which spreads infection through CT).
-- *Sulfatases* degrade sulfated GAGs; *mucopolysaccharidoses* (Hurler, Hunter, Morquio) are deficiencies in specific lysosomal sulfatases or hydrolases → GAG accumulation → coarse facies, hepatosplenomegaly, skeletal dysplasia, intellectual disability.
-
-Decorin, biglycan, lumican, and fibromodulin are small leucine-rich proteoglycans that bind TGF-β and regulate collagen fibril assembly. Decorin deficiency → irregular collagen fibrils and skin fragility.
-
-Fibronectin has two forms: *plasma fibronectin* (circulating, in fibrin clots, supports wound healing) and *cellular fibronectin* (insoluble, in ECM). Fibronectin binds integrins (RGD sequence), collagen, fibrin, and heparan sulfate; it is essential for cell migration in embryogenesis and wound healing.
 
 ## Transition
 
@@ -1869,7 +1832,7 @@ Connective tissue in general, and the loose connective tissue that supports ever
 - Ground substance: GAGs + proteoglycans (aggrecan) + glycoproteins (fibronectin, laminin).
 - Cells: fibroblast (matrix production), macrophage (phagocytosis, CD68+), mast cell (allergy, metachromatic), plasma cell (clock-face nucleus, perinuclear hof, antibody secretion).
 - Connective tissue proper: loose, dense irregular, dense regular, elastic, reticular, mucous.
-- Specialised: cartilage (J7) and bone (J8) out of scope per official syllabus.
+- Specialised: cartilage (chondrocytes in lacunae, avascular, type II collagen; hyaline/elastic/fibrocartilage) and bone (osteocytes in lacunae, type I collagen + hydroxyapatite, osteon). PTH acts on osteoblasts → RANKL → osteoclast activation.
 
 # Chapter 6 — Adipose Tissue
 
@@ -1967,7 +1930,15 @@ UCP1 uncouples oxidative phosphorylation to produce heat (non-shivering thermoge
 
 ## Classification
 
-By cell type: white, brown, beige. By distribution: subcutaneous, visceral. By clinical status: hypertrophic (cell size up), hyperplastic (cell number up), inflamed (crown-like structures of macrophages around dying adipocytes in obesity).
+Adipose tissue is classified on three independent axes. Keeping them separate prevents a common confusion: a depot is described by *all three* at once.
+
+| Axis | Categories | Why it matters |
+|---|---|---|
+| **Cell type** | White (unilocular) · Brown (multilocular) · Beige/brite | Determines function: storage and endocrine signalling versus thermogenesis |
+| **Distribution** | Subcutaneous · Visceral | Visceral fat drains to the **portal vein** and is far more strongly associated with insulin resistance and cardiovascular risk than subcutaneous fat of the same mass |
+| **Clinical state** | Hypertrophic (cell size ↑) · Hyperplastic (cell number ↑) · Inflamed | Hypertrophied adipocytes outgrow their blood supply, become hypoxic, and recruit macrophages that form **crown-like structures** |
+
+**The subcutaneous–visceral distinction is the clinically decisive one.** Two patients with identical body mass index can carry very different risk, because visceral adipocytes are more lipolytically active and release free fatty acids and inflammatory adipokines *directly into the portal circulation*, delivering them first to the liver. This is the histological basis of "central obesity" as a cardiovascular risk factor, and the reason waist circumference predicts risk better than weight.
 
 ## Development
 
@@ -1986,7 +1957,7 @@ Terminal differentiated adipocyte expresses lipoprotein lipase (LPL, fatty acid 
 
 ## Deepening the Concept
 
-## Why Adipose Tissue Deserves a Chapter of Its Own
+### Why Adipose Tissue Deserves a Chapter of Its Own
 
 For most of the twentieth century adipose tissue was taught as inert packing. That view is obsolete. Adipose tissue is the largest endocrine organ in the body by mass, and its secretions — collectively **adipokines** — regulate appetite, insulin sensitivity, reproduction, and inflammation. Understanding this converts a dull chapter into the histological foundation of obesity, type 2 diabetes, and the metabolic syndrome.
 
@@ -1996,7 +1967,7 @@ For most of the twentieth century adipose tissue was taught as inert packing. Th
 
 Crown-like structures are a genuinely useful histological finding: rings of macrophages encircling a degenerating adipocyte, visible on routine sections in obese adipose tissue, and a direct visual demonstration that obesity is an inflammatory state.
 
-## White vs Brown vs Beige
+### White vs Brown vs Beige
 
 | Feature | White (unilocular) | Brown (multilocular) |
 |---|---|---|
@@ -2014,7 +1985,7 @@ Crown-like structures are a genuinely useful histological finding: rings of macr
 
 **Beige (brite) adipocytes** are UCP1-capable cells that appear within white depots in response to chronic cold or β-adrenergic stimulation — a process called browning. They matter because they represent a plausible therapeutic target in obesity, and because they explain why the old teaching that "brown fat disappears after infancy" is wrong: PET-CT studies detect metabolically active brown/beige fat in adults, particularly in supraclavicular and paravertebral regions.
 
-## Recognition Logic — Adipose Tissue
+### Recognition Logic — Adipose Tissue
 
 **LOOK FOR:** large, clear, round-to-polygonal empty spaces packed together with almost no visible cytoplasm.
 **CONFIRM:** flattened nuclei compressed against the cell margin, giving the **signet-ring** profile; a delicate reticular (type III collagen) network and capillaries between cells.
@@ -2026,7 +1997,7 @@ Crown-like structures are a genuinely useful histological finding: rings of macr
 
 **DECISIVE FEATURE:** the *single* vacuole with a *peripheral, crescentically flattened* nucleus within a lobule bounded by fine reticular septa. If the vacuole is mucin, a mucicarmine or PAS stain settles the question immediately.
 
-## Clinical Integration
+### Clinical Integration
 
 *Lipomas* are benign tumours of mature white adipocytes — the commonest soft-tissue tumour — and are histologically nearly indistinguishable from normal fat except for their encapsulation and slightly variable cell size. *Liposarcomas* are recognised by **lipoblasts**: cells with multiple cytoplasmic vacuoles that scallop and indent a hyperchromatic, atypical nucleus. The indented atypical nucleus is the decisive difference from a normal adipocyte, whose nucleus is smoothly compressed and bland.
 
@@ -2093,7 +2064,7 @@ Adipose is a specialised connective tissue with three cell types: white (unilocu
 5. Distinguish the histological appearance of white fat, brown fat, lipoma, and liposarcoma.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Adipose as an Endocrine Organ Extended
 
@@ -2164,8 +2135,11 @@ The nervous system is the body's command and information system. Every conscious
 3. List the major glial cell types (CNS and PNS) and their functions.
 4. Explain the structure and function of myelin in CNS vs PNS.
 5. Describe the structure of the synapse.
-6. Distinguish gray matter from white matter.
-7. Recognise neurons and major glial cells in routine sections.
+6. Distinguish grey matter from white matter, and explain why their arrangement inverts between brain and spinal cord.
+7. Describe the layered architecture of the cerebral and cerebellar cortex and identify each on a section.
+8. Describe the meninges and relate their anatomy to epidural, subdural, and subarachnoid pathology.
+9. Distinguish a dorsal root ganglion from an autonomic ganglion.
+10. Recognise neurons and major glial cells in routine sections.
 
 ## Big Picture
 
@@ -2270,6 +2244,53 @@ Neurons receive, integrate, transmit signals. Myelin increases conduction veloci
 - **Chemical** — most synapses; use neurotransmitter; directional.
 - **Electrical** — gap junction; bidirectional, fast, synchronous; smooth muscle, some CNS circuits.
 
+### Organisation of the Central Nervous System
+
+Everything so far has concerned the *cells* of nerve tissue. The examination also requires that you recognise the *organs* those cells build, and each has an architecture that is unmistakable once the organising rule is known.
+
+**Grey matter versus white matter.** Grey matter contains neuronal cell bodies, dendrites, synapses, and glia; it is where processing happens. White matter contains myelinated axons and glia but essentially no neuronal somata; it is wiring, and it is white in the fresh state because of myelin lipid. On an H&E section the distinction is immediate: grey matter contains large neurons with visible Nissl substance and nucleoli, while white matter is a pale, fibrillar field of small glial nuclei with no neuronal cell bodies.
+
+Their spatial arrangement inverts between the two parts of the CNS, and this is the fastest orientation test on any section:
+
+| | Cerebrum and cerebellum | Spinal cord |
+|---|---|---|
+| Grey matter | **Outside** (cortex) | **Inside** (butterfly/H-shaped) |
+| White matter | Inside | Outside (funiculi) |
+
+**Cerebral cortex.** Six layers (I molecular, II external granular, III external pyramidal, IV internal granular, V internal pyramidal, VI multiform). The decisive recognition feature is the **pyramidal cell** — a triangular soma with a thick apical dendrite directed toward the surface. Layer V of the motor cortex contains the giant pyramidal cells of Betz. Sensory cortex is *granular* (layer IV prominent, receiving thalamic input); motor cortex is *agranular* (layer V prominent, sending output). Function is readable from which layer dominates.
+
+![](assets/images/cerebellum.png)
+
+*Figure 7.2 — Cerebellar cortex. The molecular layer is pale and cell-poor; the granular layer is the most densely nucleated tissue in the body; between them sits a single row of giant Purkinje cells whose dendritic trees fan into the molecular layer in one plane and whose axons form the cortex's sole — and inhibitory — output.*
+
+**Cerebellar cortex.** Three layers, and the single easiest CNS structure to identify:
+
+- **Molecular layer** (outer) — few cells, mostly dendrites and parallel fibres; pale.
+- **Purkinje cell layer** (middle) — a *single row* of very large flask-shaped neurons with an enormous dendritic tree branching into the molecular layer in one plane.
+- **Granular layer** (inner) — densely packed small neurons, the most crowded nuclei in the body; deeply basophilic.
+
+**DECISIVE FEATURE:** the single row of giant Purkinje cells between a pale outer layer and a dark inner layer. Nothing else in the body looks like this. Purkinje cells are the sole output of the cerebellar cortex, and they are inhibitory (GABAergic) — a favourite examination point.
+
+**Meninges.** Three layers, outer to inner: **dura mater** (thick dense irregular collagen), **arachnoid mater** (avascular, with trabeculae spanning the subarachnoid space, which contains CSF), and **pia mater** (delicate, vascular, adherent to the brain surface and following every contour). Two clinically decisive consequences: an **epidural** haematoma is arterial (middle meningeal artery) and lens-shaped because it must strip dura from bone; a **subdural** haematoma is venous (bridging veins) and crescent-shaped because it spreads freely. CSF and infection occupy the *subarachnoid* space, which is why meningitis is diagnosed by lumbar puncture into that compartment.
+
+**Choroid plexus and CSF.** Choroid plexus is a fold of pia with a tuft of fenestrated capillaries covered by a *simple cuboidal ependymal epithelium* joined by tight junctions — the blood-CSF barrier. It produces CSF by active transport. Recognition: papillary fronds with a vascular core and a single cuboidal covering, sitting free within a ventricle.
+
+### The Peripheral Nervous System as Organs
+
+**Dorsal root ganglion.** Contains **pseudounipolar** sensory neuron cell bodies arranged in clusters, each surrounded by a complete ring of **satellite cells**, with bundles of myelinated axons running between the clusters. There are no synapses in a dorsal root ganglion — sensory information passes straight through. This is the decisive difference from an autonomic ganglion.
+
+**Autonomic ganglion.** Contains **multipolar** postganglionic neurons, more randomly scattered, with fewer and often incomplete satellite cell rings, and — crucially — **synapses are present**, because this is where preganglionic fibres terminate. Eccentric neuronal nuclei are common.
+
+| Feature | Dorsal root ganglion | Autonomic ganglion |
+|---|---|---|
+| Neuron type | Pseudounipolar | Multipolar |
+| Arrangement | Clustered, ordered | Scattered |
+| Satellite cells | Complete ring | Incomplete |
+| Synapses | **Absent** | **Present** |
+| Nucleus position | Central | Often eccentric |
+
+**Examination trap.** Both are ganglia with neuronal somata and satellite cells, so students answer from the presence of satellite cells alone. Judge instead from *neuron shape and arrangement*: tidy rings of round pseudounipolar cells means dorsal root; scattered angular multipolar cells means autonomic.
+
 ## Recognition Logic
 
 - **Large cell with pale nucleus, prominent nucleolus, basophilic Nissl substance, processes** → neuron soma.
@@ -2278,10 +2299,15 @@ Neurons receive, integrate, transmit signals. Myelin increases conduction veloci
 - **Small dense cell in CNS parenchyma** → microglia or oligodendrocyte.
 - **Long parallel eosinophilic fibers with elongated Schwann-cell or fibroblast nuclei** → peripheral nerve in longitudinal section.
 - **Cross-section of a nerve with multiple small dots (myelinated axons) within a denser sheath** → peripheral nerve in cross-section; perineurium visible.
+- **Single row of giant flask-shaped cells between a pale outer and a dark densely nucleated inner layer** → cerebellar cortex (Purkinje cells).
+- **Triangular somata with apical dendrites pointing to the surface, in six indistinct layers** → cerebral cortex (pyramidal cells).
+- **Butterfly-shaped central grey surrounded by white** → spinal cord.
+- **Papillary fronds with vascular cores covered by simple cuboidal epithelium, lying free in a ventricle** → choroid plexus.
+- **Clusters of round neurons each encircled by satellite cells, no synapses** → dorsal root ganglion.
 
 ## Deepening the Concept
 
-## Recognition Logic — Neurons, Glia, and Nerve
+### Recognition Logic — Neurons, Glia, and Nerve
 
 **LOOK FOR:** in grey matter or a ganglion, large cells with abundant cytoplasm scattered among far more numerous small nuclei.
 **CONFIRM:** the neuron by its *large, pale, vesicular nucleus with a single prominent nucleolus* ("owl's eye"), abundant basophilic **Nissl substance** (stacked RER), and visible processes. The surrounding small nuclei without visible cytoplasm are glia.
@@ -2290,7 +2316,7 @@ Neurons receive, integrate, transmit signals. Myelin increases conduction veloci
 
 The reason the neuronal nucleus looks the way it does is instructive rather than arbitrary: a neuron must sustain an axon that may be a metre long and contains no ribosomes, so its perikaryon transcribes and translates continuously. Euchromatic nucleus, huge nucleolus, and masses of RER are all consequences of that permanent synthetic demand.
 
-## Distinguishing the Glia and Why Each Matters
+### Distinguishing the Glia and Why Each Matters
 
 | Cell | Location | Key structure | Function | Clinical link |
 |---|---|---|---|---|
@@ -2305,7 +2331,7 @@ The reason the neuronal nucleus looks the way it does is instructive rather than
 
 **Microglial origin is a classic trap.** All other glia derive from neuroectoderm; microglia are of mesodermal origin, derived from yolk-sac macrophage progenitors that colonise the CNS in early development. They are the CNS's resident immune cells.
 
-## Myelin: Structure Explaining Conduction
+### Myelin: Structure Explaining Conduction
 
 Myelin is not a secretion but concentric layers of *glial plasma membrane* wrapped around an axon, from which the cytoplasm has been squeezed out. Its very high lipid content is why it dissolves in routine processing, leaving the clear halo around axons in H&E, and why specific stains (Luxol fast blue, osmium) are needed to demonstrate it.
 
@@ -2313,7 +2339,7 @@ The functional consequence follows from physics. Myelin increases membrane resis
 
 **Demyelination explains its diseases directly.** In multiple sclerosis, immune-mediated destruction of CNS myelin slows or blocks conduction, producing episodic deficits disseminated in space and time; plaques are periventricular, sharply demarcated areas of myelin loss with relative axonal preservation. In Guillain-Barré syndrome, autoimmune attack on peripheral myelin — often following *Campylobacter jejuni* infection by molecular mimicry — produces ascending flaccid paralysis with markedly slowed nerve conduction velocity and albuminocytological dissociation in the CSF. In both, the primary lesion is the insulation, not the wire.
 
-## The Connective Tissue Sheaths of Peripheral Nerve
+### The Connective Tissue Sheaths of Peripheral Nerve
 
 This is a small topic with a disproportionate examination yield, because the three layers have distinct compositions and one has a barrier function.
 
@@ -2323,7 +2349,7 @@ This is a small topic with a disproportionate examination yield, because the thr
 
 **Recognition on a transverse section:** the nerve appears as bundles of small round profiles, each with a clear halo (dissolved myelin) and sometimes a central dot (the axon), grouped into fascicles ringed by a distinct layer, all bound by dense pink tissue. The commonest confusion is with tendon, which has parallel wavy collagen and flattened nuclei in rows but *no fascicular rings and no haloed profiles*.
 
-## The Synapse and Its Pharmacology
+### The Synapse and Its Pharmacology
 
 The chemical synapse converts an electrical signal into a chemical one and back. Arrival of the action potential opens voltage-gated Ca²⁺ channels; Ca²⁺ influx triggers SNARE-mediated fusion of synaptic vesicles (synaptobrevin/VAMP on the vesicle; syntaxin and SNAP-25 on the presynaptic membrane); neurotransmitter diffuses across the 20–30 nm cleft and binds postsynaptic receptors; the signal is terminated by reuptake, enzymatic degradation, or diffusion.
 
@@ -2396,9 +2422,9 @@ Nerve tissue is built from neurons (signaling) and glia (support). Neurons are p
 5. Explain the molecular basis of multiple sclerosis and Guillain-Barré syndrome.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
-### Synapse Detail
+### Synaptic Vesicle Cycle and Neurotransmitters
 
 Synapses are specialised junctions where one neuron communicates with another (or with an effector). Two major classes:
 
@@ -2416,19 +2442,6 @@ Neurotransmitter types:
 Postsynaptic potentials:
 - **EPSP** (excitatory postsynaptic potential) — depolarisation, opens Na⁺ channels.
 - **IPSP** (inhibitory postsynaptic potential) — hyperpolarisation, opens Cl⁻ or K⁺ channels.
-
-### Myelination and Saltatory Conduction
-
-Myelin is a multilamellar lipid-rich sheath (mostly lipid, some protein) wrapped around axons by oligodendrocytes (CNS) or Schwann cells (PNS). It increases conduction velocity by:
-- Reducing membrane capacitance (less charge stored across the bilayer).
-- Increasing membrane resistance (less current leak).
-
-Conduction is *saltatory*: action potentials "jump" between nodes of Ranvier (gaps in myelin where Na⁺ channels are concentrated). Saltatory conduction is much faster than continuous conduction (up to ~120 m/s in large myelinated axons vs ~1 m/s in small unmyelinated).
-
-Demyelinating disease:
-- **Multiple sclerosis** — autoimmune destruction of CNS myelin (oligodendrocytes); periventricular plaques on MRI; symptoms depend on plaque location (optic neuritis, hemiparesis, ataxia).
-- **Guillain-Barré syndrome** — autoimmune PNS demyelination (Schwann cells); ascending paralysis.
-- **Charcot-Marie-Tooth** — hereditary demyelinating neuropathy (PMP22, MPZ mutations); foot drop, stork-leg deformity.
 
 ### Neuronal Cell Biology
 
@@ -2602,7 +2615,7 @@ Three layers:
 
 ## Deepening the Concept
 
-## The Organising Principle: Wall Composition Follows Haemodynamics
+### The Organising Principle: Wall Composition Follows Haemodynamics
 
 Every vessel wall is a variation on three concentric tunics, and the proportions are predictable from the pressure and flow the vessel experiences. Learn the principle and the individual vessels stop needing separate memorisation.
 
@@ -2623,7 +2636,7 @@ The rule: *pressure dictates media thickness; pulsatility dictates elastin conte
 
 **The single highest-yield recognition pair** is artery versus vein in a neurovascular bundle. The artery has a thick, muscular, round wall that holds its shape, with a crisp wavy internal elastic lamina; the vein is collapsed or irregular in outline with a large lumen and a thin wall in which the adventitia is the thickest layer. The wavy internal elastic lamina is the decisive feature, and the waviness is itself a post-mortem artifact of the media contracting — a useful example of an artifact that helps rather than hinders.
 
-## Capillary Types: Structure Dictated by What Must Cross
+### Capillary Types: Structure Dictated by What Must Cross
 
 | Type | Structure | Location | Functional logic |
 |---|---|---|---|
@@ -2633,7 +2646,7 @@ The rule: *pressure dictates media thickness; pulsatility dictates elastin conte
 
 This table answers a large family of examination questions in one step. Why are endocrine glands fenestrated? Because hormones must reach the blood quickly. Why is the marrow sinusoidal? Because newly formed blood cells must physically enter the circulation. Why is the CNS capillary continuous with tight junctions? Because neuronal function requires a tightly controlled extracellular ionic environment.
 
-## The Endothelium as an Organ
+### The Endothelium as an Organ
 
 Treating endothelium as inert lining is the commonest conceptual error in this chapter. It is a distributed endocrine and regulatory organ, and each of its functions has a disease.
 
@@ -2644,7 +2657,7 @@ Treating endothelium as inert lining is the commonest conceptual error in this c
 
 **Weibel-Palade bodies** are the endothelium's distinctive organelle: rod-shaped granules storing von Willebrand factor and P-selectin. They are the structural reason endothelium can switch to a prothrombotic, pro-adhesive state within minutes.
 
-## Atherosclerosis as Applied Vascular Histology
+### Atherosclerosis as Applied Vascular Histology
 
 Atherosclerosis is worth tracing because it uses nearly everything in the chapter. Endothelial injury (from shear stress at branch points, hypertension, smoking, hyperglycaemia, dyslipidaemia) increases permeability and adhesion molecule expression. LDL enters the intima and is oxidised. Monocytes adhere, transmigrate, become macrophages, take up oxidised LDL through scavenger receptors, and become **foam cells**, forming the earliest visible lesion, the *fatty streak*. Cytokines recruit smooth muscle cells from the media into the intima, where they proliferate and synthesise collagen, producing the **fibrous cap** over a necrotic lipid core — the mature *atheroma*.
 
@@ -2652,7 +2665,7 @@ The clinical events follow from the histology. A *stable* plaque with a thick fi
 
 Note the distribution logic: plaques form preferentially at bifurcations and curvatures, where flow is disturbed and laminar shear stress is low, because laminar shear normally maintains an atheroprotective endothelial phenotype.
 
-## The Heart Wall and the Conducting System
+### The Heart Wall and the Conducting System
 
 The three layers parallel the vessel tunics: **endocardium** (endothelium + subendothelial connective tissue, continuous with intima), **myocardium** (cardiac muscle, the functional bulk), and **epicardium** (visceral pericardium — mesothelium over connective tissue and the adipose containing the coronary vessels).
 
@@ -2714,7 +2727,7 @@ The circulatory system is a closed network organised into a vessel hierarchy —
 6. Compare the structure of an artery and a vein of similar size.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Endothelial Heterogeneity and Specialised Circulations
 
@@ -2925,7 +2938,7 @@ RBCs transport O₂ and CO₂. Platelets initiate primary haemostasis. Neutrophi
 
 ## Deepening the Concept
 
-## Reading a Blood Film Systematically
+### Reading a Blood Film Systematically
 
 A peripheral smear is read in a fixed order, and the order prevents most errors.
 
@@ -2943,7 +2956,7 @@ A peripheral smear is read in a fixed order, and the order prevents most errors.
 | Absent, cell dense and round | Spherocyte — lost membrane, so lost biconcavity | Hereditary spherocytosis, autoimmune haemolysis |
 | Absent, cell large and oval | Macro-ovalocyte | Megaloblastic anaemia (B12/folate) |
 
-## The Leukocyte Differential as a Recognition Exercise
+### The Leukocyte Differential as a Recognition Exercise
 
 | Cell | % of WBC | Size | Nucleus | Granules | Decisive feature |
 |---|---|---|---|---|---|
@@ -2957,7 +2970,7 @@ A peripheral smear is read in a fixed order, and the order prevents most errors.
 
 The classic error is calling a monocyte a large lymphocyte. Three discriminators settle it: the monocyte nucleus is *indented or folded* with delicate lacy chromatin; the cytoplasm is abundant and grey-blue, often vacuolated; and the cell is distinctly the largest in the field. A large (reactive) lymphocyte has a round, densely chromatic nucleus and deeply basophilic cytoplasm that is often *indented by adjacent red cells* — a characteristic of the atypical lymphocytes of infectious mononucleosis.
 
-## Why Each Granulocyte Exists: Granule Contents Predict Disease Associations
+### Why Each Granulocyte Exists: Granule Contents Predict Disease Associations
 
 **Neutrophils** are the first responders to bacterial infection. They carry *primary (azurophilic)* granules — lysosomes containing myeloperoxidase, elastase, and defensins — and *secondary (specific)* granules containing lactoferrin, lysozyme, and collagenase. Myeloperoxidase generates hypochlorous acid from hydrogen peroxide, the principal killing mechanism. In **chronic granulomatous disease**, NADPH oxidase is defective, no superoxide is generated, and killing of catalase-positive organisms fails — diagnosed by the dihydrorhodamine flow cytometry test (or historically nitroblue tetrazolium). A **left shift** — increased band forms and immature granulocytes — indicates accelerated marrow output, typically bacterial infection. **Hypersegmentation** (>5 lobes) indicates megaloblastic anaemia.
 
@@ -2969,7 +2982,7 @@ The classic error is calling a monocyte a large lymphocyte. Three discriminators
 
 **Platelets** are anucleate cytoplasmic fragments of megakaryocytes, 2–4 µm, with a granular *granulomere* centrally and clear *hyalomere* peripherally. Their α-granules contain fibrinogen, von Willebrand factor, and platelet-derived growth factor; dense granules contain ADP, ATP, calcium, and serotonin.
 
-## Structure Explaining Haemolysis
+### Structure Explaining Haemolysis
 
 The erythrocyte has no nucleus, no ribosomes, and no mitochondria — it is a haemoglobin-filled membrane bag, entirely dependent on anaerobic glycolysis for ATP and on the hexose monophosphate shunt for NADPH to defend against oxidative stress. Every feature of red cell pathology follows from this austerity.
 
@@ -2979,7 +2992,7 @@ The erythrocyte has no nucleus, no ribosomes, and no mitochondria — it is a ha
 
 **Target cells (codocytes)** deserve a mechanistic explanation because they are so often merely memorised: they arise when the *ratio of membrane surface area to haemoglobin content is increased*. Excess membrane relative to contents allows the cell to fold into a bell shape that, flattened on a slide, shows a central dot of haemoglobin inside a ring of pallor. Hence their appearance in thalassaemia and iron deficiency (too little haemoglobin) and in liver disease (too much membrane lipid).
 
-## Recognition Logic — Anaemia from the Film
+### Recognition Logic — Anaemia from the Film
 
 **LOOK FOR:** cell size relative to a small lymphocyte nucleus, then central pallor, then shape abnormalities.
 **CONFIRM:** with indices — MCV below 80 fL is microcytic, 80–100 normocytic, above 100 macrocytic.
@@ -3050,7 +3063,7 @@ Blood is a fluid connective tissue consisting of plasma and formed elements. RBC
 5. Why is monocytosis associated with chronic infections?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Neutrophil Detail
 
@@ -3261,7 +3274,7 @@ The marrow produces ~200 billion RBCs, ~10 billion neutrophils, and ~400 billion
 
 ## Deepening the Concept
 
-## The Two Rules That Make Maturation Sequences Learnable
+### The Two Rules That Make Maturation Sequences Learnable
 
 Students find hemopoietic maturation intimidating because it looks like a list of a dozen cell names. It is in fact governed by two rules that apply to *every* lineage, and once these are internalised, the sequence can be reconstructed rather than memorised.
 
@@ -3284,13 +3297,13 @@ The polychromatophilic stage is the examination favourite because two things hap
 
 Granulopoiesis follows the same logic: myeloblast → promyelocyte (*primary/azurophilic granules appear*) → myelocyte (*secondary/specific granules appear; last mitotic stage*) → metamyelocyte (indented nucleus, no division) → band → mature segmented granulocyte. The decisive rule: **primary granules first, specific granules define the lineage, and the myelocyte is the last dividing stage.**
 
-## The Marrow Niche and Why Blood Cells Enter the Circulation on Time
+### The Marrow Niche and Why Blood Cells Enter the Circulation on Time
 
 Red marrow consists of hemopoietic cords lying between wide, thin-walled **sinusoids**. This arrangement is not incidental. The sinusoidal endothelium is discontinuous with a deficient basal lamina, so mature cells can cross into the blood while immature cells — which are less deformable and lack the required surface receptors — cannot. The barrier is therefore *selective by maturity*, which is why blasts appearing in peripheral blood are pathological and signify either marrow infiltration or leukaemia.
 
 Two spatial facts are worth knowing because they are examined. **Megakaryocytes** sit directly against the sinusoidal wall and extend proplatelet processes *through* the endothelium, shedding platelets straight into the lumen. **Erythroblasts** develop in *erythroblastic islands*, clustered around a central macrophage that supplies iron for haemoglobin synthesis and finally phagocytoses the extruded nucleus. The macrophage is sometimes called a "nurse cell," and the arrangement explains why iron handling and erythropoiesis are so tightly coupled.
 
-## Regulation: Which Factor Does What
+### Regulation: Which Factor Does What
 
 | Factor | Source | Target | Clinical use or relevance |
 |---|---|---|---|
@@ -3303,7 +3316,7 @@ Two spatial facts are worth knowing because they are examined. **Megakaryocytes*
 
 The EPO axis is the most useful of these because it is a complete, clean, physiological feedback loop: hypoxia → HIF stabilisation in renal interstitial cells → EPO transcription → erythroid progenitor survival and proliferation → more red cells → improved oxygen delivery → EPO falls. It also explains the anaemia of chronic kidney disease and the polycythaemia of chronic hypoxia, high altitude, and EPO-secreting tumours.
 
-## Marrow Distribution Changes with Age — and Reverses Under Stress
+### Marrow Distribution Changes with Age — and Reverses Under Stress
 
 At birth, essentially all marrow is red (active). With age, red marrow is progressively replaced by **yellow (fatty) marrow** in the appendicular skeleton, so that in the adult active marrow is confined largely to the vertebrae, sternum, ribs, pelvis, skull, and the proximal epiphyses of femur and humerus. This is why the posterior iliac crest is the standard biopsy site and the sternum the traditional aspiration site.
 
@@ -3311,7 +3324,7 @@ The conversion is *reversible*. Under sustained demand — chronic haemolysis, s
 
 The normal **myeloid-to-erythroid ratio** in adult marrow is about 2:1 to 4:1 — there are more granulocytic than erythroid precursors, because granulocytes survive only hours to days in the circulation while erythrocytes last 120 days. Reasoning from lifespan to ratio is more reliable than memorising the number.
 
-## Recognition Logic — Bone Marrow
+### Recognition Logic — Bone Marrow
 
 **LOOK FOR:** at low power, cellularity — the proportion of haemopoietic cells to fat. A rough rule for the adult is *cellularity ≈ 100 minus age* (a 60-year-old has roughly 40% cellular marrow).
 **CONFIRM:** identify **megakaryocytes** — they are unmistakable: very large cells with a single enormous multilobed, convoluted, hyperchromatic nucleus.
@@ -3379,7 +3392,7 @@ Haemopoiesis is the production of blood cells from a hierarchy of HSCs in the ma
 5. What is the difference between red and yellow marrow, and when does red-marrow hyperplasia occur?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Stem Cell Niche Detail
 
@@ -3391,35 +3404,6 @@ Haematopoietic stem cells (HSCs) reside in a specific niche that regulates self-
 HSC mobilisation: G-CSF → neutrophil activation → proteolytic cleavage of CXCL12 and VCAM-1 → HSC detachment → mobilisation into circulation. Mobilised HSCs can be harvested by leukapheresis for transplantation.
 
 HSC homing to bone marrow after transplant: HSC CXCR4 binds CXCL12 → integrin activation → firm adhesion → transendothelial migration → niche.
-
-### Erythropoiesis Detail
-
-Erythropoiesis proceeds through morphologically recognisable stages:
-
-1. **Proerythroblast** — large, basophilic, euchromatic nucleus; first committed erythroid progenitor.
-2. **Basophilic erythroblast** — smaller, deeply basophilic; high RER for globin synthesis.
-3. **Polychromatophilic erythroblast** — intermediate staining (basophilic + eosinophilic); haemoglobin synthesis begins.
-4. **Orthochromatophilic erythroblast** — small, pyknotic nucleus; cytoplasm strongly eosinophilic (haemoglobin dominant).
-5. **Reticulocyte** — nucleus extruded; residual RNA and organelles; released into blood; matures to erythrocyte in 1–2 days. Supravital staining (new methylene blue) reveals residual RNA as reticular network → reticulocyte count.
-
-Erythropoietin (EPO) acts on CFU-E and proerythroblast; iron is essential (Fe²⁺ incorporated into protoporphyrin IX by ferrochelatase); vitamin B₁₂ and folate are essential for DNA synthesis (deficiency → megaloblastic anaemia with nuclear-cytoplasmic asynchrony).
-
-Reticulocyte count is the most useful index of effective erythropoiesis: increased in haemolysis or post-iron/B₁₂ replacement; decreased in aplastic anaemia, renal failure (EPO deficiency), marrow infiltration.
-
-### Granulopoiesis Detail
-
-Granulopoiesis proceeds through myeloblast → promyelocyte → myelocyte → metamyelocyte → band → segmented (mature neutrophil).
-
-- **Myeloblast** — large, euchromatic nucleus with prominent nucleoli; no granules; first recognisable granulocyte precursor.
-- **Promyelocyte** — azurophilic (primary) granules appear (peroxidase, defensins).
-- **Myelocyte** — specific (secondary) granules appear; last mitotic stage.
-- **Metamyelocyte** — kidney-shaped nucleus; non-mitotic; nuclear indentation.
-- **Band** — horseshoe-shaped nucleus; non-mitotic; immature circulating neutrophil.
-- **Segmented** — multi-lobed nucleus (3–5 lobes); mature.
-
-Specific granules determine cell identity (neutrophil, eosinophil, basophil). Granule content is packaged during the myelocyte stage; mutations affecting granule formation cause specific granule deficiency.
-
-G-CSF shortens the transit time of the granulocytic series and shifts the marginating pool to the circulating pool; used clinically to accelerate neutrophil recovery after chemotherapy.
 
 ### Megakaryopoiesis and Platelet Production
 
@@ -3591,7 +3575,7 @@ Bone marrow produces all blood cells and matures B cells. Thymus educates T cell
 
 ## Deepening the Concept
 
-## The Governing Logic: Lymphoid Organ Architecture Follows the Antigen's Route
+### The Governing Logic: Lymphoid Organ Architecture Follows the Antigen's Route
 
 Every lymphoid organ is built around one question: *where does the antigen come from?* Answer that and the architecture becomes predictable rather than arbitrary.
 
@@ -3604,7 +3588,7 @@ Every lymphoid organ is built around one question: *where does the antigen come 
 
 The thymus is the exception that proves the rule: it is the only lymphoid organ that must *not* meet foreign antigen, because its job is to test developing T cells against *self*. Accordingly it has no afferent lymphatics at all — a fact that is both a recognition feature and a conceptual anchor.
 
-## Primary vs Secondary Lymphoid Organs
+### Primary vs Secondary Lymphoid Organs
 
 **Primary (central)** organs — bone marrow and thymus — are where lymphocytes are *generated and educated* in the absence of foreign antigen. B cells mature in the marrow; T cells mature in the thymus. Both involute or decline with age.
 
@@ -3612,7 +3596,7 @@ The thymus is the exception that proves the rule: it is the only lymphoid organ 
 
 This distinction answers a family of questions at once. Germinal centres in the thymus would be abnormal (and are indeed seen in the thymic hyperplasia of myasthenia gravis). A newborn's lymph nodes have primary follicles without germinal centres because no antigen has yet been encountered.
 
-## T-Cell Education: Two Selections, Two Failures
+### T-Cell Education: Two Selections, Two Failures
 
 In the thymic **cortex**, immature double-positive (CD4+CD8+) thymocytes are tested by cortical epithelial cells. **Positive selection** retains only those whose T-cell receptor binds self-MHC with *some* affinity; cells that cannot recognise self-MHC at all would be useless and die by neglect. This is the origin of MHC restriction.
 
@@ -3622,7 +3606,7 @@ Over 90% of thymocytes die in this process. The resulting apoptotic debris is cl
 
 **Recognising the thymus:** lobulated, with a *dark cortex* (densely packed small thymocytes) and a *pale medulla*, and the decisive feature — **Hassall's corpuscles**, whorled concentric aggregates of keratinised medullary epithelial cells, found in the medulla and in no other organ. Thymic *involution* after puberty replaces the parenchyma with adipose tissue while Hassall's corpuscles persist, which is how an adult thymus is still identifiable.
 
-## The Lymph Node, Compartment by Compartment
+### The Lymph Node, Compartment by Compartment
 
 Lymph flows: afferent lymphatics → **subcapsular sinus** → trabecular (cortical) sinuses → **medullary sinuses** → efferent lymphatic at the hilum. Macrophages lining these sinuses filter particulates and antigen.
 
@@ -3634,7 +3618,7 @@ Lymph flows: afferent lymphatics → **subcapsular sinus** → trabecular (corti
 
 **Clinical anchor.** In HIV infection, the paracortical CD4+ T-cell zone is progressively depleted, and germinal centres first become florid and later collapse and involute — the histology of the lymph node tracks the course of the disease.
 
-## The Spleen: Two Organs in One
+### The Spleen: Two Organs in One
 
 **White pulp** is the immune organ: lymphoid tissue arranged around a **central arteriole**. The **periarteriolar lymphoid sheath (PALS)** of T cells immediately surrounds the arteriole; B-cell follicles lie eccentrically alongside it; a marginal zone surrounds both and is where antigen is first encountered. On a slide, white pulp is visible at low power as discrete blue nodules — and the decisive feature is the **eccentric arteriole within the lymphoid nodule**, which a lymph node follicle never has.
 
@@ -3644,7 +3628,7 @@ Lymph flows: afferent lymphatics → **subcapsular sinus** → trabecular (corti
 
 **Post-splenectomy sepsis** follows from the marginal zone: the spleen is the principal site for mounting antibody responses to *polysaccharide* capsular antigens. Its loss leaves patients vulnerable to overwhelming infection with encapsulated organisms — *Streptococcus pneumoniae*, *Haemophilus influenzae* type b, *Neisseria meningitidis* — hence the vaccination requirement before elective splenectomy.
 
-## MALT and the Mucosal Interface
+### MALT and the Mucosal Interface
 
 Mucosa-associated lymphoid tissue is unencapsulated lymphoid tissue at mucosal surfaces — tonsils, Peyer's patches of the ileum, appendix, and bronchus-associated tissue. Its distinguishing device is the **M (microfold) cell**, a specialised epithelial cell with a thin, sparsely microvillous apical surface and a deep basolateral pocket containing lymphocytes and dendritic cells. M cells transcytose luminal antigen directly to the immune cells waiting in the pocket, allowing immune surveillance of the gut lumen without breaching the barrier.
 
@@ -3652,7 +3636,7 @@ The dominant mucosal effector is **secretory IgA**, produced as a dimer by lamin
 
 The same M cells that permit surveillance are exploited as portals by pathogens including *Salmonella*, *Shigella*, and poliovirus — an elegant illustration that any gateway can be subverted.
 
-## Recognition Logic — Which Lymphoid Organ?
+### Recognition Logic — Which Lymphoid Organ?
 
 **LOOK FOR:** a capsule, then the presence and position of follicles.
 **CONFIRM and DISTINGUISH:**
@@ -3725,7 +3709,7 @@ The lymphoid system separates primary (education) from secondary (execution) org
 6. Why is BCL2 expression in germinal centres a marker of follicular lymphoma?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Lymphocyte Trafficking
 
@@ -3934,7 +3918,12 @@ Rectal columnar → transitional → non-keratinised stratified squamous at pect
 
 ## Deepening the Concept
 
-## One Plan, Four Layers: The Template That Organises the Whole Tract
+### One Plan, Four Layers: The Template That Organises the Whole Tract
+
+![](assets/images/gi_layers.png)
+
+*Figure 12.2 — The four-layer plan. Each plexus governs the layer it lies beside: the myenteric plexus sits between the muscle coats it drives, the submucosal plexus beside the mucosa whose secretion it controls. Submucosal glands occur in only two places in the entire tract.*
+
 
 From oesophagus to anal canal the digestive tube is built on a single four-layer plan. Learning the template once means each organ is then described only by how it *deviates* from it — which is exactly how examination questions are constructed.
 
@@ -3947,7 +3936,7 @@ From oesophagus to anal canal the digestive tube is built on a single four-layer
 
 **Hirschsprung disease** is the clinical proof. Failure of neural crest cells to complete their craniocaudal migration leaves a distal segment — most often rectosigmoid — *aganglionic*, lacking both plexuses. Without inhibitory innervation the segment remains tonically contracted, producing functional obstruction with massive proximal dilatation. The diagnosis is made histologically on a rectal suction biopsy showing *absence of ganglion cells* with hypertrophied nerve trunks. Note the trap: the dilated segment looks abnormal radiologically, but the *narrow* distal segment is the diseased one.
 
-## Region-by-Region: The Decisive Feature of Each
+### Region-by-Region: The Decisive Feature of Each
 
 | Region | Epithelium | Decisive identifying feature |
 |---|---|---|
@@ -3970,7 +3959,7 @@ From oesophagus to anal canal the digestive tube is built on a single four-layer
 
 *Colon vs ileum.* The absence of villi is decisive. Colonic mucosa presents a flat surface pierced by straight, parallel, test-tube-like crypts packed with goblet cells.
 
-## The Gastric Gland: Cells, Products, and the Diseases That Follow
+### The Gastric Gland: Cells, Products, and the Diseases That Follow
 
 | Cell | Location in gland | Appearance | Product | Clinical significance |
 |---|---|---|---|---|
@@ -3987,7 +3976,7 @@ From oesophagus to anal canal the digestive tube is built on a single four-layer
 
 **Intrinsic factor is the other parietal cell product and the more dangerous to lose.** It binds vitamin B12 for absorption in the terminal ileum. Autoimmune destruction of parietal cells (autoimmune gastritis) therefore causes *both* achlorhydria *and* B12 deficiency — pernicious anaemia with megaloblastic changes and subacute combined degeneration of the cord. One cell type, two clinical syndromes.
 
-## The Mucosal Barrier and Its Failures
+### The Mucosal Barrier and Its Failures
 
 The gastric mucosa faces a paradox: it secretes an acid strong enough to digest tissue yet must not digest itself. Protection comes from a layered defence — an adherent mucus-bicarbonate layer maintaining a near-neutral pH at the epithelial surface, tight junctions between surface cells, rapid epithelial turnover, and a rich mucosal blood flow that removes back-diffused H⁺. **Prostaglandins (PGE2)** maintain mucus and bicarbonate secretion and mucosal blood flow.
 
@@ -3995,7 +3984,7 @@ Two common clinical problems follow directly. **NSAIDs** inhibit cyclo-oxygenase
 
 **Barrett oesophagus** is the metaplasia to know: chronic acid reflux causes the stratified squamous epithelium of the distal oesophagus to be replaced by *intestinal-type columnar epithelium with goblet cells*. It is an adaptive change — columnar epithelium tolerates acid better — but it carries an increased risk of adenocarcinoma. Goblet cells above the gastro-oesophageal junction are the decisive diagnostic finding.
 
-## Recognition Logic — Small Intestine vs Colon vs Stomach
+### Recognition Logic — Small Intestine vs Colon vs Stomach
 
 **LOOK FOR:** at scanning power, the surface profile. Villi → small intestine. Flat surface with crypts → colon. Deep pits leading into glands, no villi and no goblet-cell-packed crypts → stomach.
 **CONFIRM:** locate a decisive structure — parietal cells (stomach), Brunner glands (duodenum), Peyer's patches (ileum), taeniae coli and goblet-rich straight crypts (colon).
@@ -4074,7 +4063,7 @@ The GI tract is a tube with a conserved four-layer organisation (mucosa, submuco
 6. What is Hirschsprung disease and what is the histological finding?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Gastric Acid Secretion Mechanism
 
@@ -4328,7 +4317,7 @@ Salivary glands produce saliva for lubrication, amylase digestion, and antimicro
 
 ## Deepening the Concept
 
-## The Liver Lobule: Three Models of One Organ
+### The Liver Lobule: Three Models of One Organ
 
 Students find the liver confusing because three different "units" are taught and each is correct for a different purpose. Understanding *why* three exist resolves the confusion permanently.
 
@@ -4346,7 +4335,7 @@ Students find the liver confusing because three different "units" are taught and
 
 The acinar model earns its place because it *predicts pathology*. Shock or right heart failure produces **centrilobular (zone 3) necrosis** — the classic "nutmeg liver" — because zone 3 is at the far end of the oxygen gradient. Paracetamol overdose also damages zone 3, but for a different reason: zone 3 is richest in cytochrome P450, which converts paracetamol to the toxic metabolite NAPQI. Two mechanisms, same zone, different logic — and examiners test precisely that distinction.
 
-## Sinusoids and the Space of Disse
+### Sinusoids and the Space of Disse
 
 The hepatic sinusoid is a **discontinuous capillary**: its endothelium has large fenestrations without diaphragms and an *absent or highly discontinuous basal lamina*. Between the endothelium and the hepatocyte plate lies the **space of Disse (perisinusoidal space)**, into which hepatocyte microvilli project.
 
@@ -4361,7 +4350,7 @@ This arrangement is the structural basis of hepatic function. Because there is n
 
 **Cirrhosis follows directly.** Chronic injury of any cause activates stellate cells; collagen deposited in the space of Disse "capillarises" the sinusoid, losing fenestrations and impairing exchange; fibrous septa link portal tracts and central veins, dividing the parenchyma into regenerative nodules. The two clinical consequences are mechanical and synthetic: distorted architecture obstructs portal flow, raising portal pressure (varices, splenomegaly, ascites), while loss of functioning hepatocytes reduces albumin and clotting factor synthesis and impairs detoxification (jaundice, coagulopathy, encephalopathy). Every complication of cirrhosis can be derived from those two statements.
 
-## The Bile Canaliculus and the Mechanism of Jaundice
+### The Bile Canaliculus and the Mechanism of Jaundice
 
 The **bile canaliculus** is not a duct but a groove — a 1–2 µm channel formed between the apposed apical membranes of two adjacent hepatocytes, sealed from the sinusoid by **tight junctions**. The hepatocyte is therefore a polarised epithelial cell with two different "apical" and "basolateral" domains: it faces blood on the sinusoidal side and bile on the canalicular side. Bile flows through canaliculi → canals of Hering (the transition, lined partly by hepatocytes and partly by cholangiocytes, and the site of the hepatic stem-cell niche) → bile ductules → interlobular ducts in the portal triads.
 
@@ -4373,7 +4362,7 @@ Bilirubin handling maps precisely onto this architecture, and the three types of
 
 **Pre-hepatic** jaundice (haemolysis) overwhelms conjugation → unconjugated hyperbilirubinaemia. **Hepatocellular** jaundice impairs all three steps → mixed. **Post-hepatic** (obstructive) jaundice blocks outflow → conjugated hyperbilirubinaemia with pale stools and dark urine, because water-soluble conjugated bilirubin is excreted renally. Gilbert syndrome (reduced UGT1A1 activity) and Crigler-Najjar (severe or absent) affect step 2; Dubin-Johnson (defective MRP2) affects step 3 and produces a grossly *black liver* from accumulated pigment.
 
-## The Exocrine Pancreas and Acute Pancreatitis
+### The Exocrine Pancreas and Acute Pancreatitis
 
 The exocrine pancreas is a purely serous compound acinar gland, and its acinar cell is the textbook protein-secreting cell: pyramidal, with an intensely basophilic base (packed RER), a round basal nucleus, and eosinophilic apical **zymogen granules**. Its duct system begins with **centroacinar cells** — the intercalated duct cells that extend *into* the acinar lumen and are unique to the pancreas, making them a decisive identifying feature.
 
@@ -4381,7 +4370,7 @@ The division of labour is important: **acinar cells secrete enzymes**, while **d
 
 **The protective logic of zymogens** explains acute pancreatitis. Enzymes are stored as inactive precursors; trypsinogen is normally activated only in the duodenum by enterokinase, and the acinar cell additionally makes a trypsin inhibitor (SPINK1) as a safety catch. If trypsin is activated prematurely within the pancreas — through duct obstruction by a gallstone, or alcohol-related injury — it activates the whole cascade, and the gland digests itself. The histological picture combines coagulative necrosis, acute inflammation, haemorrhage, and the characteristic **fat necrosis** in which released lipase liberates fatty acids that chelate calcium to form chalky **saponification** deposits. The resulting hypocalcaemia is a recognised clinical sign — traceable, again, directly to the histology.
 
-## Recognition Logic — Extended Discriminations
+### Recognition Logic — Extended Discriminations
 
 **Liver.** LOOK FOR: plates of polygonal eosinophilic cells radiating from a vein, separated by sinusoids. CONFIRM: portal triads at the periphery; binucleate hepatocytes. DO NOT CONFUSE WITH: adrenal cortex (also cords of eosinophilic cells) — but adrenal cells are vacuolated and lipid-rich, lack portal triads, and lie beneath a thick capsule. DECISIVE FEATURE: the **portal triad**.
 
@@ -4453,7 +4442,7 @@ The salivary glands (parotid serous, submandibular mixed, sublingual mucous-pred
 5. What are the histological features of cirrhosis?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Bile Acid Metabolism
 
@@ -4556,7 +4545,7 @@ The respiratory system is essential for life. Asthma, COPD, pneumonia, lung canc
 
 - **Conducting zone** (nasal cavity → terminal bronchioles; no gas exchange) — warms, moistens, filters air; pseudostratified ciliated columnar with goblet cells; cartilage decreases; smooth muscle increases.
 - **Respiratory zone** (respiratory bronchioles → alveoli; gas exchange) — progressively more alveoli; simple squamous → simple cuboidal → type I/II pneumocytes.
-- **Alveolar wall** — type I pneumocytes (~95% surface, gas exchange), type II pneumocytes (~60% of cells, surfactant + stem cell), alveolar macrophages (dust cells), capillary endothelium.
+- **Alveolar wall** — type I pneumocytes (~40% of alveolar cells but ~95% of the surface; gas exchange), type II pneumocytes (~60% of alveolar cells but only ~5% of the surface; surfactant + progenitor), alveolar macrophages (dust cells), capillary endothelium.
 - **Blood-air barrier** — type I pneumocyte + fused basal laminae + capillary endothelium, ~0.5 µm thin.
 
 ## Core Concept
@@ -4606,7 +4595,7 @@ Lumen < 1 mm; **no cartilage, no submucosal glands**. Wall:
 - Simple ciliated columnar (initially) → simple ciliated cuboidal (smaller).
 - Few or no goblet cells.
 - Smooth muscle in relatively thick layer.
-- **Clara (club) cells** — dome-shaped; secrete Clara cell secretory protein (CCSP/CC10) and surfactant-like substances; serve as stem cells.
+- **Club cells** (formerly Clara cells) — dome-shaped, non-ciliated; secrete club cell secretory protein (CCSP/CC10) and surfactant-associated proteins; detoxify xenobiotics via cytochrome P450; serve as bronchiolar progenitor cells.
 
 Absence of cartilage means caliber depends on smooth muscle tone. Bronchospasm = asthma.
 
@@ -4616,7 +4605,7 @@ Absence of cartilage means caliber depends on smooth muscle tone. Bronchospasm =
 
 ### Respiratory Bronchioles
 
-Bronchioles with occasional *alveoli* opening from the wall. Lined by simple cuboidal epithelium with Clara cells, interrupted by alveoli.
+Bronchioles with occasional *alveoli* opening from the wall. Lined by simple cuboidal epithelium with club cells, interrupted by alveoli.
 
 ### Alveolar Ducts
 
@@ -4668,7 +4657,7 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 
 - **C-shaped tracheal cartilage** allows esophageal expansion during swallowing.
 - **Pseudostratified ciliated epithelium + mucus** = mucociliary escalator that traps and propels debris.
-- **Clara cells** secrete surfactant-like substances into bronchioles (anti-adhesive), CCSP (anti-inflammatory), and serve as stem cells.
+- **Club cells** secrete surfactant-associated material into bronchioles (anti-adhesive), CCSP (anti-inflammatory), and serve as bronchiolar progenitor cells.
 - **Type I pneumocytes** are extremely thin → minimal diffusion distance.
 - **Type II pneumocytes** secrete surfactant → reduced surface tension → alveolar stability.
 - **Fused basal laminae** create the air-blood barrier.
@@ -4685,7 +4674,7 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 | Submucosal glands | Yes | No |
 | Epithelium | Pseudostratified ciliated columnar | Simple ciliated columnar/cuboidal |
 | Goblet cells | Yes | Few |
-| Clara cells | No | Yes |
+| Club cells | No | Yes |
 | Smooth muscle | Present | Relatively thicker |
 
 ### Type I vs Type II Pneumocyte
@@ -4693,14 +4682,17 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 | Feature | Type I | Type II |
 |---|---|---|
 | Shape | Flat, attenuated | Cuboidal |
-| Coverage | ~95% of surface | ~60% of cells (smaller total area) |
-| Function | Gas exchange | Surfactant, stem cell |
+| Share of alveolar **cells** | ~40% | ~60% |
+| Share of alveolar **surface** | ~95% | ~5% |
+| Function | Gas exchange | Surfactant, progenitor for both types |
 | Diagnostic | EM only (thin squamous lining) | Lamellar bodies on EM |
+
+Read the two middle rows together: type II cells are the **more numerous** cell but cover the **smaller area**, because a single type I cell is spread paper-thin over a vast surface. Reporting only one of the two figures is what makes this a reliable examination trap.
 
 ## Recognition Logic
 
 - **Pseudostratified ciliated columnar + goblet + hyaline cartilage + submucosal glands** → trachea or bronchus.
-- **Simple ciliated columnar/cuboidal + Clara cells + no cartilage + no glands** → bronchiole.
+- **Simple ciliated columnar/cuboidal + club cells + no cartilage + no glands** → bronchiole.
 - **Simple cuboidal with alveoli in wall** → respiratory bronchiole.
 - **Wall entirely alveolar openings** → alveolar duct.
 - **Polygonal air spaces with thin septa (capillaries, type I, type II)** → alveoli.
@@ -4708,7 +4700,7 @@ Conducting zone warms, moistens, filters air; mucociliary escalator clears debri
 
 ## Deepening the Concept
 
-## The Conducting–Respiratory Divide and the Gradual Transition
+### The Conducting–Respiratory Divide and the Gradual Transition
 
 The respiratory system has one architectural storyline: as the airway divides and narrows, every wall component changes in a predictable direction until, at the alveolus, nothing remains but the barrier itself.
 
@@ -4726,7 +4718,7 @@ The respiratory system has one architectural storyline: as the airway divides an
 
 **Clinical translation.** Asthma is a disease of exactly this segment: bronchoconstriction of cartilage-free airways with mucus plugging, a thickened basement membrane, eosinophilic inflammation, and smooth muscle hypertrophy. Histological hallmarks include **Curschmann spirals** (casts of mucus from small airways) and **Charcot-Leyden crystals** (crystallised galectin-10 from eosinophils).
 
-## The Blood–Air Barrier: Thinness as a Design Requirement
+### The Blood–Air Barrier: Thinness as a Design Requirement
 
 Gas exchange obeys Fick's law: flux is proportional to surface area and the partial pressure gradient, and *inversely proportional to thickness*. The lung's entire architecture is a solution to that equation — roughly 70 m² of surface area across a barrier as little as 0.2 µm thick.
 
@@ -4755,7 +4747,7 @@ Surfactant production begins around 24 weeks and becomes adequate near 34–36 w
 
 **Alveolar macrophages (dust cells)** patrol the alveolar surface, phagocytosing inhaled particles and surfactant, and migrate up the mucociliary escalator or into lymphatics. In left heart failure, they ingest extravasated erythrocytes and accumulate haemosiderin, becoming **"heart failure cells"** identifiable with Prussian blue.
 
-## Emphysema as Applied Alveolar Histology
+### Emphysema as Applied Alveolar Histology
 
 Alveolar walls contain an elastic fibre network that provides the recoil for passive expiration and, through radial traction, holds bronchioles open. Neutrophil elastase, released during inflammation, is normally neutralised by **α1-antitrypsin**.
 
@@ -4763,7 +4755,7 @@ Disturbing that balance destroys the alveolar wall. Cigarette smoke both recruit
 
 Both produce the same physiology by the same structural route: loss of alveolar walls reduces surface area for exchange, and loss of elastic recoil both traps air and removes the radial traction that splinted the bronchioles, so small airways collapse during expiration. The clinical picture of airflow obstruction with hyperinflation is read straight from the lost elastin.
 
-## Recognition Logic — Extended Discriminations
+### Recognition Logic — Extended Discriminations
 
 **Trachea.** LOOK FOR: pseudostratified ciliated columnar epithelium with goblet cells over a conspicuously thick basement membrane; seromucous glands in the submucosa; a **C-shaped hyaline cartilage ring** with the trachealis smooth muscle bridging the open posterior gap. DECISIVE FEATURE: the C-shaped ring with posterior smooth muscle.
 
@@ -4796,7 +4788,7 @@ A 30-week premature infant with tachypnea, grunting, cyanosis. Chest X-ray shows
 ## Common Misconceptions
 
 - *The trachea is one long tube.* Branches at the carina into primary bronchi, then secondary, tertiary, smaller bronchi, eventually bronchioles.
-- *All airways have goblet cells.* Goblet cells are in trachea and bronchi; absent in bronchioles (Clara cells produce protective secretions).
+- *All airways have goblet cells.* Goblet cells are in trachea and bronchi; absent in bronchioles (club cells produce protective secretions).
 - *Alveoli are empty sacs.* Contain alveolar macrophages that clear debris; smokers' macrophages contain anthracotic pigment.
 - *The air-blood barrier is one membrane.* Fused basal laminae sandwiched between type I pneumocyte and capillary endothelium.
 - *Surfactant is one molecule.* Complex of phospholipids + proteins (SP-A, SP-B, SP-C, SP-D).
@@ -4813,7 +4805,7 @@ A 30-week premature infant with tachypnea, grunting, cyanosis. Chest X-ray shows
 
 ### Must Distinguish
 
-- Bronchus vs bronchiole (cartilage, glands, Clara).
+- Bronchus vs bronchiole (cartilage, glands, club cells).
 - Type I vs Type II pneumocyte.
 - Terminal bronchiole (no alveoli) vs respiratory bronchiole (with alveoli).
 
@@ -4836,7 +4828,7 @@ The respiratory system is organised into a conducting zone (nasal cavity → ter
 5. Why does surfactant deficiency cause neonatal respiratory distress syndrome?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Mucociliary Escalator Detail
 
@@ -4884,7 +4876,7 @@ The respiratory system exchanges gases. The next chapter turns to the body's bar
 
 ## Rapid Review
 
-- Conducting zone: nasal → terminal bronchioles. Respiratory epithelium (pseudostratified ciliated columnar + goblet); cartilage (trachea, bronchi); submucosal glands; Clara cells (bronchioles).
+- Conducting zone: nasal → terminal bronchioles. Respiratory epithelium (pseudostratified ciliated columnar + goblet); cartilage (trachea, bronchi); submucosal glands; club cells (bronchioles).
 - Respiratory zone: respiratory bronchioles → alveolar ducts → alveolar sacs → alveoli.
 - Alveolar epithelium: Type I (~95% surface, gas exchange), Type II (surfactant + stem cell, lamellar bodies).
 - Alveolar macrophages (dust cells): phagocytosis, anthracotic pigment in smokers.
@@ -5060,7 +5052,7 @@ Epidermis provides barrier (chemical, microbial, UV, mechanical), waterproofing,
 
 ## Deepening the Concept
 
-## The Epidermis as a Production Line
+### The Epidermis as a Production Line
 
 The epidermis is best understood as a conveyor belt: a single mitotic layer at the base feeds cells upward, and those cells execute a programmed differentiation that ends in their own death, producing a corpse layer that is the actual barrier. Transit takes roughly four weeks.
 
@@ -5078,7 +5070,7 @@ The epidermis is best understood as a conveyor belt: a single mitotic layer at t
 
 **Psoriasis** is the disease of accelerated transit. Turnover shortens from ~28 days to ~4 days, so cells reach the surface before they finish differentiating. The histology follows exactly: **parakeratosis** (retained nuclei in the stratum corneum, because there was no time to lose them), *loss of the granular layer* (no time to form keratohyalin), **acanthosis** with elongated rete ridges, dilated dermal papillary capillaries (hence the pinpoint bleeding of the Auspitz sign when a scale is lifted), and neutrophil collections (Munro microabscesses). Every feature is derivable from "too fast."
 
-## The Non-Keratinocytes
+### The Non-Keratinocytes
 
 | Cell | Layer | Origin | Function | Clinical link |
 |---|---|---|---|---|
@@ -5090,7 +5082,7 @@ The epidermis is best understood as a conveyor belt: a single mitotic layer at t
 
 In H&E, melanocytes appear as clear cells with small dark nuclei sitting in the basal layer, the clear halo being a shrinkage artifact — a useful artifact, since it makes them findable.
 
-## Thick vs Thin Skin, and Reading the Dermis
+### Thick vs Thin Skin, and Reading the Dermis
 
 **Thick skin** (palms and soles) has all five epidermal layers including a distinct stratum lucidum, a very thick stratum corneum, deep epidermal ridges, abundant eccrine sweat glands, and **no hair follicles, no sebaceous glands, and no arrector pili**. **Thin skin** covers the rest of the body, has no stratum lucidum, a thin corneum, and possesses hair follicles with sebaceous glands. Note the terminology trap: "thick" and "thin" refer to *epidermal* thickness; the dermis of the back is far thicker than that of the palm.
 
@@ -5108,7 +5100,7 @@ The dermis has two layers. The **papillary dermis** is loose connective tissue w
 
 The Pacinian corpuscle is the easiest structure in all of histology to recognise — a large oval body of concentric lamellae resembling a sliced onion — and its lamellae are functionally meaningful: they filter out sustained pressure so the receptor responds only to *changes*, making it a vibration detector.
 
-## Glands and Appendages
+### Glands and Appendages
 
 **Eccrine sweat glands** are simple coiled tubular glands distributed over nearly the whole body, opening directly onto the skin surface, and are the principal effectors of **thermoregulation**. The secretory coil in the deep dermis contains clear cells (water and electrolytes), dark cells (glycoprotein), and **myoepithelial cells** that contract to expel sweat; the duct, lined by a distinctive *two-layered cuboidal epithelium*, reabsorbs sodium. That double-layered duct is the decisive recognition feature. In **cystic fibrosis**, failure of ductal chloride reabsorption produces the elevated sweat chloride that underlies the diagnostic sweat test.
 
@@ -5116,7 +5108,7 @@ The Pacinian corpuscle is the easiest structure in all of histology to recognise
 
 **Sebaceous glands** are **holocrine**: cells fill with lipid, disintegrate entirely, and become the secretion (sebum), discharged into the hair follicle. Recognition is straightforward — lobules of large pale multivacuolated cells with progressive nuclear disintegration toward the duct. Their blockage and colonisation by *Cutibacterium acnes*, under androgenic stimulation at puberty, produces acne.
 
-## Recognition Logic — Skin
+### Recognition Logic — Skin
 
 **LOOK FOR:** a stratified squamous epithelium with a keratinised surface over dense connective tissue.
 **CONFIRM:** identify the layers; look for appendages in the dermis.
@@ -5186,7 +5178,7 @@ Skin is the body's largest organ and principal barrier. Three layers: epidermis 
 6. Reconstruct keratinisation from basal layer to stratum corneum.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Melanocyte Biology Extended
 
@@ -5434,7 +5426,7 @@ Anterior pituitary produces GH, prolactin, ACTH, TSH, FSH/LH. Posterior pituitar
 
 ## Deepening the Concept
 
-## Two Cell Types, Two Ultrastructures: The Master Key to Endocrine Histology
+### Two Cell Types, Two Ultrastructures: The Master Key to Endocrine Histology
 
 Almost every endocrine question can be reasoned out from a single dichotomy: is the cell making a **peptide** or a **steroid**? The two demand entirely different machinery, and that machinery is visible.
 
@@ -5451,7 +5443,7 @@ Almost every endocrine question can be reasoned out from a single dichotomy: is 
 
 A third class, the **amine/catecholamine-secreting** cells (adrenal medulla), behaves like the peptide group: dense-core granules, rapid exocytosis.
 
-## The Pituitary: Two Organs of Different Origin Fused Together
+### The Pituitary: Two Organs of Different Origin Fused Together
 
 | | Adenohypophysis (anterior) | Neurohypophysis (posterior) |
 |---|---|---|
@@ -5471,7 +5463,7 @@ Two recognition features follow. The posterior lobe contains **Herring bodies** 
 
 **Clinical anchors.** Prolactinoma is the commonest pituitary adenoma, causing galactorrhoea and hypogonadism. Loss of hypothalamic dopamine (the tonic *inhibitor* of prolactin) — as with stalk compression — causes hyperprolactinaemia; prolactin is unique in being under predominantly inhibitory control, so stalk section *raises* prolactin while lowering every other anterior pituitary hormone. Sheehan syndrome is postpartum ischaemic necrosis of the enlarged anterior pituitary after obstetric haemorrhage. ADH deficiency causes central **diabetes insipidus** with dilute polyuria.
 
-## The Thyroid: The Only Endocrine Gland That Stores Hormone Extracellularly
+### The Thyroid: The Only Endocrine Gland That Stores Hormone Extracellularly
 
 The thyroid follicle is unique in the body: a sphere of simple cuboidal epithelium enclosing **colloid**, an extracellular reservoir of **thyroglobulin** holding months of hormone supply. Nowhere else does an endocrine gland store its product *outside* its cells.
 
@@ -5490,7 +5482,7 @@ The synthetic cycle — worth knowing as a sequence because each step is a drug 
 
 **A point of scientific currency.** Textbooks have long stated that C cells are neural-crest derived, based on old quail-chick chimaera work. Genetic lineage-tracing studies have since shown that mammalian C-cell progenitors arise from **pharyngeal (anterior) endoderm**, reaching the thyroid via the ultimobranchial bodies; neural crest contributes surrounding stromal tissue rather than the C cells themselves. Know the endodermal/ultimobranchial origin as the current evidence, while being aware that many examinations still use the older neural-crest answer. C cells remain the origin of **medullary thyroid carcinoma**, which secretes calcitonin, shows **amyloid stroma** derived from calcitonin, and occurs in MEN 2A and 2B.
 
-## Parathyroid and the Calcium Axis
+### Parathyroid and the Calcium Axis
 
 The parathyroid contains **chief cells** — small, pale, polygonal, the source of **PTH** — and **oxyphil cells**, which are larger with intensely eosinophilic cytoplasm packed with mitochondria, increase after puberty, and have no established function. Adipocytes progressively infiltrate the gland with age, and their presence is a useful recognition clue distinguishing a normal parathyroid from an adenoma, which is typically fat-poor.
 
@@ -5498,7 +5490,7 @@ The parathyroid contains **chief cells** — small, pale, polygonal, the source 
 
 This makes the biochemistry of hyperparathyroidism derivable rather than memorised: high PTH → high calcium, low phosphate, and bone resorption (osteitis fibrosa cystica). The clinical mnemonic "stones, bones, abdominal groans, and psychic moans" follows.
 
-## The Adrenal: Zonation Predicts Product and Pathology
+### The Adrenal: Zonation Predicts Product and Pathology
 
 The adrenal is two organs in one, of separate origin: a **mesodermal cortex** secreting steroids and a **neural-crest-derived medulla** secreting catecholamines. (Note the contrast with the thyroid C cell: here the neural crest origin is well established — the medullary chromaffin cells are modified postganglionic sympathetic neurons that have lost their axons.)
 
@@ -5517,7 +5509,7 @@ The adrenal is two organs in one, of separate origin: a **mesodermal cortex** se
 
 **Congenital adrenal hyperplasia** ties the chapter together. In 21-hydroxylase deficiency, cortisol synthesis fails; loss of negative feedback raises ACTH; ACTH drives cortical hyperplasia; and precursors are shunted into the androgen pathway, causing virilisation, with salt-wasting if aldosterone is also deficient. A single enzyme block produces a predictable histological (hyperplasia) and clinical (virilisation, salt loss) picture.
 
-## Pancreatic Islets
+### Pancreatic Islets
 
 Islets of Langerhans are pale, richly vascularised clusters embedded in the darker exocrine pancreas, comprising 1–2% of its mass.
 
@@ -5530,7 +5522,7 @@ Islets of Langerhans are pale, richly vascularised clusters embedded in the dark
 
 Cell types cannot be reliably distinguished in H&E and require immunohistochemistry — an honest limitation worth stating. In **type 1 diabetes**, autoimmune T-cell-mediated destruction of beta cells produces **insulitis** (lymphocytic infiltration of islets) early, then islets that appear small and beta-cell depleted. In **type 2 diabetes**, islets may show **amyloid deposition** derived from islet amyloid polypeptide (amylin), co-secreted with insulin.
 
-## Recognition Logic — Which Endocrine Gland?
+### Recognition Logic — Which Endocrine Gland?
 
 **LOOK FOR:** the architectural pattern at low power — *follicles*, *cords*, *zoned cortex*, or *islands in exocrine tissue*.
 **CONFIRM and DISTINGUISH:**
@@ -5613,7 +5605,7 @@ The endocrine system is a collection of ductless glands that secrete hormones in
 6. Why does the posterior pituitary have axons but the anterior pituitary has glandular cells?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Steroid Hormone Synthesis
 

@@ -156,7 +156,7 @@ RBCs transport O₂ and CO₂. Platelets initiate primary haemostasis. Neutrophi
 
 ## Deepening the Concept
 
-## Reading a Blood Film Systematically
+### Reading a Blood Film Systematically
 
 A peripheral smear is read in a fixed order, and the order prevents most errors.
 
@@ -174,7 +174,7 @@ A peripheral smear is read in a fixed order, and the order prevents most errors.
 | Absent, cell dense and round | Spherocyte — lost membrane, so lost biconcavity | Hereditary spherocytosis, autoimmune haemolysis |
 | Absent, cell large and oval | Macro-ovalocyte | Megaloblastic anaemia (B12/folate) |
 
-## The Leukocyte Differential as a Recognition Exercise
+### The Leukocyte Differential as a Recognition Exercise
 
 | Cell | % of WBC | Size | Nucleus | Granules | Decisive feature |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@ A peripheral smear is read in a fixed order, and the order prevents most errors.
 
 The classic error is calling a monocyte a large lymphocyte. Three discriminators settle it: the monocyte nucleus is *indented or folded* with delicate lacy chromatin; the cytoplasm is abundant and grey-blue, often vacuolated; and the cell is distinctly the largest in the field. A large (reactive) lymphocyte has a round, densely chromatic nucleus and deeply basophilic cytoplasm that is often *indented by adjacent red cells* — a characteristic of the atypical lymphocytes of infectious mononucleosis.
 
-## Why Each Granulocyte Exists: Granule Contents Predict Disease Associations
+### Why Each Granulocyte Exists: Granule Contents Predict Disease Associations
 
 **Neutrophils** are the first responders to bacterial infection. They carry *primary (azurophilic)* granules — lysosomes containing myeloperoxidase, elastase, and defensins — and *secondary (specific)* granules containing lactoferrin, lysozyme, and collagenase. Myeloperoxidase generates hypochlorous acid from hydrogen peroxide, the principal killing mechanism. In **chronic granulomatous disease**, NADPH oxidase is defective, no superoxide is generated, and killing of catalase-positive organisms fails — diagnosed by the dihydrorhodamine flow cytometry test (or historically nitroblue tetrazolium). A **left shift** — increased band forms and immature granulocytes — indicates accelerated marrow output, typically bacterial infection. **Hypersegmentation** (>5 lobes) indicates megaloblastic anaemia.
 
@@ -200,7 +200,7 @@ The classic error is calling a monocyte a large lymphocyte. Three discriminators
 
 **Platelets** are anucleate cytoplasmic fragments of megakaryocytes, 2–4 µm, with a granular *granulomere* centrally and clear *hyalomere* peripherally. Their α-granules contain fibrinogen, von Willebrand factor, and platelet-derived growth factor; dense granules contain ADP, ATP, calcium, and serotonin.
 
-## Structure Explaining Haemolysis
+### Structure Explaining Haemolysis
 
 The erythrocyte has no nucleus, no ribosomes, and no mitochondria — it is a haemoglobin-filled membrane bag, entirely dependent on anaerobic glycolysis for ATP and on the hexose monophosphate shunt for NADPH to defend against oxidative stress. Every feature of red cell pathology follows from this austerity.
 
@@ -210,7 +210,7 @@ The erythrocyte has no nucleus, no ribosomes, and no mitochondria — it is a ha
 
 **Target cells (codocytes)** deserve a mechanistic explanation because they are so often merely memorised: they arise when the *ratio of membrane surface area to haemoglobin content is increased*. Excess membrane relative to contents allows the cell to fold into a bell shape that, flattened on a slide, shows a central dot of haemoglobin inside a ring of pallor. Hence their appearance in thalassaemia and iron deficiency (too little haemoglobin) and in liver disease (too much membrane lipid).
 
-## Recognition Logic — Anaemia from the Film
+### Recognition Logic — Anaemia from the Film
 
 **LOOK FOR:** cell size relative to a small lymphocyte nucleus, then central pallor, then shape abnormalities.
 **CONFIRM:** with indices — MCV below 80 fL is microcytic, 80–100 normocytic, above 100 macrocytic.
@@ -281,7 +281,7 @@ Blood is a fluid connective tissue consisting of plasma and formed elements. RBC
 5. Why is monocytosis associated with chronic infections?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Neutrophil Detail
 

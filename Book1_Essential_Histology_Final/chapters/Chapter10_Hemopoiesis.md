@@ -149,7 +149,7 @@ The marrow produces ~200 billion RBCs, ~10 billion neutrophils, and ~400 billion
 
 ## Deepening the Concept
 
-## The Two Rules That Make Maturation Sequences Learnable
+### The Two Rules That Make Maturation Sequences Learnable
 
 Students find hemopoietic maturation intimidating because it looks like a list of a dozen cell names. It is in fact governed by two rules that apply to *every* lineage, and once these are internalised, the sequence can be reconstructed rather than memorised.
 
@@ -172,13 +172,13 @@ The polychromatophilic stage is the examination favourite because two things hap
 
 Granulopoiesis follows the same logic: myeloblast → promyelocyte (*primary/azurophilic granules appear*) → myelocyte (*secondary/specific granules appear; last mitotic stage*) → metamyelocyte (indented nucleus, no division) → band → mature segmented granulocyte. The decisive rule: **primary granules first, specific granules define the lineage, and the myelocyte is the last dividing stage.**
 
-## The Marrow Niche and Why Blood Cells Enter the Circulation on Time
+### The Marrow Niche and Why Blood Cells Enter the Circulation on Time
 
 Red marrow consists of hemopoietic cords lying between wide, thin-walled **sinusoids**. This arrangement is not incidental. The sinusoidal endothelium is discontinuous with a deficient basal lamina, so mature cells can cross into the blood while immature cells — which are less deformable and lack the required surface receptors — cannot. The barrier is therefore *selective by maturity*, which is why blasts appearing in peripheral blood are pathological and signify either marrow infiltration or leukaemia.
 
 Two spatial facts are worth knowing because they are examined. **Megakaryocytes** sit directly against the sinusoidal wall and extend proplatelet processes *through* the endothelium, shedding platelets straight into the lumen. **Erythroblasts** develop in *erythroblastic islands*, clustered around a central macrophage that supplies iron for haemoglobin synthesis and finally phagocytoses the extruded nucleus. The macrophage is sometimes called a "nurse cell," and the arrangement explains why iron handling and erythropoiesis are so tightly coupled.
 
-## Regulation: Which Factor Does What
+### Regulation: Which Factor Does What
 
 | Factor | Source | Target | Clinical use or relevance |
 |---|---|---|---|
@@ -191,7 +191,7 @@ Two spatial facts are worth knowing because they are examined. **Megakaryocytes*
 
 The EPO axis is the most useful of these because it is a complete, clean, physiological feedback loop: hypoxia → HIF stabilisation in renal interstitial cells → EPO transcription → erythroid progenitor survival and proliferation → more red cells → improved oxygen delivery → EPO falls. It also explains the anaemia of chronic kidney disease and the polycythaemia of chronic hypoxia, high altitude, and EPO-secreting tumours.
 
-## Marrow Distribution Changes with Age — and Reverses Under Stress
+### Marrow Distribution Changes with Age — and Reverses Under Stress
 
 At birth, essentially all marrow is red (active). With age, red marrow is progressively replaced by **yellow (fatty) marrow** in the appendicular skeleton, so that in the adult active marrow is confined largely to the vertebrae, sternum, ribs, pelvis, skull, and the proximal epiphyses of femur and humerus. This is why the posterior iliac crest is the standard biopsy site and the sternum the traditional aspiration site.
 
@@ -199,7 +199,7 @@ The conversion is *reversible*. Under sustained demand — chronic haemolysis, s
 
 The normal **myeloid-to-erythroid ratio** in adult marrow is about 2:1 to 4:1 — there are more granulocytic than erythroid precursors, because granulocytes survive only hours to days in the circulation while erythrocytes last 120 days. Reasoning from lifespan to ratio is more reliable than memorising the number.
 
-## Recognition Logic — Bone Marrow
+### Recognition Logic — Bone Marrow
 
 **LOOK FOR:** at low power, cellularity — the proportion of haemopoietic cells to fat. A rough rule for the adult is *cellularity ≈ 100 minus age* (a 60-year-old has roughly 40% cellular marrow).
 **CONFIRM:** identify **megakaryocytes** — they are unmistakable: very large cells with a single enormous multilobed, convoluted, hyperchromatic nucleus.
@@ -267,7 +267,7 @@ Haemopoiesis is the production of blood cells from a hierarchy of HSCs in the ma
 5. What is the difference between red and yellow marrow, and when does red-marrow hyperplasia occur?
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
 ### Stem Cell Niche Detail
 
@@ -279,35 +279,6 @@ Haematopoietic stem cells (HSCs) reside in a specific niche that regulates self-
 HSC mobilisation: G-CSF → neutrophil activation → proteolytic cleavage of CXCL12 and VCAM-1 → HSC detachment → mobilisation into circulation. Mobilised HSCs can be harvested by leukapheresis for transplantation.
 
 HSC homing to bone marrow after transplant: HSC CXCR4 binds CXCL12 → integrin activation → firm adhesion → transendothelial migration → niche.
-
-### Erythropoiesis Detail
-
-Erythropoiesis proceeds through morphologically recognisable stages:
-
-1. **Proerythroblast** — large, basophilic, euchromatic nucleus; first committed erythroid progenitor.
-2. **Basophilic erythroblast** — smaller, deeply basophilic; high RER for globin synthesis.
-3. **Polychromatophilic erythroblast** — intermediate staining (basophilic + eosinophilic); haemoglobin synthesis begins.
-4. **Orthochromatophilic erythroblast** — small, pyknotic nucleus; cytoplasm strongly eosinophilic (haemoglobin dominant).
-5. **Reticulocyte** — nucleus extruded; residual RNA and organelles; released into blood; matures to erythrocyte in 1–2 days. Supravital staining (new methylene blue) reveals residual RNA as reticular network → reticulocyte count.
-
-Erythropoietin (EPO) acts on CFU-E and proerythroblast; iron is essential (Fe²⁺ incorporated into protoporphyrin IX by ferrochelatase); vitamin B₁₂ and folate are essential for DNA synthesis (deficiency → megaloblastic anaemia with nuclear-cytoplasmic asynchrony).
-
-Reticulocyte count is the most useful index of effective erythropoiesis: increased in haemolysis or post-iron/B₁₂ replacement; decreased in aplastic anaemia, renal failure (EPO deficiency), marrow infiltration.
-
-### Granulopoiesis Detail
-
-Granulopoiesis proceeds through myeloblast → promyelocyte → myelocyte → metamyelocyte → band → segmented (mature neutrophil).
-
-- **Myeloblast** — large, euchromatic nucleus with prominent nucleoli; no granules; first recognisable granulocyte precursor.
-- **Promyelocyte** — azurophilic (primary) granules appear (peroxidase, defensins).
-- **Myelocyte** — specific (secondary) granules appear; last mitotic stage.
-- **Metamyelocyte** — kidney-shaped nucleus; non-mitotic; nuclear indentation.
-- **Band** — horseshoe-shaped nucleus; non-mitotic; immature circulating neutrophil.
-- **Segmented** — multi-lobed nucleus (3–5 lobes); mature.
-
-Specific granules determine cell identity (neutrophil, eosinophil, basophil). Granule content is packaged during the myelocyte stage; mutations affecting granule formation cause specific granule deficiency.
-
-G-CSF shortens the transit time of the granulocytic series and shifts the marginating pool to the circulating pool; used clinically to accelerate neutrophil recovery after chemotherapy.
 
 ### Megakaryopoiesis and Platelet Production
 

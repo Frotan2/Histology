@@ -21,8 +21,11 @@ The nervous system is the body's command and information system. Every conscious
 3. List the major glial cell types (CNS and PNS) and their functions.
 4. Explain the structure and function of myelin in CNS vs PNS.
 5. Describe the structure of the synapse.
-6. Distinguish gray matter from white matter.
-7. Recognise neurons and major glial cells in routine sections.
+6. Distinguish grey matter from white matter, and explain why their arrangement inverts between brain and spinal cord.
+7. Describe the layered architecture of the cerebral and cerebellar cortex and identify each on a section.
+8. Describe the meninges and relate their anatomy to epidural, subdural, and subarachnoid pathology.
+9. Distinguish a dorsal root ganglion from an autonomic ganglion.
+10. Recognise neurons and major glial cells in routine sections.
 
 ## Big Picture
 
@@ -127,6 +130,53 @@ Neurons receive, integrate, transmit signals. Myelin increases conduction veloci
 - **Chemical** — most synapses; use neurotransmitter; directional.
 - **Electrical** — gap junction; bidirectional, fast, synchronous; smooth muscle, some CNS circuits.
 
+### Organisation of the Central Nervous System
+
+Everything so far has concerned the *cells* of nerve tissue. The examination also requires that you recognise the *organs* those cells build, and each has an architecture that is unmistakable once the organising rule is known.
+
+**Grey matter versus white matter.** Grey matter contains neuronal cell bodies, dendrites, synapses, and glia; it is where processing happens. White matter contains myelinated axons and glia but essentially no neuronal somata; it is wiring, and it is white in the fresh state because of myelin lipid. On an H&E section the distinction is immediate: grey matter contains large neurons with visible Nissl substance and nucleoli, while white matter is a pale, fibrillar field of small glial nuclei with no neuronal cell bodies.
+
+Their spatial arrangement inverts between the two parts of the CNS, and this is the fastest orientation test on any section:
+
+| | Cerebrum and cerebellum | Spinal cord |
+|---|---|---|
+| Grey matter | **Outside** (cortex) | **Inside** (butterfly/H-shaped) |
+| White matter | Inside | Outside (funiculi) |
+
+**Cerebral cortex.** Six layers (I molecular, II external granular, III external pyramidal, IV internal granular, V internal pyramidal, VI multiform). The decisive recognition feature is the **pyramidal cell** — a triangular soma with a thick apical dendrite directed toward the surface. Layer V of the motor cortex contains the giant pyramidal cells of Betz. Sensory cortex is *granular* (layer IV prominent, receiving thalamic input); motor cortex is *agranular* (layer V prominent, sending output). Function is readable from which layer dominates.
+
+![](assets/images/cerebellum.png)
+
+*Figure 7.2 — Cerebellar cortex. The molecular layer is pale and cell-poor; the granular layer is the most densely nucleated tissue in the body; between them sits a single row of giant Purkinje cells whose dendritic trees fan into the molecular layer in one plane and whose axons form the cortex's sole — and inhibitory — output.*
+
+**Cerebellar cortex.** Three layers, and the single easiest CNS structure to identify:
+
+- **Molecular layer** (outer) — few cells, mostly dendrites and parallel fibres; pale.
+- **Purkinje cell layer** (middle) — a *single row* of very large flask-shaped neurons with an enormous dendritic tree branching into the molecular layer in one plane.
+- **Granular layer** (inner) — densely packed small neurons, the most crowded nuclei in the body; deeply basophilic.
+
+**DECISIVE FEATURE:** the single row of giant Purkinje cells between a pale outer layer and a dark inner layer. Nothing else in the body looks like this. Purkinje cells are the sole output of the cerebellar cortex, and they are inhibitory (GABAergic) — a favourite examination point.
+
+**Meninges.** Three layers, outer to inner: **dura mater** (thick dense irregular collagen), **arachnoid mater** (avascular, with trabeculae spanning the subarachnoid space, which contains CSF), and **pia mater** (delicate, vascular, adherent to the brain surface and following every contour). Two clinically decisive consequences: an **epidural** haematoma is arterial (middle meningeal artery) and lens-shaped because it must strip dura from bone; a **subdural** haematoma is venous (bridging veins) and crescent-shaped because it spreads freely. CSF and infection occupy the *subarachnoid* space, which is why meningitis is diagnosed by lumbar puncture into that compartment.
+
+**Choroid plexus and CSF.** Choroid plexus is a fold of pia with a tuft of fenestrated capillaries covered by a *simple cuboidal ependymal epithelium* joined by tight junctions — the blood-CSF barrier. It produces CSF by active transport. Recognition: papillary fronds with a vascular core and a single cuboidal covering, sitting free within a ventricle.
+
+### The Peripheral Nervous System as Organs
+
+**Dorsal root ganglion.** Contains **pseudounipolar** sensory neuron cell bodies arranged in clusters, each surrounded by a complete ring of **satellite cells**, with bundles of myelinated axons running between the clusters. There are no synapses in a dorsal root ganglion — sensory information passes straight through. This is the decisive difference from an autonomic ganglion.
+
+**Autonomic ganglion.** Contains **multipolar** postganglionic neurons, more randomly scattered, with fewer and often incomplete satellite cell rings, and — crucially — **synapses are present**, because this is where preganglionic fibres terminate. Eccentric neuronal nuclei are common.
+
+| Feature | Dorsal root ganglion | Autonomic ganglion |
+|---|---|---|
+| Neuron type | Pseudounipolar | Multipolar |
+| Arrangement | Clustered, ordered | Scattered |
+| Satellite cells | Complete ring | Incomplete |
+| Synapses | **Absent** | **Present** |
+| Nucleus position | Central | Often eccentric |
+
+**Examination trap.** Both are ganglia with neuronal somata and satellite cells, so students answer from the presence of satellite cells alone. Judge instead from *neuron shape and arrangement*: tidy rings of round pseudounipolar cells means dorsal root; scattered angular multipolar cells means autonomic.
+
 ## Recognition Logic
 
 - **Large cell with pale nucleus, prominent nucleolus, basophilic Nissl substance, processes** → neuron soma.
@@ -135,10 +185,15 @@ Neurons receive, integrate, transmit signals. Myelin increases conduction veloci
 - **Small dense cell in CNS parenchyma** → microglia or oligodendrocyte.
 - **Long parallel eosinophilic fibers with elongated Schwann-cell or fibroblast nuclei** → peripheral nerve in longitudinal section.
 - **Cross-section of a nerve with multiple small dots (myelinated axons) within a denser sheath** → peripheral nerve in cross-section; perineurium visible.
+- **Single row of giant flask-shaped cells between a pale outer and a dark densely nucleated inner layer** → cerebellar cortex (Purkinje cells).
+- **Triangular somata with apical dendrites pointing to the surface, in six indistinct layers** → cerebral cortex (pyramidal cells).
+- **Butterfly-shaped central grey surrounded by white** → spinal cord.
+- **Papillary fronds with vascular cores covered by simple cuboidal epithelium, lying free in a ventricle** → choroid plexus.
+- **Clusters of round neurons each encircled by satellite cells, no synapses** → dorsal root ganglion.
 
 ## Deepening the Concept
 
-## Recognition Logic — Neurons, Glia, and Nerve
+### Recognition Logic — Neurons, Glia, and Nerve
 
 **LOOK FOR:** in grey matter or a ganglion, large cells with abundant cytoplasm scattered among far more numerous small nuclei.
 **CONFIRM:** the neuron by its *large, pale, vesicular nucleus with a single prominent nucleolus* ("owl's eye"), abundant basophilic **Nissl substance** (stacked RER), and visible processes. The surrounding small nuclei without visible cytoplasm are glia.
@@ -147,7 +202,7 @@ Neurons receive, integrate, transmit signals. Myelin increases conduction veloci
 
 The reason the neuronal nucleus looks the way it does is instructive rather than arbitrary: a neuron must sustain an axon that may be a metre long and contains no ribosomes, so its perikaryon transcribes and translates continuously. Euchromatic nucleus, huge nucleolus, and masses of RER are all consequences of that permanent synthetic demand.
 
-## Distinguishing the Glia and Why Each Matters
+### Distinguishing the Glia and Why Each Matters
 
 | Cell | Location | Key structure | Function | Clinical link |
 |---|---|---|---|---|
@@ -162,7 +217,7 @@ The reason the neuronal nucleus looks the way it does is instructive rather than
 
 **Microglial origin is a classic trap.** All other glia derive from neuroectoderm; microglia are of mesodermal origin, derived from yolk-sac macrophage progenitors that colonise the CNS in early development. They are the CNS's resident immune cells.
 
-## Myelin: Structure Explaining Conduction
+### Myelin: Structure Explaining Conduction
 
 Myelin is not a secretion but concentric layers of *glial plasma membrane* wrapped around an axon, from which the cytoplasm has been squeezed out. Its very high lipid content is why it dissolves in routine processing, leaving the clear halo around axons in H&E, and why specific stains (Luxol fast blue, osmium) are needed to demonstrate it.
 
@@ -170,7 +225,7 @@ The functional consequence follows from physics. Myelin increases membrane resis
 
 **Demyelination explains its diseases directly.** In multiple sclerosis, immune-mediated destruction of CNS myelin slows or blocks conduction, producing episodic deficits disseminated in space and time; plaques are periventricular, sharply demarcated areas of myelin loss with relative axonal preservation. In Guillain-Barré syndrome, autoimmune attack on peripheral myelin — often following *Campylobacter jejuni* infection by molecular mimicry — produces ascending flaccid paralysis with markedly slowed nerve conduction velocity and albuminocytological dissociation in the CSF. In both, the primary lesion is the insulation, not the wire.
 
-## The Connective Tissue Sheaths of Peripheral Nerve
+### The Connective Tissue Sheaths of Peripheral Nerve
 
 This is a small topic with a disproportionate examination yield, because the three layers have distinct compositions and one has a barrier function.
 
@@ -180,7 +235,7 @@ This is a small topic with a disproportionate examination yield, because the thr
 
 **Recognition on a transverse section:** the nerve appears as bundles of small round profiles, each with a clear halo (dissolved myelin) and sometimes a central dot (the axon), grouped into fascicles ringed by a distinct layer, all bound by dense pink tissue. The commonest confusion is with tendon, which has parallel wavy collagen and flattened nuclei in rows but *no fascicular rings and no haloed profiles*.
 
-## The Synapse and Its Pharmacology
+### The Synapse and Its Pharmacology
 
 The chemical synapse converts an electrical signal into a chemical one and back. Arrival of the action potential opens voltage-gated Ca²⁺ channels; Ca²⁺ influx triggers SNARE-mediated fusion of synaptic vesicles (synaptobrevin/VAMP on the vesicle; syntaxin and SNAP-25 on the presynaptic membrane); neurotransmitter diffuses across the 20–30 nm cleft and binds postsynaptic receptors; the signal is terminated by reuptake, enzymatic degradation, or diffusion.
 
@@ -253,9 +308,9 @@ Nerve tissue is built from neurons (signaling) and glia (support). Neurons are p
 5. Explain the molecular basis of multiple sclerosis and Guillain-Barré syndrome.
 
 
-## Advanced Concepts
+## Going Further — Mechanisms Beyond the Core
 
-### Synapse Detail
+### Synaptic Vesicle Cycle and Neurotransmitters
 
 Synapses are specialised junctions where one neuron communicates with another (or with an effector). Two major classes:
 
@@ -273,19 +328,6 @@ Neurotransmitter types:
 Postsynaptic potentials:
 - **EPSP** (excitatory postsynaptic potential) — depolarisation, opens Na⁺ channels.
 - **IPSP** (inhibitory postsynaptic potential) — hyperpolarisation, opens Cl⁻ or K⁺ channels.
-
-### Myelination and Saltatory Conduction
-
-Myelin is a multilamellar lipid-rich sheath (mostly lipid, some protein) wrapped around axons by oligodendrocytes (CNS) or Schwann cells (PNS). It increases conduction velocity by:
-- Reducing membrane capacitance (less charge stored across the bilayer).
-- Increasing membrane resistance (less current leak).
-
-Conduction is *saltatory*: action potentials "jump" between nodes of Ranvier (gaps in myelin where Na⁺ channels are concentrated). Saltatory conduction is much faster than continuous conduction (up to ~120 m/s in large myelinated axons vs ~1 m/s in small unmyelinated).
-
-Demyelinating disease:
-- **Multiple sclerosis** — autoimmune destruction of CNS myelin (oligodendrocytes); periventricular plaques on MRI; symptoms depend on plaque location (optic neuritis, hemiparesis, ataxia).
-- **Guillain-Barré syndrome** — autoimmune PNS demyelination (Schwann cells); ascending paralysis.
-- **Charcot-Marie-Tooth** — hereditary demyelinating neuropathy (PMP22, MPZ mutations); foot drop, stork-leg deformity.
 
 ### Neuronal Cell Biology
 
